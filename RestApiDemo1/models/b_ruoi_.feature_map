@@ -1,0 +1,699 @@
+hon	1
+gap	2
+ruoi	3
+so	4
+voi	5
+hon gap	6
+gap ruoi	7
+ruoi so	8
+so voi	9
+LLLL	10
+LL	11
+LLL	12
+con	13
+rong	14
+toi	15
+gan.	16
+con rong	17
+rong ruoi	18
+ruoi toi	19
+toi gan.	20
+LLLO	21
+ngua	22
+cho	23
+den	24
+ngua rong	25
+ruoi cho	26
+cho den	27
+troi	28
+dong	29
+khong	30
+troi dong	31
+dong ruoi	32
+ruoi ngua	33
+ngua khong	34
+LLLLL	35
+mat	36
+buon	37
+ruoi,	38
+lien	39
+mat buon	40
+buon ruoi	41
+ruoi ruoi,	42
+ruoi, lien	43
+LLLLO	44
+vai	45
+roi	46
+hai	47
+vai mat	48
+mat ruoi	49
+ruoi roi	50
+roi hai	51
+mot	52
+nam	53
+nay,	54
+Dai	55
+mot nam	56
+nam ruoi	57
+ruoi nay,	58
+nay, Dai	59
+ULL	60
+LO	61
+mo	62
+chon	63
+giang	64
+mo rong	65
+ruoi chon	66
+chon giang	67
+tau:	68
+ruoi ruoi	69
+ruoi tau:	70
+-	71
+tau: -	72
+O	73
+da	74
+ruoi, da	75
+ta	76
+nhu	77
+nhang	78
+kia,	79
+ta nhu	80
+nhu ruoi	81
+ruoi nhang	82
+nhang kia,	83
+chi	84
+cuoi	85
+lo	86
+di	87
+chi cuoi	88
+cuoi ruoi	89
+ruoi lo	90
+lo di	91
+tren	92
+duong	93
+ngua dong	94
+ruoi tren	95
+tren duong	96
+cat	97
+ruoi cat	98
+tieng	99
+cat tieng	100
+noi:	101
+"Tieu	102
+mat cuoi	103
+ruoi noi:	104
+noi: "Tieu	105
+OULLL	106
+not	107
+nho.	108
+mot not	109
+not ruoi	110
+ruoi nho.	111
+len	112
+ngoi	113
+xe	114
+di.	115
+len ngoi	116
+ngoi ruoi	117
+ruoi xe	118
+xe di.	119
+LLO	120
+...khong	121
+biet	122
+xe.	123
+...khong biet	124
+biet ruoi	125
+ruoi xe.	126
+OOOLLLLL	127
+nhung	128
+khong biet	129
+xe nhung	130
+Xung	131
+Xung cuoi	132
+noi: -	133
+ULLL	134
+OL	135
+Lao	136
+chay	137
+Lao ruoi	138
+ngua chay	139
+viec	140
+viec dong	141
+dap:	142
+ruoi dap:	143
+dap: -	144
+dau	145
+toi,	146
+dau duong	147
+duong ruoi	148
+ruoi toi,	149
+toi, cat	150
+sach	151
+kien	152
+Nho	153
+quan	154
+sach kien	155
+kien ruoi	156
+ruoi Nho	157
+Nho quan	158
+ru	159
+“Duong	160
+cuoi ru	161
+ru ruoi	162
+noi: “Duong	163
+OULLLL	164
+may	165
+nguoi	166
+moi	167
+may nguoi	168
+nguoi ruoi	169
+xe moi	170
+mieng	171
+ruoi, mieng	172
+cao	173
+truong	174
+hoan	175
+toan	176
+cao truong	177
+truong ruoi	178
+ruoi hoan	179
+hoan toan	180
+LLLLLL	181
+van	182
+ruoi.	183
+van buon	184
+ruoi ruoi.	185
+du	186
+bay	187
+vao	188
+du cho	189
+cho ruoi	190
+ruoi bay	191
+bay vao	192
+thoi	193
+tung	194
+nam mat	195
+ruoi thoi	196
+thoi tung	197
+hoa	198
+tien	199
+xuong	200
+dau,	201
+hoa tien	202
+tien ruoi	203
+ruoi xuong	204
+xuong dau,	205
+than	206
+bi	207
+than ru	208
+ruoi nhu	209
+nhu bi	210
+cung	211
+mot con	212
+con ruoi	213
+ruoi cung	214
+cung khong	215
+lung	216
+lung mat	217
+roi dau	218
+Tieu	219
+Bao	220
+Tieu Bao	221
+Bao ruoi	222
+OO	223
+ga	224
+ga buon	225
+hao	226
+hoi	227
+hao rong	228
+ruoi mot	229
+mot hoi	230
+trong	231
+qua	232
+trong mat	233
+ruoi chay	234
+chay qua	235
+khi	236
+tran	237
+ngap	238
+khi mat	239
+ruoi tran	240
+tran ngap	241
+muoi	242
+nguoi nhu	243
+ruoi muoi	244
+muoi bay	245
+ho	246
+dut	247
+ho ru	248
+cat dut	249
+tanh	250
+nuoc	251
+tieu	252
+tanh roi	253
+roi ruoi	254
+ruoi nuoc	255
+nuoc tieu	256
+ten	257
+rac	258
+ay.	259
+ten rac	260
+rac ruoi	261
+ruoi ay.	262
+nhun,	263
+va	264
+nhun, mat	265
+ruoi va	266
+va hoi	267
+ong	268
+ngot	269
+mat ong	270
+ong ruoi	271
+ruoi van	272
+van ngot	273
+kho	274
+cung kho	275
+tram	276
+nguoi.	277
+toi tram	278
+tram ruoi	279
+ruoi nguoi.	280
+LLLLLO	281
+dinh	282
+o	283
+ruoi dinh	284
+dinh o	285
+L	286
+de	287
+dam	288
+la	289
+de dam	290
+dam ruoi	291
+nhang la	292
+tay	293
+duoi	294
+tay duoi	295
+duoi ruoi	296
+muoi cho	297
+lac	298
+ruoi, lac	299
+nghe	300
+ruoi nghe	301
+nghe ga	302
+ruoi, hai	303
+chu	304
+ngoi cuoi	305
+ruoi chu	306
+chu khong	307
+thuoc	308
+mot thuoc	309
+thuoc ruoi	310
+ruoi moi	311
+moi la	312
+luong	313
+hai luong	314
+luong ruoi	315
+va hai	316
+vay?.	317
+ruoi vay?.	318
+LLLOO	319
+nho	320
+noi	321
+ruoi nho	322
+nho noi	323
+buoc	324
+mot buoc	325
+buoc ruoi	326
+luc	327
+cang	328
+them	329
+luc cuoi	330
+ruoi cang	331
+cang them	332
+bon	333
+gio	334
+sang	335
+hom	336
+bon gio	337
+gio ruoi	338
+ruoi sang	339
+sang hom	340
+Hanh	341
+Hanh cuoi	342
+ve	343
+lo ve	344
+co	345
+co mat	346
+duong.	347
+xe rong	348
+ruoi len	349
+len duong.	350
+tuc	351
+xa	352
+tuc rong	353
+ruoi duong	354
+duong xa	355
+theo	356
+theo rong	357
+ruoi tien	358
+tien ve	359
+gio,	360
+gio, muoi	361
+muoi ruoi	362
+ruoi con	363
+con cung	364
+ba,	365
+tu	366
+phia	367
+ba, rac	368
+ruoi tu	369
+tu phia	370
+hang	371
+dan	372
+hang dan	373
+dan ruoi	374
+nhang bay	375
+keu.	376
+nghe tieng	377
+tieng ruoi	378
+nhang keu.	379
+gia	380
+rach	381
+gia rach	382
+rach ruoi	383
+chay den	384
+kieu	385
+nhu kieu	386
+lang	387
+phai".	388
+mot lang	389
+lang ruoi	390
+moi phai".	391
+LLLLOO	392
+khoai	393
+tra	394
+khoai tra	395
+tra ruoi	396
+ngua cho	397
+nhang,	398
+ruoi nhang,	399
+nhang, khong	400
+cam	401
+cuong	402
+xe,	403
+cam cuong	404
+cuong ruoi	405
+ruoi xe,	406
+xe, con	407
+cung rong	408
+ruoi da	409
+da qua	410
+bay.	411
+den dong	412
+nhu bay.	413
+xua	414
+ta xua	415
+xua ruoi	416
+cho nguoi.	417
+long	418
+long buon	419
+lao	420
+,	421
+tiep	422
+lao mat	423
+ruoi ,	424
+, tiep	425
+ba	426
+ba nguoi	427
+va khong	428
+moi nguoi	429
+vi	430
+ruoi la	431
+la vi	432
+dung	433
+nua.	434
+dung cuoi	435
+ruoi nua.	436
+ma	437
+ruoi ma	438
+ma lao	439
+ruoi vao	440
+vao hang	441
+luot	442
+nhu gio	443
+toi, luot	444
+nen	445
+mo rac	446
+tren nen	447
+-Neu	448
+noi: -Neu	449
+OULL	450
+Chi	451
+lai	452
+Chi lai	453
+lai ruoi	454
+ngua toi	455
+ao	456
+thung	457
+ao rach	458
+ruoi thung	459
+thung tram	460
+thanh	461
+song,	462
+thanh song,	463
+song, ruoi	464
+an	465
+mam	466
+sau.	467
+an mam	468
+mam ruoi	469
+ruoi sau.	470
+cui	471
+ruoi cui	472
+cui dau	473
+thoi.	474
+la rac	475
+ma thoi.	476
+Bon	477
+Bon nguoi	478
+ngua ve	479
+im	480
+ngua,	481
+im lang	482
+ruoi ngua,	483
+ngua, nhung	484
+lanh	485
+nuoc lanh	486
+lanh ruoi	487
+len dau	488
+it	489
+nhieu,	490
+mat it	491
+it ruoi	492
+ruoi nhieu,	493
+nhieu, quan	494
+deu	495
+thay	496
+deu nhu	497
+ruoi thay	498
+thay mat	499
+bac.	500
+ba lang	501
+ruoi bac.	502
+cay	503
+ga.	504
+cay duoi	505
+cho ga.	506
+Thanh	507
+Van	508
+bon rac	509
+ruoi Thanh	510
+Thanh Van	511
+ULLLL	512
+nhien	513
+nhien dong	514
+khe	515
+suoi	516
+khe suoi	517
+suoi ruoi	518
+vao cho	519
+Nang	520
+Nang buon	521
+mon	522
+lam	523
+mon kien	524
+len lam	525
+lon	526
+cao lon	527
+lon ruoi	528
+ngua luot	529
+Ðong	530
+ma Ðong	531
+quan rach	532
+va den	533
+chung	534
+chung dam	535
+ruoi co	536
+co dung	537
+chai	538
+ruou,	539
+tam	540
+chai ruou,	541
+ruou, ruoi	542
+len tam	543
+nua…	544
+ba nam	545
+ruoi nua…	546
+nua… Nang	547
+khi,	548
+ngua.	549
+khi, rac	550
+ruoi ngap	551
+ngap ngua.	552
+xi	553
+xi thay	554
+thay ruoi	555
+nhang.	556
+len dam	557
+ruoi nhang.	558
+trung	559
+dam trung	560
+trung ruoi	561
+phai	562
+de nhu	563
+nhang phai	564
+huynh	565
+huynh nhu	566
+nhang trong	567
+hung	568
+hoang	569
+ba chung	570
+chung ruoi	571
+ruoi hung	572
+hung hoang	573
+Mu	574
+dang	575
+Mu dang	576
+dang ruoi	577
+len tren	578
+UL	579
+duoi rong	580
+gio mat	581
+phu	582
+phu xe	583
+xe ruoi	584
+ruoi ngua.	585
+toi.	586
+lai rach	587
+ruoi ta	588
+ta toi.	589
+thang	590
+mot thang	591
+thang ruoi	592
+roi dung	593
+dong xe	594
+ngua cung	595
+ruoi khong	596
+khong noi	597
+can	598
+toi can	599
+can ruoi	600
+cung phai	601
+ca	602
+ca con	603
+doan	604
+ruoi voi	605
+voi doan	606
+chung gap	607
+mot nguoi	608
+nang	609
+tiep:	610
+nang cuoi	611
+ruoi noi	612
+noi tiep:	613
+rat	614
+mau.	615
+dong dong	616
+ruoi rat	617
+rat mau.	618
+bao	619
+quanh	620
+den truong	621
+ruoi bao	622
+bao quanh	623
+ruoi, lang	624
+tuy	625
+dong co	626
+co ruoi	627
+ruoi deu	628
+deu tuy	629
+thuyen	630
+lon gap	631
+ruoi hon	632
+hon thuyen	633
+khien	634
+thoi mat	635
+ruoi khien	636
+chang	637
+khien chang	638
+nhieu	639
+rat nhieu	640
+nhieu ruoi	641
+ruoi dang	642
+dang bay	643
+Hai	644
+Hai nguoi	645
+xe den	646
+hong	647
+thi	648
+hong mat	649
+ruoi thi	650
+thi biet	651
+su	652
+su nhu	653
+toi gap	654
+chong	655
+ba phai	656
+phai ruoi	657
+ruoi chong	658
+chong lai	659
+Hau	660
+hoi:	661
+Hau cuoi	662
+ruoi hoi:	663
+hoi: -	664
+vung	665
+vung roi	666
+may,	667
+chu may,	668
+ruoi?	669
+Ðao	670
+ruoi ruoi?	671
+ruoi? Ðao	672
+hat	673
+hat not	674
+rat de	675
+dap	676
+:	677
+van cuoi	678
+ruoi dap	679
+dap :	680
+thay buon	681
+ruoi, tu	682
+chin	683
+hieu.	684
+chin chu	685
+chu ruoi	686
+khong hieu.	687
+dong can	688
+do	689
+do roi	690
+mac	691
+mac rach	692
+ruoi de	693
+de hoa	694
+trang	695
+ben	696
+ao trang	697
+trang ruoi	698
+toi ben	699

@@ -1,0 +1,753 @@
+nen	1
+noi	2
+buot	3
+mieng	4
+hoi:	5
+nen noi	6
+noi buot	7
+buot mieng	8
+mieng hoi:	9
+LLLL	10
+LLLLL	11
+LLL	12
+LLLO	13
+LL	14
+hoi	15
+lien	16
+tra	17
+hoi lien	18
+lien buot	19
+mieng tra	20
+tieng	21
+keu	22
+ra	23
+khoi	24
+tieng keu	25
+keu buot	26
+buot ra	27
+ra khoi	28
+Tieu	29
+Bao	30
+doan	31
+Tieu Bao	32
+Bao buot	33
+mieng doan	34
+ULL	35
+ULLL	36
+OL	37
+OO	38
+tu	39
+lau,	40
+thot:	41
+tu lau,	42
+lau, buot	43
+mieng thot:	44
+LLLLO	45
+Trong	46
+deu	47
+thot	48
+Trong deu	49
+deu buot	50
+mieng thot	51
+ULLLL	52
+lao	53
+lanh	54
+thau	55
+xuong	56
+lao lanh	57
+lanh buot	58
+buot thau	59
+thau xuong	60
+dien	61
+dau	62
+tua	63
+ho	64
+dien dau	65
+dau buot	66
+buot tua	67
+tua ho	68
+da	69
+da nen	70
+nen buot	71
+mieng noi	72
+ta	73
+tam	74
+can.	75
+ta lanh	76
+buot tam	77
+tam can.	78
+than	79
+ma	80
+than ma	81
+ma buot	82
+gio	83
+do,	84
+co	85
+gio lanh	86
+buot do,	87
+do, co	88
+LLO	89
+hoan	90
+hi,	91
+noi:	92
+hoan hi,	93
+hi, buot	94
+mieng noi:	95
+ga	96
+chi	97
+day	98
+ga chi	99
+chi buot	100
+mieng day	101
+khi	102
+rat	103
+buc	104
+vao	105
+khi rat	106
+rat buot	107
+buot buc	108
+buc vao	109
+mot	110
+cai,	111
+mot cai,	112
+cai, buot	113
+ra,	114
+roi	115
+ra, roi	116
+roi buot	117
+mieng keu	118
+ngan	119
+mieng:	120
+-	121
+ngan ra	122
+ra buot	123
+buot mieng:	124
+mieng: -	125
+LLLLLO	126
+O	127
+LO	128
+Khau	129
+dap:	130
+Khau Trong	131
+Trong buot	132
+mieng dap:	133
+ky	134
+la,	135
+ky la,	136
+la, buot	137
+dot	138
+nhien	139
+dot nhien	140
+nhien buot	141
+am	142
+len,	143
+am len,	144
+len, buot	145
+kim	146
+duoc	147
+kim duoc	148
+duoc buot	149
+noi ma	150
+bon	151
+bon ho	152
+ho buot	153
+gat	154
+dau,	155
+dan	156
+gat dau,	157
+dau, buot	158
+mieng dan	159
+quat	160
+hoi lanh	161
+buot quat	162
+quat vao	163
+to	164
+mo	165
+to mo	166
+mo buot	167
+Tu	168
+Lang	169
+Tu Lang	170
+Lang buot	171
+UL	172
+cung	173
+luc	174
+cung luc	175
+luc buot	176
+khong	177
+dam	178
+khong dam	179
+dam buot	180
+Ho	181
+Xung	182
+la:	183
+Ho Xung	184
+Xung buot	185
+mieng la:	186
+khong noi	187
+cham	188
+cham cham	189
+cham buot	190
+buot khoi	191
+khoi mieng	192
+than,	193
+ret	194
+the	195
+than, ret	196
+ret buot	197
+buot khong	198
+khong the	199
+mua	200
+het	201
+nhu	202
+mua lanh	203
+buot het	204
+het nhu	205
+Thieu	206
+Long	207
+mieng,	208
+„Boi	209
+Thieu Long	210
+Long buot	211
+buot mieng,	212
+mieng, „Boi	213
+OULL	214
+thinh	215
+thinh,	216
+thinh thinh,	217
+thinh, buot	218
+cam	219
+thay	220
+gia,	221
+cam thay	222
+thay buot	223
+buot gia,	224
+gia, khi	225
+tay	226
+dat	227
+len	228
+tay lanh	229
+buot dat	230
+dat len	231
+de	232
+y	233
+de y	234
+y buot	235
+L	236
+phat	237
+tan	238
+tim,	239
+phat dau	240
+buot tan	241
+tan tim,	242
+nghi	243
+ngo,	244
+nghi ngo,	245
+ngo, buot	246
+mo ma	247
+mo,	248
+to mo,	249
+mo, buot	250
+giac	251
+lam	252
+dong	253
+giac lanh	254
+buot lam	255
+lam dong	256
+nay	257
+chang	258
+doc	259
+nay chang	260
+chang buot	261
+mieng doc	262
+lap	263
+lanh,	264
+lap lanh,	265
+lanh, buot	266
+loi	267
+loi y	268
+huenh	269
+mieng huenh	270
+phan	271
+chan,	272
+phan chan,	273
+chan, buot	274
+kich	275
+kich dong	276
+dong buot	277
+buot noi	278
+noi ra	279
+bao	280
+phu,	281
+khi lanh	282
+buot bao	283
+bao phu,	284
+rung	285
+dong,	286
+rung dong,	287
+dong, buot	288
+nguoi	289
+con	290
+chui	291
+nguoi con	292
+con buot	293
+mieng chui	294
+luong.	295
+thay lanh	296
+buot the	297
+the luong.	298
+ran,	299
+gia	300
+ran, gia	301
+gia buot	302
+vay	303
+vay lien	304
+nua	305
+thi	306
+nua thi	307
+thi buot	308
+"Co	309
+noi nhu	310
+nhu buot	311
+mieng: "Co	312
+OUL	313
+thit	314
+xot	315
+long.	316
+thit ma	317
+buot xot	318
+xot long.	319
+bat	320
+bat giac	321
+giac buot	322
+xot con	323
+trong	324
+doi,	325
+noi,	326
+trong doi,	327
+doi, buot	328
+mieng noi,	329
+chuyen	330
+chuyen dong,	331
+LLLLLL	332
+mau	333
+thuan,	334
+mau thuan,	335
+thuan, buot	336
+cua	337
+lao,	338
+da lanh	339
+buot cua	340
+cua lao,	341
+la	342
+la ta	343
+ta buot	344
+lai	345
+y lai	346
+lai buot	347
+Nang	348
+vua	349
+Nang vua	350
+vua buot	351
+suyt	352
+Xung suyt	353
+suyt buot	354
+mieng la	355
+ganh	356
+ty	357
+ganh ty	358
+ty buot	359
+nen ga	360
+ga buot	361
+ren	362
+mieng ren	363
+truoc	364
+buot nhu	365
+nhu truoc	366
+ngo	367
+ngo chang	368
+huynh	369
+Ho huynh	370
+huynh buot	371
+minh	372
+thay minh	373
+minh buot	374
+moi	375
+vay,	376
+moi vay,	377
+vay, buot	378
+,	379
+reo	380
+da ,	381
+, buot	382
+mieng reo	383
+long	384
+nguc	385
+nhoi.	386
+long nguc	387
+nguc buot	388
+buot nhoi.	389
+cai	390
+suong	391
+cai gia	392
+cua suong	393
+mom	394
+chi lai	395
+buot mom	396
+mom noi	397
+le,	398
+le, suyt	399
+vi	400
+buot lanh,	401
+lanh, vi	402
+lan	403
+lan nen	404
+vui	405
+vui nen	406
+tieu	407
+tieu de	408
+de buot	409
+mieng hoi	410
+nay moi	411
+moi buot	412
+den	413
+thay dau	414
+buot den	415
+den xuong	416
+han	417
+khen:	418
+giac han	419
+han buot	420
+mieng khen:	421
+treu,	422
+mieng treu,	423
+goi	424
+tieu huynh	425
+mieng goi	426
+ly,	427
+ly, lien	428
+khien	429
+khien ga	430
+cuoi	431
+mieng cuoi	432
+Thien	433
+Nhu	434
+Thien Nhu	435
+Nhu buot	436
+nen moi	437
+duoc ma	438
+phong	439
+phong lanh	440
+buot xuong	441
+xuong ma	442
+mem	443
+long,	444
+rang,	445
+mem long,	446
+long, buot	447
+mieng rang,	448
+sau	449
+sau moi	450
+buot con	451
+con co	452
+ham	453
+mieng ham	454
+gam	455
+rit	456
+tai,	457
+gam rit	458
+rit buot	459
+buot tai,	460
+tai, tieng	461
+toan	462
+goi:	463
+han toan	464
+toan buot	465
+mieng goi:	466
+the thi	467
+tuon	468
+nua ga	469
+mieng tuon	470
+khai	471
+khai ma	472
+cung chi	473
+kich dong,	474
+hot	475
+hot nhien	476
+xuyen	477
+qua,	478
+buot xuyen	479
+xuyen qua,	480
+giac chang	481
+„Tai	482
+mieng, „Tai	483
+xiet	484
+xiet ma	485
+tho	486
+tho moi	487
+mieng tu	488
+trat	489
+trat lien	490
+mieng cai	491
+lai,	492
+dan lanh	493
+buot lai,	494
+lai, trong	495
+tim	496
+chung	497
+tim dau	498
+buot chung	499
+chung nhu	500
+Chang	501
+Chang buot	502
+y,	503
+dap	504
+y, lien	505
+mieng dap	506
+cho	507
+cho nen	508
+tap	509
+buot tap	510
+tap vao	511
+ba	512
+Bao lai	513
+mieng ba	514
+Lao	515
+Lao gia	516
+nen noi,	517
+noi, buot	518
+xuong.	519
+qua, lanh	520
+thau xuong.	521
+thien	522
+su	523
+giai	524
+thien su	525
+su buot	526
+mieng giai	527
+boi,	528
+hoi,	529
+roi boi,	530
+boi, buot	531
+mieng hoi,	532
+Ta	533
+Ta chi	534
+Nuoc	535
+go	536
+Truong	537
+Nuoc lanh	538
+buot go	539
+go Truong	540
+ULLLLL	541
+keu,	542
+mieng keu,	543
+trai	544
+vo	545
+cung.	546
+trai dau	547
+buot vo	548
+vo cung.	549
+ca	550
+lung.	551
+co lanh	552
+buot ca	553
+ca lung.	554
+ai	555
+ai dam	556
+nguoc	557
+nguoc nay	558
+nay buot	559
+hieu	560
+ky,	561
+hieu ky,	562
+ky, buot	563
+ngac	564
+ngac nhien	565
+mieng dong	566
+vay chang	567
+bi	568
+tay dau	569
+nhu bi	570
+di.	571
+tho lanh	572
+buot di.	573
+thoi	574
+den.	575
+buot thoi	576
+thoi den.	577
+noi len	578
+Tri	579
+Tri nen	580
+nhin	581
+nhin duoc	582
+chut	583
+chut nua	584
+nua buot	585
+mieng bao	586
+nhuc	587
+biet	588
+than nhuc	589
+nhuc buot	590
+buot moi	591
+moi biet	592
+neu	593
+neu minh	594
+mieng len	595
+Mot	596
+tia	597
+Mot tia	598
+tia buot	599
+gia, nhu	600
+Han	601
+Han buot	602
+va	603
+- Han	604
+mieng va	605
+suy	606
+nghi,	607
+suy nghi,	608
+nghi, buot	609
+muu	610
+muu nen	611
+tan,	612
+cung tan,	613
+tan, buot	614
+day,	615
+ong	616
+buong	617
+day, ong	618
+ong buot	619
+mieng, buong	620
+mat	621
+bang	622
+mat gia	623
+nhu bang	624
+nen vua	625
+mieng ra	626
+nhung	627
+binh	628
+nhung con	629
+buot gia	630
+gia binh	631
+nai	632
+nai duoc	633
+mieng, tu	634
+han lien	635
+toi	636
+toi day	637
+day buot	638
+Quy	639
+Le	640
+Quy Le	641
+Le buot	642
+buot noi,	643
+noi, dau	644
+duoc,	645
+nhin duoc,	646
+duoc, buot	647
+suyt nua	648
+han,	649
+han, lanh	650
+vo tam	651
+tam buot	652
+vu	653
+vu,	654
+vu vu,	655
+vu, buot	656
+buot lanh	657
+lanh thau	658
+mang	659
+mieng mang	660
+tuyet	661
+van	662
+tuyet lanh	663
+buot van	664
+van thoi	665
+ra, suyt	666
+"Sao	667
+hieu ra,	668
+ra, buot	669
+buot hoi:	670
+hoi: "Sao	671
+luong	672
+cuong,	673
+"Su	674
+luong cuong,	675
+cuong, buot	676
+mieng: "Su	677
+Nga	678
+Hanh	679
+Nga Hanh	680
+Hanh buot	681
+long, nen	682
+g	683
+a	684
+g a	685
+a buot	686
+cang	687
+them	688
+gia.	689
+cang them	690
+them buot	691
+buot gia.	692
+Xung luc	693
+bong	694
+thoa	695
+duoc bong	696
+bong buot	697
+mieng thoa	698
+Mai	699
+khen:.	700
+Tieu Mai	701
+Mai buot	702
+mieng khen:.	703
+LLLLOO	704
+Minh	705
+- Minh	706
+Minh buot	707
+manh	708
+ao	709
+vet	710
+manh ao	711
+ao buot	712
+buot cho	713
+cho vet	714
+xong	715
+buot xong	716
+xong vao	717
+minh lanh	718
+buot lien	719
+lien tu	720
+nuoc	721
+Trieu,	722
+nuoc Trieu,	723
+Trieu, buot	724
+ULLLLO	725
+bat ngo	726
+ngo buot	727
+phia	728
+truoc,	729
+phia truoc,	730
+truoc, buot	731
+khuyen	732
+mieng khuyen	733
+gi,	734
+gi, lien	735
+chi la	736
+la buot	737
+ben	738
+dau, ben	739
+ben buot	740
+qua	741
+qua la	742
+Con	743
+Con gio	744
+gio buot	745
+gia thau	746
+nguoi,	747
+thoi buot	748
+buot nguoi,	749
+nguoi, mua	750
+duoc cung	751
+cung buot	752
+mieng hoan	753

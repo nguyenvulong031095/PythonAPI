@@ -1,0 +1,557 @@
+nhu	1
+tieng	2
+trau	3
+mong	4
+rong	5
+nhu tieng	6
+tieng trau	7
+trau mong	8
+mong rong	9
+LLLL	10
+LLLLL	11
+LLL	12
+LL	13
+lam	14
+than	15
+ngua,	16
+den	17
+lam than	18
+than trau	19
+trau ngua,	20
+ngua, den	21
+LLLLO	22
+chuoi	23
+chan	24
+ra	25
+gio	26
+chuoi chan	27
+chan trau	28
+trau ra	29
+ra gio	30
+dep	31
+the	32
+trau dep	33
+dep the	34
+nhan	35
+mo	36
+den,	37
+ngua	38
+nhan mo	39
+mo trau	40
+trau den,	41
+den, ngua	42
+LLLO	43
+bat	44
+de	45
+trong	46
+nhan bat	47
+bat trau	48
+trau de	49
+de trong	50
+vao	51
+dat	52
+xuong	53
+vao nhu	54
+nhu trau	55
+trau dat	56
+dat xuong	57
+lop	58
+da	59
+day,	60
+binh	61
+lop da	62
+da trau	63
+trau day,	64
+day, binh	65
+ma	66
+bo,	67
+ma da	68
+trau da	69
+da bo,	70
+LLO	71
+beo	72
+chuong	73
+thi	74
+beo nhu	75
+trau chuong	76
+chuong thi	77
+LLLLLL	78
+cho	79
+trau ngua	80
+ngua cho	81
+dong	82
+phan	83
+,	84
+co	85
+dong phan	86
+phan trau	87
+trau ,	88
+, co	89
+O	90
+OL	91
+LO	92
+nay	93
+vua	94
+trau nay	95
+nay vua	96
+!	97
+Phan	98
+ngon	99
+! Phan	100
+Phan trau	101
+trau ma	102
+ma ngon	103
+ULLL	104
+OO	105
+danh	106
+chet	107
+dien	108
+danh chet	109
+chet trau	110
+trau dien	111
+dien ,	112
+tim	113
+thay	114
+tim phan	115
+trau thay	116
+thay cho	117
+quy	118
+mui	119
+thap	120
+lun	121
+quy mui	122
+mui trau	123
+trau thap	124
+thap lun	125
+bai	126
+vay.	127
+bai phan	128
+trau vay.	129
+quan	130
+toc	131
+quan da	132
+, toc	133
+lao	134
+kia	135
+lao mui	136
+trau kia	137
+kia thi	138
+Lao	139
+kieu	140
+ngao	141
+Lao mui	142
+trau kieu	143
+kieu ngao	144
+ULL	145
+do	146
+dang	147
+nhan mui	148
+trau do	149
+do dang	150
+khong	151
+kia khong	152
+ra.	153
+trong xuong	154
+xuong trau	155
+trau ra.	156
+gay	157
+tai	158
+gay tai	159
+tai trau	160
+trau thi	161
+thi khong	162
+lai	163
+bi	164
+cay	165
+lat	166
+lai bi	167
+bi trau	168
+trau cay	169
+cay lat	170
+cuop	171
+boc	172
+bo	173
+gia	174
+cuop boc	175
+boc trau	176
+trau bo	177
+bo gia	178
+vi	179
+con	180
+cuoi	181
+cung	182
+vi con	183
+con trau	184
+trau cuoi	185
+cuoi cung	186
+cam	187
+gia cam	188
+cam trau	189
+trau bo,	190
+bo, lai	191
+cang	192
+tuyet	193
+lai dat	194
+dat trau	195
+trau cang	196
+cang tuyet	197
+dung	198
+che	199
+dung da	200
+de che	201
+hung	202
+trau lai	203
+lai hung	204
+ngay	205
+nay ngay	206
+Den	207
+trung	208
+Den con	209
+mong trung	210
+giac	211
+dau	212
+doi	213
+giac dau	214
+dau trau	215
+trau khong	216
+khong doi	217
+ngua den	218
+go	219
+da.	220
+ngua go	221
+go trau	222
+trau da.	223
+o	224
+chet con	225
+dien o	226
+L	227
+dao	228
+giet	229
+ga,	230
+dao mo	231
+trau giet	232
+giet ga,	233
+cha	234
+phong	235
+cha mui	236
+kia phong	237
+toi	238
+trau danh	239
+danh toi	240
+cham	241
+bang	242
+keo	243
+day.	244
+cham bang	245
+bang trau	246
+trau keo	247
+keo day.	248
+co dung	249
+dung trau	250
+cay cung	251
+ho	252
+rong,	253
+thu	254
+ho tieng	255
+trau rong,	256
+rong, thu	257
+manh	258
+hon	259
+nua.".	260
+manh hon	261
+hon trau	262
+trau nua.".	263
+LLLOOO	264
+bon	265
+mat	266
+bon dau	267
+trau mat	268
+mat ngua,	269
+va	270
+lon	271
+bang da	272
+trau va	273
+va lon	274
+cai	275
+vo	276
+"dung	277
+cai vo	278
+vo trau	279
+trau lam	280
+lam "dung	281
+OLLLL	282
+Bon	283
+phai	284
+Vo	285
+Bon mui	286
+trau phai	287
+phai Vo	288
+UL	289
+lu	290
+tuong	291
+lu mui	292
+lai tuong	293
+khong?.	294
+co chan	295
+trau khong?.	296
+LLLLLOO	297
+chi	298
+tuan.	299
+chi chan	300
+cuoi tuan.	301
+gi	302
+chan?.	303
+gi co	304
+co trau	305
+ma chan?.	306
+LLLLOO	307
+kim	308
+ngan,	309
+tung	310
+kim ngan,	311
+ngan, trau	312
+ngua tung	313
+vien	314
+ly	315
+do."	316
+vien ly	317
+ly trau	318
+trau ly	319
+ly do."	320
+LLOO	321
+deu	322
+la	323
+deu la	324
+la trau	325
+bo de	326
+lot	327
+lai nhu	328
+dat lot	329
+ga	330
+vit	331
+com	332
+ga vit	333
+vit trau	334
+de com	335
+truot	336
+di	337
+trau truot	338
+truot di	339
+dinh	340
+be	341
+trau dinh	342
+dinh be	343
+trau,	344
+nhai	345
+bom	346
+bem.	347
+trau, nhai	348
+nhai trau	349
+trau bom	350
+bom bem.	351
+nho	352
+quet	353
+ong.	354
+nho quet	355
+quet trau	356
+trau vao	357
+vao ong.	358
+ngoi	359
+mom	360
+mem,	361
+ngoi nhai	362
+trau mom	363
+mom mem,	364
+y	365
+y lam	366
+lam trau	367
+lam ngua	368
+do.	369
+trau do.	370
+hat	371
+cuoi hat	372
+Thanh	373
+vuong	374
+troi,	375
+Thanh vuong	376
+vuong trau	377
+trau troi,	378
+troi, co	379
+ULLLL	380
+sau	381
+lung	382
+voi	383
+sau lung	384
+lung trau	385
+trau voi	386
+voi toi	387
+bao	388
+kho	389
+bao chan	390
+trau la	391
+la kho	392
+?	393
+Chan	394
+suong	395
+? Chan	396
+Chan trau	397
+trau suong	398
+suong lam	399
+Ngoi	400
+phat	401
+Ngoi lung	402
+trau phat	403
+phat ngon	404
+suc	405
+nay,	406
+than suc	407
+suc trau	408
+trau nay,	409
+nay, khong	410
+ngoai	411
+cuu	412
+ngoai giet	413
+giet trau	414
+trau mo	415
+mo cuu	416
+mot	417
+bay	418
+mot bay	419
+bay trau	420
+de dang	421
+nam	422
+da,	423
+roi	424
+nam con	425
+trau da,	426
+da, roi	427
+don	428
+don la	429
+da phan	430
+de don	431
+don trau	432
+da, sau	433
+tram	434
+quai	435
+tram con	436
+trau quy	437
+quy quai	438
+manh nhu	439
+trau cung	440
+cung kho	441
+a	442
+ca	443
+(ca	444
+loc).	445
+a ca	446
+ca trau	447
+trau (ca	448
+(ca loc).	449
+OLL	450
+LLLOO	451
+dam.	452
+nhu ho	453
+ho trau	454
+trau dam.	455
+Nao	456
+cut	457
+nao	458
+nuoc	459
+Nao cut	460
+cut trau	461
+trau nao	462
+nao nuoc	463
+ngoc	464
+a,	465
+ngoc a,	466
+a, trau	467
+bo la	468
+tro	469
+trat	470
+len	471
+tro trat	472
+trat trau	473
+trau len	474
+len mat	475
+tam	476
+mot con	477
+trau vua	478
+vua tam	479
+Thai	480
+phai Thai	481
+ngua.	482
+trau ngua.	483
+nguyen	484
+nguyen lam	485
+nay lam	486
+lai!-	487
+Ðanh	488
+lai mui	489
+trau lai!-	490
+lai!- Ðanh	491
+dem	492
+dem con	493
+cay di	494
+Phuong	495
+giu	496
+hoi:	497
+Phuong giu	498
+giu trau	499
+lai hoi:	500
+ULLLLL	501
+no:	502
+vao dau	503
+trau bao	504
+bao no:	505
+dem suc	506
+Bon dau	507
+mat ngua	508
+ngam	509
+ben	510
+nhu ngam	511
+ngam trau	512
+trau ben	513
+ben kia	514
+xanh,	515
+ba	516
+trong nhu	517
+trau xanh,	518
+xanh, ba	519
+sao?	520
+Ðuoc	521
+sao? Ðuoc	522
+Ðuoc trau	523
+trau roi	524
+roi con	525
+nghe.	526
+bang con	527
+trau nghe.	528
+ay	529
+duoc	530
+trau ay	531
+ay duoc	532
+que	533
+trau que	534
+que chan	535
+phuc	536
+ma phuc	537
+nua	538
+trau mot	539
+mot nua	540
+ve	541
+rat	542
+chuot	543
+ve rat	544
+rat trau	545
+trau chuot	546
+chuot dung	547
+muon	548
+nay muon	549
+quy dau	550
+ngu	551
+suot	552
+doi.	553
+ngu voi	554
+voi trau	555
+trau suot	556
+suot doi.	557

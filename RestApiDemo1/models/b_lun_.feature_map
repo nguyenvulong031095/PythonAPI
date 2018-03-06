@@ -1,0 +1,914 @@
+nhan	1
+beo	2
+lun	3
+toan	4
+than	5
+nhan beo	6
+beo lun	7
+lun toan	8
+toan than	9
+LLLL	10
+LLL	11
+LL	12
+trung	13
+quyen	14
+xuong	15
+tuy	16
+trung quyen	17
+quyen lun	18
+lun xuong	19
+xuong tuy	20
+LLLLL	21
+cung	22
+thua	23
+bai.	24
+cung thua	25
+thua lun	26
+lun bai.	27
+LLLO	28
+nao?	29
+Ga	30
+map	31
+chi	32
+nao? Ga	33
+Ga lun	34
+lun map	35
+map chi	36
+UL	37
+OL	38
+LO	39
+khong	40
+map khong	41
+nhau?	42
+dap:	43
+nhau? Ga	44
+map dap:	45
+LLLLO	46
+gi?	47
+uong	48
+gi? Ga	49
+map uong	50
+LLO	51
+quat	52
+map quat	53
+sao?	54
+sao? Ga	55
+u?	56
+nhin	57
+u? Ga	58
+map nhin	59
+cat	60
+map cat	61
+mat	62
+ga	63
+map,	64
+ngheo	65
+mat ga	66
+ga lun	67
+lun map,	68
+map, ngheo	69
+tuc	70
+map tuc	71
+ca	72
+map ca	73
+giat	74
+map giat	75
+ban	76
+co	77
+ban ga	78
+map co	79
+noi:	80
+nhin ga	81
+map noi:	82
+thuong?	83
+thuong? Ga	84
+LLLLLLO	85
+chua	86
+het	87
+Ga map	88
+map lun	89
+lun chua	90
+chua het	91
+roi	92
+roi ga	93
+keo	94
+lat	95
+keo ga	96
+map lat	97
+thoi	98
+chiu	99
+cac	100
+thoi chiu	101
+chiu lun	102
+lun cac	103
+cac co	104
+hinh	105
+cua	106
+Dien	107
+hinh beo	108
+lun cua	109
+cua Dien	110
+ULLL	111
+-	112
+Lao	113
+ho	114
+Du	115
+- Lao	116
+Lao lun	117
+lun ho	118
+ho Du	119
+ULL	120
+O	121
+OO	122
+nguoi	123
+nay	124
+thap	125
+hon	126
+nguoi nay	127
+nay lun	128
+lun thap	129
+thap hon	130
+da	131
+len	132
+khoi,	133
+da len	134
+len lun	135
+lun roi	136
+roi khoi,	137
+Cu	138
+va	139
+Bat	140
+Cu beo	141
+lun va	142
+va Bat	143
+day	144
+ay	145
+vao	146
+dam	147
+day ay	148
+ay lun	149
+lun vao	150
+vao dam	151
+han	152
+ten	153
+Kim	154
+han beo	155
+lun ten	156
+ten Kim	157
+gay	158
+vua	159
+chay	160
+toi	161
+gay vua	162
+vua lun	163
+lun chay	164
+chay toi	165
+lao	166
+nhu	167
+qua	168
+lao nguoi	169
+nguoi lun	170
+lun nhu	171
+nhu qua	172
+nhien	173
+tit,	174
+nhien cung	175
+cung lun	176
+lun tit,	177
+tit, cung	178
+nuong	179
+ma	180
+xau	181
+nuong ma	182
+ma lun	183
+map xau	184
+vat	185
+kia	186
+dau	187
+vat beo	188
+lun kia	189
+kia dau	190
+Nguoi	191
+liec	192
+Nguoi beo	193
+lun liec	194
+liec nhin	195
+ULLLL	196
+tit	197
+lun tit	198
+tit map	199
+la	200
+Kha	201
+lun la	202
+la Kha	203
+hai	204
+tay	205
+ten beo	206
+lun hai	207
+hai tay	208
+duoi	209
+theo,	210
+lun duoi	211
+duoi theo,	212
+han vua	213
+lun vua	214
+vua gay	215
+nguoi beo	216
+cua lao	217
+cang	218
+ngay	219
+sau	220
+vao,	221
+cang ngay	222
+ngay lun	223
+lun sau	224
+sau vao,	225
+trau	226
+phai	227
+Thanh	228
+trau thap	229
+thap lun	230
+lun phai	231
+phai Thanh	232
+hung	233
+su	234
+lun hung	235
+hung su	236
+Lao thap	237
+cu	238
+bai	239
+dan	240
+cu ma	241
+lun bai	242
+bai dan	243
+han,	244
+dua	245
+han, ten	246
+ten lun	247
+lun ay	248
+ay dua	249
+Hai	250
+nho	251
+nhung	252
+Hai nguoi	253
+lun nho	254
+nho nhung	255
+minh	256
+tu	257
+di	258
+minh tu	259
+tu lun	260
+thap di	261
+Ac	262
+ngang	263
+Ac han	264
+han lun	265
+lun ngang	266
+ngang nay	267
+tiep	268
+xuong,	269
+kim	270
+tiep tuc	271
+tuc lun	272
+lun xuong,	273
+xuong, kim	274
+LLLLLO	275
+bien	276
+thanh	277
+vi	278
+bien thanh	279
+thanh lun	280
+tit, vi	281
+Chu	282
+Co	283
+Chu Co	284
+Co lun	285
+sau vao	286
+minh da	287
+da lun	288
+kha	289
+thun	290
+kha thap	291
+lun thun	292
+thun ma	293
+Nguoi lun	294
+map nay	295
+di!	296
+di! Nguoi	297
+lun dap:	298
+dap: -	299
+map hung	300
+thang	301
+cha	302
+thang cha	303
+cha lun	304
+map hinh	305
+tu thap	306
+lun ma	307
+ma beo	308
+lo,	309
+dat	310
+vay.	311
+lo, dat	312
+dat lun	313
+lun vay.	314
+Hung	315
+Hung vua	316
+vua map,	317
+be	318
+nguoi thap	319
+nho be	320
+mot	321
+Nguoi han	322
+xuong mot	323
+Quan	324
+bong	325
+Quan bong	326
+bong lun	327
+thap nguoi	328
+tay khong	329
+khong lun	330
+lun nguoi	331
+nguoi xuong	332
+Ta	333
+Ta lun	334
+thun.	335
+ma thap	336
+lun thun.	337
+cung vua	338
+vua map	339
+Nham	340
+con	341
+Nham tuy	342
+tuy lun	343
+lun nhung	344
+nhung con	345
+chut	346
+lai	347
+tit.	348
+chut lai	349
+lai lun	350
+lun tit.	351
+tit va	352
+tu vua	353
+tung	354
+lun da	355
+da tung	356
+tho	357
+kech	358
+la ga	359
+lun tho	360
+tho kech	361
+den	362
+ay,	363
+Hang	364
+den ga	365
+lun ay,	366
+ay, Hang	367
+dung	368
+ben	369
+lun dung	370
+dung ben	371
+Nguoi lao	372
+lao lun	373
+tit ma	374
+gia	375
+thu	376
+Lao gia	377
+gia lun	378
+da thu	379
+cung!	380
+cung! Lao	381
+nguoi ho	382
+deu	383
+cung lao	384
+lun nay	385
+nay deu	386
+anh	387
+som	388
+anh beo	389
+lun som	390
+som da	391
+Ton	392
+o	393
+Ton gia	394
+tit o	395
+L	396
+moi	397
+tit moi	398
+(tuc	399
+tit (tuc	400
+OLLL	401
+cao,	402
+Lieu	403
+cao, mot	404
+mot lun	405
+lun o	406
+o Lieu	407
+thi	408
+buoc	409
+ngan,	410
+thi nguoi	411
+lun buoc	412
+buoc ngan,	413
+u	414
+u va	415
+va lun	416
+nen	417
+tit nen	418
+cam	419
+kiem	420
+lun cam	421
+cam kiem	422
+va thap	423
+thun nhung	424
+nguoi lao	425
+lun khong	426
+khong day	427
+nhan thap	428
+lun be	429
+be nho	430
+chun	431
+gia thap	432
+lun beo	433
+beo chun	434
+voi	435
+ma lai	436
+tit voi	437
+bi	438
+sut	439
+bi sut	440
+sut lun	441
+nhu vay.	442
+kia da	443
+tit lai	444
+thuong	445
+u.	446
+thuong thap	447
+map u.	448
+LLLLLL	449
+trai	450
+lam	451
+trai dua	452
+dua lun	453
+lun gia	454
+gia lam	455
+nay thap	456
+Chang	457
+lien	458
+Chang lien	459
+lien lun	460
+Ðoan	461
+Ðoan ga	462
+truoc	463
+no	464
+truoc no	465
+no lun	466
+troi,	467
+troi, nguoi	468
+Xac	469
+chet	470
+Xac chet	471
+chet lun	472
+vao lao	473
+dao	474
+vo	475
+lao dao	476
+dao lun	477
+nay vo	478
+kia!	479
+kia! Lao	480
+Nha	481
+nghe	482
+thay	483
+Nha su	484
+su lun	485
+lun nghe	486
+nghe thay	487
+Ga su	488
+lun tu	489
+tu nho	490
+nang	491
+ga su	492
+lun nang	493
+nang hon	494
+cao	495
+dang	496
+nhan cao	497
+cao lun	498
+lun dang	499
+dang chay	500
+ai,	501
+ai, vua	502
+va beo	503
+xuong.	504
+ca nguoi	505
+lun xuong.	506
+may	507
+may chi	508
+chi lun	509
+lun den	510
+den mat	511
+chung	512
+bon	513
+lun chung	514
+chung bon	515
+than hinh	516
+hinh lun	517
+map, hai	518
+phu	519
+phu thap	520
+dich	521
+dich roi	522
+roi lun	523
+ngoai	524
+mot nguoi	525
+lun ngoai	526
+ngoai bon	527
+Nguoi nay	528
+tit, beo	529
+Ba	530
+Quang	531
+Ba Quang	532
+Quang lun	533
+lun minh	534
+minh xuong	535
+beo,	536
+han tu	537
+lun beo,	538
+beo, chung	539
+ta	540
+the	541
+ta thap	542
+lun the	543
+the nay	544
+nha	545
+chu	546
+nha su	547
+tit chu	548
+nhung map	549
+mem	550
+gio	551
+da mem	552
+mem lun	553
+lun gio	554
+gio lai	555
+Chan	556
+Nam	557
+Chan Nam	558
+Nam lun	559
+Chang lun	560
+nguoi,	561
+thap,	562
+nguoi, nguoi	563
+lun thap,	564
+thap, mat	565
+se	566
+sau,	567
+se cang	568
+cang lun	569
+lun sau,	570
+sau, den	571
+rut	572
+map rut	573
+danh	574
+map danh	575
+?	576
+dap	577
+? Lao	578
+map dap	579
+map chung	580
+thuc	581
+map thuc	582
+ty	583
+ty lao	584
+map dat	585
+gio lao	586
+map lai	587
+guc	588
+map guc	589
+noi	590
+map noi	591
+map mot	592
+ngap	593
+map ngap	594
+ra	595
+ra lao	596
+Gia	597
+Gia vua	598
+qua,	599
+Gia nguoi	600
+lun qua,	601
+qua, con	602
+!	603
+nay !	604
+! lao	605
+map kia	606
+nguoi cang	607
+hinh,	608
+hinh, dap	609
+dap lun	610
+xuong day	611
+ba	612
+nao	613
+ba chiu	614
+chung nao	615
+nao,	616
+tren	617
+nao, dang	618
+dang lun	619
+map, tren	620
+cham	621
+chi,	622
+cham chi,	623
+chi, lun	624
+bai la	625
+co lao	626
+o phai	627
+mot ga	628
+hung han	629
+nghien	630
+rang	631
+thay ga	632
+lun nghien	633
+nghien rang	634
+-Ga	635
+noi: -Ga	636
+-Ga lun	637
+ten la	638
+OUL	639
+thun ho	640
+lap	641
+hien	642
+lap tuc	643
+xuong, hien	644
+Duong	645
+Tu	646
+Duong Tu	647
+Tu lun	648
+xuong dat	649
+nguoi vua	650
+map thay	651
+ve	652
+map ve	653
+van	654
+map van	655
+map, noi	656
+hoi	657
+map hoi	658
+map.	659
+mat lao	660
+lun map.	661
+roi lao	662
+map vat	663
+gi	664
+gi lao	665
+! Lao	666
+map cang	667
+biet	668
+duoc	669
+biet lao	670
+map duoc	671
+cuoi	672
+map cuoi	673
+giuc	674
+map giuc	675
+khoan	676
+map khoan	677
+vam	678
+vo,	679
+hinh thap	680
+lun vam	681
+vam vo,	682
+sau.	683
+tu tu	684
+lun sau.	685
+Son,	686
+Son, lao	687
+ULLO	688
+hen	689
+hen lao	690
+lun toi	691
+toi day	692
+ta?	693
+Sao	694
+ta? Lao	695
+lun kia!	696
+kia! Sao	697
+to	698
+to nguoi	699
+lun cung	700
+cung thanh	701
+nay thanh	702
+chan	703
+trong	704
+chan da	705
+sau trong	706
+dat.	707
+vao dat.	708
+ta da	709
+lun qua	710
+qua sau	711
+dai	712
+ha	713
+dai ha	714
+ha lun	715
+thap lap	716
+song	717
+dai han	718
+lun su	719
+su song	720
+phun	721
+duoi cam	722
+cam lun	723
+lun phun	724
+phun may	725
+khom	726
+tit khom	727
+dau thap	728
+kia vua	729
+khong thap	730
+lun thi	731
+thi cung	732
+thun,	733
+lun thun,	734
+thun, nhung	735
+roi,	736
+roi, voi	737
+voi lun	738
+thay lao	739
+su phu	740
+phu lun	741
+ay cua	742
+do	743
+tit do	744
+phong	745
+the beo	746
+dang phong	747
+ga da	748
+lun di	749
+di mat	750
+qua dua	751
+cua nguoi	752
+dot	753
+dot nhien	754
+nhien lun	755
+om	756
+gia vua	757
+vua om	758
+va gay	759
+lao gia	760
+lun om	761
+om kia	762
+om Chu	763
+om cung	764
+goi	765
+ten goi	766
+kia tuy	767
+da thap	768
+xe	769
+dao nhan	770
+nhan lun	771
+lun bi	772
+bi xe	773
+voi lao	774
+lun do	775
+do lam	776
+Ba lun	777
+minh xuong,	778
+nay than	779
+ngung	780
+lao thap	781
+dung ngung	782
+si	783
+dao si	784
+si lun	785
+do di!	786
+si thap	787
+nay danh	788
+Nhan	789
+Tri	790
+Nhan Tri	791
+Tri lun	792
+han thap	793
+ma may	794
+Ten	795
+Ten nay	796
+ong	797
+dan ong	798
+ong lun	799
+tit, map	800
+nho da	801
+le	802
+.Ga	803
+le .Ga	804
+.Ga lun	805
+nho thap	806
+lun thanh	807
+thanh ra	808
+thuc beo	809
+nay lai	810
+cho	811
+khoi	812
+,	813
+cho khoi	814
+khoi lun	815
+tit ,	816
+nay ra	817
+mot ten	818
+ve si	819
+Dat,	820
+Dat, nguoi	821
+map ben	822
+bat	823
+nhat,	824
+gay beo	825
+lun bat	826
+bat nhat,	827
+rau	828
+map rau	829
+Nhung	830
+ram	831
+Nhung nguoi	832
+lun rau	833
+rau ram	834
+ngoi,	835
+dang ngoi,	836
+"Chuong	837
+lun noi:	838
+noi: "Chuong	839
+OULLLLL	840
+kia,	841
+lun kia,	842
+kia, tuc	843
+giua	844
+giua thap	845
+so	846
+so lao	847
+map da	848
+tha	849
+tha lao	850
+quai	851
+quai nhan	852
+map nhu	853
+Du.	854
+ho Du.	855
+ULO	856
+giet	857
+giet lao	858
+Jeep	859
+xe Jeep	860
+Jeep lun	861
+cua anh	862
+mac	863
+bo	864
+ga map	865
+lun mac	866
+mac bo	867
+nay,	868
+map nay,	869
+beo thap	870
+dang dung	871
+La	872
+ho La	873
+Binh	874
+Chi	875
+vai	876
+Binh Chi	877
+Chi lun	878
+thap vai	879
+da den	880
+thap nhung	881
+thap noi:	882
+dong	883
+tien	884
+diu	885
+dong tien	886
+tien lun	887
+sau diu	888
+luc	889
+luc cang	890
+ga beo	891
+muoi,	892
+muoi, vua	893
+vua beo	894
+do,	895
+buoc nao	896
+nao lun	897
+buoc do,	898
+thuong nhan	899
+thun lai	900
+nho,	901
+me	902
+nho, thap	903
+tu me	904
+Du!	905
+ho Du!	906
+Lam	907
+coi	908
+Lam lao	909
+lun coi	910
+coi da	911
+ha vua	912
+vua map.	913
+vua thap	914

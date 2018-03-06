@@ -1,0 +1,881 @@
+ngoai	1
+tam	2
+trum	3
+dau	4
+cua	5
+ngoai tam	6
+tam trum	7
+trum dau	8
+dau cua	9
+LLLL	10
+LLLLL	11
+LLL	12
+LL	13
+bo	14
+khan	15
+dau,	16
+bang	17
+bo khan	18
+khan trum	19
+trum dau,	20
+dau, bang	21
+LLLO	22
+bi	23
+bao	24
+mot	25
+man	26
+bi bao	27
+bao trum	28
+trum mot	29
+mot man	30
+toa	31
+nui	32
+kin	33
+dat	34
+toa nui	35
+nui trum	36
+trum kin	37
+kin dat	38
+nao	39
+khap	40
+moi	41
+nao bao	42
+trum khap	43
+khap moi	44
+tanh	45
+troi	46
+dat,	47
+tanh bao	48
+trum troi	49
+troi dat,	50
+hoa,	51
+lay	52
+Ma	53
+hoa, bao	54
+trum lay	55
+lay Ma	56
+UL	57
+LO	58
+han	59
+ca	60
+han bao	61
+lay ca	62
+toi	63
+hai	64
+toi bao	65
+lay hai	66
+nhu,	67
+doi	68
+nhu, bao	69
+lay doi	70
+le	71
+Doc	72
+le bao	73
+lay Doc	74
+ULL	75
+boI	76
+khoi	77
+trum boI	78
+boI khoi	79
+LLU	80
+OL	81
+buI	82
+lay,	83
+thoang	84
+buI bao	85
+trum lay,	86
+lay, thoang	87
+LLLLLL	88
+ra,	89
+Vuong	90
+ra, bao	91
+lay Vuong	92
+LLO	93
+ULLLL	94
+quang	95
+khuon	96
+quang bao	97
+trum ca	98
+ca khuon	99
+la	100
+gan	101
+la gan	102
+gan trum	103
+troi dat	104
+ra	105
+xuong	106
+ra bao	107
+trum xuong	108
+xuong dau	109
+bui	110
+cao,	111
+che	112
+bui cao,	113
+cao, trum	114
+trum khan	115
+khan che	116
+leo	117
+len	118
+Da	119
+leo bao	120
+trum len	121
+len Da	122
+the	123
+tieng	124
+Ham	125
+Duong,	126
+the tieng	127
+tieng trum	128
+trum Ham	129
+Ham Duong,	130
+ULLLLO	131
+OO	132
+tuc	133
+khong	134
+tuc bao	135
+ca khong	136
+dong	137
+ca dong	138
+het	139
+xuong bao	140
+trum het	141
+het ca	142
+dan,	143
+toan	144
+dan, bao	145
+trum toan	146
+toan bo	147
+bat	148
+to	149
+phu	150
+bat to	151
+to trum	152
+trum phu	153
+phu len	154
+long	155
+do.	156
+long phu	157
+phu trum	158
+trum do.	159
+noi.	160
+khap noi.	161
+thuong	162
+noi,	163
+thuong bao	164
+trum moi	165
+moi noi,	166
+lang	167
+sanh	168
+duong,	169
+lang bao	170
+trum sanh	171
+sanh duong,	172
+LLLLLO	173
+boi	174
+trum boi	175
+boi mot	176
+khi	177
+gian.	178
+khi bao	179
+trum khong	180
+khong gian.	181
+LLLLO	182
+noi	183
+ve	184
+noi bao	185
+mot ve	186
+co	187
+chan	188
+ngu	189
+hai co	190
+co trum	191
+trum chan	192
+chan ngu	193
+sac	194
+than	195
+sac bao	196
+trum than	197
+than the	198
+lay than	199
+deu	200
+deu bao	201
+toan than	202
+trong	203
+huyet	204
+trum trong	205
+trong huyet	206
+troi,	207
+troi, bao	208
+len toan	209
+tat	210
+lay tat	211
+Thu	212
+lay Thu	213
+cho,	214
+roi	215
+nguyen	216
+nguoi	217
+cho, roi	218
+roi trum	219
+trum nguyen	220
+nguyen nguoi	221
+quai	222
+ngoi	223
+quai bao	224
+len ngoi	225
+may	226
+ong	227
+ho	228
+dao	229
+may ong	230
+ong trum	231
+trum ho	232
+ho dao	233
+gai	234
+dao.	235
+gai ong	236
+ho dao.	237
+Ong	238
+Ong trum	239
+moi toi	240
+biet	241
+roi ong	242
+khong biet	243
+dao?	244
+mot ong	245
+ho dao?	246
+bung	247
+bung len	248
+len trum	249
+lay toan	250
+rung	251
+cay,	252
+trum rung	253
+rung cay,	254
+tien	255
+thuat	256
+doi,	257
+tieu	258
+tien thuat	259
+thuat trum	260
+trum doi,	261
+doi, tieu	262
+huong	263
+hoan	264
+vu,	265
+huong bao	266
+trum hoan	267
+hoan vu,	268
+hinh,	269
+ba	270
+hinh, bao	271
+lay ba	272
+da	273
+Ho	274
+Ky	275
+da bao	276
+trum Ho	277
+Ho Ky	278
+chiec	279
+mu	280
+chiec mu	281
+mu trum	282
+dang	283
+dang bao	284
+sac,	285
+sac, phu	286
+chi	287
+khong chi	288
+chi trum	289
+kin dau	290
+Thuong	291
+lay Thuong	292
+ULLLLL	293
+chet	294
+tinh	295
+chet bao	296
+len tinh	297
+ban	298
+ten	299
+ban ten	300
+ten trum	301
+trum doi	302
+doi cua	303
+lien	304
+han.	305
+lien bao	306
+lay han.	307
+dac,	308
+minh	309
+dac, bao	310
+than minh	311
+thoi	312
+quan	313
+thoi bao	314
+lay quan	315
+dung	316
+dung khan	317
+dau che	318
+anh	319
+hung	320
+doi.	321
+anh hung	322
+hung trum	323
+trum doi.	324
+dan	325
+bon	326
+dan bao	327
+len bon	328
+ben	329
+trong.	330
+bi phu	331
+trum ben	332
+ben trong.	333
+khong phu	334
+tim	335
+da phu	336
+len tim	337
+hac	338
+kin,	339
+gio	340
+hac khi	341
+khi trum	342
+trum kin,	343
+kin, gio	344
+chi bao	345
+thien	346
+noi phu	347
+toan thien	348
+tram	349
+tram bao	350
+nhung	351
+boi nhung	352
+nhien	353
+sau	354
+nhien bao	355
+trum sau	356
+sau khi	357
+mo,	358
+ho.	359
+mo, bao	360
+lay ho.	361
+tuon	362
+tuon ra	363
+ra trum	364
+kin than	365
+trang	366
+ha	367
+trang bao	368
+trum thien	369
+thien ha	370
+du	371
+nhu	372
+du nhu	373
+nhu trum	374
+trum dang	375
+dang trong	376
+mat	377
+trum khuon	378
+khuon mat	379
+lai	380
+than,	381
+lai bao	382
+toan than,	383
+am	384
+linh	385
+am bao	386
+trum linh	387
+linh duong,	388
+ha.	389
+thien ha.	390
+cay	391
+hang	392
+cay bao	393
+trum hai	394
+hai hang	395
+y	396
+ao	397
+goi	398
+y da	399
+da trum	400
+trum ao	401
+ao goi	402
+L	403
+thi	404
+phuong	405
+thi bao	406
+trum bon	407
+bon phuong	408
+cuon	409
+cuon bao	410
+dia,	411
+nhu bao	412
+thien dia,	413
+Gan	414
+dat.	415
+Gan trum	416
+troi dat.	417
+ha,	418
+tinh bao	419
+thien ha,	420
+phach	421
+phach bao	422
+song	423
+truong.	424
+song bao	425
+toan truong.	426
+LLLLLLO	427
+nhan	428
+dao nhan	429
+nhan trum	430
+len nguoi	431
+thuy	432
+thuy bao	433
+trum mat	434
+mat dat.	435
+mot khong	436
+cong	437
+lao	438
+buoc	439
+cong lao	440
+lao trum	441
+doi, buoc	442
+muon	443
+ca!	444
+muon bao	445
+trum tat	446
+tat ca!	447
+ngo	448
+ngo ba	449
+ba trum	450
+len ca	451
+van	452
+chung	453
+quanh	454
+van bao	455
+trum chung	456
+chung quanh	457
+cham	458
+nam	459
+thi chi	460
+trum cham	461
+cham nam	462
+Lam	463
+tay	464
+Lam trum	465
+trum ban	466
+ban tay	467
+su	468
+su bao	469
+den	470
+nguoi dau	471
+dau trum	472
+khan den	473
+dau ra	474
+dem	475
+dau.	476
+khan dem	477
+dem trum	478
+len dau.	479
+de	480
+di.	481
+lao de	482
+de trum	483
+dau di.	484
+it,	485
+khong it,	486
+Ba	487
+Ba nguoi	488
+nguoi trum	489
+kin dau,	490
+bien	491
+trong bien	492
+Hoac	493
+trum Hoac	494
+Hoac Ky	495
+ULLL	496
+mong,	497
+mong, bao	498
+tai	499
+bao tai	500
+tai trum	501
+Luu	502
+quang anh	503
+anh trum	504
+len Luu	505
+hao	506
+quang,	507
+hao quang,	508
+quang, trum	509
+len hai	510
+mong	511
+chan mong	512
+mong trum	513
+len minh	514
+mac	515
+con	516
+mac bao	517
+ca con	518
+hoc	519
+hoc bao	520
+khai	521
+khai bao	522
+truong,	523
+tren	524
+truong, bao	525
+trum tren	526
+tren dau	527
+kiem	528
+phap	529
+kiem phap	530
+phap trum	531
+co mu	532
+dau de	533
+gian,	534
+gian, bao	535
+lay mot	536
+ay	537
+lay.	538
+ay bao	539
+trum lay.	540
+mat bao	541
+len dau	542
+y,	543
+y, bao	544
+vu	545
+vu bao	546
+ca troi	547
+ca ba	548
+na	549
+nhe	550
+mat na	551
+na trum	552
+dau, nhe	553
+am,	554
+am, bao	555
+khap noi	556
+ngang	557
+ngang bao	558
+het mot	559
+mo	560
+Tieu	561
+mo bao	562
+khap Tieu	563
+len,	564
+len, bao	565
+trong dao	566
+dem bao	567
+khap noi,	568
+ga,	569
+lay ga,	570
+bien phu	571
+len tieng	572
+gian	573
+du bao	574
+khong gian	575
+nay	576
+bay	577
+nay bao	578
+ca bay	579
+dau, than	580
+cho	581
+dau cho	582
+at	583
+at bao	584
+ca anh	585
+day,	586
+day, bao	587
+khap tam	588
+Han	589
+ca Han	590
+let,	591
+let, bao	592
+trum ba	593
+ba nguoi	594
+cong,	595
+cong, bao	596
+boi su	597
+xuong,	598
+xuong, bao	599
+do	600
+Ngoc	601
+Thanh	602
+do bao	603
+trum Ngoc	604
+Ngoc Thanh	605
+dinh	606
+ca dinh	607
+trong may	608
+cung,	609
+am cung,	610
+cung, trum	611
+len tat	612
+can	613
+nha	614
+trum can	615
+can nha	616
+Tu	617
+troi bao	618
+ca Tu	619
+tuyen,	620
+tuyen, dau	621
+den trum	622
+cung	623
+nao cung	624
+cung trum	625
+mot tam	626
+muu	627
+luoc	628
+muu luoc	629
+luoc trum	630
+doi, bung	631
+kia	632
+han,	633
+kia dang	634
+dang trum	635
+len han,	636
+Thanh dang	637
+len can	638
+lo	639
+lo bao	640
+nua	641
+nua bao	642
+phen	643
+mot phen	644
+vung	645
+noi, bao	646
+trum vung	647
+vung nui	648
+luong	649
+dia.	650
+luong bao	651
+thien dia.	652
+mua	653
+vuot	654
+mua vuot	655
+vuot trum	656
+khoc	657
+lien phu	658
+trum tieng	659
+tieng khoc	660
+loi	661
+loi bao	662
+xa	663
+ky	664
+xa ky	665
+ky trum	666
+doi, kiem	667
+lon	668
+lon bao	669
+ca nhung	670
+the bao	671
+Xich	672
+lay Xich	673
+ma,	674
+ma, bao	675
+Lien	676
+Xo	677
+trum Lien	678
+Lien Xo	679
+qua	680
+Thai	681
+qua lon	682
+lon trum	683
+len Thai	684
+tuoi	685
+khu	686
+tuoi bao	687
+len khu	688
+bong	689
+trong bong	690
+lay Tu	691
+hai bao	692
+len tam	693
+tong	694
+khap tong	695
+cu	696
+viec	697
+cu viec	698
+viec trum	699
+khap mat	700
+dap	701
+dap chan	702
+chan trum	703
+kin mat	704
+lay Tieu	705
+day	706
+khap bao	707
+ca day	708
+vut	709
+han!!!.	710
+vut bao	711
+lay han!!!.	712
+LLLOOOO	713
+Huyet	714
+Huyet Ma	715
+Ma trum	716
+lay, moi	717
+sang	718
+lai,	719
+ngay	720
+sang bao	721
+trum lai,	722
+lai, ngay	723
+ap	724
+am ap	725
+ap trum	726
+len than	727
+gam	728
+chan gam	729
+gam trum	730
+len con	731
+ca dat	732
+manh	733
+vai	734
+manh vai	735
+vai trum	736
+bo bao	737
+lay toa	738
+lon,	739
+vai lon,	740
+lon, trum	741
+bon con	742
+nhien cung	743
+trong mot	744
+non	745
+non bao	746
+tuy	747
+tuy bao	748
+boi,	749
+Khuc	750
+boi, bao	751
+ca Khuc	752
+vi	753
+dot	754
+vi bao	755
+trum cua	756
+cua dot	757
+ngat	758
+goc	759
+ngat bao	760
+mot goc	761
+buong	762
+cai	763
+nhin	764
+de buong	765
+buong trum	766
+trum cai	767
+cai nhin	768
+Thac	769
+Thac bao	770
+tam khan	771
+dau han	772
+chiec khan	773
+dau ra,	774
+trum bong	775
+bong toi	776
+ma	777
+kiem thuat	778
+doi ma	779
+men	780
+chui	781
+toi thi	782
+thi trum	783
+trum men	784
+men chui	785
+phia,	786
+phia, bao	787
+hai nguoi	788
+anh bao	789
+ca hai	790
+lu	791
+lu lu	792
+lu trum	793
+chan len	794
+tung	795
+tung bao	796
+gio,	797
+gio, bao	798
+tu	799
+tu bao	800
+het toan	801
+lam	802
+lam bao	803
+anh,	804
+anh, bao	805
+trum Tu	806
+Tu Tu	807
+tet	808
+tet bao	809
+khap toan	810
+ha!	811
+cao, chi	812
+thien ha!	813
+xich	814
+ao xuong	815
+xuong trum	816
+kin xich	817
+Chu	818
+len Chu	819
+Dao	820
+cuon cuon	821
+cuon trum	822
+kin Dao	823
+hao quang	824
+quang trum	825
+cac	826
+phu bao	827
+het cac	828
+ga	829
+trum ga	830
+ga trong	831
+tren mat	832
+cua kiem	833
+ruc	834
+ro,	835
+Do	836
+ruc ro,	837
+ro, trum	838
+lay Do	839
+ca,	840
+tat ca,	841
+lua	842
+ngon	843
+lua bao	844
+ca ngon	845
+tranh	846
+tranh bao	847
+trung	848
+trung bao	849
+nguoi bao	850
+chu	851
+trum chu	852
+chu vi	853
+phia	854
+chan phu	855
+trum ve	856
+ve phia	857
+khap len	858
+khap dinh	859
+cua cay	860
+mui	861
+mau,	862
+trum mui	863
+mui mau,	864
+choi,	865
+Quy	866
+choi, bao	867
+lay Quy	868
+tri	869
+tri bao	870
+mau	871
+mau den	872
+kit	873
+mat,	874
+trum kit	875
+kit mat,	876
+may den	877
+kin len	878
+than bi	879
+bi trum	880
+trong man	881

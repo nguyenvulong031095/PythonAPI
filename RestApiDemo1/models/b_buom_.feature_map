@@ -1,0 +1,672 @@
+gio	1
+duong	2
+buom	3
+dap:	4
+-	5
+gio duong	6
+duong buom	7
+buom dap:	8
+dap: -	9
+LLLL	10
+LLL	11
+LLLLL	12
+O	13
+LLLO	14
+LL	15
+LO	16
+thuyen	17
+ba	18
+phia	19
+sau	20
+thuyen ba	21
+ba buom	22
+buom phia	23
+phia sau	24
+LLLLLL	25
+tuc	26
+ha	27
+dung	28
+thuyen,	29
+tuc ha	30
+ha buom	31
+buom dung	32
+dung thuyen,	33
+LLLLLLO	34
+luong	35
+giong	36
+ve	37
+Han.	38
+luong giong	39
+giong buom	40
+buom ve	41
+ve Han.	42
+ULLO	43
+deu	44
+thuan	45
+xuoi	46
+mai,	47
+deu thuan	48
+thuan buom	49
+buom xuoi	50
+xuoi mai,	51
+lon,	52
+duon	53
+lon, duon	54
+duon buom	55
+buom thuan	56
+thuan gio	57
+mot	58
+con	59
+beo	60
+mot con	61
+con buom	62
+buom buom	63
+buom beo	64
+phi,	65
+beo phi,	66
+noi:	67
+“Thuan	68
+gio!”.	69
+noi: “Thuan	70
+“Thuan buom	71
+xuoi gio!”.	72
+OULLLL	73
+LLLOOO	74
+OL	75
+vo	76
+so	77
+von	78
+vo so	79
+so buom	80
+buom von	81
+hoa	82
+von hoa	83
+thai	84
+keo	85
+len,	86
+thai keo	87
+keo buom	88
+buom len,	89
+len, con	90
+chiec	91
+nho	92
+re	93
+chiec thuyen	94
+thuyen buom	95
+buom nho	96
+nho re	97
+roi	98
+ben,	99
+thuyen duong	100
+buom roi	101
+roi ben,	102
+len.	103
+roi keo	104
+buom len.	105
+Canh	106
+phong	107
+len	108
+Canh buom	109
+buom phong	110
+phong len	111
+ULLL	112
+phu	113
+xuong.	114
+phu ha	115
+buom xuong.	116
+LLLLLO	117
+ben	118
+cot	119
+xuyt	120
+nua	121
+ben cot	122
+cot buom	123
+buom xuyt	124
+xuyt nua	125
+lay	126
+khong	127
+dam	128
+lay cot	129
+buom khong	130
+khong dam	131
+hoi,	132
+canh	133
+hoi, canh	134
+canh buom	135
+buom ha	136
+ha xuong.	137
+dang	138
+cang	139
+luot	140
+song	141
+dang cang	142
+cang buom	143
+buom luot	144
+luot song	145
+thu	146
+thu thuan	147
+tan	148
+nhu	149
+buom,	150
+cua	151
+tan nhu	152
+nhu buom	153
+buom buom,	154
+buom, cua	155
+LLLLO	156
+nam	157
+neo	158
+o	159
+nam cot	160
+buom neo	161
+neo o	162
+L	163
+lenh,	164
+nhe	165
+nhang	166
+lenh, thuyen	167
+buom nhe	168
+nhe nhang	169
+0O0	170
+Thuyen	171
+ngung	172
+0O0 Thuyen	173
+Thuyen buom	174
+khong ngung	175
+NUN	176
+ULLLLL	177
+UO	178
+chung	179
+ca	180
+cung	181
+chung ca	182
+ca buom	183
+buom cung	184
+cung khong	185
+co	186
+trung,	187
+buom co	188
+co trung,	189
+cham	190
+buom cham	191
+cham cham	192
+hai	193
+cap	194
+hai cot	195
+buom dang	196
+dang cap	197
+boi	198
+qua	199
+con thuyen	200
+buom boi	201
+boi qua	202
+chuyen	203
+ong	204
+chuyen ong	205
+ong buom	206
+buom cua	207
+cua chung	208
+rach	209
+tung	210
+bay	211
+ba rach	212
+rach buom	213
+buom tung	214
+tung bay	215
+vua	216
+la	217
+vua bay	218
+bay buom	219
+buom vua	220
+vua la	221
+chim	222
+luon	223
+den	224
+chim bay	225
+buom luon	226
+luon den	227
+xuat	228
+hien	229
+buom xuat	230
+xuat hien	231
+lam	232
+lam la	233
+la buom	234
+buom cang	235
+cang len,	236
+Rac!	237
+Cot	238
+gay	239
+Rac! Cot	240
+Cot buom	241
+buom gay	242
+gay lam	243
+ULL	244
+OO	245
+lon	246
+do	247
+ca canh	248
+buom lon	249
+lon do	250
+boc	251
+do canh	252
+cung boc	253
+truoc	254
+kia,	255
+song ong	256
+buom truoc	257
+truoc kia,	258
+nao	259
+nao thuan	260
+xuoi gio	261
+giuong	262
+di	263
+lon, giuong	264
+giuong buom	265
+roi di	266
+chu	267
+ve bay	268
+buom chu	269
+chu khong	270
+va	271
+va cot	272
+buom deu	273
+deu co	274
+dan	275
+mot dan	276
+dan buom	277
+dang bay	278
+bat	279
+hoa bat	280
+bat buom	281
+buom nhu	282
+nhu truoc	283
+nhau,	284
+hai canh	285
+von nhau,	286
+Nam	287
+duoc	288
+Nam canh	289
+deu duoc	290
+thay	291
+ngom	292
+thay canh	293
+buom den	294
+den ngom	295
+ep,	296
+lai	297
+bi	298
+ep, canh	299
+buom lai	300
+lai bi	301
+LLO	302
+da	303
+ra	304
+khoi	305
+da duong	306
+buom ra	307
+ra khoi	308
+gio.	309
+khong thuan	310
+xuoi gio.	311
+cau	312
+de	313
+chao	314
+cau bay	315
+buom de	316
+de chao	317
+bay nhu	318
+mat	319
+truoc mat	320
+cho	321
+tot	322
+xau	323
+cho ong	324
+buom tot	325
+tot xau	326
+loai,	327
+bat loai,	328
+loai, buom	329
+hoa,	330
+von hoa,	331
+khuat	332
+buom khuat	333
+khuat dan	334
+huynh	335
+gio."	336
+huynh thuan	337
+xuoi gio."	338
+LLLOO	339
+buom.	340
+so nhu	341
+buom buom.	342
+tu	343
+dang tu	344
+lon cua	345
+luon thuan	346
+hang	347
+vat	348
+vo.	349
+hang ong	350
+buom vat	351
+vat vo.	352
+“Thuy	353
+mot canh	354
+buom noi:	355
+noi: “Thuy	356
+OULLL	357
+ban	358
+trung	359
+nhat	360
+ban trung	361
+trung buom	362
+deu nhat	363
+chay	364
+lam cot	365
+buom boc	366
+boc chay	367
+nem	368
+vao	369
+tren	370
+cao,	371
+nem vao	372
+vao buom	373
+buom tren	374
+tren cao,	375
+khoi,	376
+ra khoi,	377
+thang	378
+tien,	379
+buom thang	380
+thang tien,	381
+bon	382
+dom	383
+ngo	384
+bon ong	385
+buom dom	386
+dom ngo	387
+anh	388
+hut	389
+anh ong	390
+buom hut	391
+hut mat	392
+cay	393
+cay cot	394
+buom bi	395
+bi gay	396
+choi,	397
+tai	398
+sau bat	399
+buom choi,	400
+choi, tai	401
+co trung	402
+trong	403
+nhu con	404
+buom tu	405
+tu trong	406
+deu khong	407
+ho	408
+bong	409
+thap	410
+thoang,	411
+ho bong	412
+bong buom	413
+buom thap	414
+thap thoang,	415
+se	416
+se thuan	417
+nhung	418
+nhap	419
+nhung cot	420
+dang nhap	421
+the	422
+gio,	423
+the thuan	424
+xuoi gio,	425
+rat	426
+nhang bay	427
+buom trong	428
+trong rat	429
+tap	430
+nhay	431
+tap nhu	432
+buom nhay	433
+tua	434
+nhay tua	435
+gheo	436
+nua,	437
+huong	438
+hoa gheo	439
+gheo buom	440
+buom nua,	441
+nua, huong	442
+ngan	443
+sap	444
+ngan canh	445
+cung sap	446
+cung thuyen	447
+cung da	448
+Tat	449
+Tat ca	450
+deu da	451
+nay,	452
+cao	453
+hon	454
+nay, cot	455
+buom cao	456
+cao hon	457
+cung thuan	458
+tien	459
+buom tien	460
+tien ve	461
+trang	462
+da giuong	463
+buom trang	464
+trang cho	465
+tuong	466
+vo,	467
+tuong ong	468
+vat vo,	469
+dang di	470
+buom re	471
+re ra	472
+,	473
+cu	474
+, dan	475
+buom cu	476
+cu luon	477
+Chi	478
+qua.	479
+Chi giuong	480
+buom di	481
+di qua.	482
+Khi	483
+Khi canh	484
+lon duoc	485
+can	486
+con canh	487
+buom can	488
+can gio,	489
+lon:	490
+“Keo	491
+len!”.	492
+lon: “Keo	493
+“Keo buom	494
+buom len!”.	495
+OULL	496
+buom duoc	497
+duoc keo	498
+lot	499
+nho lot	500
+hon,	501
+gap	502
+hon, thuyen	503
+buom gap	504
+gap duoc	505
+quay	506
+dang duong	507
+buom quay	508
+quay ve	509
+nho keo	510
+buom len	511
+len cho	512
+mau	513
+xanh,	514
+vao canh	515
+buom mau	516
+mau xanh,	517
+bang	518
+vai	519
+tren canh	520
+buom bang	521
+bang vai	522
+sao	523
+sao tren	524
+tren buom	525
+lai ve	526
+tro	527
+lai,	528
+tro lai,	529
+lai, buom	530
+buom thuyen	531
+thuyen ha	532
+ke,	533
+san	534
+sat	535
+ke, cot	536
+buom san	537
+san sat	538
+hung	539
+nhu canh	540
+buom hung	541
+hung gio	542
+guong	543
+doi	544
+san.	545
+dang guong	546
+guong buom	547
+buom doi	548
+doi san.	549
+lon tu	550
+lon dang	551
+loi	552
+thi	553
+loi ong	554
+buom thi	555
+thi con	556
+duoi	557
+chuan	558
+duoi cang	559
+buom chuan	560
+chuan bi	561
+don	562
+het	563
+buom don	564
+don het	565
+do duong	566
+buom chay	567
+chay ve	568
+Hieu	569
+Hieu cang	570
+luot di	571
+khi	572
+khi thuyen	573
+buom chuyen	574
+chuyen huong	575
+troi	576
+buom troi	577
+troi thang	578
+bien.	579
+ra bien.	580
+khoang	581
+buom la	582
+la khoang	583
+thuyen co	584
+co buom	585
+buom lon,	586
+lon, co	587
+noi,	588
+noi, canh	589
+buom da	590
+da duoc	591
+lap	592
+buom, cot	593
+buom lap	594
+lap tuc	595
+nghieng	596
+nga	597
+buom nghieng	598
+nghieng nga	599
+LLLLLLL	600
+banh	601
+lech	602
+sang	603
+banh lai,	604
+buom lech	605
+lech sang	606
+thoi	607
+gio thoi	608
+thoi buom	609
+phong len,	610
+ho nhu	611
+thuyen.	612
+ho ha	613
+dung thuyen.	614
+toi.	615
+di toi.	616
+Tren	617
+treo	618
+Tren cot	619
+co treo	620
+trung thuan	621
+lao	622
+chenh	623
+buom lao	624
+lao chenh	625
+dot	626
+nhien	627
+buom dot	628
+dot nhien	629
+kho	630
+long	631
+buom kho	632
+kho long	633
+muoi.	634
+cua muoi.	635
+o0o	636
+dong	637
+o0o Thuyen	638
+xuoi dong	639
+LNL	640
+re qua	641
+da keo	642
+len, dang	643
+day	644
+muon	645
+lay day	646
+day buom	647
+thuyen muon	648
+khach	649
+buom cho	650
+cho khach	651
+lon nho	652
+Chiec	653
+Chiec thuyen	654
+thuan dong	655
+ULLLL	656
+buom hai	657
+khe	658
+buom khe	659
+khe lay	660
+Hai	661
+cua Hai	662
+lon nhat	663
+la thuan	664
+vi	665
+vi thuan	666
+neo,	667
+hanh.	668
+neo, giuong	669
+buom khoi	670
+khoi hanh.	671
+thuyen thuan	672

@@ -1,0 +1,838 @@
+ban	1
+roi	2
+gieo	3
+xuc	4
+xac	5
+ban roi	6
+roi gieo	7
+gieo xuc	8
+xuc xac	9
+LLLL	10
+LLL	11
+LL	12
+Nha	13
+cai	14
+thanh	15
+hai	16
+Nha cai	17
+cai gieo	18
+gieo thanh	19
+thanh hai	20
+ULL	21
+LLLLL	22
+OL	23
+tay	24
+vua	25
+xuong	26
+tay vua	27
+vua gieo	28
+gieo xuong	29
+xuong vua	30
+quay	31
+xac gieo	32
+xuong quay	33
+ga	34
+chua	35
+duoc	36
+tinh	37
+ga chua	38
+chua gieo	39
+gieo duoc	40
+duoc tinh	41
+Y	42
+Y gieo	43
+U	44
+UL	45
+de	46
+doc	47
+ba	48
+tieng	49
+de doc	50
+doc gieo	51
+gieo ba	52
+ba tieng	53
+tho	54
+lo	55
+mat	56
+tho lo	57
+lo gieo	58
+xuong mat	59
+moi	60
+nguoi	61
+moi nguoi	62
+nguoi gieo	63
+toan	64
+thi	65
+tay toan	66
+toan gieo	67
+xuong thi	68
+chi	69
+la	70
+nham	71
+chi la	72
+la gieo	73
+gieo nham	74
+nham tinh	75
+lap	76
+ke	77
+toi	78
+cho	79
+lap ke	80
+ke gieo	81
+gieo toi	82
+toi cho	83
+cuoc	84
+toi cuoc	85
+cuoc gieo	86
+gieo tho	87
+Nam	88
+co	89
+roi.	90
+Nam co	91
+co gieo	92
+gieo roi.	93
+LLLO	94
+Kiem	95
+Binh	96
+Kiem Binh	97
+Binh gieo	98
+duoc ba	99
+ULLL	100
+OO	101
+khoi	102
+can	103
+nua.	104
+khoi can	105
+can gieo	106
+gieo nua.	107
+ty	108
+ty ty	109
+ty gieo	110
+duoc hai	111
+ga,	112
+y	113
+ga, y	114
+y gieo	115
+L	116
+LLO	117
+ho	118
+se	119
+ho se	120
+se gieo	121
+vang,	122
+thu	123
+ket	124
+doc vang,	125
+vang, gieo	126
+gieo thu	127
+thu ket	128
+LLLLO	129
+da	130
+bao	131
+nhieu	132
+cuoc da	133
+da gieo	134
+gieo bao	135
+bao nhieu	136
+vao	137
+chen	138
+gieo vao	139
+vao chen	140
+phap	141
+muon	142
+nao	143
+phap muon	144
+muon gieo	145
+gieo mat	146
+mat nao	147
+Ga	148
+ngoi	149
+Ga ngoi	150
+ngoi gieo	151
+tra	152
+tai	153
+hoa.	154
+tra tai	155
+tai gieo	156
+gieo hoa.	157
+tham	158
+chan	159
+khi	160
+tham da	161
+gieo chan	162
+chan khi	163
+may	164
+Ga gieo	165
+gieo may	166
+may ban	167
+chung	168
+ta	169
+chung ta	170
+ta gieo	171
+day	172
+day muon	173
+tien	174
+cung	175
+gieo tien	176
+tien cung	177
+-	178
+Phai	179
+- Phai	180
+Phai gieo	181
+O	182
+Vay	183
+Vay gieo	184
+nguoi ta	185
+deu	186
+nguoi deu	187
+deu gieo	188
+gieo moi	189
+Ai	190
+diem	191
+Ai gieo	192
+gieo nhieu	193
+nhieu diem	194
+Neu	195
+mot	196
+phat	197
+- Neu	198
+Neu gieo	199
+gieo mot	200
+mot phat	201
+tuong	202
+nen	203
+tuong nen	204
+nen gieo	205
+ba phat	206
+den	207
+cang	208
+lan	209
+den cang	210
+cang gieo	211
+nhieu lan	212
+phat.	213
+gieo phat.	214
+Khong	215
+the	216
+Khong the	217
+the gieo	218
+ULLLL	219
+Moi	220
+ben	221
+Moi ben	222
+ben gieo	223
+Thieu	224
+gia	225
+truoc	226
+di.	227
+Thieu gia	228
+gia gieo	229
+gieo truoc	230
+truoc di.	231
+hi	232
+hi toan	233
+vi	234
+hai vi	235
+vi gieo	236
+Chung	237
+nhi	238
+di	239
+!	240
+Chung nhi	241
+nhi gieo	242
+gieo di	243
+di !	244
+LO	245
+len	246
+danh	247
+mat len	248
+len gieo	249
+xuong danh	250
+khong	251
+ai	252
+khong ai	253
+ai gieo	254
+Cu	255
+tu	256
+nhien	257
+- Cu	258
+Cu gieo	259
+gieo tu	260
+tu nhien	261
+Quy	262
+Quy Chung	263
+Chung gieo	264
+xuong truoc	265
+lai	266
+len toan	267
+gieo lai	268
+lai thi	269
+nhe	270
+nhang	271
+xuong.	272
+nhe nhang	273
+nhang gieo	274
+gieo xuong.	275
+LLLLLO	276
+vua roi	277
+thanh diem	278
+tu tu	279
+tu gieo	280
+cuc,	281
+phai	282
+cuc, phai	283
+phai gieo	284
+lai lan	285
+duoc diem	286
+nghia	287
+si	288
+thuong	289
+nghia si	290
+si gieo	291
+moi thuong	292
+LLLLLL	293
+khac	294
+gi	295
+lo,	296
+khac gi	297
+gi gieo	298
+tho lo,	299
+hong!	300
+bo	301
+hong! Ga	302
+gieo bo	303
+bo xuc	304
+Bao	305
+bong	306
+Bao bong	307
+bong gieo	308
+nguoi khong	309
+khong gieo	310
+Ong	311
+Ong ban	312
+ban gieo	313
+xuong thanh	314
+nien	315
+tam	316
+nien deu	317
+duoc tam	318
+cai toan	319
+ma	320
+Bao ma	321
+ma gieo	322
+nhan	323
+van	324
+nhan van	325
+van gieo	326
+bac	327
+"Muoi	328
+tit".	329
+bac lan	330
+lan gieo	331
+gieo "Muoi	332
+"Muoi tit".	333
+OULLL	334
+LLLOO	335
+1	336
+lan,	337
+gieo 1	338
+1 lan,	339
+N	340
+LN	341
+NL	342
+lan.	343
+1 lan.	344
+su	345
+muoi	346
+su muoi	347
+muoi gieo	348
+cu	349
+di!	350
+muoi cu	351
+cu gieo	352
+gieo di!	353
+di! Neu	354
+nuong	355
+co nuong	356
+nuong gieo	357
+truoc di!	358
+manh	359
+dan	360
+manh dan	361
+dan gieo	362
+minh	363
+kem	364
+qua	365
+bac minh	366
+minh gieo	367
+gieo kem	368
+kem qua	369
+nu	370
+nu chi	371
+chi gieo	372
+duoc co	373
+"tam	374
+ga co	375
+duoc "tam	376
+OLLL	377
+ha	378
+lay,	379
+tai ha	380
+ha gieo	381
+gieo lay,	382
+lay, nguoi	383
+ke.	384
+nguoi khac	385
+khac gieo	386
+gieo khong	387
+khong ke.	388
+xac?	389
+xuc xac?	390
+thay	391
+thay y	392
+xac,	393
+xuc xac,	394
+ban tuong	395
+tuong gieo	396
+duoc tu	397
+trong,	398
+1.	399
+trong, muon	400
+thanh 1.	401
+NO	402
+vao roi	403
+linh,	404
+3	405
+khong linh,	406
+linh, gieo	407
+thanh 3	408
+biet	409
+biet ga	410
+ga gieo	411
+thanh muoi	412
+nhap	413
+xac.	414
+nhap cuoc	415
+xuc xac.	416
+dan ba	417
+ba gieo	418
+Bon	419
+Bon ho	420
+ho gieo	421
+Chung ta	422
+gieo lan	423
+lan thu	424
+Bao lai	425
+lai gieo	426
+Mau	427
+mau	428
+Mau mau	429
+mau gieo	430
+mot lan	431
+Nguoi	432
+Nguoi khong	433
+gieo thi	434
+thi ta	435
+khan	436
+xong	437
+khan xong	438
+xong gieo	439
+con	440
+chua cung	441
+cung gieo	442
+gieo hai	443
+hai con	444
+lai.	445
+xac len	446
+gieo lai.	447
+luc	448
+vach	449
+toan luc	450
+luc gieo	451
+vao vach	452
+khoi da	453
+Quy,	454
+Quy, ga	455
+ULLO	456
+xuong,	457
+xac chua	458
+gieo xuong,	459
+xuong, ga	460
+som	461
+hon	462
+minh khong	463
+gieo som	464
+som hon	465
+lam!	466
+lam! Ga	467
+phao	468
+tang	469
+vu.	470
+phao tang	471
+tang gieo	472
+gieo vu.	473
+cay,	474
+bua,	475
+bon	476
+cay, bua,	477
+bua, gieo	478
+gieo cho	479
+cho bon	480
+khoang	481
+ruong	482
+lac	483
+khoang ruong	484
+ruong gieo	485
+gieo lac	486
+lac de	487
+Co	488
+het	489
+luong	490
+Co ta	491
+gieo het	492
+het luong	493
+not	494
+vat	495
+quay lai	496
+gieo not	497
+not vat	498
+Em	499
+gon	500
+khoanh	501
+- Em	502
+Em gieo	503
+gieo gon	504
+gon khoanh	505
+voi,	506
+nen phai	507
+gieo voi,	508
+voi, gieo	509
+loat.	510
+mot loat.	511
+Tieu	512
+dau	513
+Tieu Bao	514
+Bao gieo	515
+gieo dau	516
+dau vao	517
+noi	518
+noi vua	519
+gieo minh	520
+minh vao	521
+Ðoan	522
+han	523
+Ðoan han	524
+han gieo	525
+Uy	526
+sau	527
+Binh Uy	528
+Uy gieo	529
+gieo sau	530
+sau con	531
+gieo roi	532
+roi moi	533
+lo.	534
+sau ma	535
+tho lo.	536
+Ngo	537
+5	538
+ho Ngo	539
+Ngo gieo	540
+duoc 5	541
+tung	542
+tung nguoi	543
+thi ga	544
+Thu	545
+kheo	546
+Thu phap	547
+phap gieo	548
+gieo gia	549
+gia kheo	550
+,	551
+chuon	552
+, luc	553
+gieo ga	554
+ga chuon	555
+theo	556
+co the	557
+gieo theo	558
+theo y	559
+ngung	560
+ngung nen	561
+thoi	562
+thoi minh	563
+ta cung	564
+ma muon	565
+bo gi	566
+du	567
+thi du	568
+du gieo	569
+den noi	570
+noi gieo	571
+lien	572
+so	573
+nho	574
+vat lien	575
+lien gieo	576
+gieo so	577
+so nho	578
+duoc bo	579
+la chua	580
+gieo ,	581
+, ga	582
+-Neu	583
+"thien"	584
+-Neu minh	585
+bo "thien"	586
+OLLLLLO	587
+OULL	588
+Han	589
+Han lien	590
+thua	591
+ga lai	592
+gieo thua	593
+thua mot	594
+lon	595
+long	596
+da lon	597
+lon gieo	598
+vao long	599
+gai	600
+sac,	601
+gai da	602
+xuc sac,	603
+thang	604
+thang minh	605
+gieo thang	606
+thang xuong	607
+tren	608
+ban,	609
+tren ban,	610
+ban, gieo	611
+thi tai	612
+bang	613
+bang cu	614
+va	615
+rat	616
+manh va	617
+va gieo	618
+gieo da	619
+da rat	620
+dung	621
+dung luc	622
+tieu	623
+tieu thu	624
+thu gieo	625
+sau khi	626
+khi gieo	627
+vo	628
+cuoi.	629
+vo tay	630
+tay gieo	631
+gieo cuoi.	632
+loi	633
+theo loi	634
+loi gieo	635
+Mot	636
+ten	637
+bay	638
+Mot ten	639
+ten gieo	640
+duoc bay	641
+nam	642
+mot ten	643
+duoc nam	644
+Hai	645
+nguoi lai	646
+di! Hai	647
+chiu	648
+nao chiu	649
+chiu gieo	650
+chet.	651
+gieo cung	652
+cung chet.	653
+nguoi vao	654
+vao gieo	655
+chet	656
+cung chet	657
+rang	658
+rang cu	659
+gieo con	660
+con co	661
+xac toan	662
+Ta	663
+voi	664
+nguoi.	665
+- Ta	666
+Ta gieo	667
+gieo voi	668
+voi nguoi.	669
+Vay nguoi	670
+Ten	671
+quan	672
+Ten quan	673
+quan gieo	674
+xuong duoc	675
+Nguoi vao	676
+di! Ten	677
+gian	678
+gian lan	679
+roi,	680
+lam	681
+roi, con	682
+con gieo	683
+gieo lam	684
+lam chi	685
+u?	686
+Tu	687
+- Khong	688
+Khong gieo	689
+gieo u?	690
+u? Tu	691
+vao day	692
+day gieo	693
+ben minh	694
+duoc gi	695
+neu	696
+la neu	697
+neu gieo	698
+hay	699
+van hay	700
+hay gieo	701
+vong	702
+mot vong	703
+vong gieo	704
+Ga vua	705
+Tieu de	706
+de gieo	707
+dap:	708
+“Nguoi	709
+hoa	710
+dap: “Nguoi	711
+“Nguoi gieo	712
+gieo hoa	713
+hoa cho	714
+OULLLL	715
+giup	716
+hinh	717
+giup y	718
+gieo hinh	719
+hinh tuong	720
+hat	721
+ai da	722
+xuong hat	723
+phat,	724
+ac	725
+gap	726
+da phat,	727
+phat, gieo	728
+gieo ac	729
+ac gap	730
+ru	731
+con,	732
+ru con,	733
+con, gieo	734
+nguoi,	735
+rac	736
+nguoi, ta	737
+gieo rac	738
+rac dau	739
+ngo	740
+mam	741
+khong ngo	742
+ngo gieo	743
+nham mam	744
+la phai	745
+minh xuong	746
+xac...	747
+xuc xac...	748
+LLLOOO	749
+nao la	750
+danh bac	751
+bac gieo	752
+gieo va	753
+va cho	754
+ben deu	755
+mot thu	756
+qua,	757
+chang	758
+nhe qua,	759
+qua, gieo	760
+xuong chang	761
+lay	762
+vo lay	763
+lay gieo	764
+het lan	765
+oc	766
+son	767
+oc son	768
+son gieo	769
+May	770
+May nguoi	771
+thuyen	772
+phu	773
+thuyen phu	774
+phu gieo	775
+tran	776
+tran thi	777
+thi gieo	778
+duoc phat	779
+Doan	780
+Doan ga	781
+xuong, khong	782
+vong roi	783
+voi co	784
+lenchay	785
+lenchay lai	786
+LLLLLLL	787
+tong	788
+va tong	789
+chuyen	790
+hoai	791
+chuyen de	792
+moi hoai	793
+tuong vao	794
+nguoi hay	795
+Tro	796
+di! Tro	797
+Tro gieo	798
+ban lai	799
+mot khoi	800
+Nguoi thu	801
+cho ta	802
+lao	803
+lao noi	804
+huu	805
+ban huu	806
+huu gieo	807
+Que	808
+Que Tu	809
+Tu gieo	810
+bao minh	811
+gieo cai	812
+cai gi	813
+xuong chen	814
+viec	815
+vao viec	816
+viec gieo	817
+hay!	818
+hay! Han	819
+Han gieo	820
+"	821
+" Ga	822
+nhu	823
+giong	824
+cuon.	825
+nhu giong	826
+giong gieo	827
+bao cuon.	828
+thi di	829
+di gieo	830
+Ban	831
+lanh	832
+Ban lanh	833
+lanh gieo	834
+gioi	835
+nghe	836
+gioi nghe	837
+nghe gieo	838

@@ -1,0 +1,564 @@
+nguoi	1
+au	2
+yem	3
+mot	4
+hoi,	5
+nguoi au	6
+au yem	7
+yem mot	8
+mot hoi,	9
+LL	10
+LLLLL	11
+LLL	12
+LLLO	13
+du,	14
+con	15
+len	16
+than	17
+du, con	18
+con yem	19
+yem len	20
+len than	21
+LLLL	22
+LLO	23
+thiet	24
+thi	25
+tro	26
+cho	27
+thiet thi	28
+thi yem	29
+yem tro	30
+tro cho	31
+van	32
+nguoi,	33
+van nguoi,	34
+nguoi, yem	35
+LLLLLO	36
+chien	37
+xa	38
+ho	39
+nua,	40
+chien xa	41
+xa yem	42
+yem ho	43
+ho nua,	44
+muon	45
+su	46
+cua	47
+muon su	48
+su yem	49
+ho cua	50
+dich	51
+nhan,	52
+nhung	53
+dich nhan,	54
+nhan, yem	55
+ho nhung	56
+LLLLO	57
+ben	58
+canh	59
+ho,	60
+ben canh	61
+canh yem	62
+yem ho,	63
+ho, thi	64
+he	65
+duoc	66
+lai	67
+he duoc	68
+duoc yem	69
+ho, lai	70
+hoa	71
+tien	72
+hoa tien	73
+tien yem	74
+ho cho	75
+xong	76
+ra	77
+xong ra	78
+ra yem	79
+duoi	80
+duoi su	81
+tro cua	82
+"Thanh	83
+long	84
+nguyet",	85
+goi	86
+"Thanh long	87
+long yem	88
+yem nguyet",	89
+nguyet", goi	90
+OULLLL	91
+LLLLLLOO	92
+OL	93
+Truong	94
+Phi	95
+ho.	96
+Truong Phi	97
+Phi yem	98
+yem ho.	99
+ULLLLL	100
+ULL	101
+OO	102
+dang	103
+bop	104
+chan	105
+dang au	106
+yem bop	107
+bop chan	108
+bon	109
+ta	110
+tro,	111
+luc	112
+bon ta	113
+ta yem	114
+yem tro,	115
+tro, luc	116
+tay	117
+khuon	118
+mat	119
+tay au	120
+yem khuon	121
+khuon mat	122
+Bat	123
+Vi	124
+khi	125
+Bat Vi	126
+Vi yem	127
+tro, khi	128
+UL	129
+cong,	130
+se	131
+cong, se	132
+se yem	133
+ha	134
+vo	135
+cung,	136
+ha au	137
+yem vo	138
+vo cung,	139
+Long	140
+hon	141
+Long au	142
+yem hon	143
+hon len	144
+ULLL	145
+Duoi	146
+Duoi su	147
+roi	148
+nang	149
+my	150
+roi au	151
+yem nang	152
+nang my	153
+"Binh	154
+bat	155
+tra"	156
+viec	157
+"Binh bat	158
+bat yem	159
+yem tra"	160
+tra" viec	161
+OULLL	162
+ha,	163
+duoc,	164
+ha, au	165
+yem thi	166
+thi duoc,	167
+rung	168
+ram	169
+rung ram	170
+ram yem	171
+tro, duoi	172
+thuy	173
+that	174
+quan"	175
+Truong thuy	176
+thuy yem	177
+yem that	178
+that quan"	179
+Tu	180
+quan".	181
+Tu thuy	182
+that quan".	183
+LLLLOO	184
+binh	185
+tra,	186
+binh bat	187
+yem tra,	188
+tra, ben	189
+thuong	190
+tra, thuong	191
+LLLLLL	192
+bong	193
+toi	194
+de	195
+bong toi	196
+toi yem	197
+ho de	198
+xong toi	199
+mua	200
+lon	201
+mua lon	202
+lon yem	203
+ho, viec	204
+co	205
+y	206
+co y	207
+y yem	208
+ho, muon	209
+L	210
+bo	211
+vay	212
+nhi	213
+bo vay	214
+vay yem	215
+yem bo	216
+bo nhi	217
+vuot	218
+ma	219
+yem vuot	220
+vuot ma	221
+the	222
+co the	223
+the yem	224
+noi,	225
+„Nang	226
+tam	227
+di!	228
+noi, „Nang	229
+„Nang yem	230
+yem tam	231
+tam di!	232
+LO	233
+manh	234
+tu	235
+sau	236
+mot manh	237
+manh yem	238
+yem tu	239
+tu sau	240
+sao	241
+Huong	242
+sao nguoi	243
+nguoi yem	244
+tro Huong	245
+ULLLL	246
+cay	247
+phia	248
+than cay	249
+cay yem	250
+tro phia	251
+tam,	252
+the,	253
+thuong tam,	254
+tam, yem	255
+yem the,	256
+the, bo	257
+„Binh	258
+neu	259
+„Binh bat	260
+tra, neu	261
+De	262
+thich	263
+De yem	264
+ho thich	265
+ga,	266
+„May	267
+ga, au	268
+yem noi,	269
+noi, „May	270
+OULL	271
+huynh	272
+ta se	273
+ho huynh	274
+nu	275
+truoc	276
+dam	277
+nu au	278
+yem truoc	279
+truoc dam	280
+mai	281
+tra, mai	282
+tra	283
+yem tra	284
+tra ma	285
+gia	286
+(hinh	287
+dung	288
+gia vo	289
+vo yem	290
+yem (hinh	291
+(hinh dung	292
+OLLLL	293
+xep	294
+va	295
+xep va	296
+va yem	297
+dem	298
+nhay	299
+bong dem	300
+dem yem	301
+tro, nhay	302
+hoi	303
+hoi au	304
+thi bon	305
+dong	306
+thoi	307
+dong thoi	308
+thoi yem	309
+tro nhung	310
+phong	311
+binh phong	312
+phong yem	313
+ho, nhung	314
+nao	315
+the nao	316
+nao yem	317
+ho ra	318
+dung su	319
+nang,	320
+keu,	321
+„Nha	322
+nang, au	323
+yem keu,	324
+keu, „Nha	325
+dinh,	326
+dinh, au	327
+noi, „Nha	328
+moi	329
+co nguoi	330
+ho moi	331
+tiep	332
+tro tiep	333
+long au	334
+mot hoi	335
+nhin	336
+Bach	337
+con au	338
+yem nhin	339
+nhin Bach	340
+ngoi	341
+yem ngoi	342
+ngoi canh	343
+la	344
+la de	345
+de yem	346
+thuat	347
+tran	348
+quy	349
+di	350
+thuat tran	351
+tran yem	352
+yem quy	353
+quy di	354
+troi	355
+chieu	356
+roi,	357
+troi au	358
+yem chieu	359
+chieu roi,	360
+Co	361
+a	362
+cang	363
+Co a	364
+a yem	365
+tro, cang	366
+phong tien	367
+nui	368
+nui de	369
+minh	370
+minh de	371
+mac	372
+chiec	373
+nho	374
+mac chiec	375
+chiec yem	376
+yem nho	377
+nho va	378
+no	379
+sung	380
+ho.Hoa	381
+no sung	382
+sung yem	383
+yem ho.Hoa	384
+ho.Hoa luc	385
+LLOULL	386
+Muon	387
+Muon su	388
+Nha	389
+ga	390
+Nha au	391
+nhin ga	392
+ga au	393
+yem roi	394
+roi noi,	395
+dong,	396
+dam dong,	397
+dong, yem	398
+nhu	399
+duoc au	400
+yem nhu	401
+nhu the	402
+khoi	403
+mu	404
+khoi mu	405
+mu yem	406
+tro, ta	407
+dao	408
+song	409
+dao ma	410
+ma yem	411
+ho, song	412
+ban	413
+phai	414
+ban dao	415
+dao yem	416
+ho phai	417
+Con	418
+Con viec	419
+viec yem	420
+ho quy	421
+long,	422
+long, au	423
+nang mot	424
+han	425
+lai,	426
+han au	427
+nhin lai,	428
+om	429
+lay	430
+yem om	431
+om lay	432
+chi	433
+chi au	434
+nang nhu	435
+goc,	436
+goc, au	437
+nhau	438
+nua.	439
+phong au	440
+yem nhau	441
+nhau nua.	442
+vua	443
+ve	444
+vua au	445
+vuot ve	446
+dai	447
+quat	448
+dai quat	449
+quat yem	450
+ho sau	451
+do	452
+danh	453
+yem do	454
+do danh	455
+nuong	456
+phai au	457
+yem nuong	458
+nuong tu	459
+tham	460
+duong	461
+tham au	462
+yem duong	463
+duong nhu	464
+nhau,	465
+dua	466
+nhau, au	467
+nhin dua	468
+mai se	469
+quay	470
+trong	471
+tham.	472
+quay trong	473
+trong yem	474
+yem tham.	475
+nhan	476
+am	477
+Cam	478
+nhan am	479
+am yem	480
+nhin Cam	481
+gio	482
+tuyet	483
+nen	484
+gio tuyet	485
+tuyet yem	486
+ho, nen	487
+di sau	488
+sau yem	489
+tra.	490
+yem tra.	491
+hai	492
+hai ga	493
+ga yem	494
+ho, sau	495
+chap	496
+chung	497
+an	498
+chap chung	499
+chung yem	500
+tro, an	501
+da	502
+nui da	503
+da yem	504
+ho, bon	505
+„Non	506
+noi, „Non	507
+han?.	508
+nao dang	509
+dang yem	510
+ho han?.	511
+LLLOO	512
+thu	513
+song thu	514
+thu yem	515
+ho truoc	516
+Sach	517
+noi	518
+Sach au	519
+yem va	520
+va noi	521
+Hang	522
+thi Hang	523
+O	524
+Qua	525
+cung	526
+O Qua	527
+Qua yem	528
+tro cung	529
+U	530
+UO	531
+Minh	532
+Hung	533
+loi	534
+Minh Hung	535
+Hung yem	536
+ho, loi	537
+toan	538
+bon nguoi	539
+ho toan	540
+„Ðay	541
+noi, „Ðay	542
+choang	543
+yem choang	544
+choang tay	545
+ben duong	546
+duong yem	547
+cam	548
+cam ve	549
+ve yem	550
+ho, y	551
+phu	552
+phu de	553
+dap	554
+dap canh	555
+ho, len	556
+ngai	557
+nho nang	558
+nang yem	559
+ho ngai	560
+uy	561
+manh,	562
+uy manh,	563
+manh, yem	564

@@ -1,0 +1,534 @@
+con	1
+thu	2
+nanh	3
+ac	4
+nhe	5
+con thu	6
+thu nanh	7
+nanh ac	8
+ac nhe	9
+LLLL	10
+LL	11
+LLL	12
+mua	13
+vuot	14
+nhe nanh	15
+nanh mua	16
+mua vuot	17
+chet	18
+ve	19
+bon	20
+chet ve	21
+ve nanh	22
+nanh vuot	23
+vuot bon	24
+danh	25
+nap	26
+O	27
+Hoang	28
+danh nap	29
+nap nanh	30
+nanh O	31
+O Hoang	32
+U	33
+ULLLL	34
+LU	35
+UO	36
+mau,	37
+rang	38
+dai	39
+nhon	40
+mau, rang	41
+rang nanh	42
+nanh dai	43
+dai nhon	44
+LLLO	45
+ben	46
+nhon,	47
+nanh ben	48
+ben nhon,	49
+LLLLO	50
+dang	51
+dang nhe	52
+ra	53
+tu	54
+cua	55
+ra tu	56
+tu nanh	57
+vuot cua	58
+ham	59
+hoat	60
+ham rang	61
+nanh nhon	62
+nhon hoat	63
+nhieu	64
+lan,	65
+sac	66
+nhieu lan,	67
+lan, nanh	68
+vuot sac	69
+LLLLL	70
+mat	71
+mui	72
+do	73
+mat mui	74
+mui nanh	75
+ac do	76
+cung	77
+ac,	78
+chang	79
+mui cung	80
+cung nanh	81
+nanh ac,	82
+ac, chang	83
+LLO	84
+la	85
+chia	86
+la rang	87
+nanh chia	88
+chia ra	89
+hoan	90
+nghenh	91
+vuot nhe	92
+nanh hoan	93
+hoan nghenh	94
+LLLLLL	95
+cai	96
+mot	97
+cai rang	98
+nanh cua	99
+cua mot	100
+chiec	101
+da	102
+thu,	103
+chiec rang	104
+nanh da	105
+da thu,	106
+xam	107
+nanh xam	108
+xam da	109
+loe	110
+len	111
+nanh loe	112
+loe len	113
+hien	114
+cua chiec	115
+chiec nanh	116
+nanh hien	117
+hien ra	118
+vuot,	119
+mua vuot,	120
+ton	121
+ton nhe	122
+mao	123
+that	124
+mao that	125
+that nanh	126
+ac cua	127
+long	128
+long nhe	129
+nhon.	130
+nanh sac	131
+sac nhon.	132
+dong	133
+vat	134
+cang	135
+dong vat	136
+vat nanh	137
+ac, cang	138
+sua	139
+dau	140
+nong	141
+hoi.	142
+sua dau	143
+dau nanh	144
+nanh nong	145
+nong hoi.	146
+Ky	147
+lam	148
+cho	149
+Ky lam	150
+lam nanh	151
+vuot cho	152
+UL	153
+OL	154
+Quyen	155
+chong	156
+quat:	157
+“Truong	158
+Quyen chong	159
+chong nanh	160
+nanh quat:	161
+quat: “Truong	162
+OULLLLL	163
+LO	164
+luon	165
+luon nhe	166
+lu,	167
+hoat,	168
+lu, rang	169
+nhon hoat,	170
+vut	171
+mang,	172
+Truong	173
+vut chong	174
+nanh mang,	175
+mang, Truong	176
+ULLLLL	177
+deu	178
+bi	179
+deu bi	180
+bi nanh	181
+cuoi	182
+duoi	183
+theo,	184
+cuoi nhe	185
+nanh duoi	186
+duoi theo,	187
+rong,	188
+rong, nhe	189
+trung,	190
+giuong	191
+trung, giuong	192
+giuong nanh	193
+LLLLLO	194
+dang giuong	195
+nguoi	196
+nan	197
+nhieu nguoi	198
+nguoi nanh	199
+nanh nan	200
+nan tu	201
+ho	202
+khong	203
+ho khong	204
+khong nanh	205
+nanh vuot,	206
+vuot, chang	207
+chung	208
+thap	209
+tho,	210
+chung nap	211
+nanh thap	212
+thap tho,	213
+manh,	214
+manh, nhe	215
+thuong,	216
+thuong, nhe	217
+LLLLLLO	218
+nha	219
+nghe	220
+ngong.	221
+nha nap	222
+nanh nghe	223
+nghe ngong.	224
+khoc,	225
+khoc, nhe	226
+dau,	227
+de	228
+ngan	229
+dau, chong	230
+nanh de	231
+de ngan	232
+moc	233
+duoc	234
+voi	235
+ma!	236
+moc duoc	237
+duoc nanh	238
+nanh voi	239
+voi ma!	240
+tai	241
+va	242
+tai mat	243
+mat nanh	244
+vuot va	245
+thoat	246
+khoi	247
+thoat khoi	248
+khoi nanh	249
+tay	250
+vua	251
+tay chong	252
+nanh vua	253
+vua cuoi	254
+chi	255
+an	256
+phia	257
+sau,	258
+chi an	259
+an nanh	260
+nanh phia	261
+phia sau,	262
+may	263
+sat	264
+cam	265
+may cai	266
+cai nanh	267
+nanh sat	268
+sat cam	269
+nhu	270
+nhu nhe	271
+quat	272
+lon,	273
+nanh quat	274
+quat lon,	275
+mom	276
+lom	277
+mom giuong	278
+dai lom	279
+ma	280
+vuot ma	281
+tron	282
+nanh tron	283
+tron mat	284
+su	285
+su nhe	286
+van	287
+dac	288
+van la	289
+la nanh	290
+vuot dac	291
+den	292
+trong	293
+mieng	294
+den rang	295
+nanh trong	296
+trong mieng	297
+khung	298
+khiep	299
+khien	300
+khung khiep	301
+khiep nanh	302
+ac, khien	303
+sac,	304
+cu	305
+rang nhon	306
+nhon nanh	307
+nanh sac,	308
+sac, cu	309
+thu nhe	310
+lon, nhe	311
+gio	312
+do gio	313
+gio nanh	314
+bo	315
+trang	316
+on,	317
+nhe bo	318
+bo nanh	319
+nanh trang	320
+trang on,	321
+vang	322
+vang nhe	323
+cu nap	324
+de ham	325
+sac nhon	326
+cop	327
+cop khong	328
+vuot, van	329
+khong,	330
+khong, nhe	331
+ung,	332
+the	333
+nay	334
+ung, nap	335
+nanh the	336
+the nay	337
+tieng,	338
+tieng, nhe	339
+lo	340
+lo rang	341
+ram"	342
+ram" giuong	343
+lut	344
+o	345
+day	346
+lut nap	347
+nanh o	348
+o day	349
+L	350
+hai	351
+ngon	352
+hai ngon	353
+ngon nanh	354
+tranh,	355
+vuot.	356
+tranh, nhe	357
+mua vuot.	358
+nhieu,	359
+hoac	360
+nhieu, rang	361
+nhon hoac	362
+mieng nhe	363
+nanh lam	364
+lam mat	365
+dang gio	366
+Vuong	367
+Vuong nhe	368
+gian,	369
+vo	370
+sac gian,	371
+gian, nanh	372
+ac vo	373
+nua	374
+tap	375
+xuong	376
+nua nhe	377
+nanh tap	378
+tap xuong	379
+lut,	380
+lut, nap	381
+nanh ma	382
+ma lam	383
+rong	384
+rong nhe	385
+voi,	386
+bang	387
+ho,	388
+voi, bang	389
+bang nanh	390
+nanh ho,	391
+ho, bang	392
+the lam	393
+co	394
+ac.	395
+co ve	396
+nanh ac.	397
+hung	398
+bao	399
+dung	400
+hung bao	401
+bao nanh	402
+ac, dung	403
+quanh,	404
+quanh, giuong	405
+dong,	406
+dong, nhe	407
+vua dai	408
+be,	409
+be, nhe	410
+be	411
+hon.	412
+be chong	413
+nanh hung	414
+hung hon.	415
+Giao	416
+Giao nhe	417
+ULLL	418
+no	419
+no nhe	420
+lai	421
+lai nhe	422
+rong, giuong	423
+long,	424
+long, rang	425
+dai nhon,	426
+hai chiec	427
+xuong,	428
+xuong, nhe	429
+con nguoi	430
+ac chong	431
+nhung	432
+dau nhung	433
+nhung nanh	434
+sat deu	435
+,	436
+nguoi ,	437
+, nanh	438
+chan	439
+ghe	440
+chan den	441
+den nanh	442
+sac ghe	443
+lai nap	444
+nanh dau	445
+dau dau	446
+len ve	447
+ac, cuoi	448
+thuoc	449
+nguoi nap	450
+nanh ,	451
+, thuoc	452
+roi	453
+vao	454
+roi vao	455
+vao nanh	456
+thien,	457
+thien, nhe	458
+dom	459
+ngo	460
+day nap	461
+nanh dom	462
+dom ngo	463
+quy	464
+mat quy	465
+quy nanh	466
+ac, co	467
+dai,	468
+tieng	469
+nanh dai,	470
+dai, tieng	471
+tac	472
+trom	473
+tac nap	474
+nanh ngo	475
+ngo trom	476
+them	477
+cang them	478
+them nanh	479
+ac dang	480
+nhuom	481
+lon, rang	482
+nanh nhuom	483
+nhuom mau,	484
+lanh,	485
+lanh, nhe	486
+loi	487
+tho, rang	488
+nanh loi	489
+loi ra	490
+Nhung	491
+Nhung bon	492
+bon nanh	493
+ta	494
+vua nap	495
+nanh khien	496
+khien ta	497
+ro	498
+ro rang	499
+xuat	500
+xuat hien	501
+hien nanh	502
+toi.	503
+khien nhe	504
+nanh danh	505
+danh toi.	506
+than	507
+quan	508
+lay	509
+than nhe	510
+nanh quan	511
+quan lay	512
+bong	513
+keu	514
+nanh bong	515
+bong keu	516
+cai mieng	517
+mieng nanh	518
+ngon rang	519
+trang nhon	520
+Chiec	521
+xem	522
+Chiec rang	523
+nanh xem	524
+xem ra	525
+hinh	526
+minh	527
+hinh rang	528
+cua minh	529
+nang	530
+nang chong	531
+ma khien	532
+la bon	533
+nanh vuot.	534

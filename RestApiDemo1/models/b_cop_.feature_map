@@ -1,0 +1,471 @@
+mot	1
+con	2
+cop	3
+ma	4
+khong	5
+mot con	6
+con cop	7
+cop ma	8
+ma khong	9
+LL	10
+LLLLL	11
+LLL	12
+chiec	13
+dau	14
+du	15
+ton.	16
+chiec dau	17
+dau cop	18
+cop du	19
+du ton.	20
+LLLO	21
+xam	22
+"o"	23
+len	24
+xam dau	25
+cop "o"	26
+"o" len	27
+OLO	28
+truoc	29
+so	30
+phia	31
+sau	32
+truoc so	33
+so cop	34
+cop phia	35
+phia sau	36
+LLLL	37
+rong	38
+an	39
+nap,	40
+nhung	41
+rong an	42
+an cop	43
+cop nap,	44
+nap, nhung	45
+ngua	46
+lop	47
+vang	48
+len.	49
+ngua lop	50
+lop cop	51
+cop vang	52
+vang len.	53
+Hai	54
+cai	55
+do	56
+Hai con	57
+cop cai	58
+cai do	59
+ULL	60
+OL	61
+hai	62
+hai con	63
+cai khong	64
+-	65
+Con	66
+cai?	67
+Chong	68
+- Con	69
+Con cop	70
+cop cai?	71
+cai? Chong	72
+ULLLL	73
+O	74
+LO	75
+OO	76
+suy	77
+ra	78
+Hai cop	79
+cop suy	80
+suy ra	81
+co	82
+nap.	83
+co rong	84
+rong cop	85
+cop an	86
+an nap.	87
+giay	88
+giay lop	89
+vang len	90
+lau,	91
+trong	92
+mat	93
+pha	94
+lau, trong	95
+trong cop	96
+cop mat	97
+mat pha	98
+ong	99
+tich	100
+lai	101
+ong tich	102
+tich cop	103
+cop lai	104
+lai ma	105
+vo	106
+cop,	107
+tieng	108
+vo ngua	109
+ngua cop	110
+cop cop,	111
+cop, tieng	112
+tam	113
+da	114
+nen	115
+trang	116
+tam da	117
+da cop	118
+cop nen	119
+nen trang	120
+sac	121
+cop sac	122
+sac trang	123
+de	124
+boc	125
+cop de	126
+de boc	127
+tan	128
+hang	129
+tham	130
+tra	131
+tan hang	132
+hang cop	133
+cop tham	134
+tham tra	135
+ngo	136
+nuoi	137
+gay	138
+ngo nuoi	139
+nuoi cop	140
+cop gay	141
+gay nen	142
+lua	143
+xuong	144
+duong	145
+lua lop	146
+cop xuong	147
+xuong duong	148
+nhau	149
+danh	150
+tieng.	151
+nhau danh	152
+danh cop	153
+cop mot	154
+mot tieng.	155
+LLLLLO	156
+noi	157
+la	158
+viec	159
+noi hang	160
+cop la	161
+la viec	162
+nay,	163
+dai	164
+rong hang	165
+cop nay,	166
+nay, dai	167
+vi	168
+cua	169
+vi con	170
+cai cua	171
+gio	172
+va	173
+thiet	174
+gio da	175
+cop va	176
+va thiet	177
+gion	178
+mat,	179
+binh	180
+gion mat,	181
+mat, cop	182
+xuong binh	183
+tap	184
+hoc	185
+nhat	186
+suot	187
+tap hoc	188
+hoc cop	189
+cop nhat	190
+nhat suot	191
+keu	192
+bang	193
+keu bang	194
+bang cop	195
+toan	196
+noi:	197
+toan noi:	198
+noi: cop	199
+giong	200
+nhu	201
+nanh,	202
+giong nhu	203
+nhu cop	204
+cop khong	205
+khong nanh,	206
+LLLLO	207
+vong	208
+gam	209
+vong nhu	210
+cop gam	211
+gam vang	212
+nay	213
+lieu	214
+nay du	215
+du cop	216
+cop hai	217
+hai lieu	218
+vao	219
+bat	220
+vao hang	221
+ma bat	222
+con.	223
+bat cop	224
+cop con.	225
+muon	226
+giet	227
+muon giet	228
+giet cop	229
+ma cop	230
+lai muon	231
+Bat	232
+d	233
+- Bat	234
+Bat cop	235
+cop d	236
+d nhung	237
+L	238
+tha	239
+kho.	240
+nhung tha	241
+tha cop	242
+cop kho.	243
+an,	244
+cao	245
+rong an,	246
+an, cop	247
+nap, cao	248
+LLO	249
+canh	250
+cho	251
+du,	252
+ban	253
+canh cho	254
+cho cop	255
+cop du,	256
+du, ban	257
+bac	258
+duoc	259
+deu	260
+bac tich	261
+cop duoc	262
+duoc deu	263
+nanh	264
+khong nanh	265
+com	266
+to	267
+keu com	268
+com cop	269
+cop to	270
+to da	271
+kia,	272
+cai kia,	273
+the	274
+cuoi	275
+the cuoi	276
+cuoi cop	277
+nen danh	278
+dien	279
+khung	280
+nhu con	281
+cop dien	282
+dien khung	283
+cham	284
+cham nhau	285
+nhau cop	286
+cop cop	287
+ngung	288
+khong ngung	289
+cung	290
+du nhu	291
+cop cung	292
+cung co	293
+dung	294
+den	295
+du,mat	296
+khac,nhan	297
+dung den	298
+den cop	299
+cop du,mat	300
+du,mat khac,nhan	301
+LLOLLL	302
+LLLLOLLLL	303
+giay.Tham	304
+la con	305
+cop giay.Tham	306
+giay.Tham tam	307
+LLLLOULLL	308
+ay	309
+nay, con	310
+cai ay	311
+ay,	312
+cho con	313
+cai ay,	314
+cai,	315
+chem	316
+cop cai,	317
+cai, chem	318
+tranh	319
+nha	320
+nguoi	321
+tranh cho	322
+cop nha	323
+nha nguoi	324
+voi	325
+duoi	326
+mang	327
+voi duoi	328
+duoi cop	329
+va mang	330
+Thuy	331
+Nguyet	332
+cop Thuy	333
+Thuy Nguyet	334
+ULLLLL	335
+ULLL	336
+That	337
+That la	338
+la cop	339
+len,	340
+vang len,	341
+chi	342
+du, chi	343
+nghe	344
+tieng com	345
+cop nghe	346
+nghe ma	347
+dang	348
+xuc	349
+cop dang	350
+dang xuc	351
+dac	352
+y	353
+dac y	354
+y cop	355
+cop len	356
+len hang	357
+rong;	358
+"Im	359
+tieng nhu	360
+cop rong;	361
+rong; "Im	362
+OUL	363
+Lan	364
+Lan nay	365
+nay cop	366
+hai nguoi	367
+hau	368
+,	369
+hau nhu	370
+du ,	371
+tu,	372
+gi	373
+tu, khong	374
+khong cop	375
+cop gi	376
+gi la	377
+di	378
+bat duoc	379
+duoc cop	380
+cop con	381
+con di	382
+de co	383
+rang	384
+rang tha	385
+bap	386
+nhung bap	387
+bap cop	388
+moi	389
+gi con	390
+cop den	391
+den moi	392
+xach	393
+ran	394
+rat	395
+xach con	396
+cop ran	397
+ran rat	398
+ngay	399
+ngay con	400
+ran xuong	401
+bi	402
+cop da	403
+da bi	404
+lon	405
+cop lon	406
+lon len.	407
+lon mot	408
+van	409
+dinh	410
+cop, nhung	411
+nhung cop	412
+cop van	413
+van dinh	414
+ve	415
+mieng	416
+thoi”.	417
+ve mieng	418
+mieng cop	419
+cop thoi”.	420
+LLLLOO	421
+chan	422
+tien	423
+chan lop	424
+dang tien	425
+kiem	426
+cop rang	427
+rang kiem	428
+choc	429
+choc con	430
+cop ay	431
+ay da	432
+suc	433
+cop ra	434
+ra suc	435
+the con	436
+du to	437
+xau	438
+so.	439
+cua con	440
+cop xau	441
+xau so.	442
+khoi	443
+xe.	444
+ra khoi	445
+khoi cop	446
+cop xe.	447
+cong,	448
+tan cong,	449
+cong, cop	450
+nhat nhung	451
+lua con	452
+cai nay	453
+cha	454
+vao mieng	455
+cop cua	456
+cua cha	457
+giay,	458
+thi	459
+cop giay,	460
+giay, thi	461
+hoa	462
+lan	463
+cop hoa	464
+hoa lan	465
+nhoc	466
+nhan	467
+tung	468
+nhoc nhan	469
+nhan cop	470
+nhat tung	471

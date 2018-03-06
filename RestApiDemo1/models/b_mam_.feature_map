@@ -1,0 +1,680 @@
+lao	1
+chac	2
+mam	3
+thu	4
+thang	5
+lao chac	6
+chac mam	7
+mam thu	8
+thu thang	9
+LLLL	10
+LLLLL	11
+LLL	12
+LL	13
+mot	14
+cai	15
+dung	16
+kim	17
+mot cai	18
+cai mam	19
+mam dung	20
+dung kim	21
+long	22
+tinh	23
+ai	24
+long mot	25
+mot mam	26
+mam tinh	27
+tinh ai	28
+gio	29
+mo	30
+tim	31
+kiem	32
+gio mo	33
+mo mam	34
+mam tim	35
+tim kiem	36
+duoc	37
+hoa	38
+lon.	39
+duoc mot	40
+mam hoa	41
+hoa lon.	42
+LLLO	43
+Han	44
+bung	45
+vao	46
+phong	47
+Han bung	48
+bung mam	49
+mam vao	50
+vao phong	51
+ULL	52
+OL	53
+,	54
+ga	55
+lay	56
+, chac	57
+mam ga	58
+ga lay	59
+O	60
+dat	61
+com	62
+xuong	63
+, dat	64
+dat mam	65
+mam com	66
+com xuong	67
+chen	68
+bat	69
+cu	70
+chen bat	71
+bat mam	72
+com cu	73
+da	74
+khi	75
+xong	76
+da chac	77
+mam khi	78
+khi xong	79
+co	80
+rau	81
+bung mot	82
+mam co	83
+co rau	84
+vo	85
+so	86
+reu	87
+xanh	88
+vo so	89
+so mam	90
+mam reu	91
+reu xanh	92
+nhu	93
+khai	94
+hoa,	95
+nhu khai	96
+khai mam	97
+mam hoa,	98
+hoa, dung	99
+cong	100
+phat	101
+chuong	102
+cong chac	103
+mam phat	104
+phat chuong	105
+LLLLLL	106
+ben	107
+them	108
+dam	109
+muoi	110
+ben them	111
+them mam	112
+mam dam	113
+dam muoi	114
+giong	115
+nay	116
+roi	117
+giong nay	118
+nay mam	119
+mam roi	120
+roi khai	121
+se	122
+muoi,	123
+se them	124
+dam muoi,	125
+LLLLO	126
+doi	127
+xoi	128
+voi	129
+doi mot	130
+mam xoi	131
+xoi voi	132
+Lia	133
+do	134
+tren	135
+Lia do	136
+do mam	137
+xoi tren	138
+gao,	139
+buon	140
+chu	141
+gao, buon	142
+buon mam	143
+mam chu	144
+chu co	145
+Sen	146
+Sen doi	147
+doi mam	148
+xoi ga	149
+sai	150
+don	151
+ruon	152
+du	153
+sai don	154
+don mam	155
+mam ruon	156
+ruon du	157
+luc	158
+sau,	159
+luc sau,	160
+sau, mam	161
+com duoc	162
+Mot	163
+kha	164
+Mot mam	165
+com kha	166
+hien	167
+nhung	168
+li	169
+hien nhung	170
+nhung mam	171
+co li	172
+chuyen	173
+bung chac	174
+mam chuyen	175
+chuyen do	176
+la	177
+cho	178
+la mot	179
+co cho	180
+hai	181
+thit	182
+cuu	183
+lay hai	184
+hai mam	185
+mam thit	186
+thit cuu	187
+Bao	188
+vao,	189
+Bao them	190
+mam muoi	191
+muoi vao,	192
+het	193
+hoa.	194
+cho het	195
+het mam	196
+mam hoa.	197
+bay	198
+bon	199
+qua,	200
+bay bon	201
+bon mam	202
+hoa qua,	203
+truoc	204
+may	205
+qua	206
+lai	207
+truoc may	208
+may mam	209
+mam qua	210
+qua lai	211
+loi	212
+Han chac	213
+mam se	214
+se loi	215
+gai	216
+gai them	217
+dien,	218
+mong	219
+vung	220
+dien, dat	221
+mam mong	222
+mong vung	223
+Vi	224
+Tieu	225
+mam Vi	226
+Vi Tieu	227
+UL	228
+ULLL	229
+LO	230
+OO	231
+ngon,	232
+cung	233
+chen,	234
+ngon, cung	235
+cung mam	236
+mam bat	237
+bat chen,	238
+ha	239
+chung	240
+ha chac	241
+mam chung	242
+chung so	243
+lai them	244
+hoi	245
+moc	246
+hon,	247
+hay	248
+hoi moc	249
+moc mam	250
+mam hon,	251
+hon, hay	252
+ca	253
+thoi	254
+som.	255
+voi ca	256
+ca mam	257
+mam thoi	258
+thoi som.	259
+nau	260
+nuoc	261
+ca.	262
+nau nuoc	263
+nuoc mam	264
+mam ca.	265
+LLO	266
+khen	267
+Dien	268
+Bien	269
+khen nuoc	270
+mam Dien	271
+Dien Bien	272
+sut	273
+mua	274
+o	275
+sut nuoc	276
+mam mua	277
+mua o	278
+L	279
+toan	280
+mui	281
+ca,	282
+chua	283
+toan mui	284
+mui mam	285
+mam ca,	286
+ca, chua	287
+Ga	288
+Ga chac	289
+mam duoc	290
+ngua,	291
+duong	292
+ngua, mo	293
+tim duong	294
+go	295
+mam go	296
+go gio	297
+Tren	298
+trai	299
+Tren mam	300
+mam trai	301
+trai mot	302
+kia	303
+?	304
+ai tren	305
+tren mam	306
+mam kia	307
+kia ?	308
+Vi cai	309
+dat cai	310
+go xuong	311
+Uy	312
+Ton	313
+mam Uy	314
+Uy Ton	315
+mon	316
+an	317
+da bung	318
+mam mon	319
+mon an	320
+giam	321
+ra	322
+giam bung	323
+com ra	324
+tay	325
+cui	326
+tay bung	327
+com cui	328
+y	329
+ruot	330
+mam y	331
+y ruot	332
+Y	333
+Tung	334
+Khoi	335
+Y chac	336
+mam Tung	337
+Tung Khoi	338
+U	339
+phuong,	340
+kho	341
+phuong, chac	342
+y kho	343
+LLLLLLO	344
+xong.	345
+ra mot	346
+mam cung	347
+cung xong.	348
+Ta	349
+Ta la	350
+la mam	351
+hoa O	352
+LU	353
+diem	354
+chai	355
+va	356
+diem chai	357
+chai mam	358
+mam va	359
+va ca	360
+Ba	361
+be	362
+Ba bung	363
+mam ra	364
+ra be	365
+len	366
+thanh	367
+sot	368
+len nhung	369
+mam thanh	370
+thanh sot	371
+do,	372
+truc	373
+lu	374
+do, nhung	375
+mam truc	376
+truc lu	377
+con	378
+con them	379
+mam them	380
+them muoi	381
+Co	382
+Viem	383
+mam Co	384
+Co Viem	385
+xau	386
+do la	387
+mong xau	388
+ngay	389
+thi	390
+ngay thi	391
+thi mam	392
+hoa lai	393
+tu	394
+hoc,	395
+con mo	396
+mam tu	397
+tu hoc,	398
+benh.	399
+co hai	400
+mam benh.	401
+tuong	402
+benh	403
+tuong hai	404
+mam benh	405
+benh do	406
+the	407
+co the	408
+ta	409
+ta them	410
+bua	411
+mam bua	412
+bua nay	413
+Pham	414
+nhin	415
+ban	416
+day	417
+Pham nhin	418
+nhin mam	419
+mam ban	420
+ban day	421
+ruoi	422
+sau.	423
+roi an	424
+an mam	425
+mam ruoi	426
+ruoi sau.	427
+cua	428
+cung la	429
+hoa cua	430
+han	431
+ngoi	432
+han chac	433
+mam ngoi	434
+ngoi chuong	435
+Lam	436
+cung Lam	437
+thi chac	438
+mam la	439
+la tay	440
+Ho	441
+Ho chac	442
+bat duoc	443
+go,	444
+mam go,	445
+go, day	446
+lai dat	447
+thay	448
+trong	449
+thay trong	450
+trong mam	451
+co mot	452
+quan	453
+quai.	454
+xuong long	455
+long mam	456
+mam quan	457
+quan quai.	458
+go.	459
+mam go.	460
+bien	461
+bat.	462
+bay bien	463
+bien mam	464
+mam bat.	465
+nha	466
+ra.	467
+nha bay	468
+bay mam	469
+bat ra.	470
+rung,	471
+rung, chac	472
+mam trong	473
+trong long	474
+phu	475
+doan	476
+cung bung	477
+mam phu	478
+phu doan	479
+hieu	480
+gi?	481
+hieu tren	482
+dung gi?	483
+tiec	484
+han mot	485
+mam tiec	486
+tiec nha	487
+de	488
+giua	489
+nua.	490
+de giua	491
+giua mam	492
+mam nua.	493
+quan ben	494
+ben mam	495
+tiec an	496
+gieo	497
+nham	498
+cam,	499
+gieo nham	500
+nham mam	501
+tinh cam,	502
+la khi	503
+ngoc,	504
+chat	505
+mam ngoc,	506
+ngoc, chat	507
+vach	508
+vao giua	509
+ngoc, vach	510
+ngoc	511
+o giua	512
+mam ngoc	513
+ngoc ngoi	514
+ngoc day	515
+Ngoai	516
+ria	517
+dong	518
+Ngoai ria	519
+ria mam	520
+ngoc, dong	521
+ULLLL	522
+giac	523
+phang	524
+giac tren	525
+ngoc phang	526
+dau	527
+dau nay	528
+tu luc	529
+dang	530
+di	531
+dang mo	532
+mam di	533
+di tim	534
+ma	535
+thoi,	536
+tu mo	537
+mam ma	538
+ma thoi,	539
+nam	540
+chiec	541
+vang.	542
+nam chiec	543
+chiec mam	544
+mam vang.	545
+Trong	546
+moi	547
+Trong moi	548
+moi mam	549
+tuoi.	550
+qua tuoi.	551
+bat va	552
+lam	553
+an.	554
+tuong lam	555
+lam mam	556
+mam an.	557
+sau	558
+de lai	559
+lai mam	560
+hoa sau	561
+thinh	562
+soan.	563
+lam mot	564
+mam thinh	565
+thinh soan.	566
+khac,	567
+khac, ca	568
+ban bat	569
+nhung chiec	570
+mam chat	571
+chat day	572
+ngan,	573
+song	574
+ngan, nhung	575
+mam song	576
+song dau	577
+khoi	578
+roi mo	579
+ra khoi	580
+khong	581
+di mo	582
+ma khong	583
+nen	584
+nen them	585
+sap	586
+ruou	587
+sap mot	588
+mam ruou	589
+ruou va	590
+vang	591
+vang them	592
+that	593
+rat	594
+that la	595
+hoa rat	596
+nhu nhung	597
+benh trong	598
+nap	599
+an nap	600
+nap mam	601
+biet	602
+khong biet	603
+biet mam	604
+hoa do	605
+thuc	606
+an,	607
+vao lai	608
+mam thuc	609
+thuc an,	610
+ngoai	611
+la ngoai	612
+dua	613
+den	614
+hai chiec	615
+mam dua	616
+dua den	617
+tren mot	618
+mam dat	619
+dat mot	620
+con chiec	621
+thu hai	622
+nay nay	623
+mam ngay	624
+ngay tu	625
+Long	626
+Long them	627
+tuy	628
+hoa, tuy	629
+thay nhung	630
+hoa sap	631
+da co	632
+co mam	633
+mong cua	634
+bo	635
+bo them	636
+muoi vao	637
+va chac	638
+mam lao	639
+lao hoa	640
+toi…Va	641
+non	642
+dau toi…Va	643
+toi…Va mam	644
+mam non	645
+non be	646
+LLLOUL	647
+Chi	648
+Chi bung	649
+thuc an	650
+Hinh,	651
+Hinh, mo	652
+mam mot	653
+mot hoi	654
+ULLLO	655
+mat	656
+Ga mo	657
+mam tren	658
+tren mat	659
+lon	660
+go lon	661
+dat hai	662
+Hai	663
+bac	664
+Hai mam	665
+mam bac	666
+bac nen	667
+ma them	668
+da nay	669
+bat xuong	670
+xuong mam	671
+com chua	672
+giuong	673
+chieu,	674
+dong,	675
+giuong chieu,	676
+chieu, mam	677
+mam dong,	678
+dong, bat	679
+LLLLLO	680

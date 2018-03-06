@@ -1,0 +1,518 @@
+nu	1
+non	2
+not	3
+do	4
+dau	5
+nu non	6
+non not	7
+not do	8
+do dau	9
+LL	10
+LLL	11
+bang	12
+huu	13
+doan	14
+duong.	15
+bang huu	16
+huu not	17
+not doan	18
+doan duong.	19
+LLLL	20
+LLLLLO	21
+nguoi	22
+an	23
+cho	24
+thuc	25
+nguoi an	26
+an not	27
+not cho	28
+cho thuc	29
+LLLLL	30
+Lang	31
+lam	32
+mon	33
+Lang lam	34
+lam not	35
+not mon	36
+mon an	37
+ULLL	38
+OL	39
+cong	40
+ninh	41
+quen	42
+roi	43
+cong ninh	44
+ninh not	45
+not quen	46
+quen roi	47
+tang	48
+boc	49
+nguoi ninh	50
+not tang	51
+tang boc	52
+phan	53
+tam	54
+chut.	55
+phan tam	56
+tam not	57
+not chut.	58
+LLLLO	59
+ben	60
+xen	61
+vao:	62
+ben ninh	63
+not xen	64
+xen vao:	65
+LLLO	66
+gang	67
+dung	68
+chut	69
+khi	70
+gang dung	71
+dung not	72
+not chut	73
+chut khi	74
+bai	75
+nuoc	76
+vao	77
+mat	78
+bai nuoc	79
+nuoc not	80
+not vao	81
+vao mat	82
+van	83
+chuyen	84
+so	85
+binh	86
+van chuyen	87
+chuyen not	88
+not so	89
+so binh	90
+LLLLLL	91
+bi	92
+chat	93
+chan	94
+phai.	95
+bi chat	96
+chat not	97
+not chan	98
+chan phai.	99
+co	100
+mot	101
+ruoi	102
+nho.	103
+co mot	104
+mot not	105
+not ruoi	106
+ruoi nho.	107
+con	108
+qua,	109
+con non	110
+not qua,	111
+qua, an	112
+hoan	113
+thanh	114
+nguyen	115
+hoan thanh	116
+thanh not	117
+not tam	118
+tam nguyen	119
+vai	120
+nhac.	121
+mot vai	122
+vai not	123
+not nhac.	124
+nhien	125
+nhung	126
+nhac	127
+nhien nhung	128
+nhung not	129
+not nhac	130
+nhac roi	131
+dieu	132
+rat	133
+kha	134
+dieu ninh	135
+not rat	136
+rat kha	137
+lam,	138
+neu	139
+not lam,	140
+lam, neu	141
+nay	142
+keo	143
+bon	144
+Ðao	145
+nay keo	146
+keo not	147
+not bon	148
+bon Ðao	149
+ULL	150
+LO	151
+phong	152
+dem	153
+xac	154
+chet	155
+phong dem	156
+dem not	157
+not xac	158
+xac chet	159
+bay	160
+den,	161
+bay tam	162
+not roi	163
+roi den,	164
+Ga	165
+thoi	166
+cai	167
+Ga thoi	168
+thoi not	169
+not cai	170
+cai co	171
+UL	172
+canh,	173
+uong	174
+tra	175
+canh, uong	176
+uong not	177
+cho tra	178
+That	179
+la	180
+cuoc	181
+That la	182
+la not	183
+not cong	184
+cong cuoc	185
+9	186
+tan	187
+nhang.	188
+co 9	189
+9 not	190
+not tan	191
+tan nhang.	192
+N	193
+LN	194
+NL	195
+Long	196
+thay	197
+dong	198
+tien	199
+Long thay	200
+thay not	201
+not dong	202
+dong tien	203
+da	204
+hai	205
+chen	206
+da uong	207
+not hai	208
+hai chen	209
+cap	210
+vet	211
+ngan	212
+cap vet	213
+vet not	214
+chut ngan	215
+khong	216
+chan.	217
+khong thay	218
+not chan.	219
+trang	220
+trong	221
+thanh nhung	222
+not trang	223
+trang trong	224
+de	225
+noi	226
+di!	227
+Luc	228
+de noi	229
+noi not	230
+not di!	231
+di! Luc	232
+LLO	233
+ca	234
+vien	235
+khong uong	236
+not ca	237
+ca vien	238
+nho	239
+la mot	240
+ruoi nho	241
+Trong	242
+nhet	243
+chiec	244
+man	245
+Trong nhet	246
+nhet not	247
+not chiec	248
+chiec man	249
+ULLLL	250
+ma	251
+sao	252
+not ma	253
+ma sao	254
+lai	255
+gieo	256
+vat	257
+bo	258
+lai gieo	259
+gieo not	260
+not vat	261
+vat bo	262
+oc	263
+cua	264
+toi,	265
+oc non	266
+not cua	267
+cua toi,	268
+Toi	269
+Toi nho	270
+nho not	271
+not phan	272
+phan con	273
+Nguoi	274
+ke	275
+Nghi	276
+Nguoi ke	277
+ke not	278
+di! Nghi	279
+song	280
+nua	281
+doi	282
+de song	283
+song not	284
+not nua	285
+nua doi	286
+chi	287
+lam, chi	288
+quang	289
+not quang	290
+quang doi	291
+Ni	292
+mieng	293
+thit	294
+Ni an	295
+not mieng	296
+mieng thit	297
+chang	298
+khac	299
+thi	300
+tran	301
+chang khac	302
+khac not	303
+not thi	304
+thi tran	305
+Chi	306
+ca noi	307
+di! Chi	308
+nhan	309
+mang	310
+linh	311
+luc	312
+nhan mang	313
+mang not	314
+not linh	315
+linh luc	316
+xin	317
+tieu	318
+ca.	319
+xin tang	320
+tang not	321
+not tieu	322
+tieu ca.	323
+?	324
+Noi	325
+di	326
+? Noi	327
+Noi not	328
+not di	329
+di dung	330
+O	331
+OO	332
+toan	333
+canh	334
+kia.The	335
+thanh toan	336
+toan not	337
+not canh	338
+canh kia.The	339
+LLLOULL	340
+se	341
+se chat	342
+qua	343
+not qua	344
+qua khong	345
+phai	346
+ban	347
+ho	348
+phai ban	349
+ban not	350
+chiec ho	351
+kiep	352
+nguoi song	353
+not kiep	354
+kiep tan	355
+cay,	356
+dao	357
+cay, an	358
+qua dao	359
+banh	360
+Lang nhet	361
+chiec banh	362
+y.	363
+nay ninh	364
+not y.	365
+biet	366
+ro	367
+tinh	368
+dai	369
+biet ro	370
+ro not	371
+not tinh	372
+tinh dai	373
+tuc	374
+doc	375
+chot	376
+tuc doc	377
+doc not	378
+doan chot	379
+chit	380
+ruoi,	381
+chit nhung	382
+not ruoi,	383
+ruoi, cap	384
+hon,	385
+nhu	386
+nguoi non	387
+not hon,	388
+hon, nhu	389
+chien	390
+not tran	391
+tran chien	392
+tinh an	393
+so do	394
+duong	395
+buoc	396
+kinh	397
+duong la	398
+not buoc	399
+buoc kinh	400
+cuop	401
+hang	402
+con cuop	403
+cuop not	404
+so hang	405
+loi	406
+thieu	407
+loi ninh	408
+not chang	409
+chang thieu	410
+bao	411
+gio	412
+not bao	413
+bao gio	414
+Nam	415
+tim	416
+ac	417
+thu	418
+Nam tim	419
+tim not	420
+not ac	421
+ac thu	422
+trach.	423
+tien vao	424
+vao not	425
+not trach.	426
+ga	427
+khau	428
+may	429
+ga khau	430
+khau not	431
+not may	432
+may bo	433
+ba	434
+cao	435
+ba la	436
+not cao	437
+cao nhan	438
+nen	439
+hang non	440
+not nen	441
+nen tieu	442
+phap	443
+Duong	444
+Quang,	445
+phap ninh	446
+not Duong	447
+Duong Quang,	448
+ULLLLO	449
+kia	450
+da buoc	451
+buoc not	452
+chan kia	453
+viet	454
+ket	455
+de viet	456
+viet not	457
+phan ket	458
+kip	459
+thot	460
+tu	461
+"khoang",	462
+kip thot	463
+thot not	464
+not tu	465
+tu "khoang",	466
+OLLLLLLOO	467
+huong	468
+lai co	469
+co not	470
+not huong	471
+huong thi	472
+le	473
+le song	474
+cau	475
+chuyen.	476
+roi ke	477
+not cau	478
+cau chuyen.	479
+LLLLLLO	480
+nang	481
+coi	482
+giay	483
+nang coi	484
+coi not	485
+not giay	486
+giay chan	487
+no	488
+no non	489
+not trong	490
+trong khi	491
+hat	492
+mot hat	493
+hat not	494
+ruoi rat	495
+toi	496
+buc	497
+toi viet	498
+not buc	499
+buc nay	500
+muon	501
+hon	502
+quan	503
+muon ninh	504
+not hon	505
+hon quan	506
+phu	507
+phu non	508
+thi nay	509
+nhac,	510
+co vai	511
+not nhac,	512
+nhac, ma	513
+nuot	514
+com	515
+Ga nuot	516
+nuot not	517
+mieng com	518

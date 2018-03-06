@@ -1,0 +1,2270 @@
+co	1
+sac,	2
+phang	3
+phat	4
+trong	5
+co sac,	6
+sac, phang	7
+phang phat	8
+phat trong	9
+LLLL	10
+LL	11
+LLLLL	12
+LLLO	13
+Long	14
+Kiem	15
+nhu	16
+Long Kiem	17
+Kiem phang	18
+phat nhu	19
+LLL	20
+ULLL	21
+OL	22
+OO	23
+tam	24
+can	25
+xong	26
+tam can	27
+can phang	28
+phat xong	29
+may	30
+luot,	31
+de	32
+may luot,	33
+luot, phang	34
+phat de	35
+LLLLO	36
+truong	37
+len,	38
+noi	39
+truong len,	40
+len, phang	41
+phat noi	42
+LLLLLL	43
+tuoi	44
+tan	45
+tuoi tan	46
+tan phang	47
+cung	48
+run	49
+Kiem cung	50
+cung phang	51
+phat run	52
+than	53
+da	54
+than cung	55
+phat da	56
+trien	57
+khai,	58
+trien khai,	59
+khai, phang	60
+nhe	61
+nhe,	62
+nhe nhe,	63
+nhe, phang	64
+phat cung	65
+dang	66
+trao,	67
+he	68
+dang trao,	69
+trao, phang	70
+phat he	71
+Lao	72
+gia	73
+Lao gia	74
+gia phang	75
+phat dang	76
+ULL	77
+minh	78
+thay	79
+minh cung	80
+phat thay	81
+Tieng	82
+hat	83
+doi	84
+Tieng hat	85
+hat phang	86
+phat doi	87
+ULLLL	88
+xa	89
+mot	90
+noi xa	91
+xa phang	92
+phat mot	93
+khi,	94
+ma	95
+khi, ma	96
+ma phang	97
+so	98
+hai,	99
+lai	100
+so hai,	101
+hai, phang	102
+phat lai	103
+long	104
+trong long	105
+long phang	106
+Tieu	107
+Bao	108
+nhin	109
+Tieu Bao	110
+Bao phang	111
+phat nhin	112
+nhay	113
+mat,	114
+nhay mat,	115
+mat, phang	116
+Thoi	117
+gian,	118
+Thoi gian,	119
+gian, phang	120
+Dot	121
+nhien,	122
+Dot nhien,	123
+nhien, phang	124
+LLLLLO	125
+loi	126
+nay,	127
+loi nay,	128
+nay, phang	129
+bich	130
+do	131
+bich do	132
+do phang	133
+nham	134
+nghien,	135
+nham nghien,	136
+nghien, phang	137
+LLLLLLO	138
+uot	139
+van	140
+uot van	141
+van phang	142
+hai	143
+truong,	144
+hai truong,	145
+truong, phang	146
+tren	147
+tay,	148
+tren tay,	149
+tay, phang	150
+luc	151
+nay	152
+sao	153
+luc nay	154
+nay phang	155
+phat sao	156
+cao	157
+vut,	158
+cao vut,	159
+vut, phang	160
+dac	161
+dac nay,	162
+gio,	163
+trong gio,	164
+gio, phang	165
+chay	166
+xuong,	167
+phieu	168
+chay xuong,	169
+xuong, phang	170
+phat phieu	171
+bau	172
+troi,	173
+han	174
+bau troi,	175
+troi, phang	176
+phat han	177
+nhin,	178
+tam nhin,	179
+nhin, phang	180
+phat co	181
+thien	182
+sinh,	183
+thien sinh,	184
+sinh, phang	185
+Phia	186
+xa,	187
+Phia xa,	188
+xa, phang	189
+LLO	190
+roi	191
+giet	192
+het,	193
+sau	194
+roi giet	195
+giet phang	196
+phang het,	197
+het, sau	198
+nho	199
+nhan	200
+ly,	201
+ghe	202
+nho nhan	203
+nhan phang	204
+phang ly,	205
+ly, ghe	206
+den	207
+dau,	208
+den dau,	209
+dau, phang	210
+tieu	211
+xoa,	212
+sinh	213
+tieu xoa,	214
+xoa, phang	215
+phat sinh	216
+u	217
+am,	218
+u am,	219
+am, phang	220
+L	221
+gan	222
+hon,	223
+gan hon,	224
+hon, phang	225
+tuy	226
+nhien	227
+tuy nhien	228
+nhien phang	229
+truoc	230
+han thay	231
+thay phang	232
+phat truoc	233
+Truc	234
+Phong,	235
+Truc Phong,	236
+Phong, phang	237
+ULLLLO	238
+quai	239
+di,	240
+quai di,	241
+di, phang	242
+o	243
+giua	244
+con	245
+o giua	246
+giua phang	247
+phat con	248
+lanh	249
+leo,	250
+net	251
+lanh leo,	252
+leo, phang	253
+phat net	254
+phai	255
+san	256
+duoc	257
+het	258
+phai san	259
+san phang	260
+phang duoc	261
+duoc het	262
+dat	263
+kia,	264
+dat kia,	265
+kia, phang	266
+toan	267
+toan than	268
+than phang	269
+cuong	270
+vong,	271
+cuong vong,	272
+vong, phang	273
+hoi	274
+bang	275
+lai,	276
+lao	277
+hoi bang	278
+bang phang	279
+phang lai,	280
+lai, lao	281
+trang	282
+min,	283
+trang min,	284
+min, phang	285
+anh	286
+nhan anh	287
+anh phang	288
+suong,	289
+la	290
+nhung	291
+suong, la	292
+la phang	293
+phat nhung	294
+nay cung	295
+am	296
+vuc,	297
+am vuc,	298
+vuc, phang	299
+nuoc	300
+ho	301
+lang,	302
+nuoc ho	303
+ho phang	304
+phang lang,	305
+lang, dang	306
+dot	307
+tu	308
+dot nhien	309
+phat tu	310
+le	311
+,	312
+le ,	313
+, phang	314
+O	315
+LO	316
+oan	317
+oan ,	318
+phat o	319
+lam	320
+quang	321
+lam quang	322
+quang phang	323
+, than	324
+sang	325
+sang ,	326
+duong	327
+duong nhu	328
+nhu phang	329
+tieng	330
+dong,	331
+tieng dong,	332
+dong, phang	333
+quen	334
+thuoc,	335
+quen thuoc,	336
+thuoc, phang	337
+xuong	338
+duoi,	339
+xuong duoi,	340
+duoi, phang	341
+hung,	342
+ho hung,	343
+hung, phang	344
+Quat,	345
+chot	346
+nghi	347
+Quat, chot	348
+chot phang	349
+phat nghi	350
+ULLLO	351
+lung	352
+han,	353
+lung han,	354
+han, phang	355
+ngon	356
+nui,	357
+ngon nui,	358
+nui, phang	359
+tay	360
+do,	361
+tay do,	362
+do, phang	363
+bon	364
+be	365
+lang	366
+khong	367
+bon be	368
+be phang	369
+phang lang	370
+lang khong	371
+sau lung	372
+lung phang	373
+coi	374
+ao	375
+ngoai	376
+len, coi	377
+coi phang	378
+phang ao	379
+ao ngoai	380
+cam	381
+giac	382
+cam giac	383
+giac phang	384
+Hoan	385
+Linh	386
+Hoan Linh	387
+Linh phang	388
+Bich	389
+Dao,	390
+Bich Dao,	391
+Dao, phang	392
+ULLO	393
+mat	394
+anh mat	395
+mat phang	396
+song	397
+nay nhu	398
+phat song	399
+xoi,	400
+xa xoi,	401
+xoi, phang	402
+dep	403
+hinh	404
+dep con	405
+con phang	406
+phat hinh	407
+xung	408
+quanh	409
+xung quanh	410
+quanh phang	411
+quang do,	412
+doc,	413
+tan doc,	414
+doc, phang	415
+khac,	416
+do khac,	417
+khac, phang	418
+nui	419
+lua	420
+nui lua	421
+lua phang	422
+da,	423
+da, han	424
+han phang	425
+the	426
+gioi	427
+the gioi	428
+gioi phang	429
+mot mat	430
+phang giua	431
+giua khong	432
+thieu	433
+dot,	434
+thieu dot,	435
+dot, phang	436
+phat ngon	437
+manh	438
+manh do,	439
+nguoi	440
+nguoi nay	441
+thi	442
+am thi	443
+thi phang	444
+ca	445
+chi	446
+ca hai	447
+hai phang	448
+phat chi	449
+ca gio,	450
+buoc,	451
+may buoc,	452
+buoc, phang	453
+phuong,	454
+bon phuong,	455
+phuong, phang	456
+cau	457
+cau lai	458
+lai phang	459
+vua	460
+dut,	461
+vua dut,	462
+dut, phang	463
+lon,	464
+cuu	465
+tieng lon,	466
+lon, phang	467
+phat cuu	468
+thiet	469
+tha,	470
+moi	471
+thiet tha,	472
+tha, phang	473
+phat moi	474
+nhieu,	475
+va	476
+rong	477
+nhieu, bang	478
+phang va	479
+va rong	480
+a,	481
+mat a,	482
+a, phang	483
+phat hat	484
+Han	485
+Han phang	486
+xong,	487
+noi xong,	488
+xong, phang	489
+trong mat	490
+nao	491
+nao cung	492
+qua	493
+cua,	494
+qua cua,	495
+cua, phang	496
+mat troi,	497
+Dai	498
+Hoang	499
+Dai Hoang	500
+Hoang phang	501
+sac	502
+trang,	503
+sac trang,	504
+trang, phang	505
+quanh,	506
+xung quanh,	507
+quanh, phang	508
+huong	509
+thoang	510
+u huong	511
+huong phang	512
+phat thoang	513
+tren mat	514
+nguoi,	515
+hai nguoi,	516
+nguoi, phang	517
+mong,	518
+giac mong,	519
+mong, phang	520
+thuoc	521
+lo	522
+quen thuoc	523
+thuoc phang	524
+phat lo	525
+cai	526
+cai nhin	527
+nhin phang	528
+khi	529
+khi do,	530
+Hoan,	531
+Tieu Hoan,	532
+Hoan, phang	533
+nhung lai	534
+y	535
+roi."	536
+da giet	537
+phang y	538
+y roi."	539
+LLLOO	540
+vo	541
+cung,	542
+vo cung,	543
+cung, phang	544
+cua	545
+giai	546
+phang cua	547
+cua giai	548
+ve	549
+phang huong	550
+huong ve	551
+dia	552
+phang tam	553
+tam dia	554
+chung	555
+chung khong	556
+khong phang	557
+phang ma	558
+ma co	559
+suong, nhin	560
+cang	561
+manh,	562
+cang manh,	563
+manh, phang	564
+loi noi	565
+noi phang	566
+phat hoi	567
+luu	568
+chuyen,	569
+trut	570
+luu chuyen,	571
+chuyen, phang	572
+phat trut	573
+tung,	574
+vo tung,	575
+tung, phang	576
+rit	577
+khoi	578
+rit len,	579
+phat khoi	580
+lot	581
+lat	582
+lot lat	583
+lat phang	584
+dong	585
+lua,	586
+dong lua,	587
+lua, phang	588
+tuong,	589
+tuong, lai	590
+Tai	591
+day,	592
+Tai day,	593
+day, phang	594
+thap	595
+thap thoang	596
+thoang phang	597
+gat	598
+hao	599
+the gat	600
+gat phang	601
+phang hao	602
+hao y	603
+Bach	604
+Tieu Bach	605
+Bach phang	606
+ga	607
+long ga	608
+ga phang	609
+lang nhu	610
+binh	611
+pham	612
+binh pham	613
+pham phang	614
+rung	615
+rung dong,	616
+nang	617
+cua nang	618
+nang phang	619
+phat van	620
+giam	621
+sut,	622
+giam sut,	623
+sut, phang	624
+dau	625
+chut	626
+dau con	627
+phat chut	628
+chang	629
+nhung y	630
+y phang	631
+phat chang	632
+mong	633
+mong manh,	634
+Dao	635
+Bich Dao	636
+Dao phang	637
+xanh	638
+dam,	639
+giong	640
+xanh dam,	641
+dam, phang	642
+phat giong	643
+gian	644
+cu,	645
+gian cu,	646
+cu, phang	647
+cao,	648
+tren cao,	649
+cao, phang	650
+phat phat	651
+thanh	652
+dien,	653
+truyen	654
+thanh dien,	655
+dien, phang	656
+phat truyen	657
+Chang	658
+Chang phang	659
+lan	660
+hoi am	661
+am phang	662
+phat lan	663
+tinh	664
+te,	665
+tinh te,	666
+te, phang	667
+vong	668
+ay,	669
+man	670
+vong ay,	671
+ay, phang	672
+phat man	673
+im	674
+phac	675
+rung im	676
+im phang	677
+phang phac	678
+phac khong	679
+mai	680
+ngoi	681
+mai ngoi	682
+ngoi phang	683
+troi	684
+bau troi	685
+troi phang	686
+lanh hon,	687
+phat huong	688
+gio	689
+tieng gio	690
+gio phang	691
+menh	692
+rieng,	693
+menh rieng,	694
+rieng, phang	695
+khu	696
+rung,	697
+khu rung,	698
+rung, phang	699
+than anh	700
+phat ve	701
+gia,	702
+rung gia,	703
+gia, phang	704
+tieng gio,	705
+dau, mat	706
+tinh,	707
+xuat	708
+lan tinh,	709
+tinh, phang	710
+phat xuat	711
+hac	712
+thu	713
+hac thu	714
+thu phang	715
+liet,	716
+mui	717
+manh liet,	718
+liet, phang	719
+phat mui	720
+sinh lai	721
+phat khong	722
+cua y	723
+chu	724
+chu la	725
+phat dau	726
+hep	727
+duong hep	728
+hep phang	729
+phat luc	730
+deu	731
+phat deu	732
+truoc mat	733
+dai,	734
+cuong dai,	735
+dai, phang	736
+phat la	737
+dang xa	738
+duoi	739
+chan	740
+duoi chan	741
+chan phang	742
+tuong	743
+nham tuong	744
+tuong phang	745
+kich	746
+luong	747
+kich liet,	748
+phat luong	749
+nha	750
+nghe	751
+nha im	752
+phac nghe	753
+quay	754
+quay cuong	755
+cuong phang	756
+phat ho	757
+di	758
+la giet	759
+phang di	760
+di de	761
+cu	762
+cho	763
+cu giet	764
+y cho	765
+tuoc"	766
+tan tuoc"	767
+tuoc" phang	768
+sanh	769
+phac,	770
+sanh im	771
+phang phac,	772
+phac, moi	773
+truong im	774
+phac, chi	775
+bi	776
+mat ho	777
+lang bi	778
+kinh	779
+ngac,	780
+kinh ngac,	781
+ngac, phang	782
+tung	783
+bay,	784
+tung bay,	785
+bay, phang	786
+anh mat,	787
+Bach lai	788
+do, lai	789
+nguyen	790
+tac	791
+nguyen bang	792
+phang thi	793
+thi tac	794
+phat,	795
+tan phat,	796
+phat, phang	797
+gian nay	798
+hoan	799
+hi,	800
+hoan hi,	801
+hi, phang	802
+khien	803
+khien han	804
+can,	805
+tam can,	806
+can, phang	807
+bong	808
+toi	809
+bong toi	810
+toi phang	811
+doc	812
+vao	813
+khong bang	814
+phang doc	815
+doc vao	816
+thuyen	817
+thuyen im	818
+phac, khong	819
+liet	820
+liet lai	821
+do dau,	822
+dot nhien,	823
+phat tung	824
+van truong,	825
+hoan ho	826
+bach	827
+quang,	828
+bach quang,	829
+quang, phang	830
+nao,	831
+luc nao,	832
+nao, phang	833
+dat,	834
+duoi dat,	835
+dat, phang	836
+dia kia,	837
+khong lo	838
+lo phang	839
+vi	840
+sao,	841
+vi sao,	842
+sao, phang	843
+Thu	844
+Than,	845
+Thu Than,	846
+Than, phang	847
+hoang	848
+loan,	849
+hoang loan,	850
+loan, phang	851
+doi vong,	852
+tuc	853
+thi,	854
+tuc thi,	855
+thi, phang	856
+ten	857
+nua	858
+ten nua	859
+nua phang	860
+dang im	861
+phac thi	862
+deu im	863
+phac, lang	864
+mat han	865
+ay	866
+tay ay	867
+ay phang	868
+mo	869
+to,	870
+mo to,	871
+to, phang	872
+tram	873
+muon,	874
+mang	875
+tram muon,	876
+muon, phang	877
+phat mang	878
+ngon lua	879
+suot,	880
+trong suot,	881
+suot, phang	882
+ao nay,	883
+phat rung	884
+co,	885
+cua co,	886
+co, phang	887
+Ho	888
+cuoi,	889
+Ho cuoi,	890
+cuoi, phang	891
+UL	892
+bang luong	893
+luong phang	894
+minh,	895
+nhin minh,	896
+minh, phang	897
+phat dot	898
+thai	899
+thai thai	900
+thai phang	901
+trong mui	902
+mui phang	903
+khi im	904
+phac tuong	905
+the bang	906
+phang ,	907
+, dat	908
+kiem	909
+a	910
+kiem giet	911
+phang a	912
+a di,	913
+be,	914
+bon be,	915
+be, phang	916
+bay	917
+bay len,	918
+den,	919
+phap	920
+truyen den,	921
+den, phang	922
+phat phap	923
+toac	924
+ra,	925
+toac ra,	926
+ra, phang	927
+hinh dang	928
+dang phang	929
+kho	930
+nghe,	931
+kho nghe,	932
+nghe, phang	933
+nay y	934
+Than	935
+Than cu	936
+cu phang	937
+trung	938
+khong trung	939
+trung phang	940
+vay	941
+nhu vay	942
+vay phang	943
+mat lai	944
+di dong,	945
+nhot	946
+nhat,	947
+nhot nhat,	948
+nhat, phang	949
+phat nguyen	950
+lan,	951
+sang lan,	952
+lan, phang	953
+vi,	954
+khoi vi,	955
+vi, phang	956
+phat bi	957
+oanh	958
+oanh,	959
+oanh oanh,	960
+oanh, phang	961
+chop	962
+chop mat	963
+bo	964
+ma,	965
+bo ma,	966
+ma, phang	967
+nua,	968
+liet nua,	969
+nua, phang	970
+yen	971
+yen tinh,	972
+binh dam,	973
+luong ay,	974
+keo	975
+dong bang	976
+phang ay	977
+ay keo	978
+cay	979
+cay ay,	980
+tram,	981
+am tram,	982
+tram, phang	983
+truy	984
+bo trang	985
+trang phang	986
+phat truy	987
+vinh	988
+mo mang	989
+mang phang	990
+phat vinh	991
+de giet	992
+y di,	993
+Coi	994
+chiec	995
+Coi phang	996
+phang chiec	997
+chiec ao	998
+hoang bang	999
+phang nay	1000
+nay da	1001
+van con	1002
+phat tieng	1003
+to	1004
+su	1005
+mo to	1006
+to phang	1007
+phat su	1008
+y di	1009
+lung,	1010
+lanh lung,	1011
+lung, phang	1012
+xa xa,	1013
+biet,	1014
+dac biet,	1015
+biet, phang	1016
+bat	1017
+bong im	1018
+phac, bat	1019
+khoe	1020
+khoe mat	1021
+Hoan,roi	1022
+Tieu Hoan,roi	1023
+Hoan,roi phang	1024
+phang phang	1025
+ULLLOLLL	1026
+buon	1027
+phat,khong	1028
+dap,lang	1029
+net buon	1030
+buon phang	1031
+phang phat,khong	1032
+phat,khong dap,lang	1033
+LLLLOLLLLL	1034
+LLLOLLLL	1035
+khac	1036
+khac nay,	1037
+Xung	1038
+Xung quanh	1039
+truoc,	1040
+luc truoc,	1041
+truoc, phang	1042
+du	1043
+duong,	1044
+du duong,	1045
+duong, phang	1046
+ket,	1047
+keo ket,	1048
+ket, phang	1049
+phat nguoi	1050
+xem	1051
+ra	1052
+xem ra	1053
+ra phang	1054
+phat qua	1055
+duong im	1056
+mui,	1057
+li	1058
+co mui,	1059
+mui, phang	1060
+phang li	1061
+li nhu	1062
+que	1063
+que do,	1064
+phan	1065
+phan nao	1066
+nao phang	1067
+nien,	1068
+thieu nien,	1069
+nien, phang	1070
+phat tram	1071
+nhang,	1072
+chop nhang,	1073
+nhang, phang	1074
+tien	1075
+tien khi	1076
+khi phang	1077
+phang phat,	1078
+phat, giua	1079
+mo,	1080
+mo, lai	1081
+toc	1082
+Meo,	1083
+toc Meo,	1084
+Meo, phang	1085
+phat anh	1086
+tam tinh	1087
+tinh phang	1088
+phac.	1089
+be im	1090
+phang phac.	1091
+lon	1092
+dem	1093
+lon bang	1094
+phang dem	1095
+dem lai	1096
+mui ga	1097
+tuong nay	1098
+long han	1099
+phat cam	1100
+nghe thi	1101
+phat may	1102
+som	1103
+som giet	1104
+phang chung	1105
+chung roi."	1106
+han van	1107
+phia	1108
+Nam.	1109
+dat bang	1110
+phang phia	1111
+phia Nam.	1112
+ram	1113
+ri,	1114
+ram ri,	1115
+ri, phang	1116
+phe	1117
+phe nay	1118
+ham	1119
+noi do	1120
+phat ham	1121
+ro	1122
+ro chi	1123
+chi phang	1124
+gan thi	1125
+choi	1126
+chi choi	1127
+choi phang	1128
+phang mot	1129
+mot cai	1130
+muc	1131
+mat nuoc	1132
+nuoc phang	1133
+lang, muc	1134
+than y	1135
+Nghe	1136
+Nghe phang	1137
+lang.	1138
+gian deu	1139
+deu phang	1140
+phang lang.	1141
+cang lon,	1142
+rap	1143
+rap dau,	1144
+lien,	1145
+thinh	1146
+xuong lien,	1147
+lien, phang	1148
+phat thinh	1149
+U	1150
+Co	1151
+ngay	1152
+U Co	1153
+Co phang	1154
+phat ngay	1155
+UO	1156
+mo chang	1157
+chang phang	1158
+Khau	1159
+tam lung	1160
+cua Khau	1161
+dao	1162
+danh	1163
+dao lai	1164
+phang kiem	1165
+kiem danh	1166
+don	1167
+thuan,	1168
+don thuan,	1169
+thuan, phang	1170
+cuoi	1171
+cuoi con	1172
+phat tren	1173
+mot phan	1174
+phan phang	1175
+xuong.	1176
+da bang	1177
+phang ngoi	1178
+ngoi xuong.	1179
+vuong	1180
+van,	1181
+phiu,	1182
+vuong van,	1183
+van, phang	1184
+phang phiu,	1185
+phiu, gan	1186
+lo lo	1187
+len	1188
+nao lai	1189
+phat len	1190
+ruong	1191
+bo cho	1192
+cho phang	1193
+phang mat	1194
+mat ruong	1195
+thom	1196
+beo	1197
+thom beo	1198
+beo phang	1199
+phat bay	1200
+ma van	1201
+gap	1202
+gap,	1203
+gap gap,	1204
+gap, phang	1205
+Thu Than	1206
+Than phang	1207
+mieng	1208
+mieng van	1209
+lau,	1210
+hoi lau,	1211
+lau, phang	1212
+ta	1213
+nuoc ta	1214
+ta phang	1215
+phat mat	1216
+ke	1217
+ke nay,	1218
+tu do	1219
+mac,	1220
+tram mac,	1221
+mac, phang	1222
+ben	1223
+ben trong	1224
+trong phang	1225
+am nay	1226
+chet,	1227
+nhu chet,	1228
+chet, phang	1229
+nu	1230
+nhung van	1231
+phat nu	1232
+phang to	1233
+to lon	1234
+Con	1235
+rut	1236
+Con rut	1237
+rut phang	1238
+phang khi	1239
+khi gioi	1240
+sai,	1241
+tieu sai,	1242
+sai, phang	1243
+thoi	1244
+thoi manh,	1245
+phuc	1246
+tap,	1247
+phuc tap,	1248
+tap, phang	1249
+lai cai	1250
+cai phang	1251
+phang khong	1252
+khong cho	1253
+y,	1254
+ra giet	1255
+phang y,	1256
+y, nhung	1257
+muon	1258
+thang	1259
+muon giet	1260
+phang thang	1261
+thang tieu	1262
+ba	1263
+long ba	1264
+ba phang	1265
+Thieu	1266
+Nguyen	1267
+phang Thieu	1268
+Thieu Nguyen	1269
+ULLLLL	1270
+ngo	1271
+khong ngo	1272
+ngo phang	1273
+rat	1274
+bo dang	1275
+phat rat	1276
+phun	1277
+trong mieng	1278
+mieng phang	1279
+phat phun	1280
+Dang	1281
+Dang xa,	1282
+phat giua	1283
+than nguoi	1284
+nguoi phang	1285
+chan troi	1286
+tia	1287
+dong tu	1288
+tu phang	1289
+phat tia	1290
+boi	1291
+phac boi	1292
+nguoi do	1293
+xa, lai	1294
+phat cang	1295
+chay,	1296
+dang chay,	1297
+chay, phang	1298
+gao	1299
+ru,	1300
+gao ru,	1301
+ru, phang	1302
+phat nghe	1303
+hai mat,	1304
+thenh	1305
+thang,	1306
+phiu	1307
+thenh thang,	1308
+thang, phang	1309
+phang phiu	1310
+phiu vo	1311
+chat	1312
+nhu san	1313
+va chat	1314
+tat	1315
+dai, im	1316
+phac, tat	1317
+troi day,	1318
+nang chi	1319
+phat cuoi	1320
+hep lai,	1321
+lai, phang	1322
+Hoa	1323
+diem	1324
+Hoa diem	1325
+diem phang	1326
+to hon,	1327
+nhuoc	1328
+ngan	1329
+nhuoc nhung	1330
+nhung phang	1331
+phat ngan	1332
+ngoai,	1333
+ra ngoai,	1334
+ngoai, phang	1335
+ngan,	1336
+luc ngan,	1337
+ngan, phang	1338
+thuong,	1339
+thuong, nhung	1340
+gam	1341
+thet,	1342
+gam thet,	1343
+thet, phang	1344
+phat ca	1345
+Mat	1346
+dam	1347
+Mat dam	1348
+dam phang	1349
+lung do	1350
+gieng	1351
+nuoc gieng	1352
+gieng phang	1353
+lang, co	1354
+Da	1355
+Cau,	1356
+Da Cau,	1357
+Cau, phang	1358
+khong khi,	1359
+khi, phang	1360
+ngung,	1361
+tam ngung,	1362
+ngung, phang	1363
+.Vu	1364
+tru	1365
+.Vu tru	1366
+tru phang	1367
+OUL	1368
+mo ao	1369
+ao phang	1370
+trong tam	1371
+tam phang	1372
+tu co	1373
+co phang	1374
+tu duong	1375
+duong phang	1376
+guong	1377
+guong mat	1378
+may la	1379
+Nhat	1380
+Tien,	1381
+Nhat Tien,	1382
+Tien, phang	1383
+mo coi	1384
+co giet	1385
+Nguoi	1386
+phu	1387
+voi	1388
+Nguoi phu	1389
+phu phang	1390
+phang voi	1391
+voi nguoi	1392
+kim	1393
+kim quang	1394
+Hoi	1395
+Tieu Hoi	1396
+Hoi phang	1397
+sau,	1398
+lat sau,	1399
+sau, phang	1400
+trai	1401
+tim	1402
+trai im	1403
+phac, tim	1404
+ban	1405
+ly	1406
+mat ban	1407
+ban phang	1408
+phang ly	1409
+ly trong	1410
+thuong	1411
+tron	1412
+thuong bang	1413
+phang tron	1414
+tron lang,	1415
+li,	1416
+be mat	1417
+phang li,	1418
+li, co	1419
+xua	1420
+ngay xua	1421
+xua phang	1422
+hang	1423
+mi	1424
+hang mi	1425
+mi phang	1426
+Pham	1427
+Tieu Pham	1428
+Pham phang	1429
+phat nho	1430
+vu,	1431
+bang vu,	1432
+vu, phang	1433
+mat, lai	1434
+phia,	1435
+tu phia,	1436
+phia, phang	1437
+lang, bang	1438
+truoc mat,	1439
+lang do	1440
+lap	1441
+doi bang	1442
+phang lai	1443
+lai lap	1444
+khong khi	1445
+vut	1446
+vut di,	1447
+phat lap	1448
+toi nay,	1449
+the co,	1450
+phat vay	1451
+phut	1452
+phut do	1453
+lai im	1454
+ngang	1455
+ngang doc,	1456
+Con cung	1457
+dai	1458
+thinh,	1459
+dai thinh,	1460
+thinh, phang	1461
+trang ngan	1462
+ngan phang	1463
+lanh,	1464
+che	1465
+lap lanh,	1466
+lanh, phang	1467
+phat che	1468
+Thuy	1469
+Nguyet	1470
+Thuy Nguyet	1471
+Nguyet phang	1472
+Cau	1473
+Cau hoi	1474
+hoi phang	1475
+lau	1476
+lau sau	1477
+sau phang	1478
+pham,	1479
+bat pham,	1480
+pham, phang	1481
+xam,	1482
+xa xam,	1483
+xam, phang	1484
+chuyen	1485
+gi,	1486
+chuyen gi,	1487
+gi, phang	1488
+Bong	1489
+Bong dem	1490
+dem phang	1491
+chet	1492
+choc,	1493
+chet choc,	1494
+choc, phang	1495
+Manh	1496
+Ki	1497
+Manh Ki	1498
+Ki phang	1499
+chem,	1500
+chem, nhung	1501
+ay, van	1502
+No	1503
+tai	1504
+No tai	1505
+tai phang	1506
+gia nua,	1507
+hay	1508
+sao?	1509
+phang hay	1510
+hay sao?	1511
+nam	1512
+nam im	1513
+nen	1514
+nen im	1515
+bi,	1516
+vo bi,	1517
+bi, phang	1518
+cung chot	1519
+dam gat	1520
+di loi	1521
+luon	1522
+phat luon	1523
+trong,	1524
+tram trong,	1525
+trong, phang	1526
+phang xuong	1527
+xuong lung	1528
+da phu	1529
+voi vo	1530
+rung ,	1531
+may,	1532
+cau may,	1533
+may, phang	1534
+nang,	1535
+cua nang,	1536
+nang, phang	1537
+cay,	1538
+vang	1539
+tren cay,	1540
+cay, phang	1541
+phat vang	1542
+gioi,	1543
+the gioi,	1544
+gioi, phang	1545
+em	1546
+ai	1547
+em ai	1548
+ai phang	1549
+phai giet	1550
+phang ten	1551
+ten noi	1552
+phang di,	1553
+di, ta	1554
+trong xuong,	1555
+dieu	1556
+sao van	1557
+phat dieu	1558
+qua nhien	1559
+phuong	1560
+tam phuong	1561
+phuong phang	1562
+lang, bon	1563
+dem sau	1564
+tuong lai,	1565
+bo lai	1566
+Quy	1567
+Le,	1568
+no	1569
+Quy Le,	1570
+Le, phang	1571
+phat no	1572
+ULO	1573
+canh	1574
+ga,	1575
+canh ga,	1576
+ga, phang	1577
+thau	1578
+phat thau	1579
+hong	1580
+hong quang,	1581
+lanh,trong	1582
+lanh,trong xa	1583
+tu ho	1584
+khuc	1585
+khuyu,	1586
+khuc khuyu,	1587
+khuyu, phang	1588
+ay, lai	1589
+vach	1590
+ve bang	1591
+phang tren	1592
+tren vach	1593
+cuc,	1594
+cung cuc,	1595
+cuc, phang	1596
+thach	1597
+the duong,	1598
+phat thach	1599
+xam	1600
+khi xam	1601
+xam phang	1602
+da qua	1603
+qua phang	1604
+bech,	1605
+trang bech,	1606
+bech, phang	1607
+noi,	1608
+noi, lai	1609
+tang	1610
+tang thuong,	1611
+thuong, phang	1612
+Tuyet	1613
+Ky	1614
+Tuyet Ky	1615
+Ky phang	1616
+su,	1617
+dai su,	1618
+su, phang	1619
+tinh lang,	1620
+lang, phang	1621
+leo	1622
+leo nay,	1623
+mat nang,	1624
+nhu truoc,	1625
+tam,	1626
+trung tam,	1627
+tam, phang	1628
+nhiet,	1629
+khat	1630
+cuong nhiet,	1631
+nhiet, phang	1632
+phat khat	1633
+Cuu	1634
+Duong	1635
+da gat	1636
+phang Cuu	1637
+Cuu Duong	1638
+dang xa,	1639
+Duong bang	1640
+phang rong	1641
+rong lon,	1642
+Dem	1643
+Dem toi	1644
+sac tram,	1645
+nang lai	1646
+thuong tam	1647
+lay	1648
+lay dong,	1649
+dua	1650
+ay den	1651
+den phang	1652
+phat dua	1653
+gai	1654
+gai cang	1655
+cang phang	1656
+au,	1657
+lo au,	1658
+au, phang	1659
+that	1660
+minh a,	1661
+phat that	1662
+truoc, tuy	1663
+tuy phang	1664
+tu xa	1665
+nong	1666
+bong,	1667
+nong bong,	1668
+bong, phang	1669
+the,	1670
+co the,	1671
+the, phang	1672
+bang han	1673
+no,	1674
+cua no,	1675
+no, phang	1676
+lui	1677
+lui lai,	1678
+cuc	1679
+cuc manh,	1680
+tieng,	1681
+mot tieng,	1682
+tieng, phang	1683
+phat y	1684
+ti	1685
+khong he	1686
+he phang	1687
+phat ti	1688
+tham	1689
+day	1690
+tham tam	1691
+phat day	1692
+thuy,	1693
+tham thuy,	1694
+thuy, phang	1695
+ruc,	1696
+do ruc,	1697
+ruc, phang	1698
+con giet	1699
+phang luon	1700
+luon ca	1701
+tra	1702
+cho!	1703
+tra song	1704
+song phang	1705
+phang cho!	1706
+cho! Lao	1707
+hung	1708
+le,	1709
+tap	1710
+hung le,	1711
+le, phang	1712
+phat tap	1713
+giay	1714
+giua,	1715
+giay giua,	1716
+giua, phang	1717
+bang,	1718
+nhu bang,	1719
+bang, phang	1720
+nguoi im	1721
+muong	1722
+muong tuong	1723
+toi,	1724
+bong toi,	1725
+toi, phang	1726
+vai	1727
+vai ga,	1728
+phat tinh	1729
+Thien	1730
+Thien van	1731
+muc,	1732
+nhu muc,	1733
+muc, phang	1734
+diu	1735
+dang,	1736
+diu dang,	1737
+dang, phang	1738
+sat	1739
+sat co	1740
+chuyen cu	1741
+phat vong	1742
+dao cua,	1743
+khong ngung,	1744
+vet,	1745
+dau vet,	1746
+vet, phang	1747
+xanh,	1748
+trang xanh,	1749
+xanh, phang	1750
+than sac	1751
+sac phang	1752
+trong nay,	1753
+Doc	1754
+Doc Than	1755
+phat so	1756
+tro	1757
+tro lai	1758
+mui thom	1759
+thom phang	1760
+con nho	1761
+nho phang	1762
+phat cho	1763
+quang, cung	1764
+phat bong	1765
+phac, anh	1766
+Bon	1767
+Bon be	1768
+gi, lai	1769
+ki	1770
+ki di,	1771
+tua	1772
+moi nguoi,	1773
+phat tua	1774
+canh nay,	1775
+Tinh	1776
+Tinh Duong	1777
+Duong phang	1778
+chum	1779
+chim,	1780
+chum chim,	1781
+chim, phang	1782
+ban bang	1783
+phang lon	1784
+lon nho	1785
+Ben	1786
+Ben ngoai,	1787
+nhap	1788
+mat anh	1789
+lang, nhap	1790
+Ba	1791
+Son	1792
+Ba Son	1793
+Son phang	1794
+bien	1795
+von	1796
+bien von	1797
+von phang	1798
+lang, cung	1799
+nhu bang	1800
+phang hon,	1801
+hon, nhung	1802
+gi	1803
+cat	1804
+gi cat	1805
+cat phang	1806
+di roi	1807
+phat dam	1808
+duoc,	1809
+noi duoc,	1810
+duoc, phang	1811
+mot luot,	1812
+lang, chi	1813
+thu giet	1814
+chieu	1815
+may chieu	1816
+chieu phang	1817
+quan	1818
+tuc keo	1819
+keo phang	1820
+phang quan	1821
+quan y,	1822
+di!	1823
+Phu	1824
+di! Phu	1825
+Phu phang	1826
+phang den	1827
+den may	1828
+ga nho	1829
+phat chu	1830
+xa, nhung	1831
+dem nay,	1832
+nhin xa,	1833
+Tat	1834
+Tat ca	1835
+ca phang	1836
+mieng nang,	1837
+lac	1838
+lac do,	1839
+canh han,	1840
+he,	1841
+he he,	1842
+he, phang	1843
+phat lang	1844
+lau, lai	1845
+cuoi do	1846
+lua nhe,	1847
+phat ban	1848
+phut nay	1849
+mit	1850
+phat mit	1851
+chua	1852
+do lai	1853
+phat chua	1854
+tho,	1855
+hoi tho,	1856
+tho, phang	1857
+phat boi	1858
+ganh	1859
+don ganh	1860
+ganh phang	1861
+phang cho	1862
+cho anh	1863
+huong thom	1864
+phat, trong	1865
+uu	1866
+net mat	1867
+phat uu	1868
+vach nui	1869
+nui phang	1870
+ly nhu	1871
+Ðich	1872
+thieu nu	1873
+nu phang	1874
+phat, Ðich	1875
+dung	1876
+tuoi,	1877
+dung tuoi,	1878
+tuoi, phang	1879
+khong,	1880
+nhu khong,	1881
+khong, phang	1882
+dien	1883
+dien im	1884
+tuc im	1885
+nhon	1886
+hoat	1887
+tui	1888
+bui.	1889
+nhon hoat	1890
+hoat phang	1891
+phang tui	1892
+tui bui.	1893
+den giet	1894
+a la	1895
+mat, nhin	1896
+hoa	1897
+phat ra,	1898
+phat hoa	1899
+chut nua,	1900
+ang,	1901
+an	1902
+im ang,	1903
+ang, phang	1904
+phat an	1905
+mam	1906
+ngoc	1907
+mam ngoc	1908
+ngoc phang	1909
+than ra,	1910
+mong cung	1911
+phat am	1912
+hon	1913
+danh giet	1914
+ten hon	1915
+Lao con	1916
+phat thu	1917
+phat di	1918
+dep,	1919
+rat dep,	1920
+dep, phang	1921
+dso	1922
+mat dso	1923
+dso phang	1924
+tu dau	1925
+dau phang	1926
+nghe thap	1927
+thap phang	1928
+phat sau	1929
+di do	1930
+day, lai	1931
+Ky Son	1932
+dung dao	1933
+dao phang	1934
+vang,	1935
+trong vang,	1936
+vang, phang	1937
+hung thu	1938
+tuong nay,	1939
+cach	1940
+phang cach	1941
+cach nui	1942
+vach da	1943
+da phang	1944
+rao	1945
+rao,	1946
+rao rao,	1947
+rao, phang	1948
+bi nay	1949
+dieu ga	1950
+nhau,	1951
+gap nhau,	1952
+nhau, phang	1953
+go	1954
+lat go	1955
+go phang	1956
+phang bong	1957
+bong vo	1958
+khe	1959
+khe,	1960
+phong	1961
+khe khe,	1962
+khe, phang	1963
+phat phong	1964
+that nay,	1965
+duom	1966
+cua han	1967
+phat duom	1968
+phap su	1969
+su phang	1970
+Pham,	1971
+Tieu Pham,	1972
+Pham, phang	1973
+tai mat,	1974
+Thuong	1975
+Nhan	1976
+Thuong Nhan	1977
+Nhan phang	1978
+lang ma	1979
+Pho	1980
+phac, Pho	1981
+Lang	1982
+phac Lang	1983
+tuc khac,	1984
+gian nhu	1985
+phat troi	1986
+ve,	1987
+quay ve,	1988
+ve, phang	1989
+phat cu	1990
+cao len,	1991
+hop	1992
+bong ay	1993
+phat hop	1994
+sau do	1995
+gao thet,	1996
+Lung	1997
+Linh Lung	1998
+Lung phang	1999
+ho,	2000
+hoan ho,	2001
+ho, phang	2002
+cuon	2003
+cuon,	2004
+cuon cuon,	2005
+cuon, phang	2006
+anh ay	2007
+nguoi han,	2008
+ay cung	2009
+mat da	2010
+li co	2011
+than,	2012
+ban than,	2013
+than, phang	2014
+toa	2015
+mieu,	2016
+toa mieu,	2017
+mieu, phang	2018
+rong,	2019
+trong rong,	2020
+rong, phang	2021
+vet	2022
+thanh vet	2023
+vet phang	2024
+ly, da	2025
+ong	2026
+ong ta	2027
+qua,	2028
+troi qua,	2029
+qua, phang	2030
+Thanh	2031
+Thanh am	2032
+hoI	2033
+hoI lau,	2034
+LLU	2035
+khac nay	2036
+nhan,	2037
+nam nhan,	2038
+nhan, phang	2039
+mau	2040
+tanh	2041
+mau tanh	2042
+tanh phang	2043
+nhieu	2044
+nay bang	2045
+phang co	2046
+co nhieu	2047
+ton,	2048
+hung ton,	2049
+ton, phang	2050
+tao	2051
+tinh tao	2052
+tao phang	2053
+dinh	2054
+dinh chay	2055
+chay phang	2056
+phang len	2057
+len do	2058
+phat dien,	2059
+voi con	2060
+roi,	2061
+roi, bang	2062
+voi mat	2063
+thay,	2064
+chinh	2065
+trong thay,	2066
+thay, phang	2067
+phat chinh	2068
+dung,	2069
+dung, deu	2070
+nay, lai	2071
+chau,	2072
+khe chau,	2073
+chau, phang	2074
+la lam	2075
+lam phang	2076
+thanh am	2077
+gau	2078
+dau gau	2079
+gau phang	2080
+phat gam	2081
+o day,	2082
+moi,	2083
+khoe moi,	2084
+moi, phang	2085
+lai cu	2086
+phang dam	2087
+dam vao	2088
+mat dat,	2089
+nhuan,	2090
+chiu	2091
+tuoi nhuan,	2092
+nhuan, phang	2093
+phat chiu	2094
+theo	2095
+song thu	2096
+phat theo	2097
+lao,	2098
+mieng lao,	2099
+lao, phang	2100
+Tieu Hoan	2101
+Hoan phang	2102
+chi con	2103
+phat than	2104
+bay gio	2105
+bay toi,	2106
+yeu,	2107
+thu yeu,	2108
+yeu, phang	2109
+di.	2110
+roi choi	2111
+phang di.	2112
+Tuong,	2113
+Tuong, mat	2114
+tham,	2115
+xa tham,	2116
+tham, phang	2117
+phien	2118
+phien da	2119
+phang mau	2120
+mau xanh,	2121
+doi,	2122
+doi, gat	2123
+phang tat	2124
+tat ca	2125
+rong ma	2126
+phang lao	2127
+den.	2128
+lao den.	2129
+Hoang,	2130
+Hoang, giet	2131
+y thi	2132
+sau cung	2133
+chat lai,	2134
+luc ay,	2135
+the ay,	2136
+lua do	2137
+ao,	2138
+mo ao,	2139
+ao, phang	2140
+nam nay,	2141
+phat muon	2142
+mo mo,	2143
+mo, phang	2144
+tu ay	2145
+khuc cuoi,	2146
+keo dai,	2147
+mua	2148
+nhay mua	2149
+mua phang	2150
+Moi	2151
+Moi thu	2152
+ton	2153
+nghiem	2154
+ton nghiem	2155
+nghiem phang	2156
+Hinh	2157
+Thien Hinh	2158
+Hinh phang	2159
+diem,	2160
+vung	2161
+cuc diem,	2162
+diem, phang	2163
+phat vung	2164
+Quang	2165
+Quang mang	2166
+dat troi	2167
+ngu	2168
+ngu nay	2169
+phat long	2170
+chan dong,	2171
+di xa,	2172
+phat tai	2173
+“Hac	2174
+nguoi ra,	2175
+phat “Hac	2176
+OULL	2177
+hau	2178
+khi hau	2179
+hau phang	2180
+the le,	2181
+u,	2182
+u u,	2183
+u, phang	2184
+phat den	2185
+quy	2186
+quy khi,	2187
+day, cung	2188
+phat nhe	2189
+nang giet	2190
+phang ta	2191
+ta di.	2192
+phac cho	2193
+mau,	2194
+nhu mau,	2195
+mau, phang	2196
+phang phan	2197
+phan nhu	2198
+kieu	2199
+ngao,	2200
+kieu ngao,	2201
+ngao, phang	2202
+uat	2203
+uc	2204
+uat uc	2205
+uc phang	2206
+phat bang	2207
+sat khi	2208
+anh nui,	2209
+hien	2210
+hien gio	2211
+the liet,	2212
+am do	2213
+nam thang	2214
+thang phang	2215
+phat, duoi	2216
+doi mat	2217
+tuyet,	2218
+nhu tuyet,	2219
+tuyet, phang	2220
+vay,	2221
+nhu vay,	2222
+vay, phang	2223
+tinh, cung	2224
+kiem,	2225
+than kiem,	2226
+kiem, phang	2227
+noi nay	2228
+mat ga,	2229
+thanh tu	2230
+muon sac,	2231
+nam nao	2232
+tieu pham,	2233
+tui no,	2234
+dep nay,	2235
+ay ,	2236
+vat	2237
+con vat	2238
+vat phang	2239
+dau ,	2240
+nho ,	2241
+phat quen	2242
+do ,	2243
+Dai hoang	2244
+hoang phang	2245
+nay ,	2246
+phat thuong	2247
+bach ,	2248
+tay ,	2249
+di ,	2250
+ga ,	2251
+phat vai	2252
+dong ,	2253
+ca nhan	2254
+vo hinh	2255
+hinh phang	2256
+phat dong	2257
+y ay	2258
+van im	2259
+phac, khi	2260
+cho bang	2261
+phang la	2262
+la ong	2263
+von di	2264
+di phang	2265
+day troi,	2266
+chu,	2267
+chuyen chu,	2268
+chu, phang	2269
+xem thi	2270

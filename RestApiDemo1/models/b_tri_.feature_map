@@ -1,0 +1,6412 @@
+dao;	1
+vo	2
+tri	3
+diec	4
+dao; vo	5
+vo tri	6
+tri diec	7
+diec vo	8
+LLL	9
+LLLL	10
+LL	11
+LLLO	12
+do	13
+ra	14
+tue	15
+bon	16
+do ra	17
+ra tri	18
+tri tue	19
+tue bon	20
+ben	21
+kien	22
+hoc	23
+tiep.	24
+ben kien	25
+kien tri	26
+tri hoc	27
+hoc tiep.	28
+LLLLO	29
+Khong	30
+co	31
+cung	32
+khong	33
+Khong co	34
+co tri	35
+tri cung	36
+cung khong	37
+LLLLL	38
+ULLLL	39
+OL	40
+Thanh	41
+Do,	42
+an	43
+cua	44
+Thanh Do,	45
+Do, tri	46
+tri an	47
+an cua	48
+ULO	49
+OO	50
+de	51
+duy	52
+duoc	53
+de duy	54
+duy tri	55
+tri duoc	56
+duoc bon	57
+tam	58
+bo	59
+cam	60
+bay,	61
+tam bo	62
+bo tri	63
+tri cam	64
+cam bay,	65
+day	66
+chu	67
+dai	68
+cuoc,	69
+day chu	70
+chu tri	71
+tri dai	72
+dai cuoc,	73
+luan	74
+va	75
+nang	76
+luan co	77
+tri va	78
+va nang	79
+o	80
+vi	81
+nay,	82
+thi	83
+o vi	84
+vi tri	85
+tri nay,	86
+nay, thi	87
+L	88
+su	89
+tinh	90
+linh	91
+su co	92
+tri tinh	93
+tinh linh	94
+thoi	95
+trang	96
+hung	97
+thoi trang	98
+trang tri	99
+tri hung	100
+hung tam	101
+mot	102
+gia	103
+khac	104
+nao	105
+mot gia	106
+gia tri	107
+tri khac	108
+khac nao	109
+tuong	110
+trung.	111
+co gia	112
+tri tuong	113
+tuong trung.	114
+LLLLLO	115
+cho	116
+tai	117
+Mac	118
+cho tai	119
+tai tri	120
+tri cua	121
+cua Mac	122
+ULL	123
+LO	124
+minh,	125
+nho	126
+ma	127
+minh, cung	128
+cung tri	129
+tri nho	130
+nho ma	131
+mua	132
+thuoc	133
+thuong	134
+mua thuoc	135
+thuoc tri	136
+tri thuong	137
+thuong khong	138
+LLLLLL	139
+giai	140
+doc	141
+thuong.	142
+giai doc	143
+doc tri	144
+tri thuong.	145
+LLLLLLO	146
+lai	147
+hon	148
+nguoi,	149
+lai co	150
+tri hon	151
+hon nguoi,	152
+trong	153
+vao	154
+trong vao	155
+vao tri	156
+tue linh	157
+kiem	158
+cang	159
+su kiem	160
+kiem tri	161
+tue cang	162
+duong	163
+tuong duong	164
+phai	165
+den	166
+benh	167
+phai den	168
+den tri	169
+tri benh	170
+benh cho	171
+Tan	172
+quan	173
+Tan quan	174
+quan tri	175
+don	176
+mang.	177
+ra don	178
+don tri	179
+tri mang.	180
+huy	181
+huy tai	182
+tri den	183
+den do	184
+Voi	185
+tao	186
+Voi tai	187
+va tao	188
+nang vi	189
+thuong cho	190
+tu	191
+truoc,	192
+co bo	193
+tri tu	194
+tu truoc,	195
+lanh,	196
+than	197
+da	198
+lanh, than	199
+than tri	200
+tri da	201
+da khong	202
+mang	203
+dang	204
+mot kiem	205
+tri mang	206
+mang dang	207
+su kien	208
+tri do	209
+do cung	210
+Chi	211
+la	212
+hoan	213
+Chi la	214
+la tri	215
+tri hoan	216
+hoan mot	217
+trung	218
+nguoi	219
+khong trung	220
+trung tri	221
+tri nguoi	222
+nguoi cho	223
+le	224
+ly	225
+ga	226
+le ly	227
+ly tri	228
+tri ga	229
+ga dang	230
+Yeu	231
+ban	232
+Yeu bo	233
+nay, ban	234
+xu	235
+lao	236
+con	237
+de xu	238
+xu tri	239
+tri lao	240
+lao con	241
+long	242
+ngo	243
+tam long	244
+long tri	245
+tri ngo	246
+ngo cua	247
+vua	248
+thu	249
+vua bo	250
+tri bo	251
+bo thu	252
+chut	253
+nghi,	254
+chut nao	255
+nao tri	256
+tri nghi,	257
+nghi, cho	258
+nay	259
+no	260
+la tam	261
+tam tri	262
+tri nay	263
+nay no	264
+nhung	265
+ton	266
+quy	267
+nhung vi	268
+tri ton	269
+ton quy	270
+ngoi	271
+duoc bo	272
+tri ngoi	273
+ngoi o	274
+y	275
+y co	276
+duoc benh	277
+van	278
+yen	279
+hoang	280
+van yen	281
+yen tri	282
+tri hoang	283
+hoang de	284
+han.	285
+y trung	286
+tri han.	287
+Tuy,	288
+chinh	289
+buong	290
+tha,	291
+Tuy, chinh	292
+chinh tri	293
+tri buong	294
+buong tha,	295
+ULLO	296
+boi	297
+du	298
+duoc trang	299
+tri boi	300
+boi du	301
+xuong	302
+nha	303
+xuong vi	304
+cua nha	305
+muu	306
+cao	307
+ngang	308
+chu muu	309
+muu tri	310
+tri cao	311
+cao ngang	312
+da xu	313
+tri bon	314
+bon vi	315
+ta	316
+dau.	317
+ta xu	318
+tri dau.	319
+xac	320
+ra vi	321
+tri chinh	322
+chinh xac	323
+phong	324
+bi	325
+khong bo	326
+tri phong	327
+phong bi	328
+nam	329
+la yen	330
+tri nam	331
+nam cao	332
+la nguoi	333
+nguoi tri	334
+tri trong	335
+trong lao	336
+ho	337
+cho.	338
+ho do	339
+do tri	340
+tri cho.	341
+phu	342
+nang yen	343
+tri phu	344
+phu than	345
+chang	346
+chang yen	347
+tri nang	348
+nang la	349
+het	350
+viec	351
+het tam	352
+tri vao	353
+vao viec	354
+huyet	355
+thien	356
+huyet thien	357
+thien tri	358
+tri o	359
+o ben	360
+trut	361
+tri trut	362
+trut vao	363
+roi	364
+tri roi	365
+roi day	366
+Lung	367
+Lung bo	368
+phong thu	369
+ULLL	370
+toa	371
+thanh	372
+day.	373
+toa thanh	374
+thanh tri	375
+o day.	376
+em	377
+thong	378
+nhan	379
+em thong	380
+thong tri	381
+tri cho	382
+cho nhan	383
+chuyen,	384
+tat	385
+chuyen, thong	386
+cho tat	387
+neu	388
+neu tam	389
+tri khong	390
+khong kien	391
+Tram	392
+con thong	393
+cho Tram	394
+len	395
+ta,	396
+len vi	397
+cua ta,	398
+LLO	399
+nhu	400
+ke	401
+nhu ke	402
+ke tri	403
+hoan cua	404
+cong	405
+nay tai	406
+tri vo	407
+vo cong	408
+chu!"	409
+do chu!"	410
+LLLOO	411
+kich	412
+mot kich	413
+kich tri	414
+huynh	415
+cuc,	416
+huynh chu	417
+dai cuc,	418
+chua	419
+vet	420
+nguoi chua	421
+chua tri	422
+tri vet	423
+vet thuong	424
+chua bo	425
+duoc hoan	426
+tieu	427
+su chu	428
+cua tieu	429
+...y	430
+phu tri	431
+tri ...y	432
+...y y	433
+OOOL	434
+bao	435
+khong duy	436
+duoc bao	437
+quang	438
+nhat	439
+quang minh,	440
+minh, tri	441
+tri nhat	442
+nhat chinh	443
+ga.	444
+trong tam	445
+tri ga.	446
+dia	447
+thien dia	448
+dia tri	449
+tri tam	450
+tam kien	451
+chi	452
+con chi	453
+chi tri	454
+tro	455
+nen	456
+tro nen	457
+nen tri	458
+tri don	459
+don tu	460
+luoi	461
+da bo	462
+tri luoi	463
+luoi va	464
+tu vo	465
+tri tai	466
+tai Thanh	467
+lo	468
+mo	469
+roi than	470
+tri lo	471
+lo mo	472
+tay	473
+cung bo	474
+tri nhung	475
+nhung tay	476
+cung yen	477
+ga co	478
+trong,	479
+hai	480
+con nguoi	481
+tri trong,	482
+trong, hai	483
+that	484
+ra than	485
+tri that	486
+that thuong.	487
+lam	488
+huyen	489
+Khuc	490
+den lam	491
+lam tri	492
+tri huyen	493
+huyen Khuc	494
+thuc	495
+thay	496
+thuc thay	497
+thay tri	498
+nho cua	499
+tot,	500
+con co	501
+nho tot,	502
+luc	503
+ha.	504
+cung luc	505
+luc tri	506
+tri ha.	507
+hay	508
+hay thanh	509
+tri nao	510
+nao ma	511
+xom	512
+noI	513
+tiep	514
+xom thanh	515
+tri noI	516
+noI tiep	517
+LLU	518
+voI	519
+cung nhat	520
+nhat tri	521
+tri voI	522
+voI de	523
+cu	524
+the	525
+duoc vi	526
+tri cu	527
+cu the	528
+sau	529
+khi	530
+sau khi	531
+khi tri	532
+noi	533
+nhu huynh	534
+huynh tri	535
+khong noi	536
+khoi	537
+nho huynh	538
+tri khoi	539
+khoi benh	540
+huynh,	541
+huynh, vi	542
+nay trong	543
+Sinh	544
+Quyet”	545
+Sinh Quyet”	546
+Quyet” tri	547
+ULLLLO	548
+chuyen	549
+han	550
+quai	551
+chuyen han	552
+han tri	553
+duoc quai	554
+benh,	555
+cao thu	556
+thu tri	557
+tri benh,	558
+benh, nhung	559
+thuy	560
+khien	561
+thuy day	562
+day tri	563
+tue khien	564
+voi	565
+tru	566
+Thuong	567
+Thien	568
+voi tru	569
+tru tri	570
+tri Thuong	571
+Thuong Thien	572
+ULLLLL	573
+Duoc	574
+cua Duoc	575
+cuu	576
+nhi	577
+tri cuu	578
+cuu nhi	579
+O	580
+O vi	581
+cuu tam	582
+U	583
+UL	584
+Vi	585
+ngu	586
+Vi tri	587
+cuu ngu	588
+Huyen	589
+Do	590
+ma bo	591
+tri Huyen	592
+Huyen Do	593
+kien va	594
+va tri	595
+tri thuc	596
+thuc cua	597
+du tai	598
+tri hay	599
+hay kiem	600
+dung	601
+sach	602
+dung het	603
+het tri	604
+tri muu	605
+muu sach	606
+ca	607
+tat ca	608
+ca tri	609
+tue va	610
+Duc	611
+lanh	612
+dua	613
+Duc lanh	614
+lanh tri	615
+tri dua	616
+dua mot	617
+su lanh	618
+cua minh,	619
+cuoc	620
+danh	621
+da chu	622
+tri cuoc	623
+cuoc danh	624
+ngam	625
+ngam chu	626
+nhat,	627
+lan	628
+ke da	629
+da tri	630
+tri nhat,	631
+nhat, lan	632
+chiem	633
+phong,	634
+chiem vi	635
+thuong phong,	636
+cua ke	637
+dieu	638
+hai dieu	639
+dieu tri	640
+tri dung	641
+dung khong	642
+nhay	643
+ra tai	644
+va nhay	645
+mau	646
+lam co	647
+tri mau	648
+mau le	649
+mai	650
+duoc.	651
+mai kien	652
+tri duoc.	653
+hong	654
+ky	655
+hong nhan	656
+nhan tri	657
+tri ky	658
+ky nhu	659
+sao	660
+cua sao	661
+nhanh	662
+y,	663
+su nhanh	664
+nhanh tri	665
+cua y,	666
+phu tue	667
+tue tri	668
+tri thong	669
+thong minh,	670
+cach	671
+Trieu	672
+cach bo	673
+cua Trieu	674
+truong	675
+nam truong	676
+truong tri	677
+nhat thong	678
+cuc	679
+tri cuc	680
+cuc ky	681
+bai	682
+sanh	683
+cach bai	684
+bai tri	685
+trong sanh	686
+phia	687
+tai vi	688
+tri phia	689
+phia ben	690
+biet	691
+khai,	692
+biet vi	693
+dai khai,	694
+cao nhu	695
+tuyet,	696
+ga tai	697
+cao tuyet,	698
+toan,	699
+toan, co	700
+va muu	701
+cua y	702
+nghiet,	703
+sach thong	704
+khac nghiet,	705
+nhun,	706
+ho,	707
+nhun, than	708
+tri mo	709
+mo ho,	710
+luc duy	711
+tri su	712
+su bao	713
+me,	714
+giam	715
+sut,	716
+me, than	717
+tri giam	718
+giam sut,	719
+canh	720
+chang bo	721
+tri canh	722
+canh phong	723
+lap	724
+tuc	725
+minh, than	726
+tri lap	727
+lap tuc	728
+ve	729
+cu,	730
+che	731
+ve vi	732
+tri cu,	733
+cu, che	734
+Tam	735
+tap	736
+Tam tri	737
+tri tap	738
+tap trung	739
+ca tam	740
+nuong	741
+cac	742
+nuong cuu	743
+cuu tri	744
+va cac	745
+ly,	746
+Do vi	747
+tri dia	748
+dia ly,	749
+"thien	750
+cua "thien	751
+OLLLLL	752
+Lay	753
+doc.	754
+Lay doc	755
+tri doc.	756
+quoc	757
+ban linh	758
+linh tri	759
+tri quoc	760
+quoc cua	761
+ron,	762
+trat	763
+ron, duy	764
+tri trat	765
+trat tu	766
+nay xu	767
+tri the	768
+the nao	769
+tay de	770
+de tri	771
+Ga	772
+Ga xu	773
+tri voi	774
+voi ta	775
+nay than	776
+nguoi nao	777
+rat	778
+linh duoc	779
+duoc tri	780
+thuong rat	781
+giup	782
+nuoc.	783
+giup viec	784
+viec tri	785
+tri nuoc.	786
+phep	787
+di	788
+phep di	789
+di tri	790
+kinh	791
+toi.	792
+ve kinh	793
+kinh tri	794
+tri toi.	795
+canh,	796
+bat	797
+giac,	798
+canh, bat	799
+bat tri	800
+tri bat	801
+bat giac,	802
+tren	803
+khuon	804
+ve ngu	805
+ngu tri	806
+tri tren	807
+tren khuon	808
+loi	809
+dung.	810
+tri loi	811
+loi dung.	812
+deu	813
+nghiem	814
+can.	815
+deu bo	816
+tri nghiem	817
+nghiem can.	818
+ky ma	819
+ma tri	820
+hoan cuoc	821
+con cach	822
+cach tri	823
+tien	824
+cung tien	825
+thich	826
+hop	827
+la vi	828
+tri thich	829
+thich hop	830
+mat	831
+giac.	832
+mat di	833
+tri giac.	834
+can	835
+tiep tuc	836
+tuc tri	837
+the can	838
+nay gia	839
+tri con	840
+To	841
+khi an	842
+an tri	843
+cho To	844
+doi	845
+cong bo	846
+tri de	847
+de doi	848
+voi tai	849
+va thuc	850
+nhau.	851
+khac nhau.	852
+Bien	853
+cua Bien	854
+cua bao	855
+tunng	856
+cua tunng	857
+,	858
+len ngoi	859
+ngoi tri	860
+tri vi	861
+vi ,	862
+bi trung	863
+khong the	864
+binh	865
+hien	866
+binh bat	867
+tri ,	868
+, hien	869
+Thieu	870
+Soai	871
+qua	872
+Thieu Soai	873
+Soai tri	874
+nho qua	875
+dieu:	876
+Chua	877
+dieu: Chua	878
+Chua tri	879
+thuong the	880
+thuong,	881
+chuyen dieu	882
+tri noi	883
+noi thuong,	884
+co the	885
+the tri	886
+duoc thuong	887
+Duong	888
+vao vi	889
+cua Duong	890
+bang	891
+Ha	892
+bang Ha	893
+Ha tri	894
+tri binh	895
+binh the	896
+tinh da	897
+nhat, ben	898
+hoa	899
+khi.	900
+bang bao	901
+bao tri	902
+tri hoa	903
+hoa khi.	904
+cuc.	905
+dai cuc.	906
+Nam	907
+Duong,	908
+cung quan	909
+tri Nam	910
+Nam Duong,	911
+tuyet	912
+tai cao	913
+cao tri	914
+tri tuyet	915
+tuyet ma	916
+Thu	917
+oc	918
+Thu Thu	919
+Thu tri	920
+tri oc	921
+oc du	922
+chon	923
+de bo	924
+tri lam	925
+lam chon	926
+duoc."	927
+Van	928
+tam nhat	929
+tri duoc."	930
+duoc." Van	931
+LLLLOO	932
+dich	933
+tri ma	934
+ma dich	935
+dau	936
+tien,	937
+tri dau	938
+dau tien,	939
+voi vi	940
+dung dau	941
+Chinh	942
+dao,	943
+tri Chinh	944
+Chinh dao,	945
+ngo vi	946
+tri lanh	947
+lanh tu	948
+tham,	949
+long tham,	950
+tham, tri	951
+tri luc	952
+luc tu	953
+lua	954
+ho, vi	955
+tri lua	956
+lua chon	957
+...de	958
+chung	959
+...de an	960
+bon chung	961
+OOOLL	962
+Luc	963
+Phuc	964
+nguoi chu	965
+tri Luc	966
+Luc Phuc	967
+te	968
+va gia	969
+tri tien	970
+tien te	971
+ke tai	972
+tri nhu	973
+nhu Mac	974
+noi,	975
+„Ke	976
+noi, „Ke	977
+„Ke tri	978
+tri gia	979
+gia tinh	980
+OUL	981
+phap	982
+toi	983
+ong	984
+quan phap	985
+phap tri	986
+tri toi	987
+toi ong	988
+vien	989
+ve thanh	990
+gia vien	991
+nguoi."	992
+that co	993
+hon nguoi."	994
+LLLLLOO	995
+ne	996
+ay,	997
+ne don	998
+mang ay,	999
+leo	1000
+truoc	1001
+leo bo	1002
+tri truoc	1003
+truoc cam	1004
+nao?	1005
+Bo	1006
+sao?	1007
+nao? Bo	1008
+Bo tri	1009
+tri ra	1010
+ra sao?	1011
+Ky	1012
+ngo gia	1013
+cua Ky	1014
+Hang	1015
+lan gia	1016
+cua Hang	1017
+dau,	1018
+tri ban	1019
+ban dau,	1020
+do,	1021
+toi vi	1022
+tri do,	1023
+do, va	1024
+guong,	1025
+guong, kien	1026
+cho den	1027
+ma co	1028
+cung hon	1029
+rang	1030
+cho rang	1031
+chan	1032
+nhung gia	1033
+tri chan	1034
+chan chinh	1035
+thu,	1036
+vay,	1037
+thu, tai	1038
+nhu vay,	1039
+cuoc."	1040
+ve chu	1041
+dai cuoc."	1042
+minh	1043
+cao gia	1044
+cua minh	1045
+tham	1046
+tham tuong	1047
+tuong tri	1048
+nao da	1049
+song	1050
+song toan,	1051
+toan, tri	1052
+nho lai	1053
+on	1054
+nho on	1055
+on tri	1056
+quan bo	1057
+cuoc phong	1058
+may:	1059
+“Voi	1060
+may: “Voi	1061
+“Voi tri	1062
+nang cua	1063
+OULL	1064
+lon	1065
+bai gia	1066
+tri lon	1067
+lon o	1068
+dong	1069
+tam,	1070
+phai nhat	1071
+tri dong	1072
+dong tam,	1073
+dam	1074
+do vo	1075
+tri dam	1076
+dam den	1077
+lang	1078
+minh, tam	1079
+tinh lang	1080
+gio	1081
+luc va	1082
+tri thuong,	1083
+thuong, gio	1084
+san,	1085
+ket	1086
+tri san,	1087
+san, ket	1088
+chut gia	1089
+tri ben	1090
+ben nguoi	1091
+tren ca	1092
+chang.	1093
+long cuu	1094
+cho chang.	1095
+cau	1096
+khan	1097
+tri cau	1098
+cau khan	1099
+cap	1100
+han cap	1101
+cap tri	1102
+voi bo	1103
+Tu	1104
+trong tai	1105
+cua Tu	1106
+cong,	1107
+luan tai	1108
+vo cong,	1109
+cuu bo	1110
+trong trang	1111
+moi	1112
+a	1113
+moi trung	1114
+tri a	1115
+a ta	1116
+thiet	1117
+ke,	1118
+nao chu	1119
+tri thiet	1120
+thiet ke,	1121
+sat	1122
+sat chinh	1123
+hay khong	1124
+dat,	1125
+gioi.	1126
+dat, thong	1127
+the gioi.	1128
+la,	1129
+lieu	1130
+la, can	1131
+can tri	1132
+tri lieu	1133
+lieu tam	1134
+canh bai	1135
+nay moi	1136
+la than	1137
+cua han	1138
+the bao	1139
+su tinh	1140
+hinh	1141
+thoi bao	1142
+dung hinh	1143
+giac	1144
+tay bat	1145
+bat giac	1146
+(Chua	1147
+Vi dich	1148
+dich tri	1149
+benh (Chua	1150
+OULLL	1151
+tang	1152
+tri bao	1153
+bao tang	1154
+Phuong	1155
+Phuong la	1156
+ky cua	1157
+sinh	1158
+tien sinh	1159
+sinh tri	1160
+hen	1161
+Chinh la	1162
+benh hen	1163
+kha	1164
+kha nang	1165
+nang tri	1166
+khoi can	1167
+dinh	1168
+sao.	1169
+dinh chua	1170
+ra sao.	1171
+luu,	1172
+phong luu,	1173
+luu, tri	1174
+dung kiem	1175
+huynh co	1176
+noi danh	1177
+dich bo	1178
+lo het	1179
+qua,	1180
+nha,	1181
+qua, bo	1182
+tri trang	1183
+trang nha,	1184
+Khien	1185
+Khien tai	1186
+chong	1187
+chong thong	1188
+cho Phuc	1189
+muon	1190
+chien	1191
+muon bao	1192
+tri chien	1193
+chien y,	1194
+soai	1195
+thong soai	1196
+soai tri	1197
+dung vo	1198
+nguoi co	1199
+oc mot	1200
+uoc	1201
+luong	1202
+tri uoc	1203
+uoc luong	1204
+lo vi	1205
+ay	1206
+ay bai	1207
+that trang	1208
+dem	1209
+dao	1210
+nuoc,	1211
+dem dao	1212
+dao tri	1213
+tri nuoc,	1214
+nuoc, tren	1215
+vat	1216
+nhan vat	1217
+vat tri	1218
+dung song	1219
+giao	1220
+bay	1221
+giao bo	1222
+cam bay	1223
+mo bo	1224
+cuoc nay	1225
+nhieu	1226
+con bo	1227
+tri nhieu	1228
+nhieu thuoc	1229
+xuong,	1230
+xuong, vi	1231
+tri thu	1232
+thu toa	1233
+ke bat	1234
+khu	1235
+Mieu	1236
+khu tu	1237
+tu tri	1238
+nguoi Mieu	1239
+cai	1240
+viec cai	1241
+cai tri	1242
+tri lai	1243
+lai cang	1244
+dap	1245
+dap thanh	1246
+o hai	1247
+phai xu	1248
+roi,	1249
+roi, xu	1250
+tri viec	1251
+viec nay	1252
+som	1253
+som an	1254
+tri truoc,	1255
+truoc, chuyen	1256
+keo	1257
+den,	1258
+keo den,	1259
+den, tri	1260
+hoan chi	1261
+tu truoc	1262
+nien	1263
+nien bat	1264
+the su	1265
+xeo,	1266
+tu.	1267
+xeo, lang	1268
+lang tri	1269
+tri xu	1270
+xu tu.	1271
+Mat	1272
+cua Mat	1273
+dat	1274
+danh la	1275
+gia dat	1276
+Ly	1277
+cua Ly	1278
+mat thong	1279
+cho dong	1280
+cuong,	1281
+cuong, co	1282
+vinh	1283
+hang,	1284
+toi gia	1285
+tri vinh	1286
+vinh hang,	1287
+bai chinh	1288
+lon nhat	1289
+hanh	1290
+chi,	1291
+ky hanh	1292
+hanh tri	1293
+ky chi,	1294
+them	1295
+can bo	1296
+tri them	1297
+them mot	1298
+nho,	1299
+so,	1300
+nho, bai	1301
+don so,	1302
+sao,	1303
+biet xu	1304
+ra sao,	1305
+nang da	1306
+duoc hai	1307
+“dua	1308
+cua “dua	1309
+OLLL	1310
+la co	1311
+tinh minh,	1312
+toi cao	1313
+tim	1314
+vo,	1315
+tim tru	1316
+tri luan	1317
+luan vo,	1318
+yeu	1319
+va vi	1320
+tri cac	1321
+cac yeu	1322
+do”.	1323
+ra trung	1324
+tri do”.	1325
+LLOO	1326
+theo	1327
+Khau	1328
+tri theo	1329
+theo Khau	1330
+gay	1331
+vao dieu	1332
+ma gay	1333
+tri han	1334
+han chi	1335
+thay thanh	1336
+nay dang	1337
+Am	1338
+la tru	1339
+tri Thien	1340
+Thien Am	1341
+hai,	1342
+loan,	1343
+hai, than	1344
+hon loan,	1345
+dang kien	1346
+vi dieu	1347
+tong,	1348
+tong, xu	1349
+do de	1350
+sau?"	1351
+Dao	1352
+hay xu	1353
+tri sau?"	1354
+sau?" Dao	1355
+khoai	1356
+thay khoai	1357
+khoai tri	1358
+vi da	1359
+khong.	1360
+nao duy	1361
+hay khong.	1362
+nguoi tuc	1363
+da muu	1364
+cao minh	1365
+vuong	1366
+dao.	1367
+vuong chu	1368
+tri cong	1369
+cong dao.	1370
+se	1371
+se bo	1372
+suc	1373
+duoc bai	1374
+tri het	1375
+het suc	1376
+Lao	1377
+khieu	1378
+vo nhan	1379
+tri Lao	1380
+Lao khieu	1381
+chu xu	1382
+tri rat	1383
+rat tai	1384
+doan	1385
+thu doan	1386
+cua no	1387
+bang,	1388
+tri can	1389
+can bang,	1390
+ngay	1391
+nay ngay	1392
+ben.	1393
+mot vi	1394
+tri ben.	1395
+ben,	1396
+quay	1397
+tri ben,	1398
+ben, quay	1399
+den viec	1400
+nuoc, ga	1401
+Kim	1402
+Kim ngu	1403
+, long	1404
+lang than	1405
+tri ho	1406
+ho do,	1407
+Hoang	1408
+dung thong	1409
+cho Hoang	1410
+kieu	1411
+theo kieu	1412
+cac bon	1413
+Truong,	1414
+Lieu	1415
+Truong, tai	1416
+cua Lieu	1417
+ULLLLLO	1418
+toan	1419
+sanh bai	1420
+tri toan	1421
+toan la	1422
+tri ho,	1423
+ho, cang	1424
+su giup	1425
+giup tri	1426
+cau ta	1427
+ta tri	1428
+tri la	1429
+la benh	1430
+tua	1431
+bi muu	1432
+tri tua	1433
+tua ho	1434
+tri hai	1435
+hai nguoi	1436
+vong	1437
+muu,	1438
+vong sinh	1439
+tri muu,	1440
+muu, dau	1441
+Tham	1442
+net	1443
+Tham tri	1444
+tinh net	1445
+lai kien	1446
+bao ve	1447
+tay co	1448
+bac	1449
+hue,	1450
+bac dai	1451
+dai tri	1452
+dai hue,	1453
+tai dai	1454
+gia ngu	1455
+ngu,	1456
+la dai	1457
+gia ngu,	1458
+bieu	1459
+bieu thi	1460
+thi tri	1461
+nang dang	1462
+tan	1463
+doi vi	1464
+tri tan	1465
+tan cong,	1466
+ve ca	1467
+luc lan	1468
+an.	1469
+chut long	1470
+tri an.	1471
+dong thoi	1472
+thoi tri	1473
+thuong khoi	1474
+cach dieu	1475
+hoa thuong	1476
+thuong tri	1477
+Song	1478
+Nhi	1479
+de an	1480
+tri Song	1481
+Song Nhi	1482
+ky.	1483
+vi long	1484
+tri ky.	1485
+nao,	1486
+the nao,	1487
+cu khong	1488
+qua that	1489
+that tri	1490
+tri ke	1491
+ke hon	1492
+mot ke	1493
+khong chu	1494
+duoc dai	1495
+cuoi:	1496
+-Ngoc	1497
+cuoi: -Ngoc	1498
+-Ngoc tri	1499
+tri trung	1500
+trung ke	1501
+nhat cua	1502
+kho	1503
+cham	1504
+kho kien	1505
+tri cham	1506
+cham chi,	1507
+ngo.	1508
+bao on	1509
+tri ngo.	1510
+huyet va	1511
+ung	1512
+nang cap	1513
+de ung	1514
+Nhac	1515
+ga lanh	1516
+hon Nhac	1517
+Vo	1518
+Lau	1519
+biet chu	1520
+tri Vo	1521
+Vo Lau	1522
+co duy	1523
+dung gia	1524
+cua han.	1525
+ngoai	1526
+Tieu	1527
+tran,	1528
+ngoai Tieu	1529
+Tieu tri	1530
+tri tran,	1531
+tran, nguoi	1532
+Ha dai	1533
+ho len	1534
+ngai	1535
+ngai chu	1536
+duong chu	1537
+su,	1538
+dau chu	1539
+dai su,	1540
+nguoi khac	1541
+ha	1542
+thu ha	1543
+cam long	1544
+ket nhat	1545
+chuong	1546
+“Chinh	1547
+suy	1548
+chuong “Chinh	1549
+“Chinh tri	1550
+hung suy	1551
+OULLLL	1552
+y chu	1553
+Phi	1554
+Phi chu	1555
+tri chuyen	1556
+chuyen nay,	1557
+neu nhu	1558
+nhu tri	1559
+lai trang	1560
+tri bang	1561
+bang nhung	1562
+loi dung	1563
+that la	1564
+dang mat	1565
+mat tri	1566
+ky o	1567
+hao	1568
+huu	1569
+giao,	1570
+hao huu	1571
+huu tri	1572
+tri giao,	1573
+giao, cau	1574
+gi	1575
+chu?"	1576
+tri gi	1577
+gi chu?"	1578
+y quan	1579
+rat co	1580
+luong,	1581
+dut	1582
+luong, da	1583
+tri dut	1584
+dut quai	1585
+hieu	1586
+hieu cach	1587
+tri chung	1588
+chung thuong	1589
+thanh khi	1590
+thuong cua	1591
+thieu	1592
+hiep	1593
+thieu hiep	1594
+hiep tri	1595
+han!	1596
+Truong	1597
+tri han!	1598
+han! Truong	1599
+Cuu	1600
+da thong	1601
+cho Cuu	1602
+Thuan	1603
+lao thay	1604
+phu Thuan	1605
+quau	1606
+quau roi	1607
+roi tri	1608
+rot	1609
+Ga yen	1610
+tri rot	1611
+rot xuong	1612
+cua Thuong	1613
+cuong	1614
+vi cuong	1615
+cuong tri	1616
+han tuong	1617
+tuong y,	1618
+tri dang	1619
+dang ve	1620
+khiet,	1621
+khiet, nhung	1622
+nhung tri	1623
+da that	1624
+truc	1625
+truc bo	1626
+nhu mot	1627
+phep tam	1628
+ke co	1629
+thoi khac	1630
+khac tri	1631
+mang nay,	1632
+dan	1633
+chim	1634
+mat dan	1635
+dan tri	1636
+tri giac,	1637
+giac, chim	1638
+ra khoi	1639
+khoi tri	1640
+tri giac	1641
+giac linh	1642
+lam,	1643
+xep	1644
+lam, bo	1645
+thu xep	1646
+the chi	1647
+them duoc	1648
+nguoi.	1649
+y cai	1650
+tri van	1651
+van nguoi.	1652
+Han	1653
+Bach	1654
+Y	1655
+Han yen	1656
+tri Bach	1657
+Bach Y	1658
+OU	1659
+roi, than	1660
+ten	1661
+su bo	1662
+cua ten	1663
+cac nguoi	1664
+nay.	1665
+muu tuc	1666
+tri nay.	1667
+con tam	1668
+de y	1669
+Tham huynh	1670
+rang,	1671
+„Tai	1672
+rang, „Tai	1673
+„Tai tri	1674
+cua Tham	1675
+Pho	1676
+co tru	1677
+la Pho	1678
+thi bo	1679
+tri cang	1680
+cang cu	1681
+von	1682
+von tuc	1683
+khon	1684
+luong.	1685
+tri khon	1686
+khon luong.	1687
+luoc	1688
+co co	1689
+muu luoc	1690
+thi muu	1691
+cua lao	1692
+Vay	1693
+Vay tai	1694
+cua Khong	1695
+met	1696
+cho met	1697
+met tri	1698
+tri nen	1699
+nen khong	1700
+nguoi thong	1701
+cho lao	1702
+chang co	1703
+nho dai	1704
+han,	1705
+tri han,	1706
+han, khien	1707
+han, nhu	1708
+hai deu	1709
+deu tri	1710
+-	1711
+“Nguoi	1712
+- “Nguoi	1713
+“Nguoi tri	1714
+gia hieu	1715
+tri quan	1716
+quan binh	1717
+"Ðai	1718
+dung",	1719
+nao "Ðai	1720
+"Ðai tri	1721
+dai dung",	1722
+chinh khi	1723
+vua duy	1724
+nay, co	1725
+hon nguoi.	1726
+the vi	1727
+cua huynh	1728
+Vi,	1729
+Vi, gia	1730
+Trinh	1731
+Tiet,	1732
+Quang	1733
+quan Trinh	1734
+Trinh tri	1735
+tri Tiet,	1736
+Tiet, Quang	1737
+ULLLO	1738
+tue,	1739
+thong minh	1740
+minh tri	1741
+tri tue,	1742
+tue, chang	1743
+troi	1744
+troi ban	1745
+ban tri	1746
+tue hon	1747
+tay dai	1748
+tue thi	1749
+huong	1750
+nay tam	1751
+tri deu	1752
+deu huong	1753
+khong con	1754
+co thuoc	1755
+binh,	1756
+trong binh,	1757
+mot thuy	1758
+thuy tri	1759
+nho de	1760
+luon	1761
+luon tuc	1762
+da muu,	1763
+mang,	1764
+nhat kich	1765
+tri mang,	1766
+mang, bi	1767
+nay, than	1768
+bat dau	1769
+phu de	1770
+luc tien	1771
+tien tri	1772
+the,	1773
+tu dieu	1774
+thuong the,	1775
+dan.	1776
+minh dieu	1777
+tri dan	1778
+dan dan.	1779
+Ban	1780
+nhuoc	1781
+tri Ban	1782
+Ban nhuoc	1783
+sanh vo	1784
+nay thi	1785
+duc	1786
+dung dau,	1787
+dau, tri	1788
+tri tham	1789
+tham duc	1790
+Trong	1791
+tri Khau	1792
+Khau Trong	1793
+den den	1794
+Lang	1795
+Tu Lang	1796
+Lang tri	1797
+tue that	1798
+nho tai	1799
+qua la	1800
+tue da	1801
+qua phu	1802
+ly luan	1803
+luan tri	1804
+quoc rat	1805
+phuc	1806
+phuc co	1807
+Quy	1808
+tay bo	1809
+cua Quy	1810
+khong bao	1811
+Cai	1812
+Cai tri	1813
+gia cua	1814
+uyen	1815
+thuc tai	1816
+tri uyen	1817
+uyen tham	1818
+len trong	1819
+trong tri	1820
+oc hai	1821
+oc.	1822
+lai trong	1823
+tri oc.	1824
+quan trong	1825
+Ly,	1826
+Ly, vi	1827
+nam o	1828
+cua Chi	1829
+duoc chung	1830
+Lac	1831
+hai vi	1832
+tri Lac	1833
+Lac huyet	1834
+huyet,	1835
+Lac huyet,	1836
+do canh	1837
+canh tri	1838
+rat tuyet,	1839
+sang	1840
+ra,	1841
+han sang	1842
+sang tri	1843
+tri ra,	1844
+ra, han	1845
+huyen,	1846
+tuan	1847
+voi ca	1848
+tri huyen,	1849
+huyen, tuan	1850
+va cua	1851
+cua tri	1852
+tuong ma	1853
+linh trong	1854
+tuong tuong	1855
+su gia	1856
+nghi	1857
+tri suy	1858
+suy nghi	1859
+Lenh	1860
+long co	1861
+cho Lenh	1862
+noi luc	1863
+benh cuu	1864
+phuong	1865
+can phai	1866
+phai tri	1867
+bang phuong	1868
+khi de	1869
+tu y	1870
+y tri	1871
+nghi cach	1872
+am	1873
+co ke	1874
+tri am	1875
+am thuong	1876
+nao suy	1877
+quan su	1878
+tung	1879
+xep vi	1880
+cho tung	1881
+tham tu	1882
+thung	1883
+la bo	1884
+tri day	1885
+day thung	1886
+manh	1887
+manh tuong	1888
+sinh cap	1889
+dan du	1890
+ton truong	1891
+cac benh	1892
+Chu	1893
+phuc kien	1894
+cua Chu	1895
+Long	1896
+Long co	1897
+cung se	1898
+se tri	1899
+a nha	1900
+That	1901
+That an	1902
+cho hai	1903
+"Tri	1904
+bi,	1905
+bach	1906
+"Tri ky	1907
+ky tri	1908
+tri bi,	1909
+bi, bach	1910
+chien dau,	1911
+trai,	1912
+trai, bo	1913
+ben trai,	1914
+hang	1915
+vao hang	1916
+hang tri	1917
+y vi	1918
+cua toan	1919
+Long nhanh	1920
+gia vo	1921
+khong lanh	1922
+La	1923
+Hung	1924
+tri La	1925
+La Hung	1926
+cua nguoi,	1927
+gia nay,	1928
+bat loi	1929
+cua Khau	1930
+lap,	1931
+la duy	1932
+trung lap,	1933
+da chua	1934
+cho chi	1935
+thuc.	1936
+nhung nguoi	1937
+tri thuc.	1938
+la nhung	1939
+o day	1940
+thuc la	1941
+la mot	1942
+mot tri	1943
+nua	1944
+mot ten	1945
+ten tri	1946
+thuc nua	1947
+thuc hay	1948
+den nhung	1949
+thuc con	1950
+sao?.	1951
+thuc sao?.	1952
+hai, biet	1953
+biet tri	1954
+tue cua	1955
+nhau	1956
+giup nhau	1957
+nhau tri	1958
+lieu thuong	1959
+chi duy	1960
+duoc trong	1961
+nhung than	1962
+van tinh	1963
+tre,	1964
+van tu	1965
+tri tre,	1966
+tre, nhung	1967
+tho,	1968
+tho, cai	1969
+tri muon	1970
+muon dan.	1971
+ngay,	1972
+ve nghiem	1973
+nghiem tri	1974
+tri ngay,	1975
+ngay, ha	1976
+thuong xu	1977
+voi han	1978
+hay chu	1979
+cong dao	1980
+dong,	1981
+dong, bo	1982
+tri thien	1983
+thien la	1984
+gia.	1985
+tri gia.	1986
+tuyet dieu	1987
+cac co	1988
+vao ma	1989
+nguoi mat	1990
+de nang	1991
+duc dai	1992
+tu Thien	1993
+muon co	1994
+benh den	1995
+nuoc	1996
+thanh vuong	1997
+vuong tri	1998
+tri nuoc	1999
+nuoc deu	2000
+thinh	2001
+ha thinh	2002
+thinh tri	2003
+cung vi	2004
+thong tay	2005
+tay tri	2006
+nuoc, khoi	2007
+trong.	2008
+lao than	2009
+tri trong.	2010
+ban cho	2011
+cho tri	2012
+tue khac	2013
+be	2014
+dem tam	2015
+tri nghi	2016
+nghi be	2017
+kip	2018
+suot	2019
+kip tai	2020
+tri sang	2021
+sang suot	2022
+xa	2023
+tri xa	2024
+xa kich	2025
+phao	2026
+phao bo	2027
+o dau	2028
+lam chinh	2029
+va cach	2030
+theo gia	2031
+“Tieu	2032
+Tinh,	2033
+“Tieu Tinh,	2034
+Tinh, tri	2035
+mat,	2036
+nghiem mat,	2037
+minh tai	2038
+quan tuyet	2039
+ha,	2040
+kiem de	2041
+thien ha,	2042
+cong va	2043
+den the	2044
+bien	2045
+ve co	2046
+tri bach	2047
+bach bien	2048
+la tai	2049
+cua ga	2050
+cao tuyet	2051
+cang muon	2052
+muon tri	2053
+suot de	2054
+tam toan	2055
+toan tri	2056
+muon lam	2057
+“tam	2058
+benh”	2059
+biet de	2060
+tri “tam	2061
+“tam benh”	2062
+to	2063
+mo,	2064
+Trong noi	2065
+noi tri	2066
+tri to	2067
+to mo,	2068
+Nhu	2069
+Nhu kien	2070
+noi tiep	2071
+van duy	2072
+tri mot	2073
+mot cu	2074
+tot, tam	2075
+phong khai,	2076
+xoay	2077
+xoay vi	2078
+cho du	2079
+tam tinh	2080
+tinh tri	2081
+tri mai	2082
+mai nuoc	2083
+tuc,	2084
+can biet	2085
+tri tuc,	2086
+tuc, chu	2087
+dien!	2088
+Bat	2089
+dien! Bat	2090
+Bat tri	2091
+Bich	2092
+Dao,	2093
+cach cuu	2094
+tri Bich	2095
+Bich Dao,	2096
+ke tuc	2097
+cua Phuc	2098
+giac, tua	2099
+cua mat	2100
+Bac,	2101
+Bac, vi	2102
+cao nhat,	2103
+Nam,	2104
+thap	2105
+Nam, vi	2106
+tri se	2107
+se thap	2108
+ca tai	2109
+cung tang	2110
+hoat,	2111
+nguoi da	2112
+tri giao	2113
+giao hoat,	2114
+truoc.	2115
+co muu	2116
+hon truoc.	2117
+doanh	2118
+trai	2119
+canh bo	2120
+tri doanh	2121
+doanh trai	2122
+thu vo	2123
+cam nhan	2124
+phai kien	2125
+lau	2126
+tri bay	2127
+bay lau	2128
+muon thong	2129
+cho ta	2130
+Thai	2131
+la Thai	2132
+sap	2133
+xay	2134
+va yen	2135
+tri sap	2136
+sap xay	2137
+Than	2138
+Than tri	2139
+tri chang	2140
+chang vua	2141
+nhung bat	2142
+minh, bat	2143
+oc,	2144
+tinh tao	2145
+tao tri	2146
+tri oc,	2147
+oc, nguoi	2148
+ben trong	2149
+tri nao,	2150
+nao, quay	2151
+tot	2152
+de chua	2153
+cho tot	2154
+the chua	2155
+the nay.	2156
+thai	2157
+trang thai	2158
+khong?	2159
+duoc khong?	2160
+tuc den	2161
+benh, sau	2162
+mon	2163
+am mon	2164
+thoa,	2165
+neu bo	2166
+tri on	2167
+on thoa,	2168
+phai chua	2169
+nhu the	2170
+do tam	2171
+tri linh	2172
+linh hoat,	2173
+nghiem khi	2174
+benh cua	2175
+nhap	2176
+nhap cung	2177
+tap,	2178
+tap, bat	2179
+som ngay	2180
+ngay tri	2181
+lanh benh	2182
+vo cung	2183
+Chau	2184
+Duong Chau	2185
+Chau tri	2186
+phu lao	2187
+ma vien	2188
+vien tri	2189
+phu o	2190
+Ngo	2191
+hieu Ngo	2192
+Ngo tri	2193
+phu da	2194
+ma Ngo	2195
+phu noi	2196
+:	2197
+-Ngo	2198
+: -Ngo	2199
+-Ngo tri	2200
+phu that	2201
+mot vien	2202
+phu nho	2203
+phu.	2204
+tri phu.	2205
+keu	2206
+cho keu	2207
+keu tri	2208
+phu ra	2209
+moi Ngo	2210
+phu!	2211
+Tri	2212
+tri phu!	2213
+phu! Tri	2214
+cua Ngo	2215
+phu rat	2216
+Xin	2217
+phu! Xin	2218
+Chau phu	2219
+di,	2220
+cu yen	2221
+tri di,	2222
+di, khong	2223
+cung thanh	2224
+cua chung	2225
+ba,	2226
+thu ba,	2227
+duoc,	2228
+ma chua	2229
+tri duoc,	2230
+duoc, benh	2231
+lon quan	2232
+toan xu	2233
+vat quan	2234
+khong yen	2235
+tai chinh	2236
+co tai	2237
+e	2238
+do, e	2239
+chinh la	2240
+nuoc chu	2241
+tri hanh	2242
+hanh dong	2243
+chien,	2244
+chien, dau	2245
+dau tri	2246
+tri chu	2247
+chu khong	2248
+kham	2249
+kham phuc	2250
+phuc tri	2251
+ke cua	2252
+hinh tuong	2253
+dung cua	2254
+toi ha	2255
+phan	2256
+phan co	2257
+khac nhau	2258
+ta on	2259
+luoc,	2260
+cac vi	2261
+chien luoc,	2262
+di gia	2263
+buoi	2264
+tien chu	2265
+mot buoi	2266
+co vi	2267
+dia ly	2268
+lau,	2269
+tren lau,	2270
+toan vo	2271
+mat han	2272
+thay than	2273
+chang?"	2274
+tri chang?"	2275
+chang?" Thuong	2276
+roi"	2277
+Dien	2278
+su mat	2279
+tri roi"	2280
+roi" Dien	2281
+y, tam	2282
+tri moi	2283
+moi nguoi,	2284
+duoc den	2285
+luc,	2286
+luc de	2287
+bao luc,	2288
+khac cach	2289
+nghien	2290
+tri nghien	2291
+nghien cuu	2292
+chang nhung	2293
+duoc noi	2294
+tue:	2295
+"Day	2296
+mat day	2297
+tri tue:	2298
+tue: "Day	2299
+vi cua	2300
+gia nhu	2301
+truoc dem	2302
+giup,	2303
+Trac	2304
+giup, thong	2305
+cho Trac	2306
+hue	2307
+nguoi dai	2308
+dai hue	2309
+van kien	2310
+khong len	2311
+de,	2312
+de, vi	2313
+dai de	2314
+den dieu	2315
+la hop	2316
+tay dieu	2317
+hoan duoc.	2318
+ve chuyen	2319
+chuyen tri	2320
+lieu luon	2321
+phai do	2322
+nhe	2323
+nhe thi	2324
+luc ton	2325
+hoi	2326
+phuc hoi	2327
+hoi tri	2328
+ap	2329
+cap thong	2330
+tri ap	2331
+ap che	2332
+quyen	2333
+quyen cai	2334
+cua bon	2335
+it	2336
+bang huu	2337
+giao, it	2338
+"Voi	2339
+"Voi tai	2340
+cua Tan	2341
+ky Tram	2342
+bac tuc	2343
+dinh gia	2344
+khong phai	2345
+ta yen	2346
+la tu	2347
+la y	2348
+An	2349
+trang An	2350
+An tri	2351
+thien tu	2352
+cua Truong	2353
+“truong	2354
+an”,	2355
+la “truong	2356
+“truong tri	2357
+cuu an”,	2358
+OLLLLLL	2359
+giao nhau	2360
+xao	2361
+diem	2362
+pho,	2363
+xao trang	2364
+tri diem	2365
+diem pho,	2366
+giang	2367
+tren giang	2368
+sinh da	2369
+nang chua	2370
+gia ma	2371
+gia chu	2372
+dien	2373
+“Truong	2374
+an”.	2375
+dien “Truong	2376
+“Truong tri	2377
+cuu an”.	2378
+OULLLLL	2379
+dap on	2380
+dung hon	2381
+chut,	2382
+hay ly	2383
+mot chut,	2384
+the chu	2385
+cong dao,	2386
+hoat	2387
+hoat da	2388
+hon ca	2389
+…	2390
+dot	2391
+… Tam	2392
+han dot	2393
+co thanh	2394
+nao khong	2395
+loai	2396
+loai vo	2397
+Phe	2398
+di duy	2399
+nen Phe	2400
+nien vo	2401
+nhu ngay	2402
+dem vi	2403
+tri chuong	2404
+chuong mon	2405
+quanh	2406
+quanh bai	2407
+rat nhieu	2408
+tu,	2409
+trat tu,	2410
+thi gia	2411
+xao,	2412
+sanh bay	2413
+bay tri	2414
+tinh xao,	2415
+ma con	2416
+con tri	2417
+ngam bo	2418
+am muu	2419
+suc dieu	2420
+Vuong	2421
+Vuong bai	2422
+khong chut	2423
+rang canh	2424
+va tu	2425
+la gia	2426
+tri phai	2427
+phai thap	2428
+nay bai	2429
+thiet ke	2430
+tieu hiep	2431
+doi,	2432
+da tai	2433
+hon doi,	2434
+nao cuu	2435
+tri co	2436
+co quan	2437
+quyet	2438
+quyet co	2439
+tri thi	2440
+thi ga	2441
+nay tuc	2442
+nang co	2443
+cua O	2444
+LU	2445
+toi?	2446
+roi moi	2447
+moi tri	2448
+tri toi?	2449
+toi? Tieu	2450
+chang trang	2451
+noi that	2452
+am,	2453
+tieu am,	2454
+am, tri	2455
+tri Tu	2456
+Tu Tu	2457
+linh va	2458
+ha gia	2459
+khong dang	2460
+hom	2461
+hom than	2462
+tri kha	2463
+kha sang	2464
+chang sang	2465
+tham dang	2466
+dang tri	2467
+hai thu	2468
+thuong thanh	2469
+duoc gia	2470
+khong biet	2471
+vat vo	2472
+tri thanh	2473
+thanh con	2474
+looi	2475
+tri looi	2476
+looi dung	2477
+the an	2478
+nong,	2479
+nong, than	2480
+thuong, neu	2481
+cao thu,	2482
+buoc	2483
+sat vi	2484
+tri buoc	2485
+buoc day	2486
+to tai	2487
+Nhan	2488
+Nhan bo	2489
+mai phuc	2490
+thuong duoc.	2491
+nghia	2492
+quoc,	2493
+nhan nghia	2494
+nghia tri	2495
+tri quoc,	2496
+quoc, cung	2497
+luc, muon	2498
+nuoc thi	2499
+cuu chinh	2500
+cac nuoc,	2501
+phai de	2502
+nuoc, thi	2503
+hoi phap	2504
+cua the	2505
+theo doi	2506
+lai bao	2507
+duoc quan	2508
+Luu	2509
+the thong	2510
+cho Luu	2511
+chien luoc	2512
+va danh	2513
+ro	2514
+ro tai	2515
+cac thanh	2516
+lon nho	2517
+the bo	2518
+tri phan	2519
+phan cong,	2520
+cach de	2521
+de dieu	2522
+phuong phap	2523
+benh, tu	2524
+neu muon	2525
+benh can	2526
+phoi	2527
+phoi hop	2528
+hop tri	2529
+duoc can	2530
+mai se	2531
+dut duoc,	2532
+lam sao	2533
+sao tri	2534
+dut benh	2535
+dut can	2536
+lai vi	2537
+thi vi	2538
+nham	2539
+nham vi	2540
+the nao?	2541
+Tac	2542
+cua Tac	2543
+Mat co	2544
+nguoi nay	2545
+nay tri	2546
+cong, duy	2547
+ngon	2548
+chieu	2549
+ngon den	2550
+tue chieu	2551
+luc nay	2552
+sau vao	2553
+nao cua	2554
+an than	2555
+giao cua	2556
+an tai	2557
+bang nguoi,	2558
+lien	2559
+lien lanh	2560
+nghi ra	2561
+ga phu	2562
+tri ngu	2563
+ngu kieu	2564
+Tat	2565
+cho,	2566
+xui	2567
+Tat phu	2568
+tri cho,	2569
+cho, xui	2570
+nen moi	2571
+tam kho	2572
+kho tri	2573
+thanh danh	2574
+lai su	2575
+su tri	2576
+bang cach	2577
+nghe	2578
+Lao yen	2579
+cu nghe	2580
+dua vao	2581
+nho dieu	2582
+ra chu	2583
+bo toi	2584
+than tinh	2585
+het,	2586
+tay da	2587
+hon het,	2588
+mot nguoi	2589
+am nhu	2590
+ro dao	2591
+quoc an	2592
+ra duoc	2593
+Du	2594
+tri Du	2595
+Du Hang	2596
+de nay	2597
+oc dan	2598
+sac	2599
+van ngu	2600
+tren sac	2601
+xuong.	2602
+chut ly	2603
+do xuong.	2604
+co chut	2605
+chut tri	2606
+giac nao	2607
+thieu vo	2608
+voi huynh	2609
+quyen quan	2610
+thi giao	2611
+tai mat	2612
+cuong bo	2613
+va phong	2614
+viec bo	2615
+quan chu	2616
+tu truoc.	2617
+bi nghiem	2618
+tri quyet	2619
+quyet khong	2620
+gan,	2621
+ke vo	2622
+den gan,	2623
+moI	2624
+nguoI	2625
+luc thong	2626
+tri moI	2627
+moI nguoI	2628
+LLLLU	2629
+benh.	2630
+khong duoc	2631
+tri benh.	2632
+noi thuong.	2633
+tri chi	2634
+chi bat	2635
+Lam	2636
+may	2637
+tram	2638
+Lam tru	2639
+tri may	2640
+may tram	2641
+ra sao	2642
+co ban	2643
+tri am,	2644
+am, du	2645
+cao day	2646
+tue, chi	2647
+nay co	2648
+nhuoc diem	2649
+diem tri	2650
+mang ve	2651
+nguoi tai	2652
+bang troi	2653
+„Nhi	2654
+Long lanh	2655
+tri noi,	2656
+noi, „Nhi	2657
+ra, bo	2658
+thanh Thuan	2659
+buoc,	2660
+buoc, duy	2661
+tu the	2662
+tran	2663
+tri tran	2664
+tran Thuan	2665
+muc	2666
+tieu.”.	2667
+tri muc	2668
+muc tieu.”.	2669
+LLLLOOO	2670
+thu hai	2671
+phap de	2672
+nuoc, thuc	2673
+phuong cach	2674
+nuoc tot,	2675
+ve dao	2676
+nuoc, ha	2677
+giua	2678
+giua duc	2679
+duc tri	2680
+va phap	2681
+la dao	2682
+nuoc phai	2683
+rang phap	2684
+va duc	2685
+tri cai	2686
+cai nao	2687
+khong,	2688
+khong, duc	2689
+luan phap	2690
+cua Han	2691
+la phap	2692
+tri chua	2693
+chua du	2694
+quyen thong	2695
+cho quan	2696
+phap cung	2697
+toi nhu	2698
+nhu phap	2699
+nuoc chan	2700
+cung phai	2701
+nhu thu	2702
+triet	2703
+tri triet	2704
+triet de	2705
+„Ðao	2706
+noi, „Ðao	2707
+„Ðao tri	2708
+nuoc cua	2709
+hon dao	2710
+nuoc bang	2711
+xanh,	2712
+xanh, than	2713
+ngoan	2714
+ngoan giai	2715
+giai tri	2716
+loan	2717
+roi loan	2718
+de co	2719
+quyet,	2720
+tra	2721
+giao quyet,	2722
+quyet, tri	2723
+tri tra	2724
+tra khong	2725
+khong hieu	2726
+do nay	2727
+tru ma	2728
+benh, cung	2729
+tung ngu	2730
+noi day	2731
+khiem	2732
+tri khiem	2733
+khiem ton	2734
+canh.	2735
+tri tram	2736
+tram canh.	2737
+sau than	2738
+han roi	2739
+chung,	2740
+giao chung,	2741
+can than	2742
+muu sau	2743
+lac,	2744
+lac, chinh	2745
+khong on	2746
+muu, nhung	2747
+thua,	2748
+thua, dan	2749
+tuong doi	2750
+vi chinh	2751
+tri sau	2752
+sau nay	2753
+cai on	2754
+ngo voi	2755
+sang mai	2756
+mai tri	2757
+biet thong	2758
+cho huynh	2759
+duong bo	2760
+theo dung	2761
+lich	2762
+nhieu tri	2763
+thuc lich	2764
+moi,	2765
+giai cap	2766
+thuc moi,	2767
+dung,	2768
+con gia	2769
+loi dung,	2770
+thuat	2771
+nhu thuat	2772
+thuat tri	2773
+Khoi,	2774
+Khoi, chinh	2775
+he	2776
+that nhanh	2777
+khong he	2778
+cung biet	2779
+chien nay	2780
+ma khong	2781
+khong tri	2782
+bi, von	2783
+mang cua	2784
+lon,	2785
+le,	2786
+lon, bai	2787
+hoa le,	2788
+den on	2789
+cua vi	2790
+pha	2791
+khong?”.	2792
+pha thanh	2793
+tri khong?”.	2794
+LLLLLOOO	2795
+chung nhu	2796
+hoa.	2797
+tri hoa.	2798
+luon duy	2799
+duoc ve	2800
+chan vi	2801
+dich chinh	2802
+thay,	2803
+thay, cach	2804
+nuoc sau	2805
+thuyet	2806
+nguoi duy	2807
+hoc thuyet	2808
+gi de	2809
+thap tai	2810
+san	2811
+tri san	2812
+san cam	2813
+ra cuu	2814
+cua Trinh	2815
+tai gia	2816
+cua ta	2817
+tung thanh	2818
+cao minh,	2819
+dich duy	2820
+da yen	2821
+khong lo	2822
+ky dong	2823
+lot	2824
+lot vao	2825
+oc han.	2826
+cuoc bo	2827
+suc phu	2828
+cho cong	2829
+gom	2830
+vat tai	2831
+tri gom	2832
+gom du	2833
+roi bo	2834
+duoc the	2835
+Ðuong	2836
+ba	2837
+Ðuong bo	2838
+tri ba	2839
+ba dao	2840
+dung la	2841
+ky nhat	2842
+phai bo	2843
+tri cach	2844
+cach nao	2845
+cuoc.	2846
+de chu	2847
+dai cuoc.	2848
+tri hang	2849
+hang dau.	2850
+toa,	2851
+den vi	2852
+thuong toa,	2853
+nhiem	2854
+nhiem chu	2855
+so	2856
+cham lo	2857
+lo tri	2858
+nuoc so	2859
+cua ho	2860
+Bao	2861
+xiem	2862
+Bao nghe	2863
+nghe tri	2864
+phu xiem	2865
+Vien	2866
+Vien tri	2867
+phu lai	2868
+noi:	2869
+phu noi:	2870
+ngac	2871
+phu ngac	2872
+chuc	2873
+cai chuc	2874
+chuc tri	2875
+bung	2876
+phu bung	2877
+Bao cung	2878
+co cai	2879
+nho rat	2880
+trung tam	2881
+cua tat	2882
+hoi,	2883
+canh chinh	2884
+xa hoi,	2885
+My	2886
+so chinh	2887
+gia My	2888
+vai	2889
+vai chinh	2890
+gia tai	2891
+noi bo	2892
+Hoa	2893
+tai Hoa	2894
+hoang cung	2895
+vi ra	2896
+dang bo	2897
+tri danh	2898
+danh Van	2899
+hoan thoi	2900
+len,	2901
+len, yen	2902
+se bi	2903
+chac	2904
+chac da	2905
+thu duoc.	2906
+nam nao,	2907
+ve tai	2908
+cung nhu	2909
+thuc ly	2910
+khong ngo	2911
+ma,	2912
+ma, than	2913
+bat minh,	2914
+nao co	2915
+nguoi tru	2916
+o do	2917
+nuoc?"	2918
+tri nuoc?"	2919
+nuoc?" Tieu	2920
+Cam	2921
+duoc, Cam	2922
+truong tru	2923
+tai chua	2924
+van boi	2925
+boi tri	2926
+khong khoi	2927
+ba ba	2928
+ba tri	2929
+thuong, chinh	2930
+nua,	2931
+nua, thuoc	2932
+ba loan	2933
+loan tri	2934
+do hoi	2935
+nua…”.	2936
+the kien	2937
+duoc nua…”.	2938
+LLLOOO	2939
+cung ho	2940
+ho tri	2941
+dat, trong	2942
+oc tai	2943
+muon vi	2944
+nao se	2945
+nhin	2946
+tri nhin	2947
+nhin ra	2948
+Khieu,	2949
+choi.	2950
+Khieu, kien	2951
+tri chong	2952
+chong choi.	2953
+nhat, nguoi	2954
+ky duy	2955
+giao.	2956
+la ban	2957
+tri giao.	2958
+chiu	2959
+khong chiu	2960
+chiu tri	2961
+tri than	2962
+than ngoai	2963
+da cuu	2964
+cho y	2965
+dau day	2966
+va co	2967
+cua Thieu	2968
+sao xu	2969
+Bat Vi,	2970
+Vi, tri	2971
+cong.	2972
+do xu	2973
+viec cong.	2974
+Tan,	2975
+cung thong	2976
+dai Tan,	2977
+co trang	2978
+hung tam,	2979
+duoi,	2980
+trong viec	2981
+ke duoi,	2982
+ghe	2983
+ke thong	2984
+tri ghe	2985
+ghe gom	2986
+rung	2987
+thay vi	2988
+tri chim	2989
+chim rung	2990
+lai hung	2991
+hung tri	2992
+ma dem	2993
+phai dau	2994
+dau luc,	2995
+do, mot	2996
+xac vi	2997
+cua muc	2998
+it bac	2999
+bac tri	3000
+gia thong	3001
+tri,	3002
+vat va	3003
+tri tri,	3004
+tri, mau	3005
+tinh hieu	3006
+Nam, kien	3007
+tri huyet	3008
+huyet thong	3009
+nhung khong	3010
+Da	3011
+va chua	3012
+cho Da	3013
+Tran	3014
+ma Tran	3015
+muon xu	3016
+dinh xu	3017
+voi ga	3018
+nhung co	3019
+lai chua	3020
+minh muu	3021
+roi noi:	3022
+cho gia	3023
+than phan	3024
+quen	3025
+quen thoi	3026
+tra ma	3027
+tri Vi	3028
+Vi Tieu	3029
+cach thong	3030
+cho su	3031
+nao thong	3032
+cho moi	3033
+hai phia	3034
+nhieu muu	3035
+ma luc	3036
+cu the,	3037
+tri kieu	3038
+kieu hung	3039
+vat dai	3040
+tue khong	3041
+cung kho	3042
+coc,	3043
+Nghinh	3044
+coc, Khuc	3045
+Khuc tri	3046
+va Nghinh	3047
+y muon	3048
+thuong ma	3049
+ky,	3050
+tri ky,	3051
+ky, nay	3052
+duoc de	3053
+thuong thi	3054
+mong	3055
+mong sao	3056
+khoi thuong	3057
+bac thuy	3058
+co mot	3059
+cau,	3060
+co cau,	3061
+cau, tri	3062
+kia	3063
+kia giai	3064
+va thay	3065
+sinh co	3066
+mau le,	3067
+lao kiem	3068
+tri ca	3069
+ca kiem	3070
+phap,	3071
+yeu phap,	3072
+phap, tri	3073
+tra lam	3074
+hay chinh	3075
+nhung lai	3076
+Tong,	3077
+Tong, chu	3078
+deu la	3079
+sang day	3080
+tue, nguoi	3081
+cach chua	3082
+lanh canh	3083
+Lam,	3084
+khach	3085
+Lam, tim	3086
+tim tri	3087
+tri khach	3088
+khach tang	3089
+mot luc	3090
+cao biet	3091
+chinh nghia	3092
+muu.	3093
+lai tuc	3094
+da muu.	3095
+muu va	3096
+luong, muu	3097
+va than	3098
+tranh	3099
+va tai	3100
+de tranh	3101
+lai biet	3102
+si	3103
+si tai	3104
+tuyet cao	3105
+Tieu sinh	3106
+vo bat	3107
+sao?”.	3108
+muon kien	3109
+hay sao?”.	3110
+voi ten	3111
+nhau,	3112
+man	3113
+nhanh nhau,	3114
+nhau, tri	3115
+muu man	3116
+la dau	3117
+„Bo	3118
+noi, „Bo	3119
+„Bo tri	3120
+cac cam	3121
+cho buoi	3122
+ca chinh	3123
+va kinh	3124
+tiec,	3125
+ca vi	3126
+ban tiec,	3127
+giac do	3128
+cong kich	3129
+uu	3130
+nhap vi	3131
+toi uu	3132
+giu	3133
+giu vi	3134
+ban gia	3135
+cuoc dau	3136
+Hau	3137
+ga yen	3138
+tri Thai	3139
+Thai Hau	3140
+cua quan	3141
+thuong linh	3142
+thuong cuc	3143
+Thuoc	3144
+- Thuoc	3145
+Thuoc tri	3146
+rat sang	3147
+nho co	3148
+de tu	3149
+cach,	3150
+cach, vi	3151
+va lo	3152
+phuong bo	3153
+chu dao	3154
+guong	3155
+nho guong	3156
+cao,	3157
+da cao,	3158
+cao, tri	3159
+nho cung	3160
+mat quan	3161
+cung tuong	3162
+mot doi	3163
+doi tri	3164
+ky, chi	3165
+ngan	3166
+ho ngu	3167
+muon ngan	3168
+nong	3169
+truong:.	3170
+nhiem chinh	3171
+tri nong	3172
+nong truong:.	3173
+LLLLLLOO	3174
+co ve	3175
+ong chinh	3176
+tri vien	3177
+vien cu	3178
+Trong tri	3179
+tri dao	3180
+dao den	3181
+li	3182
+li va	3183
+khuyen	3184
+khuyen y	3185
+hoan dong	3186
+luyen	3187
+luyen tam	3188
+tri roi,	3189
+roi, da	3190
+denh	3191
+ga tam	3192
+lo denh	3193
+ngoai.	3194
+khai, than	3195
+tri vat	3196
+vat ngoai.	3197
+Tieu Bao	3198
+Bao tri	3199
+sua	3200
+hoi sua	3201
+sua tri	3202
+lai bo	3203
+dia lao	3204
+nao de	3205
+ga,	3206
+phai lang	3207
+tri ga,	3208
+ga, phan	3209
+Nhat	3210
+tri Nhat	3211
+Nhat thong	3212
+be",	3213
+"truong	3214
+nam",	3215
+be", "truong	3216
+"truong tri	3217
+muon nam",	3218
+Neu	3219
+nam,	3220
+Neu truong	3221
+muon nam,	3222
+quyet nghiem	3223
+khong dung.	3224
+toi lang	3225
+ma toan	3226
+da cai	3227
+giao chung	3228
+duoc, may	3229
+ma muu	3230
+lai hon	3231
+rat nghiem	3232
+miet	3233
+nhieu tam	3234
+mai miet	3235
+thoa	3236
+rat thoa	3237
+giao chu	3238
+khon lon,	3239
+lon, tri	3240
+trong truong	3241
+thuong va	3242
+ke chu	3243
+dai cuoc	3244
+sau thanh	3245
+Tu do	3246
+minh do	3247
+oc minh	3248
+trong, lao	3249
+tri tieu	3250
+tieu mang,	3251
+Giam,	3252
+Giam, bo	3253
+tri Bat	3254
+Bat Hung	3255
+“Nang	3256
+“Nang bo	3257
+tran phap	3258
+nay?	3259
+Chung	3260
+tinh trang	3261
+tri nay?	3262
+nay? Chung	3263
+thuong:	3264
+“Tai	3265
+Hu	3266
+thuong: “Tai	3267
+“Tai tri	3268
+cua Hu	3269
+dau tuong	3270
+luc, tam	3271
+deu het	3272
+ho.	3273
+cua ho.	3274
+chan khi	3275
+da tien	3276
+Cu	3277
+Ngu	3278
+nhac	3279
+Cu duy	3280
+tri Ngu	3281
+Ngu nhac	3282
+cua canh	3283
+lam vien	3284
+cua,	3285
+tiet	3286
+cua, trang	3287
+chi tiet	3288
+phac	3289
+Lang trong	3290
+tri phac	3291
+phac hoa	3292
+tre	3293
+tre vo	3294
+con duoc	3295
+me	3296
+man,	3297
+noi than	3298
+tri me	3299
+me man,	3300
+The	3301
+Dan	3302
+The Dan	3303
+Dan tri	3304
+san, luc	3305
+chung ta	3306
+“tuyet	3307
+chung”	3308
+tri “tuyet	3309
+“tuyet chung”	3310
+lanh quai	3311
+cua Hau	3312
+mach	3313
+kinh mach	3314
+mach tri	3315
+tre, luoi	3316
+duoc tan	3317
+nghiem,	3318
+linh nghiem,	3319
+nghiem, tri	3320
+khoi quai	3321
+lay	3322
+chung.	3323
+lay bat	3324
+tuyet chung.	3325
+nhung ke	3326
+tin,	3327
+tin, muu	3328
+lam cho	3329
+ga thanh	3330
+moi viec	3331
+nguoi tam	3332
+tri kien	3333
+kien dinh	3334
+tri du	3335
+du phong	3336
+thay tai	3337
+va vo	3338
+cao.	3339
+vat vi	3340
+rat cao.	3341
+nghi ra,	3342
+ra, tri	3343
+phai la	3344
+kich,	3345
+chon vi	3346
+tri phuc	3347
+phuc kich,	3348
+nhu la	3349
+Tang	3350
+Tang se	3351
+tri tot	3352
+tot that	3353
+duyen	3354
+ha.”	3355
+duyen lam	3356
+ky ha.”	3357
+thien ha	3358
+lai,	3359
+lai, than	3360
+hay con	3361
+Chinh tri	3362
+tri qua	3363
+tram canh	3364
+minh co	3365
+tri len	3366
+len vao	3367
+than bat	3368
+tri quy	3369
+quy bat	3370
+ra co	3371
+cho nhau.	3372
+Nhien	3373
+Nhien de	3374
+roi!	3375
+Muon	3376
+roi! Muon	3377
+Muon tri	3378
+thuong duoc	3379
+Ðe	3380
+Ðe ta	3381
+thuong o	3382
+che,	3383
+che, than	3384
+tri nua	3385
+nua tinh	3386
+cao, vi	3387
+toan bo	3388
+giac, khong	3389
+Tong	3390
+nen thong	3391
+cho Tong	3392
+con o	3393
+o tri	3394
+Xung	3395
+Xung than	3396
+van me	3397
+duc Thuan	3398
+Thuan tri	3399
+tri Hoang	3400
+Hoang de	3401
+lam tru	3402
+chua Thanh	3403
+chua thanh	3404
+Ngoi	3405
+Ngoi tru	3406
+nay tieu	3407
+dao, bo	3408
+cuc tinh	3409
+nay tru	3410
+tri O	3411
+O chua	3412
+Vua	3413
+cua Vua	3414
+chung yen	3415
+la ngai	3416
+de tai	3417
+len tru	3418
+den tru	3419
+thuong, tru	3420
+chua Tu	3421
+trong long	3422
+xong	3423
+xuoi,	3424
+tri xong	3425
+xong xuoi,	3426
+vu	3427
+vu chinh	3428
+sanh bo	3429
+rat thanh	3430
+hanh chu	3431
+nghi thuc	3432
+hon nguoi	3433
+nhien	3434
+tri dot	3435
+dot nhien	3436
+tim hieu	3437
+hieu tri	3438
+thuc va	3439
+Vu	3440
+vi co	3441
+tri Vu	3442
+Vu Van	3443
+de lua	3444
+du,	3445
+du, vi	3446
+dia y	3447
+nhan bo	3448
+do thong	3449
+deu khac	3450
+kha han	3451
+nu	3452
+ta, gia	3453
+cua nu	3454
+hay tai	3455
+deu thuoc	3456
+neu kien	3457
+muon di,	3458
+tri ha	3459
+ha phong	3460
+Diem	3461
+Diem tri	3462
+mang la	3463
+te,	3464
+kem	3465
+te, chinh	3466
+chi kem	3467
+de ga	3468
+ga tri	3469
+thuong?	3470
+kiem thuoc	3471
+tri thuong?	3472
+thuong? Ga	3473
+hoi:	3474
+Ho	3475
+hoi: Ho	3476
+Ho tri	3477
+dung thuoc	3478
+thoi dieu	3479
+cho ho.	3480
+hoi cach	3481
+binh trong	3482
+Khong!	3483
+Hay	3484
+Khong! Hay	3485
+Hay tri	3486
+ha?	3487
+gi ha?	3488
+ma thong	3489
+cho cac	3490
+ho cuu	3491
+"ho	3492
+trao	3493
+tri "ho	3494
+"ho trao	3495
+OLL	3496
+cot	3497
+cot vua	3498
+vua tri	3499
+ngo,	3500
+dai long	3501
+tri ngo,	3502
+ngo, lao	3503
+thanh duoc	3504
+thuong cung	3505
+co dau	3506
+tue, suc	3507
+khong quan	3508
+nua.	3509
+gi nua.	3510
+thuan	3511
+loi.	3512
+tri thuan	3513
+thuan loi.	3514
+menh	3515
+tri menh	3516
+menh la	3517
+huynh can	3518
+nua hay	3519
+toc	3520
+toc do	3521
+ke nay	3522
+xong noi	3523
+khi than	3524
+nguyen	3525
+the duy	3526
+tri nguyen	3527
+nguyen trang	3528
+tuc duy	3529
+don danh	3530
+Cho	3531
+Cho du	3532
+du tri	3533
+tu vi	3534
+nay, vong	3535
+cuong lai	3536
+lai tri	3537
+co mau	3538
+tha.	3539
+se nghiem	3540
+khong tha.	3541
+“Luan	3542
+thuc,	3543
+“Luan tai	3544
+kien thuc,	3545
+khue	3546
+tri khue	3547
+khue phong	3548
+may ten	3549
+cu ban	3550
+den de	3551
+toi cac	3552
+quyet nghi	3553
+the cang	3554
+cang tri	3555
+khong sao	3556
+thuan tien	3557
+co biet	3558
+benh khong	3559
+sinh biet	3560
+benh thi	3561
+thuoc de	3562
+benh, du	3563
+tuong rang	3564
+rang tri	3565
+nhu khong	3566
+trong chan	3567
+chan tri	3568
+rai,	3569
+giong	3570
+rai, bo	3571
+tri giong	3572
+giong nhu	3573
+khong?"	3574
+duoc khong?"	3575
+benh nao	3576
+ke dai	3577
+tue, da	3578
+lam tam	3579
+nguoi kho	3580
+dao de	3581
+duong thuong	3582
+in	3583
+toi,	3584
+in vao	3585
+nho toi,	3586
+net vao	3587
+nho toi.	3588
+dam vi	3589
+tren truoc	3590
+non	3591
+ay, trong	3592
+oc non	3593
+Toi	3594
+Toi yen	3595
+la me	3596
+sinh long	3597
+ngo doi	3598
+nhan chinh	3599
+tri lan	3600
+lan nay	3601
+cua tien	3602
+gia xu	3603
+truoc, khien	3604
+khi,	3605
+khi, than	3606
+mat lai,	3607
+lai, tri	3608
+trach	3609
+trach bo	3610
+thuan loi	3611
+lay vi	3612
+hai thanh	3613
+ngu y	3614
+thi se	3615
+mang thuoc	3616
+thuong den,	3617
+ra ngoai	3618
+ngoai tri	3619
+thuong, bang	3620
+kiem tam	3621
+mon,	3622
+chuong mon,	3623
+cua Dao	3624
+hay vo	3625
+kieu bo	3626
+Dai	3627
+Loan,	3628
+binh tri	3629
+tri Dai	3630
+Dai Loan,	3631
+Thi	3632
+Loan	3633
+Thi binh	3634
+Dai Loan	3635
+Thi Lang	3636
+quan rat	3637
+phe	3638
+de kien	3639
+viec phe	3640
+va binh	3641
+ho Trinh	3642
+trang chua	3643
+hoac	3644
+hoac gia	3645
+cua Van	3646
+phap, tam	3647
+kien cuong	3648
+cua cot	3649
+lau.	3650
+qua lau.	3651
+tri nua,	3652
+nua, doi	3653
+it,	3654
+dan it,	3655
+it, tri	3656
+an rat	3657
+nho, bo	3658
+nao.	3659
+tri nao.	3660
+trong cuoc	3661
+Lang tai	3662
+ta phai	3663
+di”.	3664
+phap trung	3665
+tri di”.	3666
+tay trung	3667
+tri yeu	3668
+yeu phu	3669
+la tuong	3670
+cu, khong	3671
+hoa,	3672
+den hoa,	3673
+cua dai	3674
+phat	3675
+tri phat	3676
+phat ra	3677
+hoa le	3678
+khoi.	3679
+tay cuu	3680
+la khoi.	3681
+sinh cuu	3682
+vi the	3683
+cung la	3684
+xin	3685
+xin cuu	3686
+phai lap	3687
+Nhung	3688
+khong? Nhung	3689
+Nhung tri	3690
+thuong lam	3691
+loi vi	3692
+tich	3693
+thuong tich	3694
+tich tri	3695
+tien nghi	3696
+va thuoc	3697
+thuong, thuoc	3698
+ve bo	3699
+khac nua	3700
+luc luong	3701
+ta dung	3702
+dung tri	3703
+hay dung	3704
+tram ngam	3705
+Vuong:	3706
+“Than	3707
+Vuong: “Than	3708
+“Than tri	3709
+tri khi	3710
+khi dai	3711
+Kinh,	3712
+Kinh, lang	3713
+xu tu	3714
+ha tri	3715
+danh trong	3716
+Vinh	3717
+Qui	3718
+Vinh lam	3719
+huyen Qui	3720
+Trung	3721
+Quoc.	3722
+su chinh	3723
+tri Trung	3724
+Trung Quoc.	3725
+Trang	3726
+Duan	3727
+nay cao	3728
+tri Trang	3729
+Trang Duan	3730
+mat chuc	3731
+huyen, xin	3732
+Xuong	3733
+Binh	3734
+tu trung	3735
+tri Xuong	3736
+Xuong Binh	3737
+coc	3738
+tri coc	3739
+coc chu	3740
+boi,	3741
+roi boi,	3742
+vat bay	3743
+lai don	3744
+toi the	3745
+vat,	3746
+vat, bo	3747
+rat chu	3748
+dinh”.	3749
+bang nhat	3750
+quyet dinh”.	3751
+tham va	3752
+oc cung	3753
+tue.	3754
+tri tue.	3755
+vung	3756
+Cua	3757
+vung Vi	3758
+tri Cua	3759
+Cua minh,	3760
+co dai	3761
+tue co	3762
+nhin day	3763
+tue cao	3764
+dam bac	3765
+van giai	3766
+Cuong	3767
+Cuong nay	3768
+ha, vi	3769
+chac la	3770
+khoi vet	3771
+cai tam	3772
+quy dau	3773
+moi pha	3774
+don,	3775
+dan don,	3776
+don, tri	3777
+tri hieu	3778
+hieu biet	3779
+dang.	3780
+lo dang.	3781
+Tuy	3782
+Tuy tri	3783
+que	3784
+'Chan'.	3785
+tri que	3786
+que 'Chan'.	3787
+OULLLOO	3788
+Nha,	3789
+Nha, voi	3790
+voi tri	3791
+chung."	3792
+vuong trung	3793
+bon chung."	3794
+dau vet	3795
+cho vi	3796
+cua Thanh	3797
+tuy	3798
+huynh tuy	3799
+tuy tri	3800
+sau nhu	3801
+phu dau	3802
+can duoc	3803
+benh, da	3804
+nhat."	3805
+la kho	3806
+tri nhat."	3807
+nhat." Hang	3808
+se xu	3809
+Vi xu	3810
+Thanh thay	3811
+vi ho	3812
+cho thanh	3813
+su tru	3814
+tri noi:	3815
+noi: -	3816
+Tru	3817
+Tru tri	3818
+tri hoi	3819
+hoi mot	3820
+tri tang	3821
+tang tu	3822
+tang hoi:	3823
+y nhanh	3824
+tri bien	3825
+bien thanh	3826
+yeu huyet	3827
+huyet tri	3828
+che ly	3829
+da don	3830
+nay thong	3831
+tri di	3832
+di cac	3833
+net tri	3834
+nay de	3835
+hoan duoc	3836
+tri Lenh	3837
+Lenh Ho	3838
+cap khong	3839
+hoan chut	3840
+thuc dung,	3841
+di doc	3842
+tri doc	3843
+doc nay.	3844
+tho	3845
+tho bay	3846
+nho thi	3847
+di mot	3848
+ky."	3849
+tri ky."	3850
+ky." Hang	3851
+than la	3852
+chut trang	3853
+nao, hien	3854
+hai ga	3855
+pham	3856
+tran pham	3857
+pham tri	3858
+gia lien	3859
+thuong, ma	3860
+doat	3861
+doat vi	3862
+nao?"	3863
+hien dai	3864
+the nao?"	3865
+toi viec	3866
+cua viec	3867
+an la	3868
+cua cac	3869
+Kim,	3870
+Bao kiem	3871
+thien Kim,	3872
+Ta	3873
+tay bac	3874
+tri Ta	3875
+Ta van	3876
+han hay	3877
+hai tri	3878
+dung day	3879
+vao cung	3880
+benh tiep	3881
+nhung tam	3882
+dinh.	3883
+quyet dinh.	3884
+Nhung tam	3885
+pho	3886
+co pho	3887
+cuong, muu	3888
+luoc binh	3889
+dao Dai	3890
+Phien,	3891
+viec binh	3892
+tri Tam	3893
+Tam Phien,	3894
+moi tinh	3895
+ky, bat	3896
+quyen phong	3897
+phong tri	3898
+mang cuong	3899
+trach thong	3900
+phuc tai	3901
+cua nang	3902
+thi du	3903
+vi,	3904
+vi, lai	3905
+bien,	3906
+viet	3907
+bien, vi	3908
+tri uu	3909
+uu viet	3910
+lai, thanh	3911
+noi lien	3912
+trong thanh	3913
+tri hinh	3914
+hinh chu	3915
+trong binh	3916
+chiu chu	3917
+“Hac!	3918
+“Hac! Thanh	3919
+Thanh tri	3920
+la noi	3921
+OULLO	3922
+nhu thanh	3923
+co tinh	3924
+xem	3925
+xem thanh	3926
+ma ta	3927
+vay?”.	3928
+la thanh	3929
+nao vay?”.	3930
+khoc	3931
+ha thanh	3932
+tan khoc	3933
+do vi	3934
+roi xu	3935
+han cung	3936
+mot don	3937
+mang vao	3938
+Bac	3939
+may thanh	3940
+phia Bac	3941
+cau ho	3942
+hiem	3943
+the hiem	3944
+am, van	3945
+thanh,	3946
+tri lien	3947
+lien thanh,	3948
+ga la	3949
+sao tru	3950
+noi Bat	3951
+ranh	3952
+thoi,	3953
+chut tai	3954
+tri ranh	3955
+ranh thoi,	3956
+dinh,	3957
+thuong than	3958
+kien dinh,	3959
+lua cho	3960
+thuong tru	3961
+nen vo	3962
+giac cua	3963
+gi.	3964
+tri gi.	3965
+dau ma	3966
+de cuu	3967
+cho Bich	3968
+dau de	3969
+hinh thong	3970
+cac noi	3971
+da xay	3972
+thoi than	3973
+me loan,	3974
+them,	3975
+thay quan	3976
+tri them,	3977
+them, trong	3978
+quanh bay	3979
+trang le,	3980
+Ta trung	3981
+hai ten	3982
+Dong	3983
+Dong Ngu	3984
+Ngu tri	3985
+, co	3986
+tri long	3987
+long lay	3988
+day bo	3989
+sap xep	3990
+cu da	3991
+gian	3992
+Bach bo	3993
+tri gian	3994
+gian nha,	3995
+khoi,	3996
+tong	3997
+khoi, ban	3998
+phong tong	3999
+phap chan	4000
+phap chua	4001
+tri sao?	4002
+sao? Khong	4003
+khoa	4004
+lap:	4005
+thoi nhanh	4006
+tri khoa	4007
+khoa lap:	4008
+giac duy	4009
+muon quan	4010
+hai toan	4011
+binh ma	4012
+goi	4013
+goi la	4014
+Thanh chi	4015
+vi thien	4016
+ho deu	4017
+nuoc lau	4018
+an bang	4019
+bang tri	4020
+quoc, ga	4021
+benh bat	4022
+nen di	4023
+anh	4024
+thuong cuu	4025
+cho anh	4026
+de thong	4027
+ham	4028
+sieu	4029
+ham mot	4030
+tue sieu	4031
+nhu vo	4032
+vo giac	4033
+noi thuong	4034
+khac nhau,	4035
+ma giao,	4036
+nao?”.	4037
+the nao?”.	4038
+cua Thien	4039
+chuyen, duy	4040
+chan ngon	4041
+dang duy	4042
+tri phap	4043
+phap tran	4044
+nay, bo	4045
+phat mon	4046
+vang	4047
+vang thoi	4048
+chan phap,	4049
+nhan duy	4050
+phap tran,	4051
+cuc cao,	4052
+thieu duoc	4053
+ke kiem	4054
+om	4055
+long om	4056
+om tri	4057
+tri kinh	4058
+kinh bang	4059
+hinh trung	4060
+moi duoc.	4061
+den ly	4062
+tri minh	4063
+minh man	4064
+doc nhieu	4065
+oc cang	4066
+xong,	4067
+xong, cai	4068
+tri nhan	4069
+nhan dan	4070
+di binh	4071
+sai	4072
+sai trung	4073
+han cho	4074
+tri thay	4075
+cho tru	4076
+chua Thieu	4077
+tim cach	4078
+binh cho	4079
+tang len	4080
+tan,	4081
+tan, tham	4082
+tham tri	4083
+du luc	4084
+thuong, bo	4085
+tri vua	4086
+vua don	4087
+phu den	4088
+khi dieu	4089
+cho ga.	4090
+viec cuu	4091
+tien boi	4092
+su de	4093
+nguoi ta	4094
+vua moi	4095
+thuong cho.	4096
+khuat	4097
+phai dung	4098
+de khuat	4099
+huou	4100
+giong huou	4101
+huou tri	4102
+tue kem	4103
+Nhi tri	4104
+khung,	4105
+tri dien	4106
+dien khung,	4107
+lo muu	4108
+gioi	4109
+ngua,	4110
+ke gioi	4111
+gioi tri	4112
+tri ngua,	4113
+ngua, duong	4114
+gia co	4115
+tuc di	4116
+du co	4117
+tue den	4118
+Duong, bo	4119
+trong Tu	4120
+khoang	4121
+y bao	4122
+mot khoang	4123
+sinh chuyen	4124
+chung gay	4125
+y duoc	4126
+benh ma	4127
+luc bat	4128
+nho han	4129
+sam	4130
+sam lai,	4131
+nao han	4132
+giac, chi	4133
+Tu chu	4134
+tri Pho	4135
+Pho Hoang	4136
+muon cuu	4137
+the cuu	4138
+dai dung	4139
+tham, co	4140
+da lang	4141
+ca may	4142
+bay.	4143
+cam bay.	4144
+tue lai	4145
+vua cao,	4146
+rang phep	4147
+phep tri	4148
+nguoi ngu	4149
+duoc cam	4150
+duoc tai	4151
+ke, dau	4152
+a!"	4153
+Hai	4154
+muon trung	4155
+tri a!"	4156
+a!" Hai	4157
+LOO	4158
+lao da	4159
+tinh Lao	4160
+thang	4161
+thang dieu	4162
+nay da	4163
+nguoi dieu	4164
+lam lan	4165
+cuong dieu	4166
+thi tuy	4167
+to tru	4168
+o ban	4169
+nui	4170
+Ðe tru	4171
+o nui	4172
+da trung	4173
+van khong	4174
+viec duy	4175
+ngay, bay	4176
+ban nay,	4177
+Thanh thuong	4178
+sinh den	4179
+ve chinh	4180
+va quan	4181
+"Khong	4182
+sao?"	4183
+noi: "Khong	4184
+"Khong tri	4185
+duoc sao?"	4186
+thi hay	4187
+hay tri	4188
+khuang	4189
+Bao than	4190
+bang khuang	4191
+nang kien	4192
+can gian	4193
+van trang	4194
+cung giong	4195
+Nong	4196
+thu.	4197
+Nong chu	4198
+giao thu.	4199
+Ke	4200
+Ke chu	4201
+phia sau	4202
+Tim	4203
+Tim ta	4204
+benh cung	4205
+dau tam	4206
+ma quan	4207
+may tang	4208
+le he	4209
+he tri	4210
+khoi mot	4211
+chan mach	4212
+mau nong	4213
+nong tri	4214
+mat ca	4215
+vut	4216
+cao vut	4217
+vay	4218
+nhu vay	4219
+y xu	4220
+tri ten	4221
+ten gian	4222
+thap huong	4223
+huong tri	4224
+tri te	4225
+te truoc	4226
+Sai	4227
+Sai Tang	4228
+Tang tri	4229
+te khoc	4230
+trieu	4231
+nen chinh	4232
+cua trieu	4233
+cac quan	4234
+phu Duong	4235
+Chau,	4236
+Giang	4237
+Duong Chau,	4238
+Chau, tri	4239
+huyen Giang	4240
+se thong	4241
+cho Thu	4242
+thi ke	4243
+Phat	4244
+Phat do	4245
+thanh the	4246
+Thuy	4247
+ga thong	4248
+cho Thuy	4249
+Tat do	4250
+cho Thai	4251
+thuc su	4252
+quy phai	4253
+den thuoc	4254
+dem thuoc	4255
+la chang	4256
+au	4257
+qua au	4258
+au tri	4259
+tri khien	4260
+khien ga	4261
+thi co	4262
+vu,	4263
+rong	4264
+vu, tam	4265
+trong rong	4266
+tu tu	4267
+tri toi,	4268
+toi, hay	4269
+gio tro	4270
+tro tri	4271
+tra voi	4272
+truong dau	4273
+mot mang	4274
+tin	4275
+nghia le	4276
+le tri	4277
+tri tin	4278
+tin cua	4279
+nay yen	4280
+trong kinh	4281
+dau tien	4282
+hang co	4283
+lieu,	4284
+van cong	4285
+cong tri	4286
+tri lieu,	4287
+lieu, chi	4288
+than chu	4289
+tran chien	4290
+quan,	4291
+tri sieu	4292
+sieu quan,	4293
+chuan	4294
+tri chuan	4295
+chuan bi	4296
+minh vo	4297
+vo nang	4298
+ca thanh	4299
+kien co	4300
+buc	4301
+ap buc	4302
+han khong	4303
+giao ma	4304
+vach	4305
+vach vo	4306
+vo giac,	4307
+kinh,	4308
+kinh, kha	4309
+kha tri	4310
+hung the	4311
+bao an	4312
+ngo, tuyet	4313
+khanh	4314
+lau chu	4315
+tri khanh	4316
+khanh dien	4317
+tuyen	4318
+cho bo	4319
+nhan tuyen	4320
+duoc dut	4321
+minh;	4322
+cua minh;	4323
+doan than	4324
+to ve	4325
+thi cham	4326
+cham tri	4327
+cuong chi	4328
+duoc, phan	4329
+Quan	4330
+vao Quan	4331
+Nhu nang	4332
+tri chi,	4333
+chi, vo	4334
+han van	4335
+luong, bo	4336
+tang tang	4337
+voi cuoc	4338
+ky tuong	4339
+Chi chu	4340
+lao co	4341
+ky lau	4342
+day ma	4343
+oc lai	4344
+gay su,	4345
+su, tri	4346
+an truoc	4347
+duoc thuoc	4348
+moi duoc,	4349
+dao."	4350
+cong dao."	4351
+ca ngoi	4352
+day du	4353
+tue de	4354
+hay khong?"	4355
+truyen	4356
+y duy	4357
+cai truyen	4358
+nao thich	4359
+nay muu	4360
+la nhu	4361
+Xu	4362
+Xu tri	4363
+xong chuyen	4364
+hoa hieu	4365
+mot mau	4366
+mau tri	4367
+mang lap	4368
+tri tri	4369
+duoc lau	4370
+loan, nhanh	4371
+cua hai	4372
+do chinh	4373
+cua La	4374
+lanh, tam	4375
+lai dang	4376
+nhu tam	4377
+han den	4378
+giua,	4379
+giua, moi	4380
+phu ngoi	4381
+Ga cung	4382
+phu va	4383
+lai nhin	4384
+nhin tri	4385
+phu hoi:	4386
+phu vua	4387
+Mot	4388
+Mot mat	4389
+phu sai	4390
+cua vien	4391
+Vua la	4392
+ta cai	4393
+muon dan	4394
+duoc lam	4395
+phu hoan	4396
+tung tai	4397
+cua ga.	4398
+rong,	4399
+phi	4400
+hieu rong,	4401
+rong, tri	4402
+nho phi	4403
+su.	4404
+ly, trung	4405
+nhan su.	4406
+di cao	4407
+cho minh	4408
+Vay cao	4409
+cho bon	4410
+xuong, bat	4411
+“Phu	4412
+de thu	4413
+tri “Phu	4414
+“Phu Do	4415
+giao nam	4416
+theo vi	4417
+do.	4418
+voI vi	4419
+tri do.	4420
+do, su	4421
+ngoI	4422
+ngoI vi	4423
+do, cac	4424
+LLLU	4425
+nay!”	4426
+Pham	4427
+tri nay!”	4428
+nay!” Pham	4429
+duoc su	4430
+Chuc	4431
+ngam thong	4432
+cho Chuc	4433
+nghia,	4434
+chinh nghia,	4435
+nguoi de	4436
+lai nguoi,	4437
+nang,	4438
+tri nang,	4439
+nang, khien	4440
+con,	4441
+con, vi	4442
+thanh duy	4443
+va ten	4444
+van khi	4445
+duong va	4446
+khien ba	4447
+thu?	4448
+cao thu?	4449
+yen vi	4450
+cu, than	4451
+bo tieu	4452
+tieu tri	4453
+o giua	4454
+con bao	4455
+nhien bat	4456
+long bao	4457
+da kien	4458
+hon bat	4459
+nang chinh	4460
+sinh tu	4461
+giao Khau	4462
+roi.	4463
+nhu nguoi	4464
+ky roi.	4465
+“vuong	4466
+dao”.	4467
+cu duy	4468
+tri “vuong	4469
+“vuong dao”.	4470
+su, chinh	4471
+va chinh	4472
+deu co	4473
+tri cot	4474
+cot can	4475
+cung do	4476
+".	4477
+phap xu	4478
+tri ".	4479
+, nhung	4480
+tri no	4481
+no la	4482
+ba vi	4483
+la bi	4484
+Tru vi	4485
+cua Long	4486
+Phong	4487
+Phong vi	4488
+cua thu	4489
+Hoi	4490
+Hoi bat	4491
+tham, bat	4492
+hoan,	4493
+hoan, than	4494
+nhieu,	4495
+nhieu, than	4496
+chua duoc	4497
+lai yen	4498
+mot be	4499
+thuyen	4500
+gac	4501
+thuyen bo	4502
+canh gac	4503
+moi ben	4504
+can dam	4505
+hanh lan	4506
+lan tri	4507
+lieu thu	4508
+nong sau	4509
+nhat de	4510
+lieu cho	4511
+tac,	4512
+tac, vi	4513
+do phai	4514
+thoi thong	4515
+cho mot	4516
+mat gia	4517
+luc vo	4518
+cho co	4519
+niu	4520
+giai dang	4521
+tri niu	4522
+niu trong	4523
+duoc on	4524
+vuong kiem	4525
+nhieu nuoc,	4526
+Phien	4527
+bang.	4528
+vay thanh	4529
+tri Phien	4530
+Phien bang.	4531
+suc thoi	4532
+cua yeu	4533
+bong	4534
+cai vi	4535
+tri bong	4536
+bong mong	4537
+vi tru	4538
+cua Dai	4539
+su nhat	4540
+cao trong	4541
+tri suc	4542
+suc manh	4543
+Habour)lam	4544
+Habour)lam vi	4545
+tien phuong	4546
+ULLLLLOLLL	4547
+7	4548
+tri so	4549
+so 7	4550
+N	4551
+LN	4552
+manh,cach	4553
+manh,cach bo	4554
+LLLLOLLLL	4555
+ba”?Het	4556
+loan.Nguyen	4557
+thu ba”?Het	4558
+ba”?Het tri	4559
+toi loan.Nguyen	4560
+LLLLOULLLLL	4561
+LLOOULL	4562
+Phap	4563
+su thong	4564
+cua Phap	4565
+khac,bat	4566
+nhieu thanh	4567
+tri khac,bat	4568
+khac,bat bay	4569
+LLLLOLLL	4570
+ngui	4571
+su cai	4572
+tri ngan	4573
+ngan ngui	4574
+ach	4575
+ach thong	4576
+day mau	4577
+dai dang	4578
+chi biet	4579
+ve tri	4580
+an cho	4581
+chiu trung	4582
+mam,	4583
+man.	4584
+mam, than	4585
+me man.	4586
+hoan.	4587
+tri hoan.	4588
+dang,	4589
+nhien than	4590
+tri lang	4591
+lang dang,	4592
+di lam	4593
+huyen deu	4594
+duoc trung	4595
+trong, da	4596
+cua ngay	4597
+khoi day	4598
+to mo	4599
+yeu,	4600
+tri hiem	4601
+hiem yeu,	4602
+nhung da	4603
+vi chu	4604
+tri Thanh	4605
+Thanh Van	4606
+nay lanh	4607
+hon nhieu,	4608
+chinh,	4609
+tong chinh,	4610
+chinh, tri	4611
+tri luc,	4612
+luc, noi	4613
+tot va	4614
+han la	4615
+mot van	4616
+xem tao	4617
+may the	4618
+gian,	4619
+gian, duy	4620
+chinh dao."	4621
+cua Lam	4622
+ni	4623
+bon ni	4624
+lau bai	4625
+rat don	4626
+hoang thien	4627
+ho, nhat	4628
+ky thi	4629
+mim	4630
+nhat, mim	4631
+Long than	4632
+hay,	4633
+hay, tam	4634
+don het	4635
+de ke	4636
+cong viec	4637
+bac tai	4638
+tri phi	4639
+phi thuong,	4640
+ma tam	4641
+khang	4642
+than chan	4643
+va khang	4644
+han chua	4645
+ton tai	4646
+dao!	4647
+ta chu	4648
+cong dao!	4649
+va linh	4650
+ga, khien	4651
+ma chu	4652
+len tam	4653
+moi nguoi	4654
+phach,	4655
+tuong,	4656
+hon phach,	4657
+phach, tri	4658
+thien tuong,	4659
+so.	4660
+phong bai	4661
+don so.	4662
+de chiem	4663
+an chua	4664
+tue vo	4665
+phuc truoc	4666
+truoc tri	4667
+ro bo	4668
+mieng	4669
+mieng muon	4670
+day ve	4671
+thuc dung	4672
+nhung bac	4673
+gia moi	4674
+la bac	4675
+gia hay	4676
+da lam	4677
+trao,	4678
+trao, ly	4679
+tri Hang	4680
+Hang Thieu	4681
+cua tong	4682
+cuc!”	4683
+lao chu	4684
+dai cuc!”	4685
+dai cuc	4686
+dap ma	4687
+duoc...	4688
+dung no	4689
+no tri	4690
+benh duoc...	4691
+linh,	4692
+tinh linh,	4693
+cua thai	4694
+duoc chinh	4695
+ti	4696
+co noi,	4697
+noi, tri	4698
+ky ti	4699
+phuc vu	4700
+o dau.	4701
+ky hay	4702
+ky dau	4703
+tue thap	4704
+het, de	4705
+khoi noi	4706
+thi cao	4707
+hieu thong	4708
+cua Phuong	4709
+phai co	4710
+lam gi	4711
+ai	4712
+xem ai	4713
+ai tri	4714
+dau Tam	4715
+truoc tien	4716
+luc hay	4717
+oc giao	4718
+mat, tam	4719
+len ve	4720
+tue tham	4721
+y!	4722
+y! Chu	4723
+Chu tri	4724
+sao? Chu	4725
+tang tru	4726
+thanh vi	4727
+chung bo	4728
+noi gian	4729
+nay bo	4730
+phat dong	4731
+phong trang	4732
+rat la	4733
+moi thong	4734
+cho Duong	4735
+gom vi	4736
+cua toa	4737
+do phap	4738
+that su	4739
+nhom	4740
+cua nhom	4741
+san.	4742
+tuc bo	4743
+tri san.	4744
+cau, vi	4745
+bon ten	4746
+tang.	4747
+O noi	4748
+khach tang.	4749
+nao, khong	4750
+ua	4751
+ua chinh	4752
+va dau	4753
+doan chinh	4754
+tri ngoai	4755
+ngoai toc	4756
+tu khong,	4757
+khong, tri	4758
+dien de	4759
+Giao	4760
+nghich	4761
+Giao trung	4762
+tri nghich	4763
+nghich do.	4764
+nhan dinh	4765
+dinh tri	4766
+toi thi	4767
+vuong,	4768
+Doanh	4769
+vuong, gia	4770
+cua Doanh	4771
+chung trung	4772
+mot dao	4773
+mang o	4774
+cho Vi	4775
+Mat,	4776
+Mat, co	4777
+phai thong	4778
+danh co	4779
+Voi co	4780
+nhu Tram	4781
+ke cao	4782
+Ta nay	4783
+tam.	4784
+hung tam.	4785
+“Tri	4786
+“Tri ky	4787
+tri bi	4788
+bi moi	4789
+dong rat	4790
+rat tri	4791
+trong, lien	4792
+cho may	4793
+ma lai	4794
+khong doi,	4795
+phap su	4796
+Nguoi	4797
+Nguoi chu	4798
+giay	4799
+lat	4800
+giay lat	4801
+lat tri	4802
+tri hoan,	4803
+hoan, Luc	4804
+cung chinh	4805
+Tao	4806
+nhu Tao	4807
+sang thong	4808
+hanh tung	4809
+truy	4810
+truy cau	4811
+cau tri	4812
+thuc vo	4813
+cua Vuong	4814
+hau	4815
+hau than	4816
+hoang mang	4817
+dan dan	4818
+tu xu	4819
+nguoi cung	4820
+mang da	4821
+su thuc	4822
+thuc tri	4823
+de cai	4824
+tri dat	4825
+dat nuoc,	4826
+tham khoc	4827
+tu duy	4828
+va tiep	4829
+nhan vo	4830
+cu hay	4831
+co.	4832
+den tam	4833
+tri co.	4834
+toi thong	4835
+hoat tuc	4836
+Ba	4837
+toc vi	4838
+tri Kim	4839
+Kim Ba	4840
+moi bo	4841
+mon tim	4842
+phuoc	4843
+an,	4844
+quyen,	4845
+phuoc an,	4846
+an, tri	4847
+tri quyen,	4848
+quyen, nhat	4849
+Phung	4850
+Chan	4851
+Phung Chan	4852
+Chan tri	4853
+phu chac	4854
+nhieu Thanh	4855
+lenh	4856
+ay.	4857
+ra lenh	4858
+lenh tri	4859
+hoan ay.	4860
+nam tam	4861
+hien trong	4862
+oc ong	4863
+sao chi	4864
+them nua,	4865
+Boi	4866
+Boi su	4867
+hoan nay,	4868
+deu thay,	4869
+la thuoc	4870
+Linh	4871
+Phong thong	4872
+cho Linh	4873
+nhat trong	4874
+Dich	4875
+Dich tam	4876
+dai loan,	4877
+chung, than	4878
+tri Dien	4879
+Dien Bat	4880
+den noi	4881
+mang Phap	4882
+khi kien	4883
+chong lai	4884
+may nguoi	4885
+sai lam	4886
+mang, chinh	4887
+tri y	4888
+y van	4889
+mat tam	4890
+tri ho.	4891
+xo	4892
+dai mat	4893
+no xo	4894
+day."	4895
+Moi	4896
+hoac tam	4897
+tri day."	4898
+day." Moi	4899
+bi loan	4900
+giang co	4901
+gang	4902
+gang chi	4903
+vi mot	4904
+cao hon	4905
+duong.	4906
+hien vi	4907
+tri tong	4908
+tong duong.	4909
+sau,	4910
+sau, than	4911
+han moi	4912
+cho nhau,	4913
+khoi phuc	4914
+giac doi	4915
+khao	4916
+do trang	4917
+thi khao	4918
+den trang	4919
+rat tinh	4920
+vao tam	4921
+con nguoi,	4922
+qua, tam	4923
+trong, tam	4924
+nua, tam	4925
+tri Truong	4926
+Truong Tieu	4927
+va thong	4928
+sau nay,	4929
+dau vao	4930
+ho bo	4931
+viec lai	4932
+tham ten	4933
+phu hen	4934
+Tay	4935
+Tay Vuong	4936
+Vuong tri	4937
+coi	4938
+tri vi,	4939
+vi, coi	4940
+nhuc	4941
+minh trung	4942
+tri kho	4943
+kho nhuc	4944
+the bi	4945
+bi tri	4946
+toi pham	4947
+linh cu	4948
+cu tri	4949
+toi luon	4950
+de trung	4951
+tri tat	4952
+tat minh	4953
+ngay.	4954
+phuc than	4955
+duoc ngay.	4956
+khong se	4957
+theo quan	4958
+boi muon	4959
+roi cho	4960
+thien menh	4961
+toan thong	4962
+toan the	4963
+Do la	4964
+kip thoi	4965
+nha ra,	4966
+lieu cac	4967
+cho ga	4968
+nhan,	4969
+nhan, vua	4970
+Muc	4971
+Muc bo	4972
+vat tuc	4973
+doi, co	4974
+khon luong	4975
+dai su	4976
+- Tru	4977
+tuyet voi	4978
+chua duoc,	4979
+y?”.	4980
+cua y?”.	4981
+LOOO	4982
+Mon	4983
+Mon duy	4984
+rat it	4985
+xong, tam	4986
+kiem thu	4987
+tai do	4988
+tien thu	4989
+tri mat	4990
+mat muu	4991
+am cua	4992
+chu truong	4993
+thien thu	4994
+cau truong	4995
+thien thu,	4996
+ma "truong	4997
+ngu "truong	4998
+Bai	4999
+quan.	5000
+Bai tai	5001
+sieu quan.	5002
+vao noi	5003
+chi co	5004
+hien nhan	5005
+gia nao	5006
+biet gia	5007
+nao nho	5008
+co tam	5009
+noi chuyen	5010
+no ma	5011
+tam ten	5012
+chang roi	5013
+chu chang	5014
+nhat, trong	5015
+chua mat	5016
+doi.	5017
+tay tai	5018
+hon doi.	5019
+tinh bo	5020
+nghi tran	5021
+Dich than	5022
+khach nhan	5023
+tro thanh	5024
+giao voi	5025
+hong phan	5026
+phan tri	5027
+ky vay	5028
+khong theo	5029
+nap,	5030
+ngan nap,	5031
+vat trang	5032
+tuong ga	5033
+luc da	5034
+nguoi, nhung	5035
+mang nhat	5036
+gio da	5037
+bi, tinh	5038
+la dam	5039
+dam tri	5040
+yeu, trung	5041
+ke cuong	5042
+ty	5043
+su ty	5044
+ty tri	5045
+nho tot	5046
+moc	5047
+luoi moc	5048
+dung tai	5049
+va thu	5050
+gian vi	5051
+nay cung	5052
+dam cu	5053
+thuc Ba	5054
+cu de	5055
+chi la	5056
+mo kich	5057
+nen vi	5058
+phat quyen	5059
+cac phuong	5060
+quyet, co	5061
+chang kem	5062
+anh minh	5063
+dai tue	5064
+luc vao	5065
+giay lang	5066
+nay, lao	5067
+khi phach,	5068
+nam do,	5069
+cung bao	5070
+su tram	5071
+vong cuu	5072
+Bich Dao	5073
+de bao	5074
+ky." Han	5075
+xuan	5076
+yen,	5077
+di chu	5078
+tri xuan	5079
+xuan yen,	5080
+binh phap	5081
+muu cua	5082
+do song	5083
+xe.	5084
+danh xe.	5085
+nguy	5086
+sinh,	5087
+nguy cap	5088
+tri sinh,	5089
+sinh, ga	5090
+ta dieu	5091
+lai tai	5092
+biat	5093
+tu biat	5094
+biat tri	5095
+luc minh	5096
+ta bo	5097
+cung dan	5098
+gia da	5099
+hieu,	5100
+hieu, vi	5101
+nuoc Tan	5102
+dung ly	5103
+de kiem	5104
+lai gia	5105
+nen lanh	5106
+tri nhay	5107
+nhay bat	5108
+ne vi	5109
+cua tim	5110
+trong chinh	5111
+khong co	5112
+cua dich	5113
+bi."	5114
+tri bi."	5115
+bi." Bat	5116
+khac,	5117
+khac, thong	5118
+kiem vi	5119
+thuong con	5120
+the chinh	5121
+trong thien	5122
+va nhan	5123
+lat,	5124
+lai, dang	5125
+tri giay	5126
+giay lat,	5127
+han than	5128
+da tinh	5129
+de sua	5130
+bon thieu	5131
+va xu	5132
+gi khong	5133
+tri khac,	5134
+khac, tru	5135
+ve,	5136
+phong ve,	5137
+phon	5138
+mot thanh	5139
+tri phon	5140
+phon hoa	5141
+y den	5142
+benh de	5143
+benh dau	5144
+tri doi	5145
+doi pho	5146
+Tu vi	5147
+“thuong	5148
+the”	5149
+Trong chua	5150
+tri “thuong	5151
+“thuong the”	5152
+tinh tinh	5153
+thuoc bo	5154
+benh ho,	5155
+biet tai	5156
+Tuong	5157
+Tuong bao	5158
+tam hao	5159
+hung,	5160
+anh hung,	5161
+hung, tri	5162
+nhan khi	5163
+benh da	5164
+hinh quan	5165
+o Lac	5166
+nguoc	5167
+the nhung	5168
+an nguoc	5169
+rat quan	5170
+it, dung	5171
+tri doat	5172
+doat duoc	5173
+phien	5174
+de phien	5175
+han ve	5176
+ky”.	5177
+tam giao	5178
+giao tri	5179
+tri ky”.	5180
+niem	5181
+niem than	5182
+di vao	5183
+nhu truoc	5184
+pham,	5185
+Mat tai	5186
+sieu pham,	5187
+moi?	5188
+gi moi?	5189
+phai hang	5190
+phai so	5191
+so tri	5192
+lai nhung	5193
+thuc thien	5194
+khong voi	5195
+nho nhin	5196
+cho Hu	5197
+thu tich	5198
+manh cuu	5199
+noi.	5200
+tri noi.	5201
+Viec	5202
+Viec bo	5203
+huyet tran	5204
+Hoan	5205
+Hoan bo	5206
+tran the,	5207
+mot diem	5208
+rut,	5209
+tri duong	5210
+duong rut,	5211
+nha bo	5212
+rat trang	5213
+Thanh,	5214
+Thanh, tam	5215
+nang chi	5216
+y tinh	5217
+vang:	5218
+"Tay	5219
+vang: "Tay	5220
+"Tay tri	5221
+tri dinh	5222
+dinh linh	5223
+mot tren	5224
+tren tri	5225
+nhan!	5226
+nhan! Vien	5227
+phu la	5228
+nen xu	5229
+cach nao?	5230
+voi thanh	5231
+nuoc Trieu	5232
+phuc binh,	5233
+chu bo	5234
+phu so	5235
+nhu binh,	5236
+binh, tri	5237
+don gian	5238
+moi noi,	5239
+muu ke	5240
+gan	5241
+du gan	5242
+yeu nhuoc	5243
+lan dieu	5244
+thu ba	5245
+dut duoc	5246
+the tam	5247
+minh nhe	5248
+hoi chua	5249
+chi nua	5250
+man ma	5251
+Toi qua	5252
+qua tri	5253
+lanh tinh	5254
+giet	5255
+ta.	5256
+hoi bo	5257
+tri giet	5258
+giet ta.	5259
+tich.	5260
+thu tich.	5261
+noi chung	5262
+gi,	5263
+cung de	5264
+benh gi,	5265
+xuan,	5266
+hoi xuan,	5267
+xuan, tri	5268
+phu,cu	5269
+tu phu,cu	5270
+LLLOLL	5271
+dep	5272
+tri dep	5273
+dep nhat,	5274
+cho!	5275
+roi ta	5276
+thuong cho!	5277
+lap trai	5278
+nhung muu	5279
+thich thong	5280
+bon coi	5281
+Nguyen	5282
+Tuy thong	5283
+Trung Nguyen	5284
+nhien,	5285
+tu nhien,	5286
+nhien, tri	5287
+tue sau	5288
+Tu tru	5289
+Dai Duc	5290
+vua Thuan	5291
+tri dich	5292
+dich nhan	5293
+doan.	5294
+trong doan.	5295
+cach quan	5296
+gai	5297
+con gai	5298
+gai tri	5299
+tri thuc,	5300
+thuc, duoc	5301
+khong thong	5302
+cho han	5303
+quai.	5304
+ky quai.	5305
+- Chinh	5306
+tri von	5307
+von di	5308
+yeu.	5309
+thu yeu.	5310
+lenh thong	5311
+cat	5312
+dia,	5313
+cat bo	5314
+tran dia,	5315
+khong phat	5316
+dien vo	5317
+chi bo	5318
+phong ngu	5319
+quai,	5320
+ky quai,	5321
+rat linh	5322
+1,	5323
+so 1,	5324
+NO	5325
+'Ly'	5326
+que 'Ly'	5327
+OULO	5328
+cuong va	5329
+nay an	5330
+de xem	5331
+hang tai	5332
+Dinh	5333
+Dinh chu	5334
+sach quan	5335
+hoan thien	5336
+cho than	5337
+me ho	5338
+giao hay	5339
+tang mot	5340
+nang vo	5341
+Can	5342
+Can vi	5343
+Thanh, bo	5344
+hoan duoc,	5345
+tuc thong	5346
+cung nhieu	5347
+Co	5348
+Nga	5349
+Co thong	5350
+nuoc Nga	5351
+cua nguoi	5352
+tram,	5353
+tham tram,	5354
+vi.	5355
+tri vi.	5356
+den bac	5357
+den bo	5358
+cua doi	5359
+tue nhanh	5360
+nguoi nhanh	5361
+nhu Hang	5362
+„Ke co	5363
+khong nen	5364
+nguoi ban	5365
+phap va	5366
+tue rat	5367
+hien chu	5368
+dac	5369
+biet,	5370
+tri dac	5371
+dac biet,	5372
+cua ly	5373
+Neu tri	5374
+than bo	5375
+de phong	5376
+ton.	5377
+cach trang	5378
+hung ton.	5379
+con dang	5380
+nghi, thinh	5381
+san vi	5382
+bao vay	5383
+han lay	5384
+toi thuong	5385
+tran giu	5386
+sau, tam	5387
+dai bien,	5388
+ay than	5389
+ra chua	5390
+cho Pho	5391
+Thuong Nhan	5392
+thuong, than	5393
+mon than	5394
+cua Pho	5395
+phap ho	5396
+ay, than	5397
+trang than	5398
+Khang	5399
+Hy	5400
+Khang Hy	5401
+Hy tri	5402
+vi va	5403
+day la	5404
+Vi tru	5405
+ra tru	5406
+trong cac	5407
+Dat	5408
+di thong	5409
+cho Dat	5410
+thuoc nao	5411
+thuong lay	5412
+goi thuoc	5413
+thuong ,	5414
+tai nao	5415
+duoc nua.	5416
+han bat	5417
+toi va	5418
+phap an	5419
+con di	5420
+Nang	5421
+Nang yen	5422
+nay, gia	5423
+tri ay	5424
+ay da	5425
+di giai	5426
+hay sao?	5427
+cua ta.	5428
+den thong	5429
+tri hao	5430
+hao hoa,	5431
+cac chuong	5432
+thu thuoc	5433
+tuu,	5434
+tuu, than	5435
+Duy	5436
+- Duy	5437
+Duy tri	5438
+an trong	5439
+voi viec	5440
+De	5441
+- De	5442
+De tri	5443
+tri quai	5444
+quai tat	5445
+phuong de	5446
+benh, bao	5447
+thich,	5448
+dep.	5449
+thich, canh	5450
+rat dep.	5451
+nao thuong	5452
+tuoi,	5453
+tuoi, nhung	5454
+khuy,	5455
+nang khuy,	5456
+khuy, tri	5457
+gia bat	5458
+bat nang	5459
+tri Nhan	5460
+Nhan giai	5461
+ngo so	5462
+mac	5463
+nhi mac	5464
+mac tri	5465
+Uyen,	5466
+Uyen, gia	5467
+quan doi	5468
+tran cuoc,	5469
+cuoc, tri	5470
+thuong cong	5471
+tri khan	5472
+khan yeu	5473
+phai cang	5474
+ho do.	5475
+bua	5476
+thi bua	5477
+tri anh	5478
+anh em	5479
+tieu vuong	5480
+lai cao	5481
+ke truoc	5482
+ben bo	5483
+tien trung	5484
+hoi au	5485
+ay?	5486
+tri ay?	5487
+ay? Khau	5488
+van chi	5489
+duoc mot	5490
+chay	5491
+tam thong	5492
+da chay	5493
+ha tai	5494
+ngu don	5495
+Le	5496
+qua tam	5497
+tri Quy	5498
+Quy Le	5499
+phap tu	5500
+nho sieu	5501
+tuy khong	5502
+mang nhung	5503
+thich, tham	5504
+tri sac	5505
+sac dien	5506
+menh,	5507
+menh, vi	5508
+tri mon	5509
+mon chu	5510
+Ma	5511
+tri Ma	5512
+Ma Giao	5513
+chuong vi	5514
+long,	5515
+long, vi	5516
+toI	5517
+tri toI	5518
+toI thuong	5519
+lieu de	5520
+duoc thi	5521
+vi khong	5522
+khoi duoc	5523
+than kho	5524
+qua do	5525
+chang de	5526
+khoe	5527
+tu khoe	5528
+khoe tri	5529
+nguoi chi	5530
+lut,	5531
+lut, nguoi	5532
+tri thuy	5533
+thuy khong	5534
+lop,	5535
+lop, bai	5536
+hai hoa,	5537
+nghiem khac,	5538
+cho Tran	5539
+Lao Quan	5540
+tieng,	5541
+mot tieng,	5542
+tri mieng	5543
+mieng con	5544
+tri nha	5545
+nha nguoi	5546
+(1),	5547
+au vo	5548
+tri (1),	5549
+(1), thinh	5550
+ONOO	5551
+Pham vo	5552
+den muc	5553
+vua yen	5554
+tri rang	5555
+rang Vi	5556
+Chi co	5557
+de cho	5558
+Ngoc	5559
+nay, tam	5560
+tri Ngoc	5561
+Ngoc Duong	5562
+Tue	5563
+Thien Tue	5564
+Tue tri	5565
+o thanh	5566
+hoan may	5567
+Manh	5568
+cua Manh	5569
+Manh tri	5570
+phu cung	5571
+ve trang	5572
+trong tu	5573
+ve dep	5574
+dep tri	5575
+tue an	5576
+ong.	5577
+tri ong.	5578
+Yen	5579
+sau, tru	5580
+noi Yen	5581
+nguoi au	5582
+lai la	5583
+long van	5584
+van tri	5585
+nhu vua	5586
+doc va	5587
+phu trong	5588
+hung dai	5589
+thuc co	5590
+Thien lanh	5591
+ma cu	5592
+lao thanh	5593
+trong cung	5594
+tri thinh	5595
+thinh Ta	5596
+Kha	5597
+tri Kha	5598
+Kha han	5599
+tieng	5600
+khap	5601
+co tieng	5602
+tieng tri	5603
+dung khap	5604
+noi nao	5605
+rong lai	5606
+nho cuong	5607
+coi la	5608
+ha!	5609
+ha! Ban	5610
+Ban tri	5611
+de cau	5612
+thuong tat	5613
+Ham	5614
+tranh chinh	5615
+o Ham	5616
+boi gia	5617
+phan tu	5618
+gap	5619
+gap duoc	5620
+am sang	5621
+ket nghia	5622
+giao moi	5623
+ket ban	5624
+giao cung	5625
+han tim	5626
+am de	5627
+tra,	5628
+tra, yen	5629
+la ga	5630
+mat chinh	5631
+thi phai	5632
+quoc tat	5633
+tat tri	5634
+chang,	5635
+tri chang,	5636
+chang, gio	5637
+qua nhan	5638
+quoc hay	5639
+kinh nghiem	5640
+quoc, lam	5641
+thu chinh	5642
+thai tu	5643
+nuoc cho	5644
+nhung phai	5645
+Long chu	5646
+Phiet	5647
+Phiet chu	5648
+tri ham	5649
+ham doi,	5650
+cung.	5651
+dong bat	5652
+vo cung.	5653
+ben canh	5654
+phap, vi	5655
+huyet dao	5656
+nguoi, co	5657
+tuyet luan	5658
+lao tai	5659
+doan,	5660
+da doan,	5661
+gang duy	5662
+duoc toi	5663
+cac vi.	5664
+ho an	5665
+hai de	5666
+thuyen chu	5667
+do, tham	5668
+ky, nang	5669
+Trieu bo	5670
+gap.	5671
+can dieu	5672
+tri gap.	5673
+o vung	5674
+mat y	5675
+o chua	5676
+mot chut	5677
+nhu vi	5678
+duoi	5679
+tu chuyen	5680
+nuoc, duoi	5681
+ung vi	5682
+cua Yen	5683
+ban dau.	5684
+tri Yen	5685
+Yen Phi	5686
+ao	5687
+ao vao	5688
+tay sua	5689
+mot tran,	5690
+coi,	5691
+tre.	5692
+cung coi,	5693
+coi, tri	5694
+tri tre.	5695
+con ngu	5696
+Nham	5697
+dang yen	5698
+tri Nham	5699
+Nham Nga	5700
+la dung	5701
+ma cung	5702
+y dau	5703
+, khong	5704
+thuoc nay	5705
+chu trung	5706
+lai muu	5707
+cong tu	5708
+khoi the	5709
+phuc tap,	5710
+thuc loi	5711
+ngoi tru	5712
+O ban	5713
+cac chua	5714
+Ga kem	5715
+kem tri	5716
+phan dau,	5717
+rat hop	5718
+hon.	5719
+dong hon.	5720
+tri den,	5721
+den, lap	5722
+cua Hoang	5723
+chua,	5724
+chua, tru	5725
+la chu	5726
+toi tru	5727
+tan tru	5728
+phap hieu	5729
+tri Moi	5730
+Moi nhat	5731
+gia phai	5732
+buoc thuoc	5733
+deo	5734
+deo mang	5735
+mang tri	5736
+tri giu	5737
+giu noi	5738
+hoan khong	5739
+Chan chi	5740
+phuc binh	5741
+nay va	5742
+tai,	5743
+tri hien	5744
+hien tai,	5745
+doc cho	5746
+ni yen	5747
+trong phong	5748
+ngai thi	5749
+trong de	5750
+thuong, vay	5751
+mat het	5752
+giac, ha	5753
+thuong trong	5754
+cua ga,	5755
+thuong roi.	5756
+mot long	5757
+Hoang thanh,	5758
+thanh, tri	5759
+cac cung	5760
+ra bo	5761
+va bao	5762
+cho ho	5763
+nay lap	5764
+vay!	5765
+hung trang	5766
+nhu vay!	5767
+tri ung	5768
+ung bien	5769
+su vo	5770
+phu chu	5771
+viec bien	5772
+gia nay	5773
+la duc	5774
+bon thong	5775
+o sau	5776
+truoc, vi	5777
+chang?	5778
+nuoc chang?	5779
+chi dao	5780
+nuoc hoan	5781
+biet dao	5782
+nuoc trong	5783
+nhan duc	5784
+nuoc, luon	5785
+nuoc, khac	5786
+tu tuong	5787
+voi thuat	5788
+nuoc mot	5789
+tiec.	5790
+den chu	5791
+buoc tiec.	5792
+loi vo	5793
+nhu the,	5794
+thong nhat	5795
+luc chinh	5796
+khong che	5797
+cung,	5798
+ve dac	5799
+dac tri	5800
+vo cung,	5801
+ma yen	5802
+la ta	5803
+cao xuong	5804
+xuong tri	5805
+doc ma	5806
+Trong tam	5807
+tri ta,	5808
+ta, khong	5809
+tro luc	5810
+vo chong	5811
+di nhien	5812
+nhien tri	5813
+tue, mot	5814
+minh nhu	5815
+ky, khong	5816
+Cho tri	5817
+phi ben	5818
+Chi Vinh	5819
+Vinh tri	5820
+huyen Quy	5821
+"Tu	5822
+giam"	5823
+sach "Tu	5824
+"Tu tri	5825
+thong giam"	5826
+luc lam	5827
+huyen huyen	5828
+cua ben	5829
+huyen da	5830
+huyen tham	5831
+xu lang	5832
+, thay	5833
+, vien	5834
+phu moi	5835
+vao toi	5836
+toi tri	5837
+tinh ma	5838
+, ca	5839
+chem	5840
+la chem	5841
+vi bat	5842
+tinh nen	5843
+cach boi	5844
+Tuu	5845
+Tuu phong	5846
+ky thien	5847
+gap ban	5848
+bien phap	5849
+dai phu	5850
+mai khong	5851
+ban co	5852
+da vai	5853
+thay sac	5854
+sac tri	5855
+cang ngay	5856
+moi yen	5857
+va cung	5858
+tri khap	5859
+khap noi	5860
+thi bong	5861
+phen	5862
+Cu yen	5863
+tri phen	5864
+phen nay	5865
+oc Hau	5866
+hoach	5867
+ke hoach	5868
+thua	5869
+loan than	5870
+de thua	5871
+chang dan	5872
+nay, am	5873
+can quan	5874
+cho tot,	5875
+tieng tuc	5876
+nho o	5877
+xa hoa	5878
+tuyen nhung	5879
+nha rat	5880
+loai sach	5881
+sach tri	5882
+tri doi,	5883
+doi, ma	5884
+co ngay	5885
+hiem yeu.	5886
+hoan nao.	5887
+do van	5888
+luc qua	5889
+hoi tinh	5890
+ghi	5891
+tri om	5892
+om ghi	5893
+tuyet tran	5894
+so trang	5895
+hinh hoa	5896
+ta dau	5897
+hon le	5898
+Nhan cap	5899
+sinh, song	5900
+tieu tuong	5901
+nguoi rat	5902
+cho chung	5903
+thuong, Am	5904
+mot minh	5905
+anh sang	5906
+tue, dai	5907
+vong,	5908
+tam vong,	5909
+vong, tri	5910
+xong qua	5911
+vo tinh	5912
+het benh	5913
+tim vi	5914
+bi dao.	5915
+thay gia	5916
+vao nhung	5917
+thuc luc	5918
+trong."	5919
+quan trong."	5920
+chu linh	5921
+tuy kien	5922
+cho ga,	5923
+minh the	5924
+loan, tam	5925
+than quang	5926
+quang tri	5927
+tue nhu	5928
+khong chi	5929
+duoc nua	5930
+quan trong,	5931
+gian, chuyen	5932
+tri kiem	5933
+kiem dao,	5934
+benh, vua	5935
+giup nang	5936
+sinh tung	5937
+tung tri	5938
+Mac huynh	5939
+moi thu,	5940
+uat	5941
+uc	5942
+nen tam	5943
+tri uat	5944
+uat uc	5945
+kho ma	5946
+dut can.	5947
+nga	5948
+nga duoc	5949
+con bach	5950
+bach tri	5951
+o trong	5952
+“Tri nhan	5953
+dien bat	5954
+tri tam,	5955
+tam, khong	5956
+dao quan	5957
+tri vung	5958
+vung dat	5959
+tri gap	5960
+gap bat	5961
+quan chinh	5962
+quoc mot	5963
+noi dao	5964
+quoc voi	5965
+ha, tri	5966
+minh, voi	5967
+tue phi	5968
+lon de	5969
+vi quoc	5970
+hien gio	5971
+chung vo	5972
+am.	5973
+tri am.	5974
+theo ngu	5975
+nam vi	5976
+con lai	5977
+khac lan	5978
+nho hon	5979
+cua mot	5980
+o am	5981
+da qua	5982
+tue, quan	5983
+an ham	5984
+ham tri	5985
+tue hieu	5986
+de tam	5987
+bi anh	5988
+mang day	5989
+tue, cung	5990
+vo luan	5991
+tue hay	5992
+ve thong	5993
+cho Am	5994
+Uy	5995
+hon Uy	5996
+tam, that	5997
+chu toan,	5998
+Voi bo	5999
+se duy	6000
+su on	6001
+Bang	6002
+tri Bang	6003
+Bang chu	6004
+la su	6005
+truoc duong	6006
+san day	6007
+nu day	6008
+tue nay	6009
+xung	6010
+o xung	6011
+hai than	6012
+han da	6013
+do kien	6014
+chang chiu	6015
+cho nguoi	6016
+bon vo	6017
+hieu lam	6018
+duoi quyen	6019
+quyen tri	6020
+Bao ve	6021
+thuc khong	6022
+cho chu	6023
+duoc dao	6024
+va day	6025
+va mot	6026
+tuong rat	6027
+tiec	6028
+Ban chu	6029
+tri buoi	6030
+buoi tiec	6031
+noi ma	6032
+trong khong	6033
+lla	6034
+tri lla	6035
+lla phai	6036
+gi ban	6037
+bon chung,	6038
+de ca	6039
+huu bo	6040
+gian ke	6041
+so voi	6042
+nhan quang	6043
+tre, hien	6044
+thi do	6045
+goc	6046
+chuyen vi	6047
+den goc	6048
+ra chieu	6049
+chieu tri	6050
+moi co	6051
+qua lau,	6052
+hien bai	6053
+nguoi la	6054
+ky hao	6055
+cua yen	6056
+kim	6057
+tri kim	6058
+kim quang	6059
+thanh ho	6060
+han, gio	6061
+bi ho	6062
+tri xung	6063
+xung quanh	6064
+su huynh	6065
+nho that	6066
+hoc chinh	6067
+tri keo	6068
+keo dai	6069
+ban dang	6070
+cung phong	6071
+van,	6072
+van, bo	6073
+thanh tung	6074
+tren ban	6075
+noc	6076
+tuyet noc	6077
+vao tai	6078
+loi ra,	6079
+thuong, chi	6080
+gia gia	6081
+cua vat	6082
+dan trong	6083
+gia,	6084
+ho danh	6085
+danh tri	6086
+tri gia,	6087
+gia, mot	6088
+boi vi	6089
+vi ca	6090
+Dung	6091
+Dung duc	6092
+tri nhan,	6093
+nhan, co	6094
+trong trai	6095
+vay.	6096
+gian bo	6097
+nhu vay.	6098
+khoi tam	6099
+va cuoc	6100
+moi thanh	6101
+toi xay	6102
+cau hoi	6103
+lieu, toi	6104
+toi duy	6105
+la ke	6106
+tri don,	6107
+don, chi	6108
+ngo canh	6109
+lai van	6110
+dat, tham	6111
+tri ngay	6112
+ngay ca	6113
+tang ly	6114
+de phe	6115
+Tinh	6116
+Niem	6117
+doi tru	6118
+tri Tinh	6119
+Tinh Niem	6120
+tri Lieu	6121
+Lieu Khong	6122
+cua tru	6123
+te tu	6124
+dang doi	6125
+hay de	6126
+nuoc hoac	6127
+nganh	6128
+nganh giai	6129
+o the	6130
+rit	6131
+rit thuoc	6132
+thuong len	6133
+ga kien	6134
+bat han	6135
+minh nua.	6136
+dua minh	6137
+lam chuc	6138
+phu nay	6139
+hon lam	6140
+vi, nhung	6141
+ha lam	6142
+Kinh	6143
+gio lam	6144
+huyen Kinh	6145
+Long tai	6146
+day tinh	6147
+vu”.	6148
+lo bo	6149
+su vu”.	6150
+thi hon	6151
+nhung tai	6152
+thuong?"	6153
+cuu nguoi	6154
+tri thuong?"	6155
+thuong?" Hang	6156
+Nam thong	6157
+nguoi phuong	6158
+khong tot,	6159
+tot, tri	6160
+cua so,	6161
+thuan tien,	6162
+nap	6163
+len, vi	6164
+an nap	6165
+Nguy	6166
+toi Nguy	6167
+Quoc	6168
+Hung,	6169
+tri Quoc	6170
+Quoc Hung,	6171
+Bon	6172
+Bon chung	6173
+chung tri	6174
+thuong chua	6175
+cung den	6176
+nguoi den	6177
+khap thien	6178
+pho?	6179
+su pho?	6180
+khac, thi	6181
+phu co	6182
+vao trieu	6183
+trieu tri	6184
+Viec cuu	6185
+khan cap	6186
+lau than	6187
+tinh lai,	6188
+thang de	6189
+"tuc	6190
+het phai	6191
+tri "tuc	6192
+"tuc thieu	6193
+"Thu	6194
+lay viec	6195
+tri "Thu	6196
+"Thu thai	6197
+man, tam	6198
+vay phai	6199
+tri Duong	6200
+Duong minh	6201
+tam, than	6202
+cac huyet	6203
+Sao	6204
+Sao lai	6205
+Tuc	6206
+tri Tuc	6207
+Tuc thai	6208
+- Neu	6209
+benh, cach	6210
+phai di	6211
+nguoi bao	6212
+Tuc thieu	6213
+son	6214
+nguyet,	6215
+son bat	6216
+tue nguyet,	6217
+dien chu	6218
+chu tuc	6219
+minh chu	6220
+day chi	6221
+Mot tri	6222
+gia va	6223
+phia huyet	6224
+bay toi.	6225
+quat	6226
+trong huyet	6227
+co quat	6228
+de ly	6229
+khong bi	6230
+ke gia	6231
+tri thap	6232
+thap cang	6233
+nang gia	6234
+trang trong	6235
+them ca	6236
+tuong.	6237
+bang het	6238
+tuong tuong.	6239
+moi quan	6240
+nam dieu	6241
+hai cai	6242
+cua chu	6243
+lay thuoc	6244
+thuong do	6245
+ngai,	6246
+sinh chua	6247
+cho ngai,	6248
+vi thuoc	6249
+trum	6250
+luon co	6251
+bao trum	6252
+neu khong	6253
+day gia	6254
+tinh va	6255
+ky Du	6256
+cua han,	6257
+nghi, nhung	6258
+huan	6259
+theo huan	6260
+huan tri	6261
+dai duong	6262
+biet voi	6263
+thanh va	6264
+tri an,	6265
+an, cung	6266
+tuong chu	6267
+viec trieu	6268
+cho thuat	6269
+nuoc nhung	6270
+quoc."	6271
+tri quoc."	6272
+quoc." Y	6273
+day nhin	6274
+tang:	6275
+lien hoi	6276
+khach tang:	6277
+vay tri	6278
+kip,	6279
+kip, thong	6280
+duong duy	6281
+trat tu.	6282
+„Su	6283
+„Su bo	6284
+trach duy	6285
+tri lat	6286
+lat noi	6287
+uy,	6288
+dinh uy,	6289
+uy, tri	6290
+cach chinh	6291
+muoi	6292
+tri muoi	6293
+muoi tam	6294
+"Tam	6295
+gioi,	6296
+noi: "Tam	6297
+"Tam tri	6298
+tri gioi,	6299
+gioi, nhan	6300
+vi tai	6301
+tuyet the	6302
+“Chung	6303
+“Chung ta	6304
+hoan lau	6305
+de chi	6306
+than the	6307
+minh.	6308
+cua minh.	6309
+phi pham	6310
+nu tu	6311
+khac, diem	6312
+Thong	6313
+Thong minh	6314
+mung,	6315
+mung, yen	6316
+chang ai	6317
+nhiet	6318
+nhiet tam	6319
+cung tru	6320
+tri Phuong	6321
+Phuong Chung	6322
+Phuong Sinh	6323
+day,	6324
+o day,	6325
+lai bat	6326
+quoc, nho	6327
+voi hai	6328
+ki,	6329
+tri ki,	6330
+ki, hien	6331
+Cong	6332
+Cong than	6333
+van dang	6334
+the duoc	6335
+du ngoan	6336
+quay lai	6337
+pho la	6338
+Tieu vuong	6339
+nho toi	6340
+Chang	6341
+Chang bao	6342
+ban than	6343
+minh bo	6344
+thua vi	6345
+tri Chuc	6346
+Chuc lao	6347
+thuc chu	6348
+tri Han	6349
+Han bang,	6350
+Luu yen	6351
+linh hoat	6352
+tam that	6353
+Sach	6354
+cho Sach	6355
+"Bac	6356
+: "Bac	6357
+"Bac tri	6358
+gia lo	6359
+tung vi	6360
+cac linh	6361
+hanh de	6362
+thuong, khong	6363
+moi luc	6364
+nhau, than	6365
+ga luc	6366
+gio than	6367
+me loan	6368
+luc"	6369
+bi luc"	6370
+luc" tri	6371
+thuong tien	6372
+thuong, co	6373
+tay tuc	6374
+vi vi	6375
+chang huong	6376
+y thong	6377
+co cac	6378
+Luyen	6379
+moi duy	6380
+duoc Luyen	6381
+truoc mat	6382
+cuoc tan	6383
+qua vi	6384
+hay quan	6385
+tot thu	6386
+con kem	6387
+khac nhu	6388
+bi tam	6389
+bon dia	6390
+nguoi nhat	6391
+nen hoa	6392
+nhau nhu	6393
+ky, trong	6394
+luan thuat	6395
+nuoc voi	6396
+nguoi gioi	6397
+nuoc truoc	6398
+dan."	6399
+do moi	6400
+duoc dan."	6401
+nuoc, chi	6402
+nhien dan	6403
+khong dong	6404
+chet	6405
+duoc nguoi	6406
+ky, chet	6407
+dang la	6408
+ha yen	6409
+la khong	6410
+o yen	6411
+tri roi.	6412

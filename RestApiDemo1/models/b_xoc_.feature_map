@@ -1,0 +1,467 @@
+map	1
+mo,	2
+xoc	3
+len	4
+map mo,	5
+mo, xoc	6
+xoc len	7
+len xoc	8
+LLO	9
+LLL	10
+LL	11
+xuong,	12
+khien	13
+xoc xuong,	14
+xuong, khien	15
+LLLLLO	16
+LLLLL	17
+tieng	18
+xong	19
+tien	20
+vao	21
+tieng xong	22
+xong xoc	23
+xoc tien	24
+tien vao	25
+LLLL	26
+troi	27
+dat,	28
+thang	29
+troi dat,	30
+dat, xoc	31
+xoc thang	32
+thang vao	33
+LLLO	34
+thoang	35
+da	36
+mui,	37
+thoang da	38
+da xoc	39
+xoc vao	40
+vao mui,	41
+LLLLLL	42
+quan	43
+von	44
+xech,	45
+chi	46
+quan von	47
+von xoc	48
+xoc xech,	49
+xech, chi	50
+LLLLO	51
+mui	52
+tanh	53
+mui tanh	54
+tanh xoc	55
+vao mui	56
+hinh	57
+dung	58
+hinh dung	59
+dung xoc	60
+thang len	61
+mau	62
+len,	63
+ap	64
+mau tanh	65
+xoc len,	66
+len, ap	67
+xe	68
+bi	69
+manh,	70
+nen	71
+xe bi	72
+bi xoc	73
+xoc manh,	74
+manh, nen	75
+han	76
+khi	77
+toi,	78
+han khi	79
+khi xoc	80
+thang toi,	81
+mot	82
+cai,	83
+lai	84
+tinh	85
+mot cai,	86
+cai, xoc	87
+xoc lai	88
+lai tinh	89
+tren	90
+khong	91
+xuong	92
+tren khong	93
+khong xoc	94
+thang xuong	95
+dua	96
+tay	97
+dai	98
+dua tay	99
+tay xoc	100
+lai dai	101
+cay	102
+xe,	103
+cay xe,	104
+xe, xoc	105
+ruou	106
+cuc	107
+mui ruou	108
+ruou xoc	109
+vao cuc	110
+cua	111
+vao,	112
+cua da	113
+thang vao,	114
+an	115
+mac	116
+dau	117
+an mac	118
+mac xoc	119
+xech, dau	120
+nuc	121
+den,	122
+ca	123
+nuc mui	124
+mui xoc	125
+xoc den,	126
+den, ca	127
+tan	128
+ra,	129
+tan ra,	130
+ra, xoc	131
+nhu	132
+thi	133
+nhu mot	134
+mot xoc	135
+xoc cua	136
+cua thi	137
+ben	138
+nhon	139
+tai,	140
+ben nhon	141
+nhon xoc	142
+vao tai,	143
+trieu	144
+dang	145
+qua,	146
+giong	147
+trieu dang	148
+dang xoc	149
+xoc qua,	150
+qua, giong	151
+vo	152
+dam	153
+vo tinh	154
+tinh xoc	155
+vao dam	156
+tram	157
+truong	158
+khung	159
+tram truong	160
+truong xoc	161
+len khung	162
+chay	163
+ra	164
+nach	165
+diu	166
+chay ra	167
+ra xoc	168
+xoc nach	169
+nach diu	170
+Thieu	171
+Long	172
+thuong	173
+Thieu Long	174
+Long xoc	175
+xoc thuong	176
+thuong len	177
+ULLL	178
+ULLLL	179
+OL	180
+OO	181
+Ðang	182
+Duc	183
+nhat	184
+Ðang Duc	185
+Duc xoc	186
+xoc toi,	187
+toi, nhat	188
+ULL	189
+xa,	190
+toi	191
+den	192
+xa, toi	193
+toi xoc	194
+thang den	195
+Angkar	196
+bong	197
+be	198
+Thanakri	199
+Angkar bong	200
+bong xoc	201
+xoc be	202
+be Thanakri	203
+ULLLLL	204
+ULLLLLLL	205
+LO	206
+kin	207
+dau,	208
+kin nhat	209
+nhat xoc	210
+len dau,	211
+ngo	212
+ngo dam	213
+dam xoc	214
+ao	215
+nguoc	216
+ao bi	217
+xoc nguoc	218
+nguoc len	219
+mua	220
+gio	221
+trong	222
+mua gio	223
+gio xoc	224
+vao trong	225
+mat	226
+truoc	227
+mat da	228
+xoc toi	229
+toi truoc	230
+tuoi	231
+cuoi,	232
+om	233
+Tieu	234
+tuoi cuoi,	235
+cuoi, xoc	236
+xoc om	237
+om Tieu	238
+roi	239
+chang	240
+len.	241
+roi om	242
+om xoc	243
+xoc chang	244
+chang len.	245
+huong	246
+phong	247
+huong phong	248
+phong xoc	249
+kiem	250
+anh,	251
+ve	252
+phia	253
+kiem anh,	254
+anh, xoc	255
+xoc ve	256
+ve phia	257
+Quan	258
+Quan lai	259
+lai xoc	260
+nguoc kiem	261
+nam	262
+ke	263
+lanh	264
+nam ke	265
+ke xoc	266
+xech, lanh	267
+mang	268
+don	269
+dong	270
+mang don	271
+don xoc	272
+xoc ra	273
+ra dong	274
+vac	275
+quay	276
+tro	277
+vac don	278
+xoc quay	279
+quay tro	280
+nhem	281
+nhuoc,	282
+nhem nhuoc,	283
+nhuoc, xoc	284
+xech, mot	285
+dot	286
+nhien	287
+nay	288
+dot nhien	289
+nhien xoc	290
+xoc nay	291
+nay len	292
+tho	293
+cho	294
+tho tay	295
+nach cho	296
+quan ao	297
+ao xoc	298
+xech, tren	299
+hai	300
+ten	301
+xoc hai	302
+hai ten	303
+Phong	304
+Han	305
+Thuong	306
+Phong Han	307
+Han xoc	308
+xoc Thuong	309
+Thuong Quan	310
+theo	311
+the	312
+theo the	313
+the xoc	314
+ngai	315
+xech, ngai	316
+do	317
+moi	318
+lao	319
+Luu	320
+do moi	321
+moi xoc	322
+xoc lao	323
+lao Luu	324
+thieu	325
+nien	326
+noi	327
+la	328
+thieu nien	329
+nien xoc	330
+xoc noi	331
+noi la	332
+hoi	333
+cung	334
+lam	335
+bi hoi	336
+hoi xoc	337
+xoc cung	338
+cung lam	339
+cu	340
+cu xong	341
+toi.	342
+gio kiem	343
+kiem xoc	344
+xoc toi.	345
+am	346
+moc	347
+am moc	348
+moc xoc	349
+nong	350
+nong xong	351
+vao da	352
+xech	353
+buoc	354
+xoc xech	355
+xech buoc	356
+nhu ve	357
+ve xoc	358
+mat,	359
+phong nay	360
+nay xoc	361
+vao mat,	362
+von da	363
+xech lai	364
+keo	365
+xech.	366
+bi keo	367
+keo xoc	368
+xoc xech.	369
+han keo	370
+xoc len.	371
+co	372
+lien	373
+Lenh	374
+co lien	375
+lien xoc	376
+nach Lenh	377
+Vi	378
+lai om	379
+xoc Vi	380
+Vi Tieu	381
+UL	382
+giac	383
+giac nhu	384
+nhu xoc	385
+manh	386
+va	387
+manh va	388
+va xoc	389
+xoc nhu	390
+nhu dam	391
+Tin	392
+con	393
+Truong	394
+Tin con	395
+con xoc	396
+xoc Truong	397
+Truong Tieu	398
+nac	399
+nong nac	400
+nac xoc	401
+nang	402
+cua nang	403
+nang xoc	404
+un	405
+un un	406
+un xoc	407
+vao phia	408
+ngoan	409
+ngoeo	410
+ngoan ngoeo	411
+ngoeo xoc	412
+vao mat	413
+len, roi	414
+mui mau	415
+mau xoc	416
+ga	417
+ben keo	418
+xoc ga	419
+ga vao	420
+tha,	421
+tha, cu	422
+cu xoc	423
+xech, huong	424
+di	425
+ga xong	426
+xoc di	427
+di thang	428
+cai	429
+mot cai	430
+cai xoc	431
+nhung	432
+toi, nhung	433
+sau	434
+Hoi	435
+sau do	436
+do xoc	437
+xoc Tieu	438
+Tieu Hoi	439
+mui huong	440
+huong xoc	441
+dinh	442
+khi dinh	443
+dinh xoc	444
+toi tan	445
+Xa	446
+Nhat	447
+lan	448
+Xa Nhat	449
+Nhat xoc	450
+toi, lan	451
+Yen	452
+Nhien,	453
+Yen Nhien,	454
+Nhien, xoc	455
+xoc kiem	456
+kiem ra	457
+ULLLLO	458
+tu	459
+tu dau	460
+dau xoc	461
+toi, giong	462
+chiec	463
+chiec ao	464
+bong,	465
+nong bong,	466
+bong, xoc	467

@@ -1,0 +1,755 @@
+nay	1
+ca	2
+giot	3
+nuoc	4
+e	5
+nay ca	6
+ca giot	7
+giot nuoc	8
+nuoc e	9
+LLLL	10
+LL	11
+LLL	12
+L	13
+Mot	14
+mua	15
+Mot giot	16
+nuoc mua	17
+ULL	18
+OL	19
+thanh	20
+nhung	21
+rao	22
+thanh nhung	23
+nhung giot	24
+giot mua	25
+mua rao	26
+LLLLL	27
+Nhung	28
+rot	29
+trung	30
+Nhung giot	31
+giot rot	32
+rot trung	33
+ULLLL	34
+de	35
+mot	36
+de mot	37
+mot giot	38
+nguoi	39
+la	40
+moi	41
+nguoi mot	42
+giot la	43
+la moi	44
+ra	45
+tung	46
+tren	47
+ra tung	48
+tung giot	49
+giot tren	50
+tren thanh	51
+tot	52
+nhat,	53
+mau	54
+cua	55
+tot nhat,	56
+nhat, giot	57
+giot mau	58
+mau cua	59
+LLLLO	60
+toe	61
+dung	62
+nham	63
+toe nhung	64
+giot dung	65
+dung nham	66
+le	67
+nong	68
+ca nhung	69
+giot le	70
+le nong	71
+nhu	72
+roi,	73
+nhu nhung	74
+mua roi,	75
+LLLO	76
+khong	77
+con	78
+mau,	79
+ba	80
+khong con	81
+con giot	82
+giot mau,	83
+mau, ba	84
+ngung,	85
+nao...	86
+ngung, con	87
+mua nao...	88
+LLLLLO	89
+LLLOOO	90
+nho	91
+nho tung	92
+giot tung	93
+xuong	94
+ban	95
+giot xuong	96
+xuong ban	97
+dang	98
+mau dang	99
+mau, nhung	100
+Tung	101
+thoi	102
+gian	103
+Tung giot	104
+giot thoi	105
+thoi gian	106
+ULLL	107
+long	108
+nuoc long	109
+dau	110
+den	111
+cuoi	112
+dau den	113
+den giot	114
+mau cuoi	115
+kia,	116
+co	117
+kia, co	118
+co giot	119
+nuoc tren	120
+voi	121
+mat	122
+voi nhung	123
+nuoc mat	124
+lon	125
+de nhung	126
+mua lon	127
+nua	128
+mat."	129
+nho nua	130
+nua giot	131
+nuoc mat."	132
+LLLOO	133
+quan	134
+dat.	135
+quan nho	136
+nho giot	137
+xuong dat.	138
+tieu	139
+thi	140
+lao	141
+tieu nho	142
+giot thi	143
+thi lao	144
+y,	145
+y, tung	146
+LO	147
+roi	148
+giot roi	149
+roi xuong	150
+nao	151
+khong co	152
+mau nao	153
+minh,	154
+minh, tung	155
+ngon	156
+ve	157
+ngon ve	158
+ve giot	159
+giot mat	160
+mat cua	161
+lac	162
+mau lac	163
+dong	164
+may	165
+dong may	166
+may giot	167
+lau	168
+kho	169
+lau kho	170
+kho giot	171
+le tren	172
+tu	173
+roi tung	174
+giot tu	175
+tu may	176
+chau,	177
+chau, tung	178
+giot nho	179
+nho xuong	180
+bam	181
+lau nhung	182
+nuoc bam	183
+luc	184
+luc nhung	185
+mua,	186
+co nhung	187
+nuoc mua,	188
+li	189
+ti,	190
+ra nhung	191
+giot li	192
+li ti,	193
+LLO	194
+trang	195
+con mot	196
+mau, trang	197
+hai	198
+nuoc,	199
+thien	200
+nhu hai	201
+hai giot	202
+giot nuoc,	203
+nuoc, thien	204
+khiep	205
+mau, khiep	206
+thay	207
+mat,	208
+thay nhung	209
+nuoc mat,	210
+song	211
+mau, song	212
+va	213
+va may	214
+rot ca	215
+bi	216
+doc	217
+bi may	218
+mau doc	219
+mau.	220
+giot mau.	221
+do	222
+thanh tung	223
+giot do	224
+do ra	225
+run	226
+mot nua	227
+mau, run	228
+muc	229
+giot muc	230
+muc lon	231
+ben	232
+trai	233
+vach	234
+ben trai	235
+trai giot	236
+muc vach	237
+khoc	238
+tinh	239
+khoc ra	240
+ra giot	241
+le tinh	242
+giot,	243
+giot, tung	244
+nhien	245
+nhien co	246
+nuoc ban	247
+la mot	248
+xuong,	249
+nuoc nho	250
+giot xuong,	251
+xuong, ben	252
+cham	253
+nuoc cham	254
+ti	255
+giot mot	256
+mot ti	257
+vao	258
+huyet	259
+vao nhung	260
+giot huyet	261
+huyet chau,	262
+chi	263
+lam	264
+chi la	265
+la giot	266
+nuoc lam	267
+mau, mot	268
+mau nho	269
+cung	270
+den mot	271
+giot cung	272
+cung khong	273
+la nhung	274
+mua roi	275
+so	276
+lan	277
+so nhung	278
+nuoc lan	279
+mau cung	280
+gat	281
+gat nhung	282
+len,	283
+len, nhung	284
+Son,	285
+Son, tung	286
+mau den	287
+ULLO	288
+ngoai.	289
+rot mot	290
+giot ra	291
+ra ngoai.	292
+ma	293
+phe	294
+trang ma	295
+ma giot	296
+giot ca	297
+ca phe	298
+duoc	299
+khong duoc	300
+duoc giot	301
+mua nao	302
+hon	303
+le nho	304
+giot lon	305
+lon hon	306
+uong	307
+khong uong	308
+uong giot	309
+giot nao	310
+nao vao	311
+nhin	312
+chay	313
+nhin nhung	314
+nuoc chay	315
+lay	316
+lay mot	317
+roi moi	318
+than	319
+mau, than	320
+gay	321
+gay co	322
+Te	323
+Te ra	324
+UL	325
+tuoi.	326
+do la	327
+mau tuoi.	328
+ha	329
+mo	330
+hoi	331
+ha nhung	332
+giot mo	333
+mo hoi	334
+vai	335
+mot.	336
+vai tung	337
+giot mot.	338
+trong	339
+thi nhung	340
+le trong	341
+chang	342
+bang	343
+chang nho	344
+lon bang	345
+luom	346
+kiem	347
+luom kiem	348
+kiem giot	349
+mat, tung	350
+mau, voi	351
+hit	352
+hit may	353
+bua	354
+cho	355
+chat	356
+lay bua	357
+bua giot	358
+giot cho	359
+cho chat	360
+nuom,	361
+suong	362
+som	363
+nuom, nhung	364
+giot suong	365
+suong som	366
+nuoc xuong	367
+cot	368
+mau, cot	369
+tuoi	370
+xuong.	371
+tuoi nho	372
+giot chay	373
+chay xuong.	374
+ech	375
+lua	376
+ech nho	377
+xuong lua	378
+do tung	379
+mau tu	380
+len	381
+len may	382
+mau tren	383
+biet	384
+khong biet	385
+biet giot	386
+Lung,	387
+Lung, tung	388
+ULLLO	389
+dam	390
+dia	391
+le,	392
+tua	393
+dam dia	394
+dia giot	395
+giot le,	396
+le, tua	397
+lai	398
+suong,	399
+nhe	400
+lai nhung	401
+giot suong,	402
+suong, nhe	403
+mat, mot	404
+nuoc cung	405
+qui	406
+hoi nho	407
+giot qui	408
+qui hai	409
+diem	410
+som,	411
+diem may	412
+suong som,	413
+nao,	414
+boi	415
+co mot	416
+giot nao,	417
+nao, boi	418
+nam,	419
+dich	420
+nam, moi	421
+moi giot	422
+huyet dich	423
+nhung mot	424
+khi	425
+khi co	426
+mua cham	427
+van	428
+bay	429
+van van	430
+van giot	431
+mua bay	432
+nay,	433
+lap	434
+nay, tung	435
+nuoc lap	436
+mot vai	437
+vai giot	438
+giot dong	439
+dong tren	440
+tieng	441
+tieng tung	442
+thay duoc	443
+,tung	444
+ngan	445
+mat ,tung	446
+,tung giot	447
+le ngan	448
+OLLLL	449
+ruou.	450
+uong mot	451
+giot ruou.	452
+ban tung	453
+mau ra	454
+nguoi thay	455
+thay giot	456
+hoi,	457
+„Sao	458
+hoi, „Sao	459
+„Sao giot	460
+OULL	461
+chinh	462
+ngot	463
+chinh la	464
+mat ngot	465
+nuoc li	466
+ruou	467
+ba lay	468
+lay giot	469
+giot ruou	470
+ruou trang	471
+Chot,	472
+Chot, mot	473
+ruou thi	474
+thay may	475
+nuoc.	476
+giot nuoc.	477
+ruou cung	478
+dat,	479
+dat, mot	480
+tam.	481
+giot lam	482
+lam tam.	483
+Duong,	484
+Duong, nhung	485
+suong tren	486
+ULLLLO	487
+dong thanh	488
+thanh giot	489
+tu tu	490
+dat, nhung	491
+nuoc tu	492
+biec,	493
+biec, tung	494
+roi tren	495
+le.	496
+ngan duoc	497
+giot le.	498
+mong	499
+khong de	500
+de giot	501
+nao, mong	502
+giot chang	503
+chang biet	504
+duoi	505
+nhin may	506
+mau duoi	507
+lay nua	508
+mau, hai	509
+Le,	510
+Le, hai	511
+le long	512
+ULO	513
+ay?	514
+ay? Nhung	515
+hung	516
+hung nhung	517
+suong dong	518
+ruou,	519
+han	520
+moi mot	521
+giot ruou,	522
+ruou, han	523
+tran	524
+nao.	525
+tran ra	526
+giot nao.	527
+mua nho	528
+xuong la	529
+nho den	530
+trinh	531
+hong	532
+trung trinh	533
+trinh giot	534
+le hong	535
+xuong trang	536
+vo	537
+vo so	538
+so giot	539
+suong trong	540
+nhu co	541
+nuoc dong	542
+lan may	543
+tham	544
+tham mot	545
+nuoc nao.	546
+nay nhung	547
+dung,	548
+dung, nhung	549
+biec, nhu	550
+nhu giot	551
+nuoc mau	552
+mau vo	553
+gat tung	554
+mau, nguoi	555
+nang	556
+chau	557
+tam	558
+thay nang	559
+nang giot	560
+giot chau	561
+chau tam	562
+ro	563
+ro nhung	564
+mau tuoi	565
+dat	566
+xuong dat	567
+Quoc,	568
+dao	569
+Quoc, mot	570
+mau dao	571
+nem	572
+ma nem	573
+nem giot	574
+mat chi	575
+lan bi	576
+bi giot	577
+mat tren	578
+ngung	579
+tim	580
+ong!	581
+ngung tim	582
+tim giot	583
+mat ong!	584
+ong	585
+tim thay	586
+mat ong	587
+noi,	588
+„Hai	589
+noi, „Hai	590
+„Hai giot	591
+tham.	592
+ra may	593
+le tham.	594
+lon.	595
+thanh mot	596
+mau lon.	597
+minh	598
+tuc	599
+minh vao	600
+vao giot	601
+mau, tuc	602
+mau, nuoc	603
+dac	604
+mau, dac	605
+mau, ca	606
+mau nhe	607
+ngan nhung	608
+toi	609
+toi nhung	610
+tru	611
+tru nhung	612
+cuoi,	613
+cuoi, hai	614
+le tu	615
+hoi.	616
+han tung	617
+mo hoi.	618
+tai,	619
+lanh	620
+ben tai,	621
+tai, giot	622
+nuoc lanh	623
+cung,	624
+cung, nhung	625
+tim mot	626
+mat cho	627
+khoc,	628
+khoc, nhung	629
+biet nhung	630
+le chau,	631
+roi vai	632
+vun,	633
+vun, tung	634
+ruou dang	635
+gap	636
+gap nhung	637
+buon	638
+buon nhung	639
+nhap	640
+nhap nhung	641
+nuoc con	642
+ra mot	643
+lanh,	644
+lanh, mot	645
+nuoc trong	646
+ngot,	647
+khong ngot,	648
+ngot, giot	649
+mat.	650
+co may	651
+nuoc mat.	652
+rung	653
+rung may	654
+dinh	655
+duoc mot	656
+ruou dinh	657
+cam	658
+cam duoc	659
+le, lai	660
+khong mot	661
+phat	662
+phat nhu	663
+giot bang	664
+bang trong	665
+xuong, tung	666
+tung giot,	667
+y, nhung	668
+May	669
+May giot	670
+chay den	671
+mau, dung	672
+noi	673
+noi nhung	674
+thay tung	675
+nuoc nong	676
+vang	677
+vang nhu	678
+gap mot	679
+mau la	680
+nuoc nao	681
+muon	682
+muon ngan	683
+ngan giot	684
+ruou rot	685
+mat nho	686
+rot vao	687
+can	688
+can mot	689
+nho cung	690
+ong,	691
+mat ong,	692
+ong."	693
+ngot cua	694
+cua giot	695
+mat ong."	696
+tu,	697
+ay	698
+lao tu,	699
+tu, giot	700
+mat ay	701
+ua	702
+ua ra	703
+khong cam	704
+cam giot	705
+le, ba	706
+ngat	707
+ao.	708
+ngat nho	709
+xuong ao.	710
+chan	711
+le chan	712
+cho hai	713
+ngoc	714
+xut	715
+giot ngoc	716
+ngoc xut	717
+rot xuong	718
+khuon	719
+dia nho	720
+tren khuon	721
+but,	722
+but, mot	723
+nho vo	724
+roi xuong,	725
+xuong, giot	726
+giot vao	727
+vao trong	728
+dinh vai	729
+nuoc dang	730
+sat,	731
+sat, mot	732
+tay	733
+mau, tay	734
+tren mat	735
+lang	736
+lay tung	737
+mau, lang	738
+mat nhung	739
+Thanh,	740
+Thanh, mot	741
+sam,	742
+do sam,	743
+co vai	744
+nang,	745
+nang, nhung	746
+lam nhung	747
+trong nhu	748
+mua tu	749
+xuong, nhung	750
+rong	751
+chay rong	752
+hang	753
+hang ngan	754
+nuoc tung	755

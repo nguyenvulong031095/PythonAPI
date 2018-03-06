@@ -1,0 +1,363 @@
+roi	1
+im	2
+lim	3
+lang	4
+le.	5
+roi im	6
+im lim	7
+lim lang	8
+lang le.	9
+LLLL	10
+LL	11
+LLO	12
+LLL	13
+co	14
+ve	15
+dim,	16
+ngap	17
+co ve	18
+ve lim	19
+lim dim,	20
+dim, ngap	21
+LLLO	22
+dang	23
+bong	24
+nhu	25
+dang im	26
+lim bong	27
+bong nhu	28
+anh	29
+mat	30
+duoi	31
+anh mat	32
+mat lim	33
+dim, duoi	34
+toi,	35
+huong	36
+toi, im	37
+lim huong	38
+huong ve	39
+LLLLL	40
+dat,	41
+ngat	42
+trung	43
+dat, ngat	44
+ngat lim	45
+lim nhu	46
+nhu trung	47
+lai	48
+thuyen	49
+dim	50
+cap	51
+lai thuyen	52
+thuyen lim	53
+lim dim	54
+dim cap	55
+LLLLLL	56
+lai,	57
+bat	58
+dong.	59
+lai, im	60
+lim bat	61
+bat dong.	62
+LLLLO	63
+dung	64
+mot	65
+cho,	66
+dung im	67
+lim mot	68
+mot cho,	69
+nam	70
+vo	71
+hai.	72
+nam im	73
+lim vo	74
+vo hai.	75
+Tien	76
+buoc	77
+den	78
+Tien im	79
+lim buoc	80
+buoc den	81
+ULLL	82
+OL	83
+bang	84
+go	85
+thong	86
+len	87
+bang go	88
+go lim	89
+lim thong	90
+thong len	91
+chop	92
+mat,	93
+chop mat,	94
+mat, lim	95
+dim mat	96
+chong	97
+nhap	98
+chong im	99
+lim dung	100
+dung nhap	101
+han,	102
+cam	103
+du	104
+han, im	105
+lim cam	106
+cam du	107
+chet	108
+choc.	109
+ve im	110
+lim chet	111
+chet choc.	112
+Nghe	113
+An	114
+lim Nghe	115
+Nghe An	116
+UL	117
+LO	118
+OO	119
+ma	120
+thi	121
+kem	122
+ma go	123
+lim thi	124
+thi kem	125
+Lanh	126
+Thien	127
+Lanh Thien	128
+Thien lim	129
+ULLLL	130
+gat	131
+gu,	132
+gat gu,	133
+gu, lim	134
+ngoi	135
+ngoi im	136
+nhu dang	137
+cot	138
+vuon	139
+canh	140
+cot go	141
+lim vuon	142
+vuon canh	143
+nang	144
+do	145
+lim nang	146
+nang do	147
+phia	148
+xa	149
+bim	150
+tu	151
+phia xa	152
+xa lim	153
+lim bim	154
+bim tu	155
+khong	156
+he	157
+thi im	158
+lim khong	159
+khong he	160
+dan...	161
+tu tu	162
+tu lim	163
+lim dan...	164
+LLLOOO	165
+khi	166
+nguoi	167
+nhu chet	168
+chet lim	169
+lim khi	170
+khi nguoi	171
+thieu	172
+nien	173
+mo	174
+thieu nien	175
+nien lim	176
+dim, mo	177
+bi	178
+bam	179
+lim bi	180
+bi bam	181
+cay	182
+tron	183
+truoc	184
+cay cot	185
+cot lim	186
+lim tron	187
+tron truoc	188
+le,	189
+lang le,	190
+u	191
+ngu	192
+mai	193
+u im	194
+lim ngu	195
+ngu mai	196
+L	197
+doi	198
+doi mat	199
+dim tu	200
+ngay,	201
+mieng	202
+bim:	203
+-	204
+ngay, mieng	205
+mieng lim	206
+lim bim:	207
+bim: -	208
+O	209
+ay	210
+nham	211
+nien ay	212
+ay lim	213
+dim nham	214
+Dien	215
+Dien im	216
+khong mot	217
+va	218
+ngot	219
+nhung	220
+moi	221
+va ngot	222
+ngot lim	223
+lim nhung	224
+nhung moi	225
+sang	226
+dan	227
+anh sang	228
+sang lim	229
+lim dan	230
+dan roi	231
+the,	232
+noi,	233
+the, im	234
+khong noi,	235
+phan	236
+nao	237
+di	238
+vi	239
+phan nao	240
+nao lim	241
+lim di	242
+di vi	243
+dong,	244
+dong, im	245
+chi	246
+sau	247
+chi im	248
+dung sau	249
+Le	250
+dap.	251
+Le im	252
+khong dap.	253
+van	254
+tinh	255
+van im	256
+lim tinh	257
+tinh lang	258
+Thach	259
+don	260
+lay	261
+Thach im	262
+lim don	263
+don lay	264
+le	265
+xuyen	266
+qua	267
+le im	268
+lim xuyen	269
+xuyen qua	270
+ra	271
+giac	272
+ra ngot	273
+bat giac	274
+sinh	275
+sinh im	276
+hoa	277
+duong	278
+hoa ngot	279
+lim duong	280
+duong nhu	281
+Pham	282
+Pham im	283
+ren	284
+xiet	285
+mo im	286
+lim ren	287
+ren xiet	288
+tat	289
+ngay	290
+boi	291
+roi tat	292
+tat lim	293
+lim ngay	294
+ngay boi	295
+bo	296
+han, mat	297
+dim, bo	298
+ep	299
+vach	300
+ep im	301
+nhu vach	302
+cuoi	303
+di.	304
+cuoi roi	305
+roi lim	306
+lim di.	307
+dau	308
+len,	309
+dau len,	310
+len, lim	311
+than	312
+cay,	313
+than cay,	314
+cay, lim	315
+dim doi	316
+bon	317
+chim	318
+luon	319
+trong	320
+bon chim	321
+chim lim	322
+lim luon	323
+luon trong	324
+nhuc	325
+khong nhuc	326
+Bach	327
+say	328
+Quy	329
+Bach say	330
+say lim	331
+dim, Quy	332
+ULL	333
+Sinh	334
+ben	335
+Sinh im	336
+dung ben	337
+hang	338
+cap mat	339
+dim, hang	340
+di,	341
+thi ngat	342
+lim di,	343
+di, nam	344
+de	345
+trai	346
+de ngu	347
+ngu lim	348
+di, trai	349
+con	350
+nang,	351
+vao	352
+dam	353
+con nang,	354
+nang, lim	355
+lim vao	356
+vao dam	357
+no,	358
+tren	359
+no, im	360
+lim nam	361
+nam tren	362
+dim, co	363

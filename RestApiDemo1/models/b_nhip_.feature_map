@@ -1,0 +1,386 @@
+van	1
+con	2
+nhip	3
+tim	4
+dap,	5
+van con	6
+con nhip	7
+nhip tim	8
+tim dap,	9
+LLLL	10
+LLL	11
+LLLO	12
+LL	13
+dau	14
+cung	15
+dap	16
+cua	17
+dau cung	18
+cung nhip	19
+nhip dap	20
+dap cua	21
+xuong	22
+khoi	23
+cuoi,	24
+han	25
+xuong khoi	26
+khoi nhip	27
+nhip cuoi,	28
+cuoi, han	29
+LLLLO	30
+LLLLL	31
+het	32
+suc	33
+nhang,	34
+nen	35
+het suc	36
+suc nhip	37
+nhip nhang,	38
+nhang, nen	39
+LLLLLO	40
+duoi	41
+thi	42
+nhang	43
+ngoe	44
+duoi thi	45
+thi nhip	46
+nhip nhang	47
+nhang ngoe	48
+nghe	49
+thay	50
+dieu,	51
+roi	52
+nghe thay	53
+thay nhip	54
+nhip dieu,	55
+dieu, roi	56
+khach	57
+nhon	58
+toi	59
+noi.	60
+khach nhon	61
+nhon nhip	62
+nhip toi	63
+toi noi.	64
+dong	65
+theo	66
+buoc,	67
+khong	68
+dong theo	69
+theo nhip	70
+nhip buoc,	71
+buoc, khong	72
+Tieu	73
+Pham	74
+tho	75
+dut	76
+Tieu Pham	77
+Pham nhip	78
+nhip tho	79
+tho dut	80
+ULLL	81
+OL	82
+OO	83
+bep	84
+sap	85
+dat	86
+bep nhon	87
+nhip sap	88
+sap dat	89
+ga	90
+gap	91
+ga nghe	92
+nghe nhip	93
+tho gap	94
+bong	95
+soi	96
+bong nhon	97
+nhip soi	98
+soi suc	99
+uon	100
+luon	101
+doi	102
+uon luon	103
+luon nhip	104
+nhang, doi	105
+tieng	106
+ngay	107
+moi	108
+tieng ngay	109
+ngay nhip	110
+nhang, moi	111
+thanh	112
+am	113
+thanh am	114
+am nhip	115
+ben	116
+bo	117
+xuong nhon	118
+nhip ben	119
+ben bo	120
+tren	121
+ben,	122
+nhip tren	123
+tren ben,	124
+chao	125
+dao	126
+chao dao	127
+dao nhip	128
+nhang theo	129
+yeu	130
+dieu	131
+chi	132
+yeu dieu	133
+dieu nhip	134
+nhang, chi	135
+duoc	136
+duoc moi	137
+moi nhip	138
+ga,	139
+lai	140
+mang	141
+ga, moi	142
+nhip lai	143
+lai mang	144
+LLO	145
+vay	146
+rat	147
+nhung	148
+vay rat	149
+rat nhip	150
+nhang, nhung	151
+ro	152
+tung	153
+mot,	154
+ro tung	155
+tung nhip	156
+nhip mot,	157
+mot, dau	158
+ban	159
+lay	160
+hat.	161
+ban lay	162
+lay nhip	163
+nhip roi	164
+roi hat.	165
+chuyen	166
+an	167
+ngau	168
+nhien	169
+chuyen an	170
+an nhip	171
+nhip ngau	172
+ngau nhien	173
+LLLLLL	174
+giay	175
+cua nhon	176
+nhip tieng	177
+tieng giay	178
+ngua	179
+voi	180
+vo	181
+ngua an	182
+nhip voi	183
+voi vo	184
+loan,	185
+rat loan,	186
+loan, nhip	187
+tim rat	188
+no	189
+hoi	190
+no voi	191
+voi nhip	192
+nhip dieu	193
+dieu hoi	194
+canh	195
+nhu	196
+hop	197
+canh nhon	198
+nhip nhu	199
+nhu hop	200
+chan	201
+luc	202
+chan nhon	203
+nhip moi	204
+moi luc	205
+dan	206
+cap	207
+tieng dan	208
+dan nhip	209
+dieu cap	210
+phuc	211
+song	212
+thuong	213
+phuc lai	214
+lai nhip	215
+nhip song	216
+song thuong	217
+pho	218
+on	219
+ao	220
+pho nhon	221
+nhip on	222
+on ao	223
+thoai	224
+the	225
+thoai an	226
+nhu the	227
+phong	228
+,	229
+phong theo	230
+tho ,	231
+O	232
+LO	233
+len	234
+deu	235
+len xuong	236
+xuong nhip	237
+nhang deu	238
+tiet	239
+tau	240
+tiet tau	241
+tau nhip	242
+nhang, vo	243
+len theo	244
+dap canh	245
+quen	246
+buoc	247
+quen voi	248
+nhip buoc	249
+buoc chan	250
+vang	251
+len,	252
+nhip vang	253
+vang len,	254
+Giua	255
+hai	256
+Giua nhip	257
+tho hai	258
+nguoi	259
+nguoi nhon	260
+nhip cung	261
+cung tieng	262
+chuyen dong	263
+dong nhip	264
+nhang, hoi	265
+tien	266
+qua	267
+tien thoai	268
+thoai nhip	269
+nhang qua	270
+tat	271
+ca	272
+tat ca	273
+ca nhip	274
+tim nhu	275
+lay,	276
+nguoi theo	277
+nhip han	278
+han lay,	279
+sao	280
+hoa	281
+nhau	282
+sao hoa	283
+hoa nhip	284
+voi nhau	285
+nhiem,	286
+vao	287
+nhiem, vao	288
+vao nhip	289
+song voi	290
+lien	291
+nhip lien	292
+lien buoc	293
+kem	294
+dang	295
+kem nen	296
+nen nhip	297
+tim dang	298
+cung,	299
+dai	300
+hang	301
+cung, moi	302
+nhip dai	303
+dai hang	304
+ua	305
+thoi.	306
+ua nhon	307
+nhip thi	308
+thi thoi.	309
+ra	310
+rang	311
+va	312
+ra rang	313
+rang nhip	314
+tho va	315
+ho	316
+hap	317
+it	318
+ho hap	319
+hap nhip	320
+nhang it	321
+tho,	322
+dap.	323
+tho, tung	324
+tim dap.	325
+bay	326
+nhay,	327
+bay theo	328
+nhip nhay,	329
+nhay, tren	330
+Duong	331
+Duong nhon	332
+nhip thanh	333
+thanh ra	334
+ULLLL	335
+chung	336
+mot	337
+ron	338
+chung mot	339
+mot nhip	340
+dap ron	341
+gi,	342
+da	343
+gi, nhung	344
+nhung nhip	345
+tim da	346
+co	347
+ngua nhon	348
+nhip va	349
+va co	350
+ba	351
+nhip ba	352
+ba nguoi	353
+vong	354
+toi,	355
+nhip vong	356
+vong toi,	357
+muon	358
+muon hoa	359
+cung voi	360
+luu	361
+nhang, luu	362
+nao	363
+theo mot	364
+dieu nao	365
+cau	366
+noi	367
+nhu mot	368
+nhip cau	369
+cau noi	370
+Chinh	371
+khong nhon	372
+nhu Chinh	373
+trai	374
+ro ca	375
+dap trai	376
+nghe duoc	377
+duoc nhip	378
+day	379
+nghe ro	380
+ro nhip	381
+tim day	382
+lac	383
+lac mot	384
+nhip ,	385
+, khong	386

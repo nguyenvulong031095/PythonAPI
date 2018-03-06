@@ -1,0 +1,536 @@
+toc	1
+roi	2
+bu	3
+nhu	4
+hai	5
+toc roi	6
+roi bu	7
+bu nhu	8
+nhu hai	9
+LL	10
+LLL	11
+bac	12
+lu	13
+,	14
+den	15
+bac lu	16
+lu bu	17
+bu ,	18
+, den	19
+O	20
+OL	21
+LO	22
+ha	23
+de	24
+dap.	25
+ha de	26
+de bu	27
+bu dap.	28
+LLLO	29
+ngay	30
+nhu ngay	31
+LLLL	32
+cong	33
+toi,	34
+dai	35
+cong de	36
+bu toi,	37
+toi, dai	38
+dat	39
+deu	40
+quanh	41
+lai	42
+dat deu	43
+deu bu	44
+bu quanh	45
+quanh lai	46
+LLLLL	47
+tim	48
+cach	49
+vao	50
+khuyet	51
+tim cach	52
+cach bu	53
+bu vao	54
+vao khuyet	55
+LLLLLL	56
+cai	57
+noi,	58
+sua	59
+me	60
+cai noi,	61
+noi, bu	62
+bu sua	63
+sua me	64
+dau	65
+the	66
+dap	67
+chu?”	68
+dau the	69
+the bu	70
+bu dap	71
+dap chu?”	72
+LLLOO	73
+toi	74
+tap	75
+lai.	76
+toi tap	77
+tap bu	78
+quanh lai.	79
+khong	80
+duoc	81
+khong the	82
+dap duoc	83
+phan	84
+nao	85
+the den	86
+den bu	87
+bu phan	88
+phan nao	89
+roi.	90
+dau toc	91
+toc bu	92
+bu roi.	93
+cua	94
+ta,	95
+cho	96
+cua ta,	97
+ta, bu	98
+dap cho	99
+LLO	100
+mot	101
+su	102
+ma	103
+mot su	104
+su bu	105
+dap ma	106
+la	107
+va	108
+la su	109
+dap va	110
+Bai	111
+Bai dau	112
+dau bu	113
+bu toc	114
+toc roi.	115
+ULL	116
+bon	117
+chung	118
+theo	119
+han	120
+bon chung	121
+chung bu	122
+bu theo	123
+theo han	124
+co	125
+lai,	126
+co the	127
+bu lai,	128
+lai, lai	129
+Ban	130
+-Nhung	131
+Ban bu	132
+bu dau	133
+dau -Nhung	134
+OULLLL	135
+se	136
+se den	137
+bu lai	138
+lai cho	139
+cang	140
+to	141
+day	142
+kin.	143
+cang to	144
+to bu	145
+bu day	146
+day kin.	147
+cach nao	148
+nao bu	149
+dap lai	150
+kia	151
+con	152
+kia con	153
+con bu	154
+Ðia	155
+Hoi	156
+Ðia Hoi	157
+Hoi bu	158
+quanh lai,	159
+OO	160
+no	161
+no duoc	162
+duoc bu	163
+xum	164
+xit	165
+xum xit	166
+xit bu	167
+rung	168
+"	169
+rung to	170
+bu kia	171
+kia "	172
+duoc!	173
+the nao	174
+dap duoc!	175
+LLLLO	176
+duoc,	177
+dap duoc,	178
+khac	179
+vao,	180
+To	181
+ngay khac	182
+khac bu	183
+bu vao,	184
+vao, To	185
+UL	186
+viec	187
+an	188
+la den	189
+bu viec	190
+viec an	191
+nguoi	192
+tang	193
+nguoi den	194
+quanh tang	195
+di!	196
+Song	197
+cho no	198
+no bu	199
+bu di!	200
+di! Song	201
+ULLL	202
+van	203
+coi	204
+van nguoi	205
+nguoi bu	206
+lai coi	207
+chut	208
+nhung	209
+luong	210
+chut nhung	211
+nhung bu	212
+lai luong	213
+lam	214
+thi	215
+khu	216
+nhau	217
+lam thi	218
+thi bu	219
+bu khu	220
+khu nhau	221
+.Nhung	222
+Tiep	223
+de .Nhung	224
+.Nhung bu	225
+lai Tiep	226
+Thieu	227
+Danh	228
+cung	229
+Thieu Danh	230
+Danh bu	231
+vao cung	232
+ULLLL	233
+day,	234
+loi	235
+day, de	236
+dap loi	237
+Chan	238
+chiu	239
+xin	240
+Chan chiu	241
+chiu bu	242
+toi, xin	243
+nhu la	244
+la bu	245
+dap chut	246
+hung	247
+dang	248
+Phuong	249
+hung dang	250
+dang bu	251
+quanh Phuong	252
+ULLLLL	253
+muoi	254
+long,	255
+muoi cai	256
+cai bu	257
+bu long,	258
+long, va	259
+gi	260
+kiem	261
+gi cung	262
+cung bu	263
+bu den	264
+den kiem	265
+du	266
+du den	267
+lo,	268
+a	269
+tu	270
+ly!	271
+lo, a	272
+a bu	273
+bu tu	274
+tu ly!	275
+L	276
+bu lai.	277
+tuc	278
+tuc se	279
+se bu	280
+den nhu	281
+hoang	282
+nhin	283
+hoang de	284
+bu nhin	285
+nhin ma	286
+nhin.	287
+bu nhin.	288
+toi."	289
+Hang	290
+khong du	291
+du bu	292
+bu toi."	293
+toi." Hang	294
+me,	295
+bu me,	296
+me, khong	297
+ra,	298
+ra, de	299
+phap,	300
+so	301
+kiem phap,	302
+phap, bu	303
+dap so	304
+Bao	305
+roi,	306
+Bao dau	307
+toc roi,	308
+ve	309
+thi ve	310
+ve bu	311
+keo	312
+len	313
+Lenh	314
+keo len	315
+len bu	316
+quanh Lenh	317
+trieu	318
+chinh	319
+trieu chinh	320
+chinh bu	321
+vao nhung	322
+Con	323
+chuyen	324
+trong	325
+Con chuyen	326
+chuyen bu	327
+bu cho	328
+cho trong	329
+be	330
+trai	331
+bam.	332
+be trai	333
+trai bu	334
+bu bam.	335
+sac	336
+sac thi	337
+lai duoc	338
+roi”.	339
+co chut	340
+chut bu	341
+dap roi”.	342
+san	343
+sat	344
+bo	345
+san sat	346
+sat bu	347
+bu bo	348
+bo cho	349
+xem	350
+quanh cung	351
+lai xem	352
+dinh	353
+truoc	354
+Vi	355
+dinh ,	356
+, bu	357
+bu truoc	358
+truoc Vi	359
+soi	360
+lon	361
+soi cho	362
+cho bu	363
+bu ma	364
+ma lon	365
+Toc	366
+tai	367
+xu,	368
+mat	369
+Toc tai	370
+tai bu	371
+bu xu,	372
+xu, mat	373
+nhan	374
+dong	375
+nhan cang	376
+cang bu	377
+lai dong	378
+co,	379
+mieng	380
+co, nhung	381
+lai mieng	382
+ruou	383
+ruou to	384
+bu cua	385
+cua nguoi	386
+xu	387
+toc cung	388
+bu xu	389
+xu nhu	390
+khi	391
+het	392
+khi het	393
+het bu	394
+bu roi,	395
+roi, no	396
+gium	397
+cach de	398
+dap gium	399
+don	400
+lay	401
+don cung	402
+quanh lay	403
+thanh	404
+thanh de	405
+vao cho	406
+Long	407
+da	408
+Long da	409
+da bu	410
+lao	411
+de den	412
+cho lao	413
+ngon	414
+tay	415
+bam	416
+chi	417
+ngon tay	418
+tay bu	419
+bu bam	420
+bam chi	421
+thang	422
+mot thang	423
+thang bu	424
+bu con	425
+con va	426
+chi la	427
+tu lam	428
+lam bu	429
+nhin la	430
+ga	431
+nay	432
+ga nay	433
+nay bu	434
+tho	435
+ra	436
+dau roi	437
+bu tho	438
+tho ra	439
+cai dau	440
+lai tho	441
+Ðau	442
+Ðau toc	443
+thu	444
+lanh	445
+thu lanh	446
+lanh bu	447
+cut	448
+ti	449
+cut ve	450
+bu ti	451
+ti me	452
+Quyen,	453
+lien	454
+Quyen, lien	455
+lien bu	456
+ULLLLO	457
+y	458
+cho y	459
+y bu	460
+Son	461
+Hang Son	462
+Son bu	463
+xui	464
+xui xit	465
+dap mot	466
+gay	467
+ap	468
+van du	469
+bu gay	470
+gay ap	471
+oa	472
+oa,	473
+vo	474
+oa oa,	475
+oa, bu	476
+bam vo	477
+bot,	478
+cau	479
+khong bot,	480
+bot, bu	481
+lai, cau	482
+phep	483
+loi."	484
+phep de	485
+bu loi."	486
+loi." Hang	487
+ai	488
+su den	489
+bu khong	490
+khong ai	491
+truong	492
+so truong	493
+truong bu	494
+Trieu	495
+kho	496
+o	497
+Trieu kho	498
+kho bu	499
+bu o	500
+o mat	501
+ca	502
+du co	503
+co bu	504
+bu ca	505
+ca cai	506
+loi.	507
+bu toi	508
+toi loi.	509
+nguoi!	510
+Ðe	511
+vi	512
+nguoi! Ðe	513
+Ðe bu	514
+vao vi	515
+LLLLLO	516
+dap nhung	517
+duoc.	518
+dap duoc.	519
+ba	520
+Anh	521
+ba Anh	522
+Anh bu	523
+dap du	524
+ra vo	525
+vo bu	526
+toc ga	527
+nang	528
+nang da	529
+kip	530
+dap,	531
+boi	532
+khong kip	533
+kip bu	534
+bu dap,	535
+dap, boi	536

@@ -1,0 +1,765 @@
+nap	1
+tren	2
+noc	3
+tiem	4
+de	5
+nap tren	6
+tren noc	7
+noc tiem	8
+tiem de	9
+LLLL	10
+LL	11
+LLL	12
+ket	13
+thanh,	14
+lop	15
+co	16
+ket thanh,	17
+thanh, noc	18
+noc lop	19
+lop co	20
+LLLLLO	21
+than	22
+xuong	23
+mot	24
+can	25
+than xuong	26
+xuong noc	27
+noc mot	28
+mot can	29
+LLLLL	30
+thi	31
+nha	32
+da	33
+thi tren	34
+noc nha	35
+nha da	36
+ngoi	37
+ngoi tren	38
+-	39
+Len	40
+di	41
+- Len	42
+Len noc	43
+nha di	44
+ULL	45
+O	46
+OL	47
+OO	48
+nhay	49
+len	50
+khoet	51
+nhay len	52
+len noc	53
+nha khoet	54
+tu	55
+quang	56
+tu tren	57
+nha quang	58
+tua	59
+ho	60
+ran,	61
+dau	62
+tua ho	63
+ho noc	64
+noc ran,	65
+ran, dau	66
+LLLO	67
+cua	68
+noc cua	69
+cua can	70
+dung	71
+la	72
+ai,	73
+dung tren	74
+noc la	75
+la ai,	76
+LLO	77
+khoang	78
+thuyen,	79
+noc khoang	80
+khoang thuyen,	81
+LLLLLLO	82
+LLLLLL	83
+gac	84
+phat	85
+noc gac	86
+gac phat	87
+nha.	88
+noc nha.	89
+nghe	90
+nghe tren	91
+nha co	92
+khe	93
+nha khe	94
+dai	95
+thuyen.	96
+dai tren	97
+noc thuyen.	98
+den	99
+tan	100
+chua	101
+den tan	102
+tan noc	103
+nha chua	104
+nhin	105
+nha,	106
+buoc	107
+nhin len	108
+noc nha,	109
+nha, buoc	110
+Nhan	111
+cham	112
+sac	113
+mat	114
+Nhan cham	115
+cham noc	116
+noc sac	117
+sac mat	118
+ULLL	119
+sai	120
+quan	121
+ra	122
+sai quan	123
+quan noc	124
+noc co	125
+co ra	126
+nha xuong	127
+len tren	128
+nha de	129
+vot	130
+hai	131
+vot len	132
+nha, hai	133
+tren mot	134
+mot noc	135
+nha, nhin	136
+o	137
+cung	138
+o tren	139
+nha cung	140
+L	141
+tro	142
+tro len	143
+chi	144
+chi len	145
+chuon	146
+nha chuon	147
+phia	148
+truoc,	149
+con	150
+phia truoc,	151
+truoc, noc	152
+nha con	153
+phong	154
+phong len	155
+mot co	156
+mot tiem	157
+may	158
+chuc	159
+cuoi	160
+may chuc	161
+chuc noc	162
+nha, cuoi	163
+dong	164
+dien,	165
+phia tren	166
+noc dong	167
+dong dien,	168
+LLLLO	169
+vay,	170
+dien	171
+vay, tren	172
+noc dien	173
+dien con	174
+dien.	175
+noc dien.	176
+vuot	177
+qua	178
+vuot qua	179
+qua noc	180
+roi	181
+roi xuong	182
+dong dien	183
+treo	184
+treo len	185
+noc ngoi	186
+ngoi nha	187
+minh	188
+toa	189
+mieu	190
+minh tren	191
+noc toa	192
+toa mieu	193
+cong	194
+chuyen	195
+nham	196
+cong chuyen	197
+chuyen noc	198
+nha nham	199
+no	200
+nhay tu	201
+tu noc	202
+nha no	203
+sang	204
+kia	205
+no sang	206
+sang noc	207
+nha kia	208
+khom	209
+nha khom	210
+thay	211
+thay tren	212
+nha phia	213
+cho	214
+cho tren	215
+toa nha	216
+dom	217
+nha dom	218
+reo	219
+nha reo	220
+cay	221
+thap	222
+tron	223
+va	224
+cay thap	225
+thap noc	226
+noc tron	227
+tron va	228
+lai	229
+lam	230
+lai tren	231
+nha lam	232
+duoc	233
+len duoc	234
+duoc noc	235
+Tren	236
+vang	237
+Tren noc	238
+nha vang	239
+se	240
+ong	241
+su	242
+chua se	243
+se noc	244
+noc ong	245
+ong su	246
+Ngoi	247
+dat	248
+Ngoi tren	249
+noc va	250
+va dat	251
+cat	252
+rot	253
+cat tren	254
+nha rot	255
+thuong	256
+ruou,	257
+canh	258
+quang thuong	259
+thuong noc	260
+noc ruou,	261
+ruou, canh	262
+mieng	263
+ngum	264
+len mieng	265
+mieng noc	266
+mot ngum	267
+ha	268
+ung	269
+uc.	270
+ha mieng	271
+noc ung	272
+ung uc.	273
+song	274
+phuong	275
+ruou	276
+gio	277
+song phuong	278
+phuong noc	279
+noc ruou	280
+ruou gio	281
+vung,	282
+van	283
+tung	284
+vung, van	285
+van noc	286
+noc tung	287
+tung ngum	288
+noc rot	289
+rot xuong	290
+dong nhay	291
+xuyen	292
+thung	293
+xuyen thung	294
+thung noc	295
+nha, roi	296
+Kho	297
+chua,	298
+Kho chua,	299
+chua, noc	300
+noc cho	301
+cho lam	302
+chan	303
+ben	304
+chan xuong	305
+nha ben	306
+nhung	307
+san	308
+qua nhung	309
+nhung noc	310
+nha san	311
+toi	312
+cham toi	313
+toi noc	314
+nhu	315
+chay	316
+hoa	317
+ra nhu	318
+nhu noc	319
+noc chay	320
+chay hoa	321
+cac	322
+qua cac	323
+cac noc	324
+tieu	325
+xuong mot	326
+noc can	327
+can tieu	328
+gan	329
+tram	330
+gan tram	331
+tram noc	332
+nha dai	333
+nha gan	334
+bat	335
+uc	336
+bat ruou	337
+ruou noc	338
+ung uc	339
+nha nghe	340
+lao	341
+buoc len	342
+nha lao	343
+nha nap	344
+chong	345
+do,	346
+chong do,	347
+do, noc	348
+dien lam	349
+cao	350
+thay nhung	351
+nha cao	352
+xuong,	353
+nha xuong,	354
+du	355
+du tram	356
+nha, nham	357
+Tu	358
+bon	359
+Tu tren	360
+noc bon	361
+bon toa	362
+UL	363
+hinh	364
+lau,	365
+hinh tren	366
+noc lau,	367
+lau, con	368
+nhau,tai	369
+goc	370
+gan nhau,tai	371
+nhau,tai noc	372
+nha goc	373
+LLLLOLLL	374
+tuu	375
+diem,	376
+chan len	377
+noc tuu	378
+tuu diem,	379
+bay	380
+hay	381
+bay tren	382
+nha hay	383
+cam	384
+vao	385
+cam vao	386
+vao noc	387
+tho	388
+nha, tho	389
+hon	390
+im	391
+hon tram	392
+nha im	393
+chen	394
+xuong, roi	395
+roi noc	396
+can chen	397
+mieng vao	398
+nha nhin	399
+nha nhay	400
+dong co	401
+viet	402
+biet	403
+viet len	404
+noc biet	405
+biet dong	406
+phia tu	407
+nha den	408
+dien cung	409
+pha	410
+nha pha	411
+theo	412
+theo tren	413
+dien va	414
+phong tren	415
+giua	416
+len giua	417
+giua noc	418
+binh	419
+binh ruou	420
+nha, chay	421
+tam	422
+tam tram	423
+thuyen	424
+noc thuyen	425
+thuyen nhu	426
+xe,	427
+loi	428
+minh len	429
+noc xe,	430
+xe, loi	431
+ngam	432
+dai len	433
+xe, ngam	434
+chiec	435
+xe	436
+ha xuong	437
+noc chiec	438
+chiec xe	439
+ban	440
+mot goc	441
+goc noc	442
+xe, ban	443
+nguoi	444
+bi	445
+nguoi tren	446
+noc da	447
+da bi	448
+Dot	449
+noc xe	450
+xe Dot	451
+LO	452
+vung	453
+lieu	454
+vung len	455
+xe, lieu	456
+khoi	457
+Dieu	458
+ra khoi	459
+khoi noc	460
+xe Dieu	461
+noc thuyen,	462
+thuyen, song	463
+nha, dung	464
+can.	465
+hai cung	466
+cung noc	467
+noc can.	468
+ngoai	469
+nha, ngoai	470
+deu	471
+nha deu	472
+nha mot	473
+me	474
+nha me	475
+dan	476
+len mot	477
+nha dan	478
+nhay qua	479
+nha, xuyen	480
+noc cong	481
+cong treo	482
+ma	483
+hoi	484
+len ma	485
+ma noc	486
+mot hoi	487
+si	488
+vua	489
+si vua	490
+vua noc	491
+ruou mot	492
+ca	493
+ca tren	494
+trong	495
+nguoi len	496
+nha, trong	497
+mot toa	498
+vao mot	499
+thang	500
+leu	501
+thang len	502
+noc leu	503
+leu cuoi	504
+Hai	505
+lien	506
+Hai nguoi	507
+nguoi noc	508
+noc lien	509
+lien hoi	510
+loat	511
+sau	512
+mot loat	513
+loat noc	514
+nha, sau	515
+hit	516
+noc dien,	517
+dien, hit	518
+luot	519
+nha, luot	520
+len toi	521
+ngoanh	522
+nha ngoanh	523
+doan,	524
+tang	525
+lau	526
+doan, ca	527
+ca noc	528
+noc tang	529
+tang lau	530
+nay	531
+nay tren	532
+may tram	533
+dua	534
+nha, dua	535
+khong	536
+nha khong	537
+nhien	538
+nhien tren	539
+ve	540
+nha ve	541
+chang	542
+nha chang	543
+tim	544
+nha tim	545
+doi	546
+nha doi	547
+ngua	548
+uc,	549
+ngua co	550
+co noc	551
+ung uc,	552
+doi xuong	553
+nha bat	554
+bo	555
+bo len	556
+gian	557
+mot gian	558
+dien, trong	559
+khoang,	560
+noc khoang,	561
+khoang, trong	562
+phuc	563
+phuc tren	564
+nha tu	565
+chop,	566
+doc	567
+vo	568
+dien chop,	569
+chop, noc	570
+noc doc	571
+doc vo	572
+gac tren	573
+ruou len	574
+noi:	575
+trong len	576
+nha noi:	577
+nha thay	578
+nha nhu	579
+nha, lam	580
+dap	581
+qua hai	582
+hai noc	583
+nha, dap	584
+xung	585
+tu cac	586
+nha xung	587
+Tren cac	588
+nha hai	589
+dinh	590
+Thien	591
+noc dinh	592
+dinh Thien	593
+ULLLL	594
+tru	595
+dinh,	596
+chong tru	597
+tru noc	598
+noc dinh,	599
+dinh, ca	600
+toa Thien	601
+nhieu,	602
+nhieu, tren	603
+noc treo	604
+treo hon	605
+Vuong	606
+Ba	607
+Vuong Ba	608
+Ba noc	609
+co bon	610
+va tren	611
+nha roi	612
+tuong	613
+tuong len	614
+hien	615
+hien tren	616
+nha va	617
+noc cac	618
+cac nha	619
+muoi	620
+nam	621
+hon muoi	622
+muoi noc	623
+nha nam	624
+luong	625
+thung ca	626
+noc quan	627
+quan luong	628
+Mot	629
+gianh	630
+Mot noc	631
+nha gianh	632
+Dai	633
+hung	634
+noc Dai	635
+Dai hung	636
+len cac	637
+nat	638
+bien	639
+pha nat	640
+nat noc	641
+xe, bien	642
+nha o	643
+lan	644
+nha lan	645
+nga	646
+nha nga	647
+pha vo	648
+vo noc	649
+thuyen, nhay	650
+noc lau	651
+lau nhay	652
+mat tren	653
+nha lien	654
+chieu	655
+dong chieu	656
+dap len	657
+thoi	658
+ten	659
+thoi tu	660
+nha ten	661
+lau thuyen,	662
+da pha	663
+pha noc	664
+lau len	665
+nhan	666
+nhan tren	667
+lau deu	668
+lau.	669
+noc lau.	670
+so,	671
+so, tren	672
+noc chi	673
+chi mot	674
+nong	675
+chu	676
+con nong	677
+nong noc	678
+noc nhu	679
+nhu chu	680
+buc	681
+hinh nong	682
+noc tren	683
+tren buc	684
+vien	685
+noc vien	686
+vien rot	687
+thung tren	688
+dien chuon	689
+dien thi	690
+ruot	691
+nha ruot	692
+suot	693
+suot trong	694
+trong noc	695
+ra,	696
+tro ra,	697
+ra, noc	698
+ruou ung	699
+hoi:.	700
+nha hoi:.	701
+LLLOO	702
+noc hai	703
+hai toa	704
+nhanh	705
+nha nhanh	706
+cach	707
+nha cach	708
+can nha	709
+ngo	710
+ngo tren	711
+nha, nhay	712
+vut	713
+vut len	714
+uc noc	715
+ruou ma	716
+nhin thay	717
+thay noc	718
+thuyen di	719
+toc	720
+kho	721
+khien	722
+toc len	723
+noc kho	724
+kho khien	725
+chuong,	726
+moi	727
+xuong tu	728
+noc chuong,	729
+chuong, moi	730
+chat	731
+tai.	732
+chat vao	733
+quan tai.	734
+y	735
+nay lien	736
+lien noc	737
+noc y	738
+y ra	739
+tuu lau	740
+lau noc	741
+tung bat	742
+tri	743
+tuyet	744
+phai	745
+tri tuyet	746
+tuyet noc	747
+noc ma	748
+ma phai	749
+nho	750
+nhay khoi	751
+nha, nho	752
+nha dung	753
+xuong.	754
+noc xuong.	755
+Ngoc	756
+pha dinh	757
+dinh noc	758
+cua Ngoc	759
+tu mot	760
+doi tren	761
+dau,	762
+dau, tu	763
+trung	764
+nha, trung	765

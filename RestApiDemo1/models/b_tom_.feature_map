@@ -1,0 +1,741 @@
+len	1
+de	2
+tom	3
+lay	4
+chieu	5
+len de	6
+de tom	7
+tom lay	8
+lay chieu	9
+LL	10
+LLLLL	11
+LLL	12
+“	13
+Tom	14
+tom!”.	15
+“ Tom	16
+Tom tom	17
+tom tom	18
+tom tom!”.	19
+LLLOOO	20
+ULL	21
+O	22
+OL	23
+OO	24
+giong	25
+nhu	26
+ca	27
+chet	28
+giong nhu	29
+nhu tom	30
+tom ca	31
+ca chet	32
+LLLL	33
+Noi	34
+lai,	35
+co	36
+Noi tom	37
+tom lai,	38
+lai, co	39
+LLLO	40
+lai	41
+no	42
+tom lai	43
+lai no	44
+Trong,	45
+nhay	46
+xuong	47
+song.	48
+Trong, nhay	49
+nhay tom	50
+tom xuong	51
+xuong song.	52
+LLLLO	53
+ULLLLO	54
+vao	55
+thi	56
+con	57
+vao thi	58
+thi tom	59
+tom co	60
+co con	61
+tuc	62
+gian,	63
+Da	64
+tuc gian,	65
+gian, tom	66
+lay Da	67
+UL	68
+LO	69
+giac	70
+ghe	71
+muon	72
+giac ghe	73
+ghe tom	74
+tom nhu	75
+nhu muon	76
+lao	77
+tu,	78
+la	79
+lao tu,	80
+tu, tom	81
+lai la	82
+LLO	83
+bai	84
+cuu,	85
+bai cuu,	86
+cuu, tom	87
+khiep	88
+kinh	89
+ay.	90
+khiep kinh	91
+kinh tom	92
+tom ay.	93
+y	94
+da	95
+hai	96
+y da	97
+da tom	98
+lay hai	99
+L	100
+ra,	101
+nhung	102
+ra, nhung	103
+nhung tom	104
+cach	105
+cua	106
+cach ghe	107
+tom cua	108
+cua con	109
+viec	110
+thau	111
+51%	112
+viec thau	113
+thau tom	114
+tom 51%	115
+51% co	116
+NNO	117
+dam	118
+nguc,	119
+dam nguc,	120
+nguc, tom	121
+xong	122
+den,	123
+bat	124
+may	125
+xong den,	126
+den, tom	127
+tom bat	128
+bat may	129
+Um,	130
+la,	131
+Um, tom	132
+lai la,	133
+ULO	134
+dap,	135
+„Noi	136
+dap, „Noi	137
+„Noi tom	138
+OULL	139
+nen	140
+noi	141
+lom	142
+trong	143
+nen noi	144
+noi tom	145
+tom lom	146
+lom trong	147
+rot	148
+ao.	149
+la rot	150
+rot tom	151
+xuong ao.	152
+hoa,	153
+chi	154
+hoa, nhung	155
+lai chi	156
+nua,	157
+nua, noi	158
+Ly	159
+gia	160
+cac	161
+nguoi	162
+Ly gia	163
+gia tom	164
+tom cac	165
+cac nguoi	166
+thien	167
+cung,	168
+cung	169
+thien cung,	170
+cung, tom	171
+lai cung	172
+sach	173
+luoc,	174
+sach luoc,	175
+luoc, tom	176
+lai muon	177
+chuyen	178
+nho,	179
+truoc	180
+chuyen nho,	181
+nho, tom	182
+lai truoc	183
+LLLLLL	184
+loi,	185
+han	186
+khong	187
+loi, han	188
+han tom	189
+lai khong	190
+vay,	191
+thai	192
+cung vay,	193
+vay, tom	194
+lai thai	195
+“Ngo	196
+lai “Ngo	197
+rua	198
+rua,	199
+nhat	200
+rua rua,	201
+rua, tom	202
+ca nhat	203
+ga,	204
+ga, cung	205
+cung tom	206
+ca la	207
+dinh	208
+gi,	209
+chac	210
+dinh gi,	211
+gi, tom	212
+lai chac	213
+tot,	214
+chinh	215
+cung tot,	216
+tot, tom	217
+lai chinh	218
+xuong,	219
+nguc	220
+nguoi xuong,	221
+xuong, tom	222
+lay nguc	223
+LLLLLO	224
+dac	225
+biet	226
+chat	227
+lay.	228
+dac biet	229
+biet tom	230
+tom chat	231
+chat lay.	232
+cau?	233
+cau? Noi	234
+y,	235
+gia y,	236
+y, tom	237
+Trong	238
+tat	239
+Trong da	240
+tom tat	241
+tat nhung	242
+ULLLL	243
+bi	244
+co.	245
+cung bi	246
+bi tom	247
+tom co.	248
+duoc,	249
+ta	250
+cung duoc,	251
+duoc, tom	252
+lai ta	253
+long,	254
+long, noi	255
+sao	256
+duoc	257
+tang	258
+khong sao	259
+sao tom	260
+tom duoc	261
+duoc tang	262
+ky	263
+o	264
+xung	265
+ky ghe	266
+tom o	267
+o xung	268
+Hoi	269
+cho	270
+Hoi noi	271
+tat cho	272
+chi?	273
+neu	274
+chi? Noi	275
+lai neu	276
+duc	277
+thuyen,	278
+duc thuyen,	279
+thuyen, tom	280
+LLLLLLO	281
+kenh,	282
+roi	283
+nuoc.	284
+kenh, roi	285
+roi tom	286
+xuong nuoc.	287
+ngo,	288
+ngo, roi	289
+manh,	290
+den	291
+muc	292
+manh, ghe	293
+tom den	294
+den muc	295
+so	296
+sot,	297
+so sot,	298
+sot, tom	299
+phu	300
+nhan,	301
+phu nhan,	302
+nhan, tom	303
+ung,	304
+ung, nhung	305
+lang,	306
+lang, „Noi	307
+ao	308
+tu	309
+gion	310
+mat,	311
+ao tu	312
+tu tom	313
+tom gion	314
+gion mat,	315
+moi	316
+mat, noi	317
+lai moi	318
+quang	319
+luoi	320
+quang luoi	321
+luoi tom	322
+tom lay.	323
+La	324
+lai La	325
+an	326
+tuoi	327
+muon an	328
+an tom	329
+ca tuoi	330
+nay	331
+that	332
+lom,	333
+som	334
+nay that	335
+that tom	336
+tom lom,	337
+lom, som	338
+phai	339
+buon	340
+nhay ghe	341
+tom phai	342
+phai buon	343
+dau?	344
+Nhac	345
+dau? Noi	346
+lai Nhac	347
+ULLL	348
+lai lao	349
+mot	350
+nguyen	351
+nay thau	352
+tom mot	353
+mot nguyen	354
+xach	355
+co co	356
+co tom	357
+co xach	358
+su	359
+doi	360
+voi	361
+su ghe	362
+tom doi	363
+doi voi	364
+bien.	365
+da roi	366
+xuong bien.	367
+mat	368
+dit	369
+mat lao	370
+lao tom	371
+lay dit	372
+ly,	373
+tran	374
+co ly,	375
+ly, tom	376
+lai tran	377
+bua	378
+lai bua	379
+troi,	380
+cuc	381
+truong	382
+troi, thau	383
+tom cuc	384
+cuc truong	385
+lai nguyen	386
+Tien	387
+lien	388
+Tien lien	389
+lien tom	390
+lay co	391
+,	392
+song	393
+, bat	394
+bat tom	395
+ca song	396
+ra	397
+ra la	398
+la tom	399
+duoc co	400
+tay	401
+tay ra	402
+ra tom	403
+cai	404
+gi	405
+lom.	406
+cai gi	407
+gi tom	408
+tom lom.	409
+cam	410
+cam giac	411
+giac tom	412
+lom muon	413
+den nua,	414
+nua, tom	415
+dao	416
+Than	417
+len dao	418
+dao tom	419
+co Than	420
+ro	421
+tinh	422
+dai	423
+neu ro	424
+ro tom	425
+tom tinh	426
+tinh dai	427
+gian	428
+diep,	429
+ho	430
+gian diep,	431
+diep, tom	432
+lai ho	433
+giu	434
+giu lai,	435
+lai, tom	436
+giai	437
+thich,	438
+giai thich,	439
+thich, tom	440
+Khau	441
+Khau Trong	442
+Trong tom	443
+tat lai	444
+cam,	445
+ke	446
+cam, nhung	447
+lai ke	448
+nao	449
+gio	450
+nao nua,	451
+lai gio	452
+dien	453
+chop,	454
+chan	455
+dien chop,	456
+chop, tom	457
+lay chan	458
+khong,	459
+song,	460
+khong, lao	461
+xuong song,	462
+day	463
+lot	464
+day lot	465
+lot tom	466
+kia	467
+cang	468
+doi kinh	469
+tom kia	470
+kia cang	471
+lan	472
+phai lan	473
+lan tom	474
+lom giong	475
+ngam	476
+them	477
+lai ngam	478
+ngam tom	479
+tom them	480
+them hai	481
+khac	482
+nhau,	483
+khac nhau,	484
+nhau, tom	485
+lai thi	486
+bon	487
+lai nua,	488
+lai bon	489
+top	490
+bien,	491
+top roi	492
+xuong bien,	493
+chung,	494
+dien,	495
+chung, thau	496
+cuc dien,	497
+van	498
+cua,	499
+cai,	500
+van cua,	501
+cua, tom	502
+mot cai,	503
+muon gi,	504
+gian ghe	505
+tom nhat	506
+nhat trong	507
+tra	508
+tra loi,	509
+loi, tom	510
+lai van	511
+do,	512
+gi do,	513
+do, tom	514
+thieu	515
+nu	516
+thieu nu	517
+nu tom	518
+luc	519
+gay	520
+ao luc	521
+luc tom	522
+tom gay	523
+gay thi	524
+nha	525
+lai nha	526
+giang,	527
+tam	528
+bot,	529
+tran giang,	530
+giang, tom	531
+tom tam	532
+tam bot,	533
+mieng	534
+bot	535
+may mieng	536
+mieng tom	537
+tam bot	538
+dang	539
+de dang	540
+dang tom	541
+bat duoc,	542
+chat nua,	543
+giac,	544
+tinh giac,	545
+giac, tom	546
+chat lay	547
+ban	548
+ban den	549
+den tom	550
+lom ,	551
+Luong	552
+khi	553
+Luong khi	554
+khi tom	555
+duoc nguyen	556
+noi ra,	557
+ra, tom	558
+gon,	559
+bi ta	560
+ta tom	561
+tom gon,	562
+gon, lai	563
+tram	564
+va	565
+tram va	566
+va tom	567
+cua la	568
+ten	569
+cua ,	570
+, tom	571
+tom bi	572
+bi ten	573
+Hoac	574
+trung	575
+Hoac gia	576
+ca trung	577
+cua rua	578
+rua tom	579
+ca trong	580
+gon	581
+cung chi	582
+chi tom	583
+tom gon	584
+gon trong	585
+Dan	586
+vung	587
+Dan thau	588
+duoc vung	589
+ngu,	590
+ngu, noi	591
+khac,	592
+nguoi khac,	593
+khac, tom	594
+ha	595
+ha,	596
+ha ha,	597
+ha, tom	598
+hay	599
+den, noi	600
+lai hay	601
+hoang,	602
+kinh hoang,	603
+hoang, tom	604
+lay cai	605
+loi	606
+hai,	607
+se	608
+loi hai,	609
+hai, tom	610
+lai se	611
+ai,	612
+voi ai,	613
+ai, tom	614
+nuoc	615
+Trieu,	616
+nuoc Trieu,	617
+Trieu, tom	618
+lai bi	619
+de tu	620
+duoc ten	621
+Mot	622
+ga	623
+Mot nguoi	624
+nguoi tom	625
+duoc ga	626
+lam	627
+that ghe	628
+tom lam	629
+lam cho	630
+map	631
+con map	632
+map tom	633
+chat tay	634
+trao,	635
+vung trao,	636
+trao, tom	637
+lay con	638
+duoi.	639
+tuc rot	640
+xuong duoi.	641
+noi,	642
+noi, nhung	643
+nguoi,	644
+bat nguoi,	645
+nguoi, tom	646
+duoc ca	647
+thuyen, roi	648
+tap,	649
+tap, nhung	650
+say	651
+kia,	652
+say kia,	653
+kia, tom	654
+chang	655
+biet,	656
+chang biet,	657
+biet, tom	658
+gia,	659
+hay gia,	660
+gia, tom	661
+-	662
+- Noi	663
+ngoi	664
+lai ngoi	665
+phat	666
+binh	667
+ba	668
+phat binh	669
+binh tom	670
+co ba	671
+rua roi	672
+Quan	673
+Suoc	674
+Quan Suoc	675
+Suoc tom	676
+lay that	677
+the	678
+luoc	679
+co the	680
+the tom	681
+tom luoc	682
+luoc lai	683
+lai noi	684
+lai.	685
+tom lai.	686
+nguoi roi	687
+xuong ho	688
+nong	689
+dam nong	690
+nong tom	691
+vu	692
+lai, vu	693
+lai, ca	694
+Quy	695
+Le,	696
+nhan	697
+Quy Le,	698
+Le, tom	699
+gon, nhan	700
+anh,	701
+voi anh,	702
+anh, tom	703
+dan,	704
+dan, nhung	705
+cuong	706
+buc,	707
+Trieu	708
+cuong buc,	709
+buc, tom	710
+lai, Trieu	711
+giac duoc,	712
+bi lao	713
+duoc thi	714
+chu?	715
+chu? da	716
+duoc han	717
+quat	718
+lui,	719
+quat lui,	720
+lui, tom	721
+bim	722
+leo,	723
+tien	724
+bim leo,	725
+leo, tom	726
+lay tien	727
+hanh	728
+lai hanh	729
+thay	730
+hen	731
+thay ghe	732
+tom su	733
+su hen	734
+Dai	735
+dinh thau	736
+tom dao	737
+dao Dai	738
+lai tuc	739
+Thanh	740
+Thanh rot	741

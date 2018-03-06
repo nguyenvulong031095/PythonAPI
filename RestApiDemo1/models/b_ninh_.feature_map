@@ -1,0 +1,697 @@
+do	1
+danh	2
+ninh	3
+hot	4
+nay	5
+do danh	6
+danh ninh	7
+ninh hot	8
+hot nay	9
+LLLL	10
+LL	11
+LLL	12
+Xung	13
+dinh	14
+ghi	15
+nho	16
+Xung dinh	17
+dinh ninh	18
+ninh ghi	19
+ghi nho	20
+ULLL	21
+OL	22
+tang	23
+cong	24
+not,	25
+vua	26
+tang cong	27
+cong ninh	28
+ninh not,	29
+not, vua	30
+LLLO	31
+lao	32
+du	33
+doi	34
+lao dinh	35
+ninh du	36
+du doi	37
+ta	38
+la	39
+hot.	40
+ta la	41
+la ninh	42
+ninh hot.	43
+Ta	44
+tieu	45
+Ta ninh	46
+hot tieu	47
+UL	48
+khong	49
+chiu	50
+bo.	51
+khong chiu	52
+chiu ninh	53
+ninh bo.	54
+LLO	55
+LLLLL	56
+chi	57
+thich	58
+bo	59
+tuc	60
+chi thich	61
+thich ninh	62
+ninh bo	63
+bo tuc	64
+?	65
+hot ?	66
+O	67
+LO	68
+them	69
+khong them	70
+them ninh	71
+noi	72
+ga	73
+lay	74
+chiu noi	75
+noi ninh	76
+ninh ga	77
+ga lay	78
+Nhung	79
+deu	80
+Nhung ga	81
+ga ninh	82
+hot deu	83
+ULLLL	84
+thi	85
+hot thi	86
+ai.	87
+hot ai.	88
+bo thi	89
+ca	90
+hot,	91
+nhat	92
+ca khong	93
+khong ninh	94
+ninh hot,	95
+hot, nhat	96
+vi	97
+hot, vi	98
+chang	99
+can	100
+ai	101
+chang can	102
+can ninh	103
+bo ai	104
+not	105
+quen	106
+ninh not	107
+not quen	108
+cang	109
+biet	110
+bo."	111
+Hai	112
+cang biet	113
+biet ninh	114
+ninh bo."	115
+bo." Hai	116
+ULL	117
+LLOO	118
+bo,	119
+chi biet	120
+ninh bo,	121
+bo, noi	122
+dam	123
+rong	124
+khong dam	125
+dam ninh	126
+hot rong	127
+moi	128
+nguoi	129
+moi nguoi	130
+nguoi ninh	131
+not tang	132
+mot	133
+ben	134
+xen	135
+mot ben	136
+ben ninh	137
+not xen	138
+that	139
+nhung	140
+that biet	141
+bo, nhung	142
+sao,	143
+lam	144
+sao, ga	145
+hot lam	146
+da	147
+sai	148
+cho,	149
+biet da	150
+da ninh	151
+ninh sai	152
+sai cho,	153
+loi	154
+Tong	155
+moi loi	156
+loi ninh	157
+hot, Tong	158
+giao	159
+chung	160
+giao chung	161
+chung ninh	162
+hot noi	163
+dieu	164
+rat	165
+bo dieu	166
+dieu ninh	167
+not rat	168
+lai	169
+lai biet	170
+not, do	171
+quan	172
+than	173
+ton	174
+quan than	175
+than ninh	176
+bo ton	177
+xu	178
+thuong,	179
+than xu	180
+xu ninh	181
+ninh quan	182
+quan thuong,	183
+LLLLLLO	184
+Minh	185
+Chau	186
+Minh Chau	187
+Chau ninh	188
+hot mot	189
+OO	190
+nhien	191
+truoc	192
+cong nhien	193
+nhien ninh	194
+hot truoc	195
+van	196
+han.	197
+nay van	198
+van ninh	199
+bo han.	200
+ve	201
+an	202
+cho	203
+bach	204
+ve an	205
+an ninh	206
+ninh cho	207
+cho bach	208
+het	209
+thay	210
+het thay	211
+thay ninh	212
+ninh than	213
+than deu	214
+giu	215
+tram	216
+giu an	217
+cho tram	218
+co	219
+y	220
+co y	221
+y ninh	222
+L	223
+kho	224
+duoc.	225
+kho an	226
+ninh duoc.	227
+LLLLO	228
+Ga	229
+se	230
+duoc	231
+Ga dinh	232
+ninh se	233
+se duoc	234
+to	235
+ra	236
+phi	237
+to ra	238
+ra ninh	239
+hot phi	240
+chuyen	241
+nghe	242
+chuyen nghe	243
+nghe ninh	244
+hot lay	245
+LLLLLL	246
+ngoai	247
+tai	248
+ngoai tai	249
+tai ninh	250
+bo ra	251
+Chang	252
+Chang dinh	253
+ninh lao	254
+lao chi	255
+uong	256
+ki	257
+roi	258
+nam	259
+uong ki	260
+ki ninh	261
+ninh roi	262
+roi nam	263
+de	264
+con	265
+de con	266
+con ninh	267
+ninh ta	268
+lon	269
+tieng	270
+lon tieng	271
+tieng ninh	272
+Cach	273
+ke	274
+Cach ninh	275
+bo ke	276
+rang	277
+„Toan	278
+can rang	279
+rang ninh	280
+bo, „Toan	281
+OULLL	282
+long	283
+the	284
+nao	285
+long dinh	286
+ninh the	287
+the nao	288
+nua	289
+cua	290
+nua loi	291
+bo cua	292
+cuoi	293
+noi:	294
+"Thanh	295
+nguoi cuoi	296
+cuoi ninh	297
+ninh noi:	298
+noi: "Thanh	299
+OULLLL	300
+xum	301
+xoe	302
+xum xoe	303
+xoe ninh	304
+phu	305
+xiem	306
+cung	307
+lot	308
+phu xiem	309
+xiem ninh	310
+ninh cung	311
+cung lot	312
+dong	313
+quoc	314
+gia)	315
+dong an	316
+ninh quoc	317
+quoc gia)	318
+gia	319
+quoc gia	320
+gia,	321
+quoc gia,	322
+nhung loi	323
+tan	324
+luc	325
+tan luc	326
+luc ninh	327
+not, noi	328
+khoac,	329
+noi khoac,	330
+khoac, ninh	331
+LLLLLO	332
+thuyen,	333
+–	334
+thuyen, cuoi	335
+noi: –	336
+chua	337
+duong	338
+chua y	339
+not, duong	340
+ngo	341
+phai	342
+ngo ga	343
+ninh khong	344
+khong phai	345
+su	346
+dan	347
+su an	348
+cho dan	349
+nay y	350
+bo rat	351
+Ngu	352
+Phu	353
+nham	354
+Ngu Phu	355
+Phu ninh	356
+bo nham	357
+long,	358
+di	359
+a	360
+long, di	361
+di ninh	362
+hot a	363
+-Nguoi	364
+kheo	365
+lam!	366
+Tieu	367
+-Nguoi kheo	368
+kheo ninh	369
+ninh lam!	370
+lam! Tieu	371
+hoi	372
+minh	373
+hoi minh	374
+minh ninh	375
+bo lao	376
+hon	377
+hon la	378
+bo tieu	379
+gioi	380
+gioi nghe	381
+tu	382
+trong	383
+thanh.	384
+tu an	385
+ninh trong	386
+trong thanh.	387
+dung	388
+nua.	389
+dung xu	390
+ta nua.	391
+tam,	392
+hay	393
+tam, hay	394
+hay ninh	395
+bo, lay	396
+suc	397
+chieu	398
+ga.	399
+suc chieu	400
+chieu ninh	401
+ninh ga.	402
+gi	403
+thit	404
+cho?	405
+lay gi	406
+gi ninh	407
+ninh thit	408
+thit cho?	409
+phinh	410
+loi phinh	411
+phinh ninh	412
+ninh cua	413
+cua lao	414
+ua	415
+ua loi	416
+khi	417
+not, khi	418
+An	419
+dap:	420
+-	421
+An cuoi	422
+ninh dap:	423
+dap: -	424
+"thien	425
+thu	426
+loi xu	427
+ninh "thien	428
+"thien thu	429
+OLLLLL	430
+Ðao	431
+khoan	432
+Ðao xu	433
+ninh thi	434
+thi khoan	435
+cho an	436
+khong ai	437
+bao	438
+san	439
+bao an	440
+cho san	441
+va	442
+de an	443
+ninh va	444
+va quoc	445
+mat	446
+phong	447
+mat an	448
+quoc phong	449
+phia	450
+Nam	451
+ninh phia	452
+phia Nam	453
+vien	454
+den	455
+vien den	456
+den ninh	457
+bo y	458
+tinh	459
+voi	460
+lai vua	461
+vua ninh	462
+ninh tinh	463
+tinh voi	464
+muon	465
+su muon	466
+muon ninh	467
+bo ta	468
+la loi	469
+hot khong	470
+len	471
+not:	472
+"Tien	473
+len tieng	474
+ninh not:	475
+not: "Tien	476
+Chi	477
+Vinh	478
+Chi Vinh	479
+Vinh ninh	480
+vu	481
+loi,	482
+vu loi,	483
+loi, ninh	484
+hot quan	485
+phen	486
+y.	487
+phen nay	488
+nay ninh	489
+not y.	490
+ha,	491
+ha, vi	492
+vi ninh	493
+buom,	494
+buom, het	495
+het ninh	496
+hot ben	497
+nhu.	498
+da duoc	499
+duoc ninh	500
+ninh nhu.	501
+nen	502
+nen an	503
+nhu	504
+bo nhu	505
+chu	506
+hot chu	507
+tan cong	508
+con dinh	509
+ninh dan	510
+dan lai	511
+lanh	512
+khien	513
+lanh nghe	514
+hot khien	515
+cong,	516
+ma	517
+tang cong,	518
+cong, ninh	519
+bo, ma	520
+Hoang	521
+thi nguoi	522
+bo Hoang	523
+tang khong	524
+:	525
+hot :	526
+dua	527
+dua xiem	528
+cua ke	529
+Cong	530
+Cong phu	531
+phu ninh	532
+vay	533
+duoi	534
+vay duoi	535
+duoi ninh	536
+lem	537
+mep	538
+dam.	539
+lem mep	540
+mep ninh	541
+ninh dam.	542
+dam?	543
+Chac	544
+ninh dam?	545
+dam? Chac	546
+han	547
+nghe han	548
+han ninh	549
+hot trong	550
+cho.Cach	551
+y cho.Cach	552
+cho.Cach ninh	553
+hot cua	554
+LLLOULLL	555
+Du	556
+Tan	557
+vai	558
+cau,	559
+Du Tan	560
+Tan ninh	561
+ninh vai	562
+vai cau,	563
+thuat	564
+nghe thuat	565
+thuat ninh	566
+hot cung	567
+Lao	568
+qua	569
+Lao gia	570
+gia ninh	571
+hot qua	572
+hiep	573
+hiep va	574
+va ninh	575
+lao co	576
+Co	577
+Co nguoi	578
+lao truoc	579
+ninh chuyen	580
+chuyen nay	581
+cai	582
+kieu	583
+dung co	584
+co ninh	585
+ninh cai	586
+cai kieu	587
+duoc an	588
+ninh hon	589
+hon mot	590
+not chang	591
+not bao	592
+nha	593
+Minh xu	594
+ninh nha	595
+nha vua	596
+chuong	597
+chieu chuong	598
+chuong ninh	599
+not, nhung	600
+ta,	601
+chi muon	602
+ninh chung	603
+chung ta,	604
+tuong	605
+tinh,	606
+an tuong	607
+tuong ninh	608
+ninh tinh,	609
+tinh, co	610
+phuong	611
+phap	612
+Duong	613
+phuong phap	614
+phap ninh	615
+not Duong	616
+biet ga	617
+hot de	618
+khong kheo	619
+Tho	620
+viet	621
+chinh	622
+Tho viet	623
+viet ninh	624
+ninh tuong	625
+tuong chinh	626
+,	627
+tham	628
+tinh ua	629
+ua ninh	630
+ninh ,	631
+, tham	632
+troi,	633
+troi, dinh	634
+ninh phen	635
+dam an	636
+cho ca	637
+hot, nhung	638
+nay ga	639
+chuyen de	640
+de ninh	641
+hot nha	642
+cau	643
+cau nay	644
+Do	645
+thoi	646
+khoe	647
+Do thoi	648
+thoi ninh	649
+than khoe	650
+troi	651
+loi xiem	652
+ninh troi	653
+troi nhu	654
+Het	655
+Tang	656
+Ket,	657
+Het ninh	658
+ninh Tang	659
+Tang Ket,	660
+ULLO	661
+quay	662
+sang	663
+Cat	664
+quay sang	665
+sang ninh	666
+hot Cat	667
+Tu	668
+cung Tu	669
+Tu ninh	670
+ninh de	671
+de gia	672
+binh	673
+khong khi	674
+khi ninh	675
+tinh binh	676
+khong quen	677
+quen ninh	678
+bo, chi	679
+loi muon	680
+not hon	681
+Vuong	682
+chi xu	683
+ninh Tan	684
+Tan Vuong	685
+nguoi ta	686
+ta ninh	687
+bo quen	688
+chu quan	689
+quan ninh	690
+hot ga	691
+Bat	692
+Vi	693
+„y	694
+Bat Vi	695
+Vi ninh	696
+bo, „y	697

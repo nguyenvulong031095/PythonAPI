@@ -1,0 +1,961 @@
+dung	1
+day	2
+khom	3
+lung	4
+hanh	5
+dung day	6
+day khom	7
+khom lung	8
+lung hanh	9
+LLLL	10
+LLL	11
+LL	12
+Ðoan	13
+ga	14
+thi	15
+Ðoan ga	16
+ga khom	17
+lung thi	18
+ULLL	19
+OL	20
+Ho	21
+Xung	22
+noi:	23
+Ho Xung	24
+Xung khom	25
+lung noi:	26
+UL	27
+LLLO	28
+OO	29
+khong	30
+ngot	31
+xa	32
+khong ngot	33
+ngot khom	34
+lung xa	35
+LLLLL	36
+thong	37
+phai	38
+thong phai	39
+phai khom	40
+doi	41
+truong	42
+ta	43
+doi truong	44
+truong khom	45
+lung ta	46
+LLLLLL	47
+Han	48
+lien	49
+dap:	50
+Han lien	51
+lien khom	52
+lung dap:	53
+ULL	54
+An	55
+Co	56
+vang	57
+An Co	58
+Co khom	59
+lung vang	60
+nhuong	61
+chang	62
+nhuong chang	63
+chang khom	64
+den	65
+noi	66
+uon	67
+den noi	68
+noi khom	69
+lung uon	70
+nhan	71
+chuong	72
+nhan chuong	73
+chuong khom	74
+tien	75
+lai	76
+tien lai	77
+lai khom	78
+bam:	79
+lung bam:	80
+Moi	81
+nguoi	82
+Moi nguoi	83
+nguoi khom	84
+cui	85
+lom	86
+om	87
+lay	88
+cui lom	89
+lom khom	90
+khom om	91
+om lay	92
+ve	93
+thi ve	94
+ve khom	95
+lao	96
+gia	97
+lao gia	98
+gia khom	99
+lung dung	100
+xuong	101
+dat,	102
+dap:-	103
+xuong dat,	104
+dat, khom	105
+lung dap:-	106
+LLLOO	107
+cao	108
+Ðoan khom	109
+lung cao	110
+Mot	111
+leo	112
+Mot khom	113
+khom day	114
+day leo	115
+la	116
+mot	117
+co	118
+la mot	119
+mot khom	120
+day co	121
+bo	122
+lai phai	123
+lung bo	124
+Hong	125
+Trieu	126
+Hong Trieu	127
+Trieu khom	128
+ULLLL	129
+Han khom	130
+chi	131
+can	132
+cong	133
+chi can	134
+can khom	135
+lung cong	136
+Bat	137
+Quan	138
+Bat Quan	139
+Quan khom	140
+lap	141
+tuc	142
+lap tuc	143
+tuc khom	144
+khom nguoi	145
+nguoi xuong	146
+truc	147
+thua,	148
+co mot	149
+khom truc	150
+truc thua,	151
+LLLLO	152
+Dich	153
+Trung	154
+Dich Trung	155
+Trung khom	156
+noc	157
+nha	158
+ma	159
+noc nha	160
+nha khom	161
+lung ma	162
+xuong.	163
+den phai	164
+lung xuong.	165
+LLLLLO	166
+Quy	167
+Le,	168
+Quy Le,	169
+Le, khom	170
+ULO	171
+dau	172
+nguoi,	173
+do	174
+cui dau	175
+dau khom	176
+khom nguoi,	177
+nguoi, do	178
+ben	179
+hoa	180
+thuoc	181
+xuong ben	182
+ben khom	183
+khom hoa	184
+hoa thuoc	185
+so	186
+duoc	187
+lao so	188
+so khom	189
+khom thuoc	190
+thuoc duoc	191
+tieng	192
+qui	193
+tieng lom	194
+khom cui	195
+cui qui	196
+cai	197
+cua	198
+minh	199
+cai lung	200
+lung khom	201
+khom cua	202
+cua minh	203
+vua	204
+Xung vua	205
+vua khom	206
+lieng	207
+lieng xuong	208
+xuong khom	209
+voi	210
+chang voi	211
+voi khom	212
+tinh	213
+khi,	214
+xuong,	215
+tinh khi,	216
+khi, khom	217
+nguoi xuong,	218
+quan	219
+kia	220
+don	221
+quan kia	222
+kia khom	223
+lung don	224
+vien	225
+vien quan	226
+quan khom	227
+lung noi	228
+Chinh	229
+Phong	230
+Chinh Phong	231
+Phong khom	232
+dac	233
+y	234
+dap	235
+dac y	236
+y khom	237
+lung dap	238
+L	239
+dong	240
+thoi	241
+dong thoi	242
+thoi khom	243
+Bon	244
+chung	245
+Bon chung	246
+chung khom	247
+mieu,	248
+mieu, lien	249
+roi	250
+cung	251
+roi cung	252
+cung khom	253
+xinh	254
+xan	255
+nghenh	256
+xinh xan	257
+xan khom	258
+nguoi nghenh	259
+tuu	260
+bao	261
+cuoi	262
+tuu bao	263
+bao khom	264
+lung cuoi	265
+nhu	266
+dung lom	267
+khom nhu	268
+nhu nguoi	269
+Linh	270
+San	271
+Linh San	272
+San khom	273
+Ba	274
+Dat	275
+Ba Dat	276
+Dat khom	277
+Te	278
+Hien	279
+Te Hien	280
+Hien khom	281
+Xich	282
+Te Xich	283
+Xich khom	284
+ha	285
+ha xuong,	286
+xuong, khom	287
+nguoi noi:	288
+xuan	289
+nhung	290
+da	291
+xuan nhung	292
+nhung khom	293
+hoa da	294
+Doanh	295
+Doanh phai	296
+danh	297
+di	298
+danh bao	299
+lung di	300
+nhan lien	301
+Tieu	302
+Bao	303
+Tieu Bao	304
+Bao khom	305
+Xuyen	306
+Xuyen voi	307
+khum	308
+num	309
+chay	310
+khum num	311
+num khom	312
+nguoi chay	313
+Phuong	314
+Sinh	315
+Phuong Sinh	316
+Sinh khom	317
+ULLLLL	318
+kinh	319
+cung kinh	320
+kinh khom	321
+nguoi thi	322
+Ngoc	323
+Bat Ngoc	324
+Ngoc khom	325
+lui	326
+lung lui	327
+buoc,	328
+mot buoc,	329
+buoc, khom	330
+moi	331
+khom moi	332
+moi tien	333
+khoanh	334
+nguoi lien	335
+lung khoanh	336
+kinh can	337
+lung lay	338
+diem	339
+ra,	340
+diem ra,	341
+ra, khom	342
+LLO	343
+nay	344
+chiu	345
+cho	346
+nay chiu	347
+chiu khom	348
+lung cho	349
+The	350
+The Co	351
+nguoi cuoi	352
+xay	353
+xay ra,	354
+nguoi dap:	355
+toi	356
+tien toi	357
+toi khom	358
+ho:	359
+truong lao	360
+lao khom	361
+lung ho:	362
+Ton	363
+Gia	364
+Ton Gia	365
+Gia khom	366
+thay	367
+dan	368
+thay dan	369
+dan khom	370
+Ton gia	371
+buoc	372
+that	373
+khom buoc	374
+buoc that	375
+nguoi hanh	376
+Tho,	377
+Tho, cung	378
+nguoi dap	379
+ULLO	380
+lot	381
+lat,	382
+lot lat,	383
+lat, khom	384
+dao	385
+dao nhan	386
+nhan khom	387
+thuc,	388
+thuc, lien	389
+lung kinh	390
+rat	391
+khom di	392
+di rat	393
+han	394
+tu	395
+han tu	396
+tu khom	397
+lang	398
+nhin	399
+ngoai	400
+lang nhin	401
+nhin khom	402
+hoa ngoai	403
+Vu	404
+yeu	405
+Vu yeu	406
+yeu khom	407
+khom minh	408
+minh dap:	409
+Hai	410
+ten	411
+Hai ten	412
+ten khom	413
+Nam	414
+huong	415
+Nam nguoi	416
+lung huong	417
+Tam	418
+Nuong	419
+Tam Nuong	420
+Nuong khom	421
+gio	422
+len	423
+gio moi	424
+moi khom	425
+lung len	426
+xong	427
+xong lao	428
+chi roi	429
+roi khom	430
+nam	431
+khom nam	432
+nam lay	433
+ca	434
+mung	435
+thinh	436
+ca mung	437
+mung khom	438
+minh thinh	439
+chap	440
+tay	441
+chap tay	442
+tay khom	443
+qua	444
+qua phai	445
+Can	446
+Can Nam	447
+Nam khom	448
+Chang	449
+Chang lien	450
+lenh	451
+lenh xuong	452
+Phi	453
+a	454
+Phi a	455
+a khom	456
+than	457
+vuong	458
+than vuong	459
+vuong khom	460
+phia	461
+truoc	462
+phia truoc	463
+truoc khom	464
+ra	465
+than lom	466
+khom ra	467
+ra dung	468
+Dai	469
+Loan	470
+Dai Loan	471
+Loan khom	472
+Thieu	473
+Long	474
+Thieu Long	475
+Long khom	476
+nguoi len	477
+deu	478
+tu deu	479
+deu khom	480
+y,	481
+y, voi	482
+nguoi noi	483
+LO	484
+"da"	485
+ve kia	486
+lung "da"	487
+OLLO	488
+dang	489
+lung dang	490
+dang khom	491
+khom khom	492
+cua lao	493
+Khe	494
+lung,	495
+Tu	496
+Khe khom	497
+khom lung,	498
+lung, Tu	499
+quan vien	500
+vien khom	501
+len voi	502
+rau	503
+bac,	504
+rau bac,	505
+bac, khom	506
+minh thi	507
+nui,	508
+nui, lien	509
+xanh	510
+la nhung	511
+khom co	512
+co xanh	513
+su	514
+nuong	515
+su nuong	516
+nuong khom	517
+Chu	518
+Chu quan	519
+cham	520
+rai	521
+cham rai	522
+rai khom	523
+Chang khom	524
+dung ben	525
+Bao lien	526
+tiep,	527
+nghenh tiep,	528
+tiep, khom	529
+Hong voi	530
+minh dap	531
+lai,	532
+lui lai,	533
+lai, khom	534
+nguoi nhuong	535
+Ðinh,	536
+doan	537
+Ðinh, doan	538
+doan khom	539
+ULLLO	540
+Van	541
+Quan Van	542
+Van khom	543
+lung cui	544
+du	545
+du da	546
+da khom	547
+lung xuong	548
+nay,	549
+song	550
+ve lom	551
+khom nay,	552
+nay, song	553
+hinh	554
+hinh lom	555
+cua Vu	556
+lenh voi	557
+Lam	558
+Ngoc Lam	559
+Lam khom	560
+hoi	561
+va	562
+di hoi	563
+hoi khom	564
+lung va	565
+Khau	566
+Trong	567
+Khau Trong	568
+Trong khom	569
+Hai nguoi	570
+nguoi tien	571
+ngay,	572
+ngay, nhin	573
+tuong	574
+gia tuong	575
+tuong khom	576
+loi	577
+bai	578
+loi lao	579
+lung bai	580
+re	581
+re nhung	582
+hai	583
+ga,	584
+hai ga,	585
+ga, khom	586
+tren	587
+tre	588
+gia.	589
+tren nhung	590
+khom tre	591
+tre gia.	592
+moi di	593
+khep	594
+noi vua	595
+lung khep	596
+hai buoc	597
+buoc khom	598
+de	599
+de tu	600
+minh hanh	601
+vao	602
+chay vao	603
+vao khom	604
+tien len	605
+len khom	606
+quan lien	607
+ngua,	608
+xuong ngua,	609
+ngua, khom	610
+le,	611
+thi le,	612
+le, khom	613
+hung	614
+Quan hung	615
+hung khom	616
+,	617
+khom ,	618
+, nhung	619
+O	620
+ten lien	621
+ao,	622
+tay ao,	623
+ao, khom	624
+Ðuc	625
+Nac	626
+Ðuc Nac	627
+Nac khom	628
+noi xong	629
+xong khom	630
+ngo	631
+tinh ngo	632
+ngo khom	633
+non	634
+oe	635
+khom non	636
+non oe	637
+con	638
+dua	639
+con vua	640
+nguoi, dua	641
+Khuoc	642
+Uyen,	643
+Khuoc Uyen,	644
+Uyen, khom	645
+thuyen	646
+truoc thuyen	647
+thuyen khom	648
+hai buoc,	649
+lun	650
+tit	651
+lun tit	652
+tit khom	653
+Ban	654
+Ban lai	655
+voi vang	656
+vang khom	657
+nguoi cung	658
+So	659
+So So	660
+So khom	661
+Chung	662
+Cong	663
+Chung Cong	664
+Cong khom	665
+sau	666
+a,	667
+sau a,	668
+a, khom	669
+Lang	670
+Tu Lang	671
+Lang khom	672
+Thien	673
+ghe	674
+Van Thien	675
+Thien khom	676
+lung ghe	677
+cuoi cuoi	678
+cuoi khom	679
+nguoi bo	680
+khong noi	681
+lung om	682
+Quoc	683
+Trung Quoc	684
+Quoc khom	685
+di dau	686
+loi,	687
+loi, lien	688
+hai ga	689
+chui	690
+Han cung	691
+lung chui	692
+Hanh	693
+Hanh da	694
+tung	695
+lung tung	696
+khieng	697
+Doanh Doanh	698
+Doanh khom	699
+lung khieng	700
+nu	701
+tranh	702
+Thieu nu	703
+nu khom	704
+nguoi tranh	705
+Ðich	706
+van	707
+Ðich van	708
+van khom	709
+Ðuong,	710
+Ðuong, lien	711
+ULLLLO	712
+chan	713
+huong,	714
+vai	715
+chan huong,	716
+huong, khom	717
+nguoi vai	718
+ban	719
+tho,	720
+ban tho,	721
+tho, khom	722
+nguoi loi	723
+ca nguoi	724
+khom xuong,	725
+xuong, dang	726
+xach	727
+tuong dang	728
+nguoi xach	729
+ba	730
+ba nguoi	731
+Cao	732
+Cao Hien	733
+nhat	734
+te	735
+nhat te	736
+te khom	737
+lung.	738
+khom lung.	739
+ngoi	740
+to	741
+roi ngoi	742
+ngoi khom	743
+khom lai	744
+lai to	745
+va phai	746
+giao	747
+giao dang	748
+lung dao	749
+nhu truoc	750
+dung len	751
+den lien	752
+Tien	753
+Tien Sinh	754
+lung nhan	755
+ma lom	756
+khom hai	757
+hai chan	758
+dinh	759
+dang lom	760
+khom dinh	761
+dinh chui	762
+ao	763
+trang	764
+ao trang	765
+trang khom	766
+hoa,	767
+dat	768
+nhu hoa,	769
+hoa, khom	770
+nguoi dat	771
+be,	772
+co be,	773
+be, khom	774
+Doan	775
+Doan ga	776
+Nguoi	777
+Nguoi kia	778
+Hung	779
+lam	780
+Thien Hung	781
+Hung khom	782
+lung lam	783
+mot chan	784
+chan khom	785
+lung dua	786
+tam	787
+dien	788
+tam dien	789
+dien khom	790
+lung doi	791
+ve voi	792
+tien vao	793
+Que	794
+Tam Que	795
+Que khom	796
+nguoi cui	797
+dau,	798
+dau, cui	799
+cui khom	800
+Kinh	801
+Tuan	802
+noi,	803
+Kinh Tuan	804
+Tuan khom	805
+nguoi noi,	806
+Tuong	807
+Quoc Tuong	808
+Tuong khom	809
+trong	810
+may	811
+tra	812
+trong may	813
+may khom	814
+khom tra	815
+tra hoa,	816
+kinh.	817
+hoa, mot	818
+khom tu	819
+tu kinh.	820
+deu phai	821
+lung van	822
+Khang	823
+Nien	824
+Khang Nien	825
+Nien khom	826
+gian,	827
+gian, voi	828
+Ðinh	829
+Kien	830
+Ðinh Kien	831
+Kien khom	832
+hoan	833
+Xung cung	834
+lung hoan	835
+su,	836
+su, lien	837
+Vuong	838
+Chinh Vuong	839
+Vuong khom	840
+mung,	841
+ca mung,	842
+mung, khom	843
+gan	844
+thay may	845
+truc gan	846
+me	847
+hoi:	848
+me ta	849
+ta khom	850
+lung hoi:	851
+don lay	852
+lay khom	853
+cat	854
+lung cat	855
+hai ben	856
+nhieu	857
+bao nhieu	858
+nhieu khom	859
+khom hoa,	860
+hoa, cuoi	861
+nguoi don	862
+ke	863
+Trung Quan	864
+lung ke	865
+giao chung	866
+lung dong	867
+nguc	868
+truoc nguc	869
+nguc khom	870
+mieu	871
+vao mieu	872
+mieu khom	873
+Binh	874
+Chi	875
+Binh Chi	876
+Chi khom	877
+Han tu	878
+gia bo	879
+bo khom	880
+tien roi	881
+quet	882
+don,	883
+khom quet	884
+quet don,	885
+nhin ba	886
+ba khom	887
+Nghi	888
+Hoa	889
+Nghi Hoa	890
+Hoa khom	891
+Di	892
+Phuong Di	893
+Di khom	894
+vi	895
+hai vi	896
+vi khom	897
+Thai	898
+Hau	899
+Thai Hau	900
+Hau khom	901
+chao	902
+nguoi chao	903
+tuoi	904
+cuoi,	905
+tuoi cuoi,	906
+cuoi, khom	907
+nguoi lam	908
+mieng	909
+mieng roi	910
+Ba khom	911
+nua.	912
+can phai	913
+minh nua.	914
+quan quan	915
+lung da	916
+luon	917
+mieng,	918
+luon mieng,	919
+mieng, khom	920
+tieng,	921
+mot tieng,	922
+tieng, khom	923
+nhi	924
+lau	925
+nhi dang	926
+minh lau	927
+Ta	928
+Ta hoi	929
+nguoi xuong.	930
+lat	931
+lat roi	932
+mu	933
+mu xong	934
+buoc toi	935
+dang sau	936
+sau khom	937
+truc day	938
+ne,	939
+ne, chi	940
+chi khom	941
+nguoi lai	942
+nen	943
+nen da	944
+biet	945
+van biet	946
+biet khom	947
+Than	948
+Than vuong	949
+tien ra	950
+ra khom	951
+Ga	952
+Ga kia	953
+nui	954
+tin	955
+cua nui	956
+nui khom	957
+lung tin	958
+rem	959
+rem len	960
+Di lai	961

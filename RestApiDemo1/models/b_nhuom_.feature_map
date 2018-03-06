@@ -1,0 +1,634 @@
+muon	1
+mau	2
+nhuom	3
+binh	4
+khi,	5
+muon mau	6
+mau nhuom	7
+nhuom binh	8
+binh khi,	9
+LLLL	10
+LLLLL	11
+LLL	12
+LLLO	13
+LL	14
+bien	15
+cung	16
+do	17
+bien cung	18
+cung nhuom	19
+nhuom mau	20
+mau do	21
+Le	22
+laI	23
+am	24
+Le laI	25
+laI nhuom	26
+mau am	27
+LLU	28
+UL	29
+OL	30
+OO	31
+ta	32
+duong	33
+ruc	34
+ta duong	35
+duong nhuom	36
+mau ruc	37
+tren	38
+than	39
+day	40
+huyet	41
+tren than	42
+than nhuom	43
+nhuom day	44
+day huyet	45
+ban	46
+tay	47
+tua	48
+ban tay	49
+tay nhuom	50
+mau tua	51
+vat	52
+ao	53
+mau,	54
+moi	55
+vat ao	56
+ao nhuom	57
+nhuom mau,	58
+mau, moi	59
+nam	60
+tu	61
+nam tu	62
+tu nhuom	63
+thoang	64
+choc	65
+do,	66
+sac	67
+thoang choc	68
+choc nhuom	69
+nhuom do,	70
+do, sac	71
+LLLLLL	72
+LLO	73
+ca	74
+nguc	75
+,	76
+ca nguc	77
+nguc nhuom	78
+nhuom do	79
+do ,	80
+O	81
+LO	82
+Muu	83
+da	84
+toc	85
+ga	86
+Muu da	87
+da nhuom	88
+nhuom toc	89
+toc ga	90
+ULL	91
+ma	92
+con	93
+mat	94
+ma con	95
+con nhuom	96
+nhuom da	97
+da mat	98
+toan	99
+toan than	100
+day mau	101
+chi	102
+thach	103
+chi con	104
+nhuom ca	105
+ca thach	106
+tuon	107
+ra	108
+tuon ra	109
+ra nhuom	110
+do ca	111
+nhu	112
+bi	113
+an	114
+nhu bi	115
+bi nhuom	116
+do, an	117
+hoan	118
+kin	119
+mot	120
+hoan toan	121
+toan nhuom	122
+nhuom kin	123
+kin mot	124
+ro,	125
+hong	126
+ruc ro,	127
+ro, nhuom	128
+nhuom hong	129
+hong ca	130
+trong	131
+thi	132
+boi	133
+trong thi	134
+thi nhuom	135
+do boi	136
+mang	137
+da bi	138
+nhuom mot	139
+mot mang	140
+nao	141
+dich	142
+nao cung	143
+nhuom huyet	144
+huyet dich	145
+trang	146
+muot	147
+thau	148
+net	149
+trang muot	150
+muot nhuom	151
+nhuom thau	152
+thau net	153
+tuoi,	154
+bi mau	155
+do tuoi,	156
+LLLLO	157
+khong	158
+do da	159
+mau khong	160
+tuoi	161
+khong muon	162
+muon nhuom	163
+mau tuoi	164
+di	165
+di da	166
+mot mau	167
+day mau,	168
+va	169
+mua	170
+nhua,	171
+va mua	172
+mua nhuom	173
+nhuom nhua,	174
+nhua, bi	175
+guong	176
+khi.	177
+guong mat	178
+mat nhuom	179
+nhuom tu	180
+tu khi.	181
+cua	182
+cua ga	183
+ga nhuom	184
+do mot	185
+phuc	186
+han	187
+phuc han	188
+han nhuom	189
+Nhi	190
+mau.	191
+Nhi da	192
+day mau.	193
+phun	194
+phun ra	195
+do mat	196
+mieng	197
+y	198
+tham,	199
+Quy	200
+mieng y	201
+y nhuom	202
+nhuom tham,	203
+tham, Quy	204
+L	205
+thanh	206
+dong,	207
+thanh dong,	208
+dong, nhuom	209
+phuong	210
+phap	211
+an.	212
+phuong phap	213
+phap nhuom	214
+nhuom an.	215
+chi,	216
+khi	217
+nhung	218
+hoa	219
+chi, khi	220
+khi nhuom	221
+nhuom nhung	222
+nhung hoa	223
+sau	224
+xong,	225
+sau khi	226
+nhuom xong,	227
+xong, hoa	228
+quan	229
+huyen	230
+quan trong	231
+trong nhuom	232
+mau huyen	233
+y phuc	234
+phuc nhuom	235
+mau, sac	236
+huynh,	237
+se	238
+cho	239
+huynh, se	240
+se nhuom	241
+nhuom cho	242
+cho toc	243
+LLLLLO	244
+co	245
+the	246
+lai,	247
+co the	248
+the nhuom	249
+nhuom lai,	250
+lai, cung	251
+hop	252
+thuoc	253
+vao	254
+lai	255
+hop thuoc	256
+thuoc nhuom	257
+nhuom vao	258
+vao lai	259
+thung	260
+chat	261
+vang.	262
+thung chat	263
+chat nhuom	264
+mau vang.	265
+Mau	266
+vang	267
+Mau vang	268
+vang nhuom	269
+nhuom tren	270
+tren con	271
+nguoi	272
+qua	273
+nguoi da	274
+do qua	275
+tuoi nhuom	276
+may	277
+deu	278
+ve	279
+may deu	280
+deu nhuom	281
+nhuom ve	282
+ve the	283
+biet	284
+duoc	285
+truoc	286
+roi	287
+biet duoc	288
+duoc nhuom	289
+nhuom truoc	290
+truoc roi	291
+keo	292
+to,	293
+ho	294
+keo to,	295
+to, nhuom	296
+mau, ho	297
+dao	298
+dao cung	299
+chan	300
+tuoi da	301
+do chan	302
+loe	303
+xoe	304
+nau	305
+loe xoe	306
+xoe nhuom	307
+nhuom nau	308
+nau cua	309
+Mau tuoi	310
+thanh."	311
+duoc mau	312
+nhuom cua	313
+cua thanh."	314
+LLLLLOO	315
+lat	316
+lat da	317
+mui	318
+mui lai	319
+lai nhuom	320
+gian	321
+tien	322
+gian day	323
+day nhuom	324
+mau tien	325
+moi,	326
+cai	327
+duoc thuoc	328
+nhuom moi,	329
+moi, cai	330
+noi	331
+mau da	332
+do noi	333
+nu	334
+tran	335
+nu khong	336
+khong nhuom	337
+mau tran	338
+nay	339
+nhuom noi	340
+noi nay	341
+cuc	342
+Giang	343
+Do	344
+cuc mau	345
+nhuom Giang	346
+Giang Do	347
+ULLLL	348
+rau	349
+ria	350
+rau ria	351
+ria nhuom	352
+len,	353
+chut	354
+len, khong	355
+mot chut	356
+huyet,	357
+huyet, mau	358
+do cua	359
+troi	360
+chin	361
+hoang	362
+troi da	363
+nhuom chin	364
+chin hoang	365
+vai,	366
+den,	367
+vai, lai	368
+mau den,	369
+sot	370
+sot lai,	371
+lai, nhuom	372
+nhay	373
+than.	374
+nhay nhu	375
+nhu nhuom	376
+nhuom than.	377
+kinh	378
+nguoi,	379
+kinh nguoi,	380
+nguoi, nhuom	381
+dau	382
+no	383
+dau no	384
+no nhuom	385
+doi	386
+mat co	387
+co nhuom	388
+nhuom doi	389
+doi chut	390
+lang	391
+nu lang	392
+lang nhuom	393
+nuoc	394
+xanh	395
+nuoc ho	396
+ho nhuom	397
+nhuom xanh	398
+xanh sac	399
+nui	400
+sac nui	401
+nui nhuom	402
+xanh nuoc	403
+chay	404
+chay ra	405
+Phong	406
+them	407
+Phong da	408
+nhuom them	409
+them may	410
+boi,	411
+boi, nguoi	412
+nguoi nhuom	413
+Dat	414
+dao,	415
+Dat nhuom	416
+mau dao,	417
+nang	418
+Mau nang	419
+nang nhuom	420
+do nguc	421
+kiem	422
+Tu	423
+thanh kiem	424
+kiem nhuom	425
+mau Tu	426
+tay da	427
+luoi	428
+huyet da	429
+do luoi	430
+hai	431
+hai tay	432
+boc	433
+hoa,	434
+bau	435
+boc hoa,	436
+hoa, nhuom	437
+do bau	438
+phong	439
+ho deu	440
+ve phong	441
+khung	442
+bo	443
+duom	444
+khoang	445
+khung bo	446
+bo nhuom	447
+nhuom duom	448
+duom khoang	449
+nhu hoa,	450
+chen	451
+luoi dao	452
+dao nhuom	453
+mau chen	454
+thay	455
+thay mau	456
+nua,	457
+nua, con	458
+ve chan	459
+Khi	460
+dang	461
+Khi dang	462
+dang nhuom	463
+toc cho	464
+do.	465
+mat mui	466
+mui nhuom	467
+nhuom do.	468
+toi,	469
+tuyet	470
+toi, mat	471
+nhuom net	472
+net tuyet	473
+nhin	474
+tay,	475
+nhin mau	476
+nhuom hai	477
+hai tay,	478
+nguoi ga	479
+do nhuom	480
+day mat	481
+lien	482
+lien bi	483
+loang	484
+rong	485
+loang rong	486
+rong nhuom	487
+ay,	488
+dan	489
+cho ay,	490
+ay, nhuom	491
+do dan	492
+den	493
+duong nhu	494
+nhuom den	495
+den ca	496
+theo,	497
+cung bi	498
+mau theo,	499
+nhu cung	500
+Bau	501
+hoi	502
+Bau troi	503
+troi nhuom	504
+do, hoi	505
+nga	506
+nay da	507
+mau nga	508
+deu duoc	509
+chim	510
+chim da	511
+vai	512
+to	513
+xanh,	514
+vai to	515
+to nhuom	516
+mau xanh,	517
+rong rong	518
+nang con	519
+mau than	520
+khoi	521
+khoi da	522
+quang	523
+phia	524
+huyet quang	525
+quang nhuom	526
+do, phia	527
+len	528
+dang len	529
+len nhuom	530
+de	531
+de lai,	532
+co trang	533
+trang nhuom	534
+nhuom thanh	535
+thanh mau	536
+kia	537
+kia da	538
+so,	539
+sac so,	540
+so, nhuom	541
+mau ca	542
+dan dan	543
+dan nhuom	544
+mau do.	545
+lon,	546
+mau lon,	547
+lon, nhuom	548
+dang dan	549
+hong khi	550
+ay	551
+dat.	552
+ay mau	553
+day dat.	554
+nong,	555
+mau nong,	556
+nong, nhuom	557
+han da	558
+rang	559
+nanh	560
+doan	561
+rang nanh	562
+nanh nhuom	563
+mau, doan	564
+nguyen	565
+nhan	566
+benh	567
+nguyen nhan	568
+nhan nhuom	569
+nhuom benh	570
+benh cua	571
+chien	572
+bao,	573
+deu mau	574
+nhuom chien	575
+chien bao,	576
+vet	577
+thuong	578
+dam	579
+vet thuong	580
+thuong nhuom	581
+nhuom dam	582
+dam va	583
+nhuom,	584
+tham	585
+nhuom, thuoc	586
+nhuom tham	587
+tham nhung	588
+van	589
+tay van	590
+van nhuom	591
+mau dao	592
+thanh mot	593
+nhan thoang	594
+thoang nhuom	595
+do, mat	596
+si.	597
+toc da	598
+den si.	599
+tuy	600
+phuc tuy	601
+tuy nhuom	602
+mau do,	603
+Tieu	604
+bach	605
+Tieu bach	606
+bach nhuom	607
+ve quan	608
+ULLL	609
+tanh	610
+dinh	611
+mau tanh	612
+tanh nhuom	613
+day dinh	614
+hong.	615
+nang da	616
+thanh hong.	617
+tich,	618
+tich, mau	619
+nhuom tran	620
+tran dinh	621
+uong	622
+nhoam,	623
+vua	624
+an uong	625
+uong nhuom	626
+nhuom nhoam,	627
+nhoam, vua	628
+khuon	629
+khuon mat	630
+mot ve	631
+ca.	632
+trang deu	633
+hong ca.	634

@@ -1,0 +1,800 @@
+ta	1
+tiu	2
+tit	3
+vui	4
+ve	5
+ta tiu	6
+tiu tit	7
+tit vui	8
+vui ve	9
+LL	10
+LLL	11
+tuc	12
+cuoi	13
+mat	14
+buoc	15
+tuc cuoi	16
+cuoi tit	17
+tit mat	18
+mat buoc	19
+LLLL	20
+truoc,	21
+mua	22
+cuong	23
+dao	24
+truoc, mua	25
+mua tit	26
+tit cuong	27
+cuong dao	28
+LLLLLO	29
+LLLLL	30
+chu	31
+loe	32
+ra	33
+chu mua	34
+tit loe	35
+loe ra	36
+xuong	37
+quay	38
+chay	39
+loan	40
+xuong quay	41
+quay tit	42
+tit chay	43
+chay loan	44
+on	45
+va	46
+on quay	47
+tit va	48
+va chay	49
+gi,	50
+song	51
+chuong	52
+gi, mua	53
+tit song	54
+song chuong	55
+LLLLLL	56
+LLO	57
+may	58
+nhan	59
+lai	60
+,	61
+may nhan	62
+nhan tit	63
+tit lai	64
+lai ,	65
+O	66
+LO	67
+Cau	68
+bay	69
+tan	70
+Cau bay	71
+bay tit	72
+tit ra	73
+ra tan	74
+ULL	75
+OL	76
+dai	77
+duong	78
+ngoai	79
+xa	80
+dai duong	81
+duong tit	82
+tit ngoai	83
+ngoai xa	84
+nguoi	85
+o	86
+trong	87
+Trung	88
+nguoi o	89
+o tit	90
+tit trong	91
+trong Trung	92
+ULLLL	93
+L	94
+cho	95
+thanh	96
+kiem	97
+cho mua	98
+tit thanh	99
+thanh kiem	100
+van	101
+da	102
+van mua	103
+thanh da	104
+lien	105
+truong	106
+lien mua	107
+thanh truong	108
+kia	109
+dao,	110
+kia mua	111
+cuong dao,	112
+LLLO	113
+nhu	114
+nham	115
+lai.	116
+nhu nham	117
+nham tit	118
+mat lai.	119
+sau	120
+hang	121
+o sau	122
+sau tit	123
+trong hang	124
+Trong	125
+tac	126
+khong	127
+biet	128
+Trong tac	129
+tac tit	130
+tit khong	131
+khong biet	132
+de	133
+ngan	134
+kiem mua	135
+tit de	136
+de ngan	137
+cang	138
+voi	139
+cang nhan	140
+lai voi	141
+Mieu	142
+may,	143
+nhin	144
+Mieu nhan	145
+tit may,	146
+may, nhin	147
+ULLL	148
+Lao	149
+lun	150
+map	151
+u	152
+Lao lun	153
+lun tit	154
+tit map	155
+map u	156
+doi,	157
+noi:	158
+doi, cuoi	159
+mat noi:	160
+banh	161
+xe.	162
+tit banh	163
+banh xe.	164
+khi	165
+tham	166
+khi xa	167
+xa tit	168
+tit tham	169
+tham tham	170
+tit lai.	171
+Bao	172
+mu	173
+nhung	174
+Bao mu	175
+mu tit	176
+tit ve	177
+ve nhung	178
+Doanh	179
+cay	180
+doan	181
+Doanh mua	182
+tit cay	183
+cay doan	184
+quanh	185
+minh	186
+tit quanh	187
+quanh minh	188
+mo	189
+treo	190
+tren	191
+cao,	192
+mo treo	193
+treo tit	194
+tit tren	195
+tren cao,	196
+ron	197
+thien	198
+ron tiu	199
+tit voi	200
+voi thien	201
+ma	202
+lai ma	203
+Chi	204
+thay	205
+Chi thay	206
+thay tit	207
+tit mu	208
+mu xa	209
+tuy	210
+phuong	211
+tuy o	212
+tit tan	213
+tan phuong	214
+tay	215
+tu	216
+tay mua	217
+tit tu	218
+tu tren	219
+dau,	220
+xoay	221
+dau, xoay	222
+xoay tit	223
+tren khong	224
+vung	225
+len	226
+rat	227
+truong vung	228
+vung tit	229
+tit len	230
+len rat	231
+con	232
+duoc	233
+bao	234
+con mua	235
+tit duoc	236
+duoc bao	237
+cung	238
+chang	239
+len mua	240
+tit cung	241
+cung chang	242
+hon	243
+truoc.	244
+tit hon	245
+hon truoc.	246
+theo	247
+thu	248
+van quay	249
+tit theo	250
+theo thu	251
+di.	252
+lai xoay	253
+tit di.	254
+be,	255
+be, xoay	256
+dang	257
+mut	258
+dang mut	259
+mut tit	260
+lon,	261
+cu	262
+bong	263
+lon, mua	264
+tit cu	265
+cu bong	266
+no	267
+me	268
+vi	269
+cong	270
+no me	271
+me tit	272
+tit vi	273
+vi cong	274
+nguoi xoay	275
+tit kiem	276
+kiem tan	277
+ho	278
+vang	279
+loi	280
+ho tiu	281
+tit vang	282
+vang loi	283
+xac	284
+ban.	285
+xac quay	286
+tren ban.	287
+mot	288
+luc	289
+tit mot	290
+mot luc	291
+Long	292
+Long mua	293
+Sat	294
+vo	295
+Sat mu	296
+ve vo	297
+cu vung	298
+co	299
+co nhan	300
+lai ra	301
+Quan	302
+Quan mua	303
+tit truong	304
+truong kiem	305
+Thien	306
+Thien mua	307
+ga	308
+hieu	309
+ga mu	310
+tit chang	311
+chang hieu	312
+net	313
+dao mua	314
+tit net	315
+net mat	316
+beo	317
+thanh lun	318
+va beo	319
+da mua	320
+song dao	321
+cong,	322
+muoi	323
+an	324
+cong, muoi	325
+muoi tit	326
+tit an	327
+an muoi	328
+LLLLO	329
+roi	330
+phinh	331
+xac xoay	332
+tit roi	333
+roi phinh	334
+Muoi	335
+la	336
+Muoi tit	337
+tit tuc	338
+tuc la	339
+thi	340
+thanh muoi	341
+tit thi	342
+thi minh	343
+lai noi:	344
+phoi	345
+phoi mua	346
+lao	347
+tieng	348
+lao lun	349
+tit ma	350
+ma tieng	351
+tap,	352
+canh	353
+dai xa	354
+tit tap,	355
+tap, canh	356
+Thuy	357
+Quan o	358
+tren Thuy	359
+gia	360
+Lieu	361
+gia lun	362
+tit o	363
+o Lieu	364
+moi	365
+that	366
+tit moi	367
+moi that	368
+(tuc	369
+Ðau	370
+tit (tuc	371
+(tuc Ðau	372
+OLLL	373
+nen	374
+tit nen	375
+nen ga	376
+cai	377
+lai lun	378
+voi cai	379
+da lun	380
+lai map	381
+xoan	382
+may xoan	383
+xoan tit	384
+lai,	385
+tit lai,	386
+lai, nhung	387
+phai	388
+ngoi	389
+phien	390
+phai ngoi	391
+ngoi tit	392
+tit xuong	393
+xuong phien	394
+di	395
+den	396
+di xa	397
+tap, den	398
+to	399
+bai	400
+to mua	401
+song bai	402
+han	403
+don	404
+han mua	405
+thanh don	406
+Ðam	407
+cap	408
+but	409
+Ðam mua	410
+tit cap	411
+cap but	412
+Tung	413
+Tung mua	414
+cay roi	415
+sau.	416
+nhan o	417
+tit dang	418
+dang sau.	419
+van mu	420
+chang biet	421
+nang,	422
+tac,	423
+bon	424
+nang, trong	425
+trong tit	426
+tit tac,	427
+tac, bon	428
+kiem.	429
+doi, mua	430
+thanh kiem.	431
+tang	432
+may.	433
+bong len	434
+len tit	435
+tit tang	436
+tang may.	437
+thang	438
+tap	439
+lan	440
+cay thang	441
+thang tit	442
+tit tap	443
+tap lan	444
+gan	445
+lai xa	446
+o gan	447
+Lang	448
+Lang mua	449
+u.	450
+no lun	451
+map u.	452
+the	453
+thi mu	454
+khong the	455
+nguoi lun	456
+truoc	457
+nguoi,	458
+tit truoc	459
+truoc nguoi,	460
+phuong,	461
+moc	462
+phuong, mua	463
+thanh moc	464
+LLLLLLO	465
+Lao mua	466
+tinh,	467
+tinh, mua	468
+va xa	469
+tap, len	470
+luon	471
+tay xoan	472
+lai luon	473
+bi	474
+lot	475
+bi lot	476
+lot tit	477
+tan o	478
+Le	479
+hai	480
+Le nhan	481
+lai, hai	482
+UL	483
+binh	484
+roi mua	485
+tit binh	486
+binh khi	487
+ban	488
+kia vung	489
+tit hai	490
+hai ban	491
+tit don	492
+don dao	493
+cu xoay	494
+ma khong	495
+xoay minh	496
+minh tit	497
+tit di	498
+di cho	499
+su	500
+su lun	501
+tit chu	502
+chu bao	503
+may xa	504
+ma voi	505
+cung xoay	506
+theo mat	507
+ngoc,	508
+ngoc, xa	509
+tap chang	510
+giao	511
+tit nhu	512
+nhu giao	513
+lai, lao	514
+khong,	515
+mo xoay	516
+tren khong,	517
+dang nham	518
+cung mo	519
+tieng nguoi	520
+nguoi tit	521
+dang xa	522
+gian,	523
+gian, nham	524
+mat lai	525
+danh	526
+danh mua	527
+Phung	528
+Phung nham	529
+hai mat	530
+-	531
+!	532
+Vi	533
+- Muoi	534
+tit !	535
+! Vi	536
+OO	537
+"	538
+" muoi	539
+tit "	540
+" thi	541
+tan tit	542
+tit xa	543
+xa xa	544
+tam	545
+lang	546
+con duong	547
+tit tam	548
+tam lang	549
+han lun	550
+lai, lien	551
+phan	552
+cay phan	553
+thao	554
+nhung mu	555
+chu thao	556
+kiem,	557
+lai mua	558
+thanh kiem,	559
+vua	560
+day	561
+vua nhan	562
+lai, day	563
+lui,	564
+cao.	565
+lui, bay	566
+len cao.	567
+hien	568
+lai, hien	569
+cung mua	570
+vang nham	571
+mat lai,	572
+lai khong	573
+nay	574
+nay lun	575
+lai beo	576
+Nguoi	577
+Nguoi lun	578
+va map	579
+mac	580
+sau,	581
+mac ngoi	582
+dang sau,	583
+thoai	584
+thoai xoay	585
+chi	586
+phia	587
+chi thay	588
+tap phia	589
+phat	590
+nhan mua	591
+tit phat	592
+phat ra	593
+ngoay	594
+mu,	595
+quan	596
+len ngoay	597
+ngoay tit	598
+tit mu,	599
+mu, quan	600
+khuc	601
+gian, mua	602
+tit khuc	603
+khuc dao	604
+hinh	605
+khom	606
+lung	607
+hinh lun	608
+tit khom	609
+khom lung	610
+long	611
+Quan nhan	612
+cap long	613
+Lenh	614
+mu quay	615
+tit nguoi	616
+nguoi Lenh	617
+nen mua	618
+tieng,	619
+Kim	620
+tieng, mua	621
+thanh Kim	622
+lao xoay	623
+di nhu	624
+nhu mot	625
+phu,	626
+nam	627
+phu, mua	628
+tit nam	629
+nam thanh	630
+phu	631
+do	632
+phu lun	633
+tit do	634
+do co	635
+kia,	636
+o kia,	637
+kia, tit	638
+ngoai cung	639
+do nhan	640
+lai, nhan	641
+thoi	642
+troi,	643
+thoi bay	644
+len troi,	645
+ca	646
+ngon	647
+ca tren	648
+tren tit	649
+tit ngon	650
+ngon cay	651
+do the	652
+bat	653
+tit danh	654
+danh bat	655
+mat,	656
+mat, cuoi	657
+Ga	658
+Ga mua	659
+cap dao	660
+rit	661
+tit rit	662
+rit len	663
+Dai	664
+may mu	665
+tap, Dai	666
+mai	667
+ma o	668
+tit mai	669
+mai sau	670
+coc,	671
+tham coc,	672
+coc, tit	673
+xa trong	674
+tran	675
+tran nhan	676
+lai, nhin	677
+rau	678
+mit,	679
+nhoang	680
+rau ban	681
+ban tit	682
+tit mit,	683
+mit, nhoang	684
+cua	685
+ca tieng	686
+tieng tit	687
+tit tit	688
+tit cua	689
+cua den	690
+ma map	691
+chuyen	692
+chuyen mu	693
+chang co	694
+am	695
+noi	696
+bien	697
+am sau	698
+tit noi	699
+noi bien	700
+troi	701
+cao	702
+chua	703
+rot	704
+troi cao	705
+cao tit	706
+tit chua	707
+chua rot	708
+khoi	709
+khoi lun	710
+tit ,	711
+, nen	712
+mat nham	713
+si	714
+si lun	715
+Chien	716
+tuyet.	717
+Chien mua	718
+trong tuyet.	719
+lao mua	720
+xoi	721
+tap.	722
+xa xoi	723
+xoi tit	724
+tit tap.	725
+sinh	726
+sinh nhan	727
+Huyet	728
+cay Huyet	729
+trai,	730
+trai, mua	731
+Thanh	732
+Thanh mua	733
+cay thien	734
+dau	735
+vong,	736
+dau quay	737
+mot vong,	738
+phia sau	739
+trong tu	740
+lai, ve	741
+xoat	742
+may xoat	743
+xoat tit	744
+lai sau	745
+tram	746
+lai, tram	747
+thi moc	748
+moc tit	749
+tan phia	750
+cang mu	751
+tit chuyen	752
+chuyen trong	753
+ta mua	754
+nhung di	755
+di tit	756
+du,	757
+du, mua	758
+Hung,	759
+thuong	760
+Hung, mua	761
+cay thuong	762
+ULLLO	763
+Ha	764
+tat	765
+Ha nhan	766
+lai, tat	767
+No	768
+giau	769
+goc	770
+gac	771
+No giau	772
+giau tit	773
+tit goc	774
+goc gac	775
+no ngoay	776
+len ,	777
+ben	778
+ben nhan	779
+Co	780
+Co nhan	781
+lien vung	782
+trai	783
+trai dai	784
+dai tit	785
+thanh loan	786
+can	787
+ban xoay	788
+tit can	789
+can lai,	790
+mong	791
+ve noi	792
+noi tit	793
+tap mong	794
+non,	795
+xanh	796
+non, xanh	797
+xanh tit	798
+tap mot	799
+nhu nhung	800

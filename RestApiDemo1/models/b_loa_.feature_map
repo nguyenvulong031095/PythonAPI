@@ -1,0 +1,631 @@
+dap	1
+qua	2
+loa	3
+hai	4
+ba	5
+dap qua	6
+qua loa	7
+loa hai	8
+hai ba	9
+LL	10
+LLL	11
+troi,	12
+choi	13
+ma	14
+khong	15
+troi, choi	16
+choi loa	17
+loa ma	18
+ma khong	19
+LLLL	20
+LLLLO	21
+LLLLL	22
+than	23
+the	24
+lo,	25
+lien	26
+than the	27
+the loa	28
+loa lo,	29
+lo, lien	30
+LLO	31
+roi	32
+len	33
+mat,	34
+nham	35
+roi len	36
+len loa	37
+loa mat,	38
+mat, nham	39
+LLLO	40
+quang	41
+chop	42
+tren	43
+quang chop	44
+chop loa	45
+loa tren	46
+tren khong	47
+sang	48
+chan	49
+dung	50
+quang sang	51
+sang loa	52
+loa chan	53
+chan dung	54
+nguoi	55
+bac	56
+ho:	57
+-	58
+nguoi bac	59
+bac loa	60
+loa ho:	61
+ho: -	62
+O	63
+LO	64
+do	65
+chieu	66
+sang choi	67
+loa do	68
+do chieu	69
+nam	70
+nu	71
+chinh	72
+nam nu	73
+nu loa	74
+lo, chinh	75
+lay	76
+dong.	77
+loa lay	78
+lay dong.	79
+vay	80
+boc	81
+quang choi	82
+loa vay	83
+vay boc	84
+nhai	85
+vai	86
+mieng	87
+nhai qua	88
+loa vai	89
+vai mieng	90
+vao	91
+mat.	92
+chieu vao	93
+vao loa	94
+loa mat.	95
+ruc	96
+ro	97
+loa ruc	98
+ruc ro	99
+dot	100
+nhien	101
+len.	102
+dot nhien	103
+nhien loa	104
+loa len.	105
+bach	106
+sac	107
+kho	108
+bach sac	109
+sac loa	110
+mat, kho	111
+Tran	112
+ro,	113
+Tran choi	114
+ruc ro,	115
+ULLL	116
+OL	117
+lam	118
+cho	119
+lam cho	120
+cho loa	121
+vang	122
+tieng	123
+dep	124
+duong.	125
+vang tieng	126
+tieng loa	127
+loa dep	128
+dep duong.	129
+LLLLLO	130
+lai	131
+dong	132
+voi	133
+nhau	134
+lai dong	135
+dong loa	136
+loa voi	137
+voi nhau	138
+may	139
+cai	140
+hat	141
+hong	142
+may cai	143
+cai loa	144
+loa hat	145
+hat hong	146
+khien	147
+moi	148
+loa khien	149
+khien moi	150
+co	151
+lu	152
+la	153
+co lu	154
+lu loa	155
+loa len	156
+len la	157
+con	158
+mom	159
+mep	160
+giai	161
+con mom	162
+mom loa	163
+loa mep	164
+mep giai	165
+da	166
+lo	167
+cua	168
+tren da	169
+da loa	170
+loa lo	171
+lo cua	172
+tu	173
+nu tu	174
+tu loa	175
+loa the	176
+the nam	177
+khoi	178
+bi	179
+khoi bi	180
+bi loa	181
+de	182
+lao	183
+mat	184
+de lao	185
+lao loa	186
+loa mat	187
+mat khong	188
+lo ma	189
+sap	190
+loa da	191
+da sap	192
+ngoi,	193
+che	194
+choi ngoi,	195
+ngoi, loa	196
+mat che	197
+loa chieu	198
+chieu roi	199
+kiem	200
+kiem choi	201
+loa khong	202
+khong lo	203
+chot	204
+dang	205
+loa chot	206
+chot dang	207
+nuot	208
+bach quang	209
+quang loa	210
+loa sang	211
+sang nuot	212
+ngoi	213
+ngoi ngoi	214
+ngoi loa	215
+nang	216
+thi	217
+ra	218
+nang sang	219
+loa thi	220
+thi ra	221
+phan	222
+biet	223
+loa phan	224
+phan biet	225
+mi	226
+choi mat	227
+mat loa	228
+loa mi	229
+mi do	230
+chang	231
+lam chang	232
+chang loa	233
+tia	234
+tro	235
+xoa,	236
+doi	237
+tia tro	238
+tro loa	239
+loa xoa,	240
+xoa, doi	241
+tan	242
+cay	243
+xoa	244
+rung	245
+tan cay	246
+cay loa	247
+loa xoa	248
+xoa rung	249
+tron	250
+thu	251
+tron sang	252
+mat thu	253
+na	254
+ca	255
+troi	256
+na choi	257
+loa ca	258
+ca troi	259
+nhin	260
+van	261
+nhin ma	262
+ma loa	263
+mat, van	264
+truoc	265
+sang,	266
+ho	267
+truoc mat	268
+loa sang,	269
+sang, ho	270
+hieu	271
+dai	272
+khai	273
+hieu qua	274
+loa dai	275
+dai khai	276
+hoi	277
+bon	278
+Duong	279
+hoi qua	280
+loa bon	281
+bon Duong	282
+ULLLL	283
+mot	284
+choi ngoi	285
+mat, mot	286
+lam qua	287
+cai mom	288
+phai	289
+Mao	290
+phai dong	291
+loa cua	292
+cua Mao	293
+ULL	294
+bong	295
+hoanh	296
+,	297
+bong hoanh	298
+hoanh loa	299
+loa hoi	300
+hoi ,	301
+o	302
+dau	303
+cua sang	304
+loa o	305
+o dau	306
+L	307
+Mat	308
+anh	309
+len,	310
+tai	311
+Mat anh	312
+anh loa	313
+loa len,	314
+len, tai	315
+tay	316
+mieng,	317
+goi	318
+tay lam	319
+lam loa	320
+loa mieng,	321
+mieng, goi	322
+duoi	323
+lo duoi	324
+chia	325
+phai chia	326
+chia loa	327
+loa moi	328
+moi nguoi	329
+giai,	330
+mep giai,	331
+len tu	332
+o bon	333
+keu	334
+lon:	335
+loa keu	336
+keu lon:	337
+co mom	338
+lat	339
+phat,	340
+lat phat,	341
+phat, loa	342
+xoa che	343
+trai	344
+gai	345
+om	346
+trai gai	347
+gai loa	348
+lo om	349
+mon	350
+toc	351
+mon toc	352
+toc loa	353
+xoa tren	354
+Minh	355
+cung	356
+Minh cung	357
+cung loa	358
+loa doi	359
+doi mat,	360
+minh	361
+minh da	362
+loa roi	363
+roi khong	364
+y	365
+mu	366
+cam	367
+kich	368
+y mu	369
+mu loa	370
+loa cam	371
+cam kich	372
+mat lai	373
+lai loa	374
+khong khoi	375
+an	376
+an qua	377
+loa cho	378
+cho do	379
+ha	380
+lenh	381
+len lam	382
+loa ha	383
+ha lenh	384
+ong	385
+ong anh	386
+mat, chieu	387
+han,	388
+nang chieu	389
+chieu loa	390
+mat han,	391
+huy	392
+hoang	393
+So	394
+huy hoang	395
+hoang loa	396
+mat, So	397
+UL	398
+ben	399
+xuat	400
+ben choi	401
+loa cung	402
+cung xuat	403
+bong cay	404
+xoa, nhin	405
+quan	406
+xac	407
+quan qua	408
+loa vao	409
+vao xac	410
+cho khoi	411
+khoi loa	412
+lo than	413
+len mom	414
+lung	415
+com,	416
+loa lung	417
+lung com,	418
+gio,	419
+nhu	420
+gio, sang	421
+loa nhu	422
+nhu mat	423
+chang nam	424
+nam loa	425
+the tren	426
+the.	427
+doi cung	428
+loa the.	429
+lap	430
+vang choi	431
+roi lap	432
+the qua	433
+nhu the.	434
+le	435
+mat lap	436
+lap loa	437
+loa anh	438
+anh le	439
+lai lap	440
+loa mot	441
+mot dong	442
+tung	443
+ra,	444
+phu	445
+tung ra,	446
+ra, loa	447
+xoa phu	448
+mai	449
+ban	450
+toc mai	451
+mai loa	452
+xoa, ban	453
+se	454
+du	455
+rang	456
+se du	457
+du loa	458
+len rang	459
+tho	460
+le qua	461
+roi tho	462
+mot sang	463
+tha	464
+xuong	465
+lai tha	466
+tha loa	467
+xoa xuong	468
+lon,	469
+kinh	470
+phat	471
+lon, van	472
+van loa	473
+loa kinh	474
+kinh phat	475
+hoan	476
+kinh,	477
+biet cua	478
+cua loa	479
+loa hoan	480
+hoan kinh,	481
+den	482
+noi	483
+den noi	484
+noi loa	485
+lo cho	486
+khi	487
+nghe	488
+thong	489
+bao	490
+khi nghe	491
+nghe loa	492
+loa thong	493
+thong bao	494
+ta	495
+ta phai	496
+phai loa	497
+mat ma	498
+nhung	499
+anh sang	500
+mat, nhung	501
+len, de	502
+de loa	503
+di	504
+lo, di	505
+bua	506
+bai.	507
+nang qua	508
+loa bua	509
+bua bai.	510
+nha	511
+deu	512
+nha deu	513
+deu loa	514
+so	515
+con so	516
+so loa	517
+mat tren	518
+mat dong	519
+ro loa	520
+mat khien	521
+mau	522
+trong	523
+mau trong	524
+trong loa	525
+thay	526
+cam thay	527
+thay loa	528
+diu	529
+sang lap	530
+loa diu	531
+diu di	532
+dan	533
+dan ba	534
+ba loa	535
+the ma	536
+duoc.	537
+loa duoc.	538
+khong the	539
+phong	540
+cung phong	541
+bay	542
+luon.	543
+khi choi	544
+loa bay	545
+bay luon.	546
+hinh	547
+the,	548
+than hinh	549
+hinh loa	550
+loa the,	551
+the, van	552
+Xung	553
+Xung phai	554
+mat dan	555
+doa	556
+hoa	557
+ken,	558
+doa hoa	559
+hoa loa	560
+loa ken,	561
+ken, moi	562
+rua	563
+suoi,	564
+rua qua	565
+loa duoi	566
+duoi suoi,	567
+khac	568
+kiem sang	569
+loa lai	570
+lai khac	571
+nhang	572
+toi	573
+nhang sang	574
+loa phong	575
+phong toi	576
+rach	577
+nut	578
+chop sang	579
+loa rach	580
+rach nut	581
+ngang	582
+rach ngang	583
+Ao	584
+cua Ao	585
+keo	586
+khong loa	587
+mat, keo	588
+thieu	589
+chung	590
+thieu nu	591
+lo, chung	592
+hang	593
+hang qua	594
+nen	595
+loa nen	596
+nen mat	597
+soi	598
+soi toc	599
+xoa truoc	600
+manh	601
+liet	602
+manh liet	603
+liet loa	604
+mat, rang	605
+trung	606
+trung lap	607
+loa nhung	608
+nhung tia	609
+lo nam	610
+nhanh	611
+den nhanh	612
+nhanh loa	613
+xoa duoi	614
+nhat,	615
+Luc	616
+loa nhat,	617
+nhat, Luc	618
+khong qua	619
+quang lap	620
+loa choi	621
+choi mat.	622
+lo thi	623
+quay	624
+quat,	625
+quay quat,	626
+quat, loa	627
+loa loa	628
+loa nang	629
+he.	630
+nang he.	631

@@ -1,0 +1,964 @@
+co	1
+suc	2
+ray	3
+rua	4
+may	5
+co suc	6
+suc ray	7
+ray rua	8
+rua may	9
+LL	10
+LLL	11
+tung	12
+phu	13
+kho	14
+tam	15
+tung phu	16
+phu ray	17
+ray kho	18
+kho tam	19
+LLLL	20
+phat	21
+run	22
+kich	23
+dong,	24
+phat run	25
+run ray	26
+ray kich	27
+kich dong,	28
+LLLLO	29
+con	30
+ruong	31
+hai	32
+nhi?	33
+con ruong	34
+ruong ray	35
+ray hai	36
+hai nhi?	37
+LLLLL	38
+LLLO	39
+luc	40
+day	41
+trut	42
+sang	43
+luc day	44
+day ray	45
+ray trut	46
+trut sang	47
+chu	48
+muon	49
+ngoi	50
+chu run	51
+ray muon	52
+muon ngoi	53
+dang	54
+thu	55
+minh	56
+dang run	57
+ray thu	58
+thu minh	59
+do	60
+moi	61
+ra.	62
+do moi	63
+moi ray	64
+ray ra.	65
+LLO	66
+Thien	67
+noi,	68
+„Chung	69
+Thien run	70
+ray noi,	71
+noi, „Chung	72
+OULLLL	73
+ULLLL	74
+OL	75
+LO	76
+khong	77
+quay	78
+su	79
+khong quay	80
+quay ray	81
+ray su	82
+su phu	83
+chang	84
+chang ruong	85
+ray chang	86
+chang co	87
+lai,	88
+tai	89
+cho,	90
+lai, run	91
+ray tai	92
+tai cho,	93
+tay	94
+gio	95
+len	96
+tay run	97
+ray gio	98
+gio len	99
+cung	100
+ca	101
+theo.	102
+cung run	103
+ray ca	104
+ca theo.	105
+so	106
+vao	107
+ray so	108
+so vao	109
+nhien	110
+yeu	111
+ot...	112
+nhien run	113
+ray yeu	114
+yeu ot...	115
+LLOOO	116
+Vu	117
+nguoi	118
+thot:	119
+Vu run	120
+ray nguoi	121
+nguoi thot:	122
+UL	123
+thi	124
+that	125
+ra	126
+cho	127
+thi that	128
+that ray	129
+ray ra	130
+ra cho	131
+Lenh	132
+xiet	133
+chat.	134
+Lenh run	135
+ray xiet	136
+xiet chat.	137
+ULLL	138
+lap	139
+cap	140
+ray lap	141
+lap cap	142
+rang	143
+tu	144
+ve	145
+sau	146
+rang tu	147
+tu ray	148
+ray ve	149
+ve sau	150
+chan	151
+dap	152
+chan run	153
+ray dap	154
+dap khong	155
+dat	156
+phi	157
+dat day	158
+ray thi	159
+thi phi	160
+nua.	161
+ray nua.	162
+Ban,	163
+sau,	164
+Ban, tu	165
+ve sau,	166
+ULLO	167
+duoc	168
+nua,	169
+duoc quay	170
+nguoi nua,	171
+thiet,	172
+nga	173
+vat	174
+thiet, run	175
+ray nga	176
+nga vat	177
+LLLLLO	178
+giac	179
+mong,	180
+nguoi quay	181
+ray giac	182
+giac mong,	183
+the	184
+vao,	185
+khong the	186
+the ray	187
+ray vao,	188
+vao, do	189
+han	190
+sum	191
+xuong,	192
+han run	193
+ray sum	194
+sum xuong,	195
+Pham	196
+hoang	197
+hot,	198
+Pham run	199
+ray hoang	200
+hoang hot,	201
+nhin	202
+Tong	203
+ray nhin	204
+nhin Tong	205
+ban	206
+roi	207
+ban run	208
+ray roi	209
+roi do	210
+Mon	211
+khap	212
+noi	213
+Mon day	214
+ray khap	215
+khap noi	216
+ULL	217
+Dao	218
+hoi	219
+lau	220
+Dao run	221
+ray hoi	222
+hoi lau	223
+xoa	224
+bung	225
+xoa bung	226
+bung ray	227
+ra noi	228
+ga,	229
+hoi,	230
+„Hang	231
+ga, run	232
+ray hoi,	233
+hoi, „Hang	234
+OULLL	235
+di	236
+cac	237
+ngon	238
+di day	239
+ray cac	240
+cac ngon	241
+bang	242
+chung	243
+toi	244
+bang tu	245
+ray chung	246
+chung toi	247
+chuot	248
+chiu	249
+chuot quay	250
+ray khong	251
+khong chiu	252
+lau,	253
+hoi lau,	254
+ngot	255
+cham	256
+chap	257
+ngot run	258
+ray cham	259
+cham chap	260
+do,	261
+nhung	262
+do, run	263
+ray nhung	264
+nhung khong	265
+da	266
+va	267
+bo	268
+da ruong	269
+ray va	270
+va bo	271
+lanh,	272
+nhe	273
+nhe,	274
+lanh, run	275
+ray nhe	276
+nhe nhe,	277
+kiem	278
+vo	279
+kiem day	280
+ray vo	281
+vo cung	282
+cuoc	283
+song	284
+mai	285
+cuoc song	286
+song ray	287
+ray day	288
+day mai	289
+lan	290
+cau	291
+lan cau	292
+cau ray	293
+la	294
+to.	295
+that la	296
+la ray	297
+ra to.	298
+dam	299
+an	300
+dam quay	301
+su an	302
+liet,	303
+nguoi run	304
+kich liet,	305
+lao	306
+sach	307
+vo,	308
+lao day	309
+ray sach	310
+sach vo,	311
+chung,	312
+chung, tu	313
+cong	314
+cong run	315
+ray that	316
+den	317
+ta.	318
+den quay	319
+ray ta.	320
+Bao	321
+trong	322
+Bao gio	323
+gio ray	324
+ray co	325
+co trong	326
+-	327
+Tu	328
+tro	329
+di,	330
+- Tu	331
+Tu ray	332
+ray tro	333
+tro di,	334
+O	335
+OO	336
+mang	337
+to	338
+mang thi	339
+thi ray	340
+ra to	341
+ai	342
+ai quay	343
+anh	344
+bot	345
+rut	346
+anh bot	347
+bot ray	348
+ray rut	349
+rut va	350
+nhin va	351
+va ray	352
+Long	353
+lay	354
+lam	355
+Long chang	356
+chang ray	357
+ray lay	358
+lay lam	359
+mau,	360
+:	361
+mau, run	362
+ray noi	363
+noi :	364
+han,	365
+han, run	366
+Quan	367
+nguoi.	368
+Quan day	369
+ray trong	370
+trong nguoi.	371
+nhu	372
+bi	373
+giac run	374
+ray nhu	375
+nhu bi	376
+lai	377
+y?	378
+Nang	379
+lai quay	380
+ray y?	381
+y? Nang	382
+nu	383
+nu dang	384
+dang ray	385
+tai cho	386
+cang	387
+nong	388
+xung	389
+quanh	390
+cang nong	391
+nong ray	392
+ray xung	393
+xung quanh	394
+dan	395
+binh	396
+ray dan	397
+dan binh	398
+con run	399
+quat	400
+lon,	401
+ray quat	402
+quat lon,	403
+so,	404
+"Ðung!"	405
+so, run	406
+noi, "Ðung!"	407
+OULLLOO	408
+y,	409
+ray y,	410
+y, ngoi	411
+Hoan	412
+Hoan run	413
+so hai	414
+luc,	415
+chuyen	416
+minh,	417
+luc, run	418
+ray chuyen	419
+chuyen minh,	420
+LLLLLL	421
+cua	422
+bo dang	423
+ra cua	424
+ha	425
+ha run	426
+ray cang	427
+cang luc	428
+than	429
+than run	430
+roi bung	431
+lom	432
+com	433
+ray lom	434
+lom com	435
+buong	436
+ray buong	437
+buong ra.	438
+nhan	439
+ray lao	440
+lao nhan	441
+mau	442
+hong	443
+vao.	444
+mau hong	445
+hong ray	446
+ray vao.	447
+can	448
+can tu	449
+sao	450
+khong sao	451
+sao ray	452
+rua cho	453
+vong,	454
+do day	455
+ray tu	456
+tu vong,	457
+tong	458
+ma	459
+dong	460
+tong ma	461
+ma ray	462
+ray dong	463
+dong can	464
+Lao	465
+Lao ra	466
+ra ray	467
+ray da	468
+da mau	469
+dung	470
+tren	471
+dung run	472
+ray tren	473
+tren cac	474
+van	475
+ta?.	476
+van quay	477
+chung ta?.	478
+LLOO	479
+day,	480
+lo	481
+ray day,	482
+day, lo	483
+tay han	484
+han ray	485
+rua khong	486
+phai	487
+viet	488
+Long tu	489
+ray phai	490
+phai viet	491
+ty	492
+be	493
+Lang	494
+ty run	495
+ray be	496
+be Lang	497
+het	498
+het suc	499
+rua roi	500
+nang	501
+ray nang	502
+nang nua.	503
+nao	504
+ra,	505
+chi	506
+nao cung	507
+cung ray	508
+ray ra,	509
+ra, chi	510
+cay	511
+lien	512
+mien,	513
+cay run	514
+ray lien	515
+lien mien,	516
+xin	517
+ray xin	518
+xin ve	519
+Tuan	520
+nen	521
+Tuan run	522
+ray nen	523
+nen moi	524
+Giang	525
+kim	526
+ngan,	527
+Giang day	528
+ray kim	529
+kim ngan,	530
+Ho	531
+hien	532
+Ho run	533
+nhin hien	534
+ngung,	535
+lai run	536
+khong ngung,	537
+„Tai	538
+hoi, „Tai	539
+OULL	540
+trang,	541
+dau	542
+trang, day	543
+nhung dau	544
+chang muon	545
+muon ray	546
+ra, nen	547
+ke	548
+ke run	549
+ray den	550
+den noi	551
+nguoi day	552
+nhung thu	553
+met,	554
+noi:	555
+"Thieu	556
+met, run	557
+ray noi:	558
+noi: "Thieu	559
+khoi	560
+xong	561
+khoi quay	562
+ray la	563
+la xong	564
+Nhung	565
+Nhung tu	566
+rua ma	567
+dem	568
+nhu run	569
+trong dem	570
+tru,	571
+tru, tu	572
+Le	573
+mot	574
+cach	575
+Le run	576
+ray mot	577
+mot cach	578
+ngai	579
+Truong	580
+Tiep	581
+ngai quay	582
+ray Truong	583
+Truong Tiep	584
+ULLLLL	585
+To	586
+ti,	587
+da phu	588
+ray To	589
+To ti,	590
+ca,	591
+ray ca,	592
+ca, Truong	593
+dap:	594
+van run	595
+ray dap:	596
+dap: -	597
+sach day	598
+trong dau	599
+khi	600
+tua	601
+son	602
+khi day	603
+ray tua	604
+tua son	605
+Tay	606
+Tay run	607
+tu tu	608
+hinh	609
+Ðien	610
+hinh run	611
+ray cua	612
+cua Ðien	613
+toan	614
+than,	615
+ray toan	616
+toan than,	617
+huyet	618
+trong huyet	619
+dien	620
+dien day	621
+chung nao	622
+„Nguoi	623
+„Nguoi tu	624
+nhu dung	625
+Ky	626
+dua	627
+Ky run	628
+ray dua	629
+dua tay	630
+cu	631
+theo	632
+tieng	633
+cu run	634
+ray theo	635
+theo tieng	636
+nhan run	637
+nhu mot	638
+ray ma	639
+ma ngon	640
+sung,	641
+mat	642
+sung, run	643
+dua mat	644
+hoi run	645
+Nguyet	646
+Nguyet day	647
+ray dam	648
+dam lay	649
+cam	650
+cuon	651
+ray cam	652
+cam cuon	653
+sach run	654
+ray,	655
+dot	656
+run run	657
+ray ray,	658
+ray, dot	659
+duoc,	660
+„Tha	661
+duoc, run	662
+noi, „Tha	663
+vua	664
+nhu vua	665
+ga	666
+muon quay	667
+ray ga	668
+ga nen	669
+Nuong	670
+dap,	671
+"Vay	672
+Nuong run	673
+ray dap,	674
+dap, "Vay	675
+No	676
+nghi	677
+No run	678
+ray nghi	679
+nghi mot	680
+dac,	681
+hien day	682
+dam dac,	683
+ran,	684
+ran, run	685
+te	686
+cang run	687
+ray te	688
+te hai	689
+Ðang	690
+mui,	691
+Ðang rua	692
+rua ray	693
+ray mat	694
+mat mui,	695
+ta	696
+di, tu	697
+ray ta	698
+ta khong	699
+cung day	700
+khap noi,	701
+ga.	702
+ray ga.	703
+bat	704
+tay,	705
+bat giac	706
+giac ray	707
+ray ray	708
+ray tay,	709
+tay, nhung	710
+vay,	711
+han vay,	712
+vay, ray	713
+ray the	714
+the nao	715
+Ta	716
+Ta ray	717
+hai,	718
+co run	719
+so hai,	720
+mua	721
+lanh	722
+lanh.	723
+mua lay	724
+lay ray	725
+ray lanh	726
+lanh lanh.	727
+han.	728
+cua han.	729
+Duong	730
+Mot	731
+Lo	732
+Lung	733
+Duong Mot	734
+Mot ray	735
+ray Lo	736
+Lo Lung	737
+thanh	738
+su thanh	739
+mieng	740
+ta?”.	741
+mieng la	742
+ray ta?”.	743
+ray phat	744
+phat ra	745
+om	746
+chat	747
+ray om	748
+om chat	749
+May	750
+hom	751
+Su	752
+May hom	753
+hom ray	754
+ray Su	755
+Su phu	756
+xua	757
+biet	758
+van xua	759
+xua ray	760
+khong biet	761
+nhay	762
+nhot	763
+sang run	764
+ray nhay	765
+nhay nhot	766
+muot	767
+muot run	768
+ray duoc	769
+duoc chung	770
+nguyen	771
+nguyen day	772
+khap tam	773
+hiem	774
+hiem day	775
+ray ke	776
+ke thu	777
+bon	778
+ray khi	779
+khi bon	780
+run,	781
+run, run	782
+vi	783
+van con	784
+con ray	785
+rut vi	786
+mu	787
+ngot,	788
+mu run	789
+khong ngot,	790
+nang run	791
+nhu con	792
+Muc	793
+o	794
+Ham	795
+Muc day	796
+ray o	797
+o Ham	798
+L	799
+ta!”,	800
+ray ta!”,	801
+ta!”, noi	802
+hoi quay	803
+cua nguoi	804
+Ga	805
+ket	806
+luan:	807
+Ga run	808
+ray ket	809
+ket luan:	810
+ray, co	811
+thay	812
+chut	813
+nao.	814
+thay run	815
+ray chut	816
+chut nao.	817
+luong,	818
+hon	819
+phach,	820
+luong, quay	821
+ray hon	822
+hon phach,	823
+Nha	824
+nhi,	825
+gio ruong	826
+ray Nha	827
+Nha nhi,	828
+My	829
+ray Ðien	830
+Ðien My	831
+Hoi	832
+lac	833
+lu	834
+Hoi run	835
+ray lac	836
+lac lu	837
+chon	838
+trieu	839
+than day	840
+ray chon	841
+chon trieu	842
+dan tu	843
+trong nguoi	844
+hon,	845
+„Cac	846
+hon, run	847
+noi, „Cac	848
+Muc run	849
+noi, „Nguoi	850
+ra!	851
+Chung	852
+ray ra!	853
+ra! Chung	854
+deu	855
+deu run	856
+khe	857
+nhac	858
+khe run	859
+ray nhac	860
+nhac duoc	861
+len:“Can…than…”.	862
+ray viet	863
+viet len:“Can…than…”.	864
+LLLOOULLOLLLLOOO	865
+xoay,	866
+du	867
+doi.	868
+xoay, run	869
+ray du	870
+du doi.	871
+cam thay	872
+thay ray	873
+rut khong	874
+rung	875
+con rung	876
+rung ray	877
+Nang run	878
+u	879
+u day	880
+trong gio	881
+lang	882
+ray ga,	883
+ga, lang	884
+khoe	885
+mieng,	886
+ray khoe	887
+khoe mieng,	888
+doi,	889
+du doi,	890
+ho	891
+ho day	892
+ray song	893
+song gio	894
+gan	895
+gan quay	896
+ray chung,	897
+chung, bon	898
+set,	899
+so set,	900
+rua,	901
+ray rua,	902
+rua, nhung	903
+chuyen that	904
+Xuan	905
+„Tham	906
+Xuan run	907
+noi, „Tham	908
+„Tu	909
+noi, „Tu	910
+„Tu ray	911
+OUL	912
+y	913
+ha lai	914
+lai ray	915
+la y	916
+tu khong	917
+khong ray	918
+Long!	919
+Long! Tu	920
+ULLLO	921
+he	922
+"Thua	923
+Quy	924
+he run	925
+ray "Thua	926
+"Thua Quy	927
+doi	928
+doi day	929
+thu han	930
+dep	931
+dep xua	932
+ray van	933
+van lanh	934
+,nhung	935
+thu day	936
+ray ,nhung	937
+,nhung noi	938
+OLLLLL	939
+„Ðung	940
+noi, „Ðung	941
+kem	942
+khong kem	943
+duoi	944
+ray duoi	945
+duoi con	946
+dai	947
+truyen	948
+lai:	949
+dai run	950
+ray truyen	951
+truyen lai:	952
+cam nen	953
+cua Dao	954
+Huyen,	955
+ray Dao	956
+Dao Huyen,	957
+ULLLLO	958
+manh	959
+ray manh	960
+manh liet,	961
+cuc,	962
+ray cung	963
+cung cuc,	964

@@ -1,0 +1,943 @@
+mau	1
+tuoi	2
+phun	3
+trao.	4
+mau tuoi	5
+tuoi phun	6
+phun trao.	7
+LLLL	8
+LLLLO	9
+LLL	10
+LL	11
+di,	12
+mieng	13
+tuoi,	14
+di, mieng	15
+mieng phun	16
+phun mau	17
+mau tuoi,	18
+LLLLL	19
+LLO	20
+manh,	21
+trao	22
+nhu	23
+manh, mau	24
+mau phun	25
+phun trao	26
+trao nhu	27
+da	28
+phai	29
+ra	30
+het,	31
+da phai	32
+phai phun	33
+phun ra	34
+ra het,	35
+LLLO	36
+Lang	37
+mot	38
+Lang mieng	39
+ra mot	40
+ULLL	41
+OL	42
+quan	43
+de	44
+nuoc.	45
+quan de	46
+de phun	47
+phun nuoc.	48
+hoa	49
+tien,	50
+dong	51
+(ong	52
+hoa tien,	53
+tien, phun	54
+phun dong	55
+dong (ong	56
+OLLL	57
+ngam	58
+nguoi	59
+nua	60
+ngam mau	61
+phun nguoi	62
+nguoi nua	63
+tuc	64
+gian	65
+tuc gian	66
+gian phun	67
+ra nhu	68
+van	69
+truong	70
+len	71
+van truong	72
+truong phun	73
+trao len	74
+LLLLLL	75
+tu	76
+ra.	77
+tu mieng	78
+phun ra.	79
+O	80
+Quyen	81
+O Quyen	82
+Quyen phun	83
+ULLLL	84
+U	85
+UO	86
+bat	87
+cuoi	88
+ca	89
+ruou	90
+bat cuoi	91
+cuoi phun	92
+phun ca	93
+ca ruou	94
+Y	95
+so	96
+ban	97
+Y so	98
+so phun	99
+phun len	100
+len ban	101
+UL	102
+cui	103
+xuong	104
+vao	105
+vat	106
+cui xuong	107
+xuong phun	108
+phun vao	109
+vao vat	110
+thi	111
+nguoi thi	112
+nguoi.	113
+phun nguoi.	114
+LLLLLO	115
+lo	116
+thung	117
+ngoai.	118
+lo thung	119
+thung phun	120
+ra ngoai.	121
+tanh	122
+thui	123
+trung	124
+tanh thui	125
+thui phun	126
+phun trung	127
+trung vao	128
+kha	129
+nang	130
+doc	131
+khi,	132
+kha nang	133
+nang phun	134
+phun doc	135
+doc khi,	136
+vai	137
+ta,	138
+vai ta,	139
+ta, phun	140
+tieng	141
+mot tieng	142
+tieng phun	143
+ra ca	144
+ong	145
+ra ong	146
+mo	147
+mo ong	148
+ong phun	149
+nuoc	150
+lanh	151
+mat	152
+nuoc lanh	153
+lanh phun	154
+vao mat	155
+trao,	156
+nhat	157
+mau mieng	158
+phun trao,	159
+trao, nhat	160
+Tu	161
+Tu Lang	162
+Lang phun	163
+OO	164
+muon	165
+vo.	166
+nhu muon	167
+muon phun	168
+phun vo.	169
+sap	170
+lua,	171
+luc	172
+nhu sap	173
+sap phun	174
+phun lua,	175
+lua, luc	176
+lui	177
+vua	178
+lui vua	179
+vua phun	180
+nguoi!	181
+Hu!	182
+phun nguoi!	183
+nguoi! Hu!	184
+ULO	185
+LO	186
+nui	187
+lua	188
+ma	189
+nui lua	190
+lua phun	191
+len ma	192
+ra,	193
+lam	194
+muon trao	195
+trao phun	196
+phun ra,	197
+ra, lam	198
+Le	199
+Le mau	200
+roi	201
+tieng roi	202
+roi phun	203
+mieng da	204
+da phun	205
+ca ra	206
+ngum	207
+mau,	208
+thanh	209
+ngum mau,	210
+mau, phun	211
+len thanh	212
+Co	213
+tuoi.	214
+Co phun	215
+mau tuoi.	216
+dut	217
+day	218
+dut mau	219
+ra day	220
+ho	221
+lua.	222
+ho muon	223
+ra lua.	224
+tien	225
+sinh	226
+nhuom	227
+tien sinh	228
+sinh phun	229
+ra nhuom	230
+dat,	231
+tan	232
+mat dat,	233
+dat, phun	234
+len tan	235
+han	236
+nhung	237
+han da	238
+ra nhung	239
+ngoai,	240
+thuoc	241
+me,	242
+nguoi ngoai,	243
+ngoai, phun	244
+phun thuoc	245
+thuoc me,	246
+Mau	247
+Mau tuoi	248
+vao nguoi	249
+ULL	250
+toi	251
+va	252
+phun toi	253
+toi va	254
+nat,	255
+voi,	256
+nat, mau	257
+phun thanh	258
+thanh voi,	259
+nga	260
+chan	261
+nga nguoi	262
+nguoi phun	263
+phun mau,	264
+mau, chan	265
+tram	266
+thap,	267
+tram thap,	268
+thap, phun	269
+dot	270
+nhien	271
+dot nhien	272
+nhien phun	273
+lon	274
+hai	275
+mat lon	276
+lon phun	277
+ra hai	278
+dai	279
+khau	280
+dai khau	281
+khau phun	282
+mom	283
+lai	284
+mom lai	285
+lai phun	286
+ha	287
+ha mieng	288
+den	289
+mau den	290
+den phun	291
+trao ra,	292
+Hoa	293
+Dam	294
+vot	295
+len,	296
+Hoa Dam	297
+Dam phun	298
+phun vot	299
+vot len,	300
+gam	301
+thet	302
+gam thet	303
+thet phun	304
+duoi	305
+trao, duoi	306
+ra, nga	307
+nat, mieng	308
+ta	309
+khong	310
+ta ban	311
+ban phun	312
+phun lai	313
+lai khong	314
+cau	315
+ra cau	316
+chop	317
+chep,	318
+may	319
+chop chep,	320
+chep, phun	321
+ra may	322
+do	323
+dang	324
+do dang	325
+dang phun	326
+lap	327
+bay	328
+lap tuc	329
+tuc phun	330
+mau bay	331
+Lac	332
+Nhan,	333
+Lac Nhan,	334
+Nhan, phun	335
+ULLLO	336
+Phi!"	337
+Phi!" roi	338
+ULLOO	339
+ga	340
+ga thi	341
+thi phun	342
+vo	343
+vo nat,	344
+nat, phun	345
+lai,	346
+lai, mieng	347
+to,	348
+to, mieng	349
+lao	350
+dau	351
+mieng lao	352
+lao phun	353
+vao dau	354
+roi,	355
+nguoi roi,	356
+tho	357
+tho nguoi	358
+den,	359
+mua	360
+phat	361
+phoi	362
+den, mua	363
+mua phun	364
+phun phat	365
+phat phoi	366
+he	367
+he mo	368
+mo phun	369
+manh	370
+phun manh	371
+manh ra	372
+vu	373
+nham	374
+mot vu	375
+vu phun	376
+trao nham	377
+trong	378
+ruot	379
+trong ruot	380
+ruot phun	381
+ra, thuoc	382
+ke	383
+ay	384
+ke ay	385
+ay phun	386
+mau do	387
+cu	388
+viec	389
+cu viec	390
+viec phun	391
+hai ke	392
+ke phun	393
+voi	394
+rong	395
+nong	396
+voi rong	397
+rong phun	398
+phun nuoc	399
+nuoc nong	400
+tieng,	401
+mot tieng,	402
+tieng, phun	403
+bung	404
+phun bung	405
+bung mau	406
+phang	407
+tung	408
+phang phat	409
+phat phun	410
+ra tung	411
+rang	412
+tai	413
+rang da	414
+mau tai	415
+khong ma	416
+ma phun	417
+nguoi,	418
+tieu	419
+phun nguoi,	420
+nguoi, tieu	421
+son	422
+truc	423
+son truc	424
+truc phun	425
+diem	426
+suc	427
+diem son	428
+son phun	429
+trao, suc	430
+nguoi nhu	431
+ty	432
+man	433
+ty nua	434
+nua phun	435
+phun mieng	436
+mieng man	437
+ben	438
+huong	439
+ben trong	440
+trong phun	441
+ra, huong	442
+kem	443
+trao, kem	444
+cot	445
+cot nuoc	446
+nuoc phun	447
+phun len,	448
+len, tan	449
+giu	450
+luon	451
+gian giu	452
+giu phun	453
+ra, luon	454
+cai	455
+cai roi	456
+Do	457
+Tien	458
+Do Tien	459
+Tien phun	460
+nguoi?"	461
+La	462
+phun nguoi?"	463
+nguoi?" La	464
+LLLLLOO	465
+dao	466
+do dao	467
+dao phun	468
+Mua	469
+Mua phun	470
+phun rang	471
+rang rang	472
+mo mieng	473
+phun mot	474
+mot dong	475
+nha	476
+ngoc	477
+chau.	478
+nha ngoc	479
+ngoc phun	480
+phun chau.	481
+ngoai	482
+khong phun	483
+phun tieng	484
+tieng ngoai	485
+Mieng	486
+Mieng phun	487
+nhin	488
+duoc	489
+nhin duoc	490
+duoc phun	491
+phun luon	492
+luon ca	493
+nguc,	494
+nguc, mom	495
+mom phun	496
+ra mau	497
+nhay	498
+ngung	499
+nhay mat	500
+mat phun	501
+ra, ngung	502
+bot	503
+rai	504
+den mieng	505
+phun bot	506
+bot rai	507
+noi	508
+khong ngung	509
+ngung phun	510
+ra noi	511
+bat dau	512
+dau phun	513
+ra ngoai,	514
+Quy	515
+Quy Le	516
+Le phun	517
+deu	518
+mieng deu	519
+deu phun	520
+dang noi	521
+noi phun	522
+ca nuoc	523
+tieng, mieng	524
+go	525
+go lon	526
+nuoc ra.	527
+Long	528
+ten	529
+Long dang	530
+phun ten	531
+ten nuoc	532
+cay	533
+rat	534
+cay lon	535
+ra rat	536
+co	537
+luong	538
+co luong	539
+luong phun	540
+ra tan	541
+“Co	542
+the	543
+khoi	544
+“Co the	545
+the phun	546
+phun khoi	547
+khoi den	548
+OUL	549
+ho,	550
+chi	551
+mat ho,	552
+ho, phun	553
+khoi chi	554
+chac	555
+toe,	556
+chac da	557
+phun tung	558
+tung toe,	559
+Lam	560
+huyet	561
+yeu	562
+Lam huyet	563
+huyet phun	564
+ra, yeu	565
+Thuong	566
+nguoi, Thuong	567
+ULLLLL	568
+trao ben	569
+lop	570
+lop cu	571
+cu phun	572
+len roi	573
+Mau phun	574
+trao!	575
+Gio	576
+tuoi lai	577
+phun trao!	578
+trao! Gio	579
+luoi,	580
+dau luoi,	581
+luoi, phun	582
+mot ngum	583
+rung	584
+ruc,	585
+rung ruc,	586
+ruc, phun	587
+ra tu	588
+Sau	589
+khi	590
+Sau khi	591
+khi phun	592
+ruc	593
+nong ruc	594
+ruc phun	595
+ra lam	596
+chuan	597
+bi	598
+chuan bi	599
+bi phun	600
+duong	601
+nguc	602
+duong nguc	603
+nguc phun	604
+tieng!	605
+tieng! Mieng	606
+vao day	607
+Thien	608
+Thien mieng	609
+mau khong	610
+le	611
+toi thi	612
+ra le	613
+noi,	614
+nhin noi,	615
+noi, phun	616
+lien	617
+tiep	618
+lien tiep	619
+tiep phun	620
+,	621
+trao ,	622
+hong,	623
+chot	624
+hong, chot	625
+chot phun	626
+ha da	627
+phun tuoi	628
+tuoi thanh	629
+cam	630
+lun	631
+soi	632
+cam lun	633
+lun phun	634
+phun may	635
+may soi	636
+vet	637
+thuong	638
+vet thuong	639
+thuong phun	640
+cung	641
+tat	642
+cung da	643
+ra tat	644
+tao	645
+tu do	646
+do phun	647
+ra, tao	648
+mau lon	649
+ra, han	650
+vot ra,	651
+ra, phun	652
+len ben	653
+doc,	654
+phun khi	655
+khi doc,	656
+Huyen	657
+Xa	658
+Huyen Xa	659
+Xa phun	660
+ra da	661
+huyet le	662
+le phun	663
+truong,	664
+may truong,	665
+truong, phun	666
+mau ma	667
+LLLLLLO	668
+theo,	669
+khong lo	670
+lo phun	671
+len theo,	672
+Vuong	673
+Quy Vuong	674
+Vuong phun	675
+bat chot	676
+dat, mieng	677
+toi.	678
+luc tien	679
+tien phun	680
+phun toi.	681
+suoi	682
+dong suoi	683
+suoi phun	684
+nay	685
+nay chi	686
+chi phun	687
+nuoc len	688
+phat da	689
+trao, khong	690
+con	691
+long	692
+con mua	693
+phun ma	694
+ma long	695
+kiem,	696
+dich,	697
+kiem, mieng	698
+doc dich,	699
+"Hot	700
+tinh	701
+kinh	702
+phong,	703
+"Hot tinh	704
+tinh phun	705
+phun kinh	706
+kinh phong,	707
+OULL	708
+dom	709
+phun dom	710
+dom xuong	711
+thinh	712
+"Hot thinh	713
+thinh phun	714
+nut	715
+thach,	716
+nut trao	717
+phun nham	718
+nham thach,	719
+chay	720
+loan,	721
+chay loan,	722
+loan, phun	723
+phun huyet	724
+huyet duong	725
+that	726
+khieu	727
+that khieu	728
+khieu phun	729
+mau, khi	730
+phia	731
+truoc	732
+y	733
+phia truoc	734
+truoc phun	735
+ra, y	736
+L	737
+Nguoi	738
+kia	739
+Nguoi kia	740
+kia phun	741
+thanh dong	742
+Mui	743
+no	744
+lan	745
+Mui no	746
+no phun	747
+ra lan	748
+lang	749
+Tu lang	750
+lang phun	751
+thuyen,	752
+thuyen, mieng	753
+huyet,	754
+tho huyet,	755
+huyet, phun	756
+ngua	757
+trang	758
+rang ngua	759
+ngua phun	760
+bot trang	761
+that to,	762
+to, phun	763
+nguoi den	764
+Trang	765
+ve	766
+den mua	767
+phun Trang	768
+Trang ve	769
+ra chay	770
+“Hot	771
+phong”,	772
+“Hot thinh	773
+kinh phong”,	774
+Nhung	775
+Nhung mieng	776
+Hoa khi	777
+khoi doc	778
+khien	779
+khien thi	780
+guc,	781
+guc, mieng	782
+vao,	783
+phi	784
+phi.	785
+vao, mieng	786
+phun phi	787
+phi phi.	788
+mau trao	789
+phun khong	790
+khong the	791
+muoi,	792
+muoi, noi	793
+chuc	794
+tuy	795
+cu chuc	796
+chuc phun	797
+trao, tuy	798
+nham dang	799
+trao den	800
+ra!	801
+No	802
+tu tu	803
+tu phun	804
+phun ra!	805
+ra! No	806
+ngang	807
+dau,	808
+troi	809
+ngang dau,	810
+dau, phun	811
+len troi	812
+nguc han	813
+han phun	814
+luoi	815
+vao luoi	816
+ac	817
+linh	818
+ac linh	819
+linh phun	820
+ra, vua	821
+ra, nhay	822
+ra, ac	823
+banh	824
+nua thi	825
+ca banh	826
+my	827
+den noi	828
+ca my	829
+xuat	830
+hang	831
+phun xuat	832
+xuat hang	833
+hoa son	834
+trao da	835
+tuong	836
+nham tuong	837
+tuong phun	838
+trao manh	839
+dung	840
+dung nham	841
+nham phun	842
+mau mom	843
+ra ban	844
+tieng, lai	845
+nguoi".	846
+phun nguoi".	847
+vay	848
+ra, vay	849
+thoi	850
+tuc thoi	851
+thoi phun	852
+lu	853
+lam lu	854
+lu phun	855
+mieng lai	856
+bao	857
+trao bao	858
+ao	859
+ra ao	860
+chau,	861
+phun chau,	862
+chau, mot	863
+Mot	864
+Mot dai	865
+dai phun	866
+nuoc duong	867
+cac	868
+ngop	869
+cac voi	870
+voi phun	871
+phun ngop	872
+ngop tan	873
+la	874
+la ho	875
+ho phun	876
+nuoc hoa	877
+nuoc vao	878
+Tieu	879
+Bao	880
+Tieu Bao	881
+Bao phun	882
+ra, thoi	883
+trao ra	884
+sau,	885
+sau, mieng	886
+choang,	887
+"oe"	888
+choang, "oe"	889
+"oe" phun	890
+mot bung	891
+OLLO	892
+phun day	893
+day vao	894
+thut	895
+phut	896
+thut vao,	897
+vao, phun	898
+phun phut	899
+phut tung	900
+mieng,	901
+mieng, lai	902
+ngon	903
+ra ngon	904
+Huong	905
+Coc	906
+Huong Coc	907
+Coc phun	908
+lua, troi	909
+len, ta	910
+ra, muon	911
+hong	912
+thuy	913
+hong thuy	914
+thuy phun	915
+ban len,	916
+len, phun	917
+hon,	918
+rai.	919
+hon, mieng	920
+bot rai.	921
+nong ruc,	922
+ra thanh	923
+Ho	924
+Xung	925
+het.	926
+Ho Xung	927
+Xung phun	928
+ra het.	929
+thu	930
+thu thi	931
+tra,	932
+het	933
+nuoc tra,	934
+tra, phun	935
+manh het	936
+gay,	937
+gay, roi	938
+lien do	939
+Trung,	940
+Trung, mau	941
+ca vao	942
+ULLLLO	943

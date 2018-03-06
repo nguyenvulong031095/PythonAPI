@@ -1,0 +1,1437 @@
+guong	1
+mat	2
+xinh	3
+dep	4
+nhu	5
+guong mat	6
+mat xinh	7
+xinh dep	8
+dep nhu	9
+LLLL	10
+LLLLL	11
+LLL	12
+LL	13
+thieu	14
+nu	15
+dang	16
+thieu nu	17
+nu xinh	18
+dep dang	19
+tu	20
+nu tu	21
+tu xinh	22
+cua	23
+dep cua	24
+dep,	25
+hai	26
+xinh dep,	27
+dep, hai	28
+LLLO	29
+nha	30
+nong	31
+o	32
+nha nong	33
+nong xinh	34
+dep o	35
+L	36
+co	37
+be	38
+khong	39
+co be	40
+be xinh	41
+dep khong	42
+nho	43
+tuoi	44
+thi	45
+nho tuoi	46
+tuoi xinh	47
+dep thi	48
+bo	49
+dep.	50
+bo mat	51
+xinh dep.	52
+nuong	53
+nuong tu	54
+thua,	55
+diem	56
+co thua,	57
+thua, xinh	58
+dep diem	59
+LLLLO	60
+deu	61
+dep deu	62
+rat	63
+ra	64
+nuong rat	65
+rat xinh	66
+dep ra	67
+tuong	68
+mao	69
+tuoi,	70
+dung	71
+tuong mao	72
+mao xinh	73
+xinh tuoi,	74
+tuoi, dung	75
+toi	76
+toi co	77
+co xinh	78
+xan.	79
+nha nho	80
+nho xinh	81
+xinh xan.	82
+nang	83
+cang	84
+bao	85
+nang cang	86
+cang xinh	87
+dep bao	88
+qua	89
+phu	90
+kheu	91
+qua phu	92
+phu xinh	93
+dep kheu	94
+ho	95
+ly	96
+mem	97
+ho ly	98
+ly xinh	99
+dep, mem	100
+tuoi.	101
+mao rat	102
+xinh tuoi.	103
+vui	104
+ve	105
+cung	106
+vui ve	107
+ve xinh	108
+xinh tuoi	109
+tuoi cung	110
+uyen	111
+chuyen,	112
+me	113
+uyen chuyen,	114
+chuyen, xinh	115
+dep me	116
+LLLLLLO	117
+khoe	118
+mieng	119
+hoa,	120
+khoe mieng	121
+mieng xinh	122
+xinh nhu	123
+nhu hoa,	124
+tai	125
+ay	126
+tai nu	127
+dep ay	128
+nguoi	129
+trong	130
+dang nguoi	131
+nguoi xinh	132
+dep, trong	133
+thiep	134
+co thiep	135
+thiep xinh	136
+a	137
+nay	138
+lam,	139
+a nay	140
+nay xinh	141
+dep lam,	142
+nen	143
+moi	144
+vo	145
+nen moi	146
+moi xinh	147
+dep, vo	148
+huynh	149
+vua	150
+long	151
+huynh vua	152
+vua xinh	153
+dep, long	154
+ca	155
+ky	156
+di	157
+ca ky	158
+ky xinh	159
+dep di	160
+luc	161
+luc cang	162
+Guong	163
+Guong mat	164
+ULLLL	165
+OL	166
+bang	167
+chu	168
+bang chu	169
+chu xinh	170
+nhan	171
+la	172
+nu nhan	173
+nhan xinh	174
+dep la	175
+that	176
+lanh	177
+qua that	178
+that xinh	179
+dep, lanh	180
+thay	181
+hon	182
+thay nang	183
+nang xinh	184
+dep hon	185
+yeu	186
+dep yeu	187
+xem	188
+con	189
+the	190
+xem con	191
+con xinh	192
+dep the	193
+chiec	194
+len	195
+noi:	196
+chiec moi	197
+xinh len	198
+len noi:	199
+,	200
+la nguoi	201
+dep ,	202
+O	203
+LO	204
+them	205
+goi	206
+cang them	207
+them xinh	208
+dep goi	209
+boi	210
+co nuong	211
+nuong xinh	212
+dep boi	213
+keu	214
+ky nu	215
+dep keu	216
+diet	217
+diet nu	218
+dep nay	219
+bach	220
+hop	221
+u	222
+bach hop	223
+hop xinh	224
+dep u	225
+trang	226
+dep trang	227
+dau	228
+lai	229
+dau vua	230
+dep lai	231
+may	232
+phan	233
+may phan	234
+phan xinh	235
+da	236
+dep da	237
+lang	238
+nu lang	239
+lang xinh	240
+Cong	241
+chua	242
+qua.	243
+Cong chua	244
+chua xinh	245
+dep qua.	246
+ULLL	247
+cuoi	248
+nu cuoi	249
+cuoi xinh	250
+the tu	251
+khen	252
+nhung	253
+khen nang	254
+dep, nhung	255
+tre	256
+trung	257
+tre trung	258
+trung xinh	259
+dep, nguoi	260
+ca co	261
+dep, moi	262
+dieu,	263
+den	264
+yeu dieu,	265
+dieu, xinh	266
+dep den	267
+buc	268
+tranh	269
+buc tranh	270
+tranh xinh	271
+dep, nang	272
+cap	273
+khe	274
+cap mat	275
+dep khe	276
+ve mat	277
+xo	278
+nao.	279
+o xo	280
+xo xinh	281
+xinh nao.	282
+hoa	283
+hoa co	284
+nuoc	285
+dep nuoc	286
+nhat	287
+dep nhat	288
+dep nen	289
+hinh	290
+hinh dung	291
+dung xinh	292
+dep, nhat	293
+van	294
+nang van	295
+van xinh	296
+gai	297
+nay,	298
+co gai	299
+gai xinh	300
+dep nay,	301
+ben	302
+con gai	303
+dep ben	304
+ty	305
+ty ty	306
+ty xinh	307
+vo cung	308
+cung xinh	309
+dep dau	310
+de	311
+dac	312
+de tu	313
+dep dac	314
+cong	315
+cong chua	316
+quy	317
+va	318
+sanh	319
+quy va	320
+va xinh	321
+dep, sanh	322
+mau	323
+vang	324
+xinh,	325
+mau vang	326
+vang xinh	327
+xinh xinh,	328
+xinh, dang	329
+khuon	330
+ma	331
+khuon mat	332
+dep ma	333
+nao	334
+nua.	335
+xinh nao	336
+nao nua.	337
+xan	338
+xinh xan	339
+xan may	340
+truong	341
+truong chu	342
+LLLLLL	343
+mao cang	344
+tuoi, lai	345
+hoang	346
+hau	347
+hoang hau	348
+hau xinh	349
+dep, da	350
+truoc	351
+nguoi vo	352
+vo xinh	353
+dep truoc	354
+vao	355
+roi.	356
+vao xo	357
+nao roi.	358
+ruc	359
+dam	360
+ruc xo	361
+xinh khong	362
+khong dam	363
+duoc	364
+thieu phu	365
+dep duoc	366
+cua nang	367
+dep qua	368
+Vuong	369
+phi	370
+Vuong phi	371
+phi xinh	372
+Nam	373
+Nam nhan	374
+ULL	375
+dem	376
+toi,	377
+dem toi,	378
+toi, xinh	379
+dep trong	380
+anh	381
+hinh anh	382
+anh xinh	383
+Nu	384
+ay,	385
+Nu lang	386
+dep ay,	387
+LLO	388
+UL	389
+mui	390
+mat mui	391
+mui xinh	392
+tuoi, dang	393
+trang,	394
+trang, cang	395
+LLLLLO	396
+my	397
+my nu	398
+dep."	399
+Hang	400
+cung rat	401
+xinh dep."	402
+dep." Hang	403
+LLLOO	404
+y	405
+y cang	406
+dung nhan	407
+ba	408
+ba nuong	409
+buoc	410
+ty nu	411
+dep buoc	412
+het	413
+het xo	414
+xinh trong	415
+trong chua	416
+cuc	417
+chung	418
+cuc ky	419
+dep, chung	420
+hon.	421
+co phan	422
+dep hon.	423
+To	424
+dep To	425
+ti	426
+ti rat	427
+dep va	428
+dua	429
+Nu ti	430
+ti xinh	431
+dep dua	432
+nhoen	433
+dep nhoen	434
+nu ti	435
+phu nhan	436
+ao	437
+kia	438
+ao luc	439
+luc xinh	440
+dep kia	441
+su	442
+vat	443
+su vat	444
+vat xinh	445
+nhi	446
+nu nhi	447
+nhi xinh	448
+khom	449
+xan khom	450
+minh	451
+la minh	452
+minh xinh	453
+dep, boi	454
+xu	455
+xu nu	456
+xan cua	457
+treo	458
+xan,	459
+trang treo	460
+treo xinh	461
+xinh xan,	462
+xan, khong	463
+hat	464
+gai rat	465
+dep, hat	466
+ay rat	467
+doi	468
+trong cang	469
+xan, doi	470
+Khuon	471
+kia,	472
+Khuon mat	473
+dep kia,	474
+thon	475
+dai	476
+thon dai	477
+dai xinh	478
+ni	479
+ni co	480
+than	481
+duoi	482
+nu than	483
+than xinh	484
+dep duoi	485
+ta	486
+khen ta	487
+ta xinh	488
+phuong	489
+phuong lai	490
+lai xinh	491
+thu	492
+do	493
+thu rat	494
+dep, do	495
+nao cung	496
+diep	497
+ho diep	498
+diep xinh	499
+nho nhan	500
+xinh xinh	501
+xinh cua	502
+Tong	503
+cua Tong	504
+tu ay	505
+ay xinh	506
+dep vo	507
+than the	508
+the xinh	509
+tuoi ma	510
+ma xinh	511
+cong tu	512
+chuong	513
+chuong nho	514
+xinh dang	515
+dang o	516
+hon,	517
+cung cang	518
+dep hon,	519
+em	520
+co em	521
+em xinh	522
+dep de	523
+sang	524
+sua	525
+sang sua	526
+sua xinh	527
+dep, buoc	528
+noi	529
+To Nu	530
+Nu xinh	531
+dep noi	532
+OO	533
+chi	534
+chi nang	535
+doi mat	536
+muon	537
+muon phan	538
+dep, con	539
+ro,	540
+ruc ro,	541
+ro, xinh	542
+them phan	543
+dap	544
+dang dap	545
+dap xinh	546
+nhin	547
+nhin ve	548
+nang con	549
+xinh hon	550
+hon la	551
+may dai	552
+tro	553
+lai,	554
+tro lai,	555
+lai, xinh	556
+bon	557
+bon ho	558
+ho xinh	559
+tai nho	560
+xan nhu	561
+gap	562
+co con	563
+dep gap	564
+dap:	565
+long may	566
+may xinh	567
+dep dap:	568
+chau	569
+chau gai	570
+sang rat	571
+dep, than	572
+neu	573
+dep, neu	574
+den xo	575
+nao cua	576
+dong	577
+thanh	578
+dong nhan	579
+dep thanh	580
+nhung van	581
+nay.	582
+dep nay.	583
+diu	584
+xan diu	585
+kem	586
+kem phan	587
+dep, cung	588
+muoi	589
+muoi con	590
+khoe mat	591
+len,	592
+dep len,	593
+lien	594
+dep lien	595
+tro nen	596
+nen xinh	597
+xan hon,	598
+khong con	599
+phuc	600
+bao phuc	601
+phuc xinh	602
+dep, dau	603
+mac	604
+tu rat	605
+dep mac	606
+dep than	607
+tuyet	608
+lai cang	609
+dep tuyet	610
+kham	611
+dep kham	612
+mui nho	613
+xinh la	614
+la cap	615
+Ðien	616
+ho Ðien	617
+Ðien xinh	618
+chi em	619
+xan nay,	620
+dang ve	621
+xan muon	622
+xan o	623
+lam.	624
+mao con	625
+dep lam.	626
+Hoang	627
+dep, Hoang	628
+my nhan	629
+ngay	630
+dep,ngay	631
+ngay cang	632
+xinh dep,ngay	633
+dep,ngay ty	634
+LLLOLLLL	635
+khien	636
+khien nang	637
+nu ty	638
+tre tuoi	639
+goi la	640
+la xinh	641
+ngoai	642
+cao	643
+be ngoai	644
+ngoai xinh	645
+dep, cao	646
+mi	647
+mi nhan	648
+dep, doi	649
+nhan cang	650
+dep, cong	651
+dep...	652
+kia that	653
+xinh dep...	654
+LLLOOO	655
+Ky	656
+Thien	657
+Ky Thien	658
+Thien xinh	659
+Ngoc	660
+dep Ngoc	661
+So	662
+dep So	663
+that rat	664
+Doi	665
+Doi mat	666
+nga	667
+it	668
+cung nga	669
+nga xinh	670
+dep, it	671
+bat	672
+dep, bat	673
+dep len	674
+ngang	675
+dep ngang	676
+dep tu	677
+mao nang	678
+phong	679
+canh	680
+phong canh	681
+canh xinh	682
+toc	683
+huyen	684
+toc huyen	685
+huyen xinh	686
+kieu	687
+dep, kieu	688
+no	689
+no ty	690
+dep, thay	691
+chat	692
+dep chat	693
+mao co	694
+hu	695
+xinh len,	696
+len, hu	697
+dep nhung	698
+co hau	699
+thon nu	700
+ta lai	701
+ngoi	702
+dep ngoi	703
+bung	704
+xan bung	705
+Nang	706
+tuy	707
+Nang tuy	708
+tuy xinh	709
+xoan	710
+nguc	711
+xoan rat	712
+dep, nguc	713
+coi	714
+kha	715
+coi cang	716
+dep kha	717
+tien	718
+tien nu	719
+co me	720
+me xinh	721
+lieu	722
+la lieu	723
+lieu xinh	724
+xinh, nhan	725
+vai	726
+bo vai	727
+vai xinh	728
+bong	729
+lung	730
+bong lung	731
+lung xinh	732
+cung nu	733
+thien	734
+thien su	735
+su xinh	736
+dep co	737
+dieu	738
+dang dieu	739
+dieu xinh	740
+trong rat	741
+xan, con	742
+Trieu	743
+dep Trieu	744
+La	745
+La tuong	746
+tuong xinh	747
+dep do	748
+dep nao	749
+dep, nen	750
+kho	751
+dep, kho	752
+muc	753
+mau muc	754
+muc xinh	755
+dep, la	756
+lai.	757
+dep lai.	758
+Nu tu	759
+luot	760
+la luot	761
+luot xinh	762
+thu ky	763
+dep vao	764
+nhan qua	765
+qua xinh	766
+dep cung	767
+vi	768
+thay ba	769
+ba xinh	770
+dep, vi	771
+tieu	772
+binh	773
+tieu binh	774
+binh xinh	775
+tay	776
+tay nho	777
+cua tieu	778
+hay	779
+dep hay	780
+xich	781
+kia dang	782
+dang xinh	783
+xinh xich	784
+xich dong	785
+may a	786
+a xinh	787
+nhung khong	788
+khong xinh	789
+xan bang	790
+xan de	791
+cung kha	792
+kha xinh	793
+dep chung	794
+Ly	795
+dep Ly	796
+dep sang	797
+tuyet,	798
+nhu tuyet,	799
+tuyet, xinh	800
+hiem	801
+dep hiem	802
+ai	803
+ai cung	804
+vinh	805
+vien	806
+tu nay	807
+xinh vinh	808
+vinh vien	809
+tham,	810
+tham, lai	811
+dep, co	812
+mao cung	813
+cai	814
+ho cai	815
+cai xinh	816
+cac	817
+cac nguoi	818
+he	819
+doi moi	820
+dep he	821
+Tram	822
+moi nho	823
+cua Tram	824
+qua,	825
+cua nguoi	826
+dep qua,	827
+dung mao	828
+nien	829
+do,	830
+thieu nien	831
+nien xinh	832
+dep do,	833
+dep cao	834
+Thieu	835
+Thieu nu	836
+vu	837
+giup	838
+vu co	839
+dep, giup	840
+Thanh	841
+phu Thanh	842
+Thanh xinh	843
+hon, cang	844
+xan hon	845
+do nhi	846
+nua!	847
+thiep rat	848
+dep nua!	849
+tieu thiep	850
+vai mem	851
+mem xinh	852
+so	853
+dep, so	854
+hoi	855
+dep hoi	856
+dep, ngoi	857
+dep, tuoi	858
+thi kha	859
+Chau	860
+Vi	861
+Chau Vi	862
+Vi xinh	863
+xan dang	864
+hoc	865
+hoc tro	866
+tro xinh	867
+dep, my	868
+nuong nuong	869
+dep?	870
+Khi	871
+xinh dep?	872
+dep? Khi	873
+ho nu	874
+dep, nu	875
+giao	876
+ma giao	877
+giao xinh	878
+xan, nen	879
+sua lai	880
+bien	881
+bien thanh	882
+thanh xinh	883
+chang	884
+chut	885
+truoc chang	886
+chang xinh	887
+dep chut	888
+chuyen	889
+uyen chuyen	890
+chuyen xinh	891
+giong	892
+xan, giong	893
+xin	894
+dep, xin	895
+voi	896
+dep voi	897
+Diem	898
+tua	899
+Diem phu	900
+dep tua	901
+mai	902
+mai mai	903
+mai xinh	904
+thi that	905
+mu	906
+dau deu	907
+deu xinh	908
+dep, mu	909
+hoat	910
+thanh tu	911
+dep hoat	912
+Lieu	913
+dep Lieu	914
+nha dau	915
+dau xinh	916
+co rat	917
+mot	918
+xinh, mot	919
+dep phi	920
+dep, lung	921
+noi thiep	922
+dep, chang	923
+vi nang	924
+Nhi	925
+Nhi vua	926
+dep vua	927
+ke	928
+ke ben	929
+ben xinh	930
+toc may	931
+han	932
+dep, han	933
+lon	934
+tuong doi	935
+doi xinh	936
+dep, lon	937
+dep, binh	938
+ben ta	939
+xan di	940
+tha	941
+nay kha	942
+dep, tha	943
+ga	944
+dep ga	945
+tuoi rat	946
+van rat	947
+dep, dang	948
+thap	949
+sac	950
+thap phan	951
+dep, sac	952
+tieu thu	953
+thu xinh	954
+dep tuoi	955
+dep, den	956
+dep nho	957
+voi ve	958
+dep my	959
+Nuong	960
+nhat.	961
+Nuong la	962
+xan nhat.	963
+nhat,	964
+xan nhat,	965
+Bach	966
+Di	967
+Bach Di	968
+Di xinh	969
+xan luc	970
+hien	971
+nhan va	972
+dep, hien	973
+co da	974
+da xinh	975
+ta da	976
+dau co	977
+khen minh	978
+Pham,	979
+Pham, trong	980
+trong xinh	981
+xan vo	982
+ULLLO	983
+xan, buoc	984
+nhut	985
+su muoi	986
+muoi xinh	987
+dep nhut	988
+mat co	989
+xan, than	990
+thoi	991
+dep thoi	992
+that co	993
+giat	994
+dep giat	995
+dep diu	996
+lau	997
+nam	998
+tieu lau	999
+lau xinh	1000
+xan nam	1001
+chang?"	1002
+thiep than	1003
+dep chang?"	1004
+LLLLLOO	1005
+nu thi	1006
+thi xinh	1007
+dep, khong	1008
+Phai	1009
+xinh, Phai	1010
+Co	1011
+Co nuong	1012
+xan the	1013
+dep, ma	1014
+phai	1015
+nhan rat	1016
+dep phai	1017
+xan, co	1018
+sac,	1019
+dua sac,	1020
+sac, xinh	1021
+mat.	1022
+nho rat	1023
+xinh mat.	1024
+gian	1025
+gian cung	1026
+ut	1027
+ut cung	1028
+xan, tuong	1029
+Phong	1030
+Phong canh	1031
+tuoi hay	1032
+CO	1033
+gi	1034
+dau?	1035
+CO gi	1036
+gi xinh	1037
+dep dau?	1038
+UU	1039
+nay da	1040
+nhan nguoi	1041
+muoi,	1042
+muoi, rat	1043
+Du	1044
+dep Du	1045
+bai	1046
+y.	1047
+ky bai	1048
+bai xinh	1049
+xinh y.	1050
+nghe	1051
+dep nghe	1052
+dao	1053
+dep dao	1054
+Tam	1055
+Tam thu	1056
+cuoi trong	1057
+dep muon	1058
+dep cang	1059
+lam!"	1060
+van con	1061
+dep lam!"	1062
+xung	1063
+duong	1064
+nguoi xung	1065
+xung xinh	1066
+len duong	1067
+mem mai	1068
+nhu nang	1069
+diu dang	1070
+dep, duoc	1071
+rat doi	1072
+hoa la	1073
+dep van	1074
+anh mat	1075
+chua vua	1076
+muot	1077
+ma,	1078
+xinh muot	1079
+muot ma,	1080
+la rat	1081
+thuoc	1082
+loai	1083
+thuoc loai	1084
+loai xinh	1085
+xan, dieu	1086
+dep dung	1087
+trai	1088
+chang trai	1089
+trai xinh	1090
+Su	1091
+Su muoi	1092
+Ðinh	1093
+Phuong	1094
+Ðinh Phuong	1095
+Phuong xinh	1096
+ULLLLL	1097
+Da	1098
+nhan sac	1099
+sac xinh	1100
+dep, Da	1101
+loi	1102
+dep, loi	1103
+mot nguoi	1104
+dep sanh	1105
+tuyen	1106
+mot tuyen	1107
+tuyen xinh	1108
+dien	1109
+dien mao	1110
+co nay	1111
+do de	1112
+de xinh	1113
+xan nay	1114
+dep!	1115
+Ðem	1116
+xinh dep!	1117
+dep! Ðem	1118
+"Ty	1119
+Moi	1120
+"Ty ty	1121
+dep! Moi	1122
+OUL	1123
+Cap	1124
+Cap mat	1125
+dep tai	1126
+biec	1127
+biet	1128
+biec rat	1129
+xan, biet	1130
+ten	1131
+dep ten	1132
+co nguoi	1133
+rung	1134
+xan rung	1135
+nhung xo	1136
+xinh chang	1137
+chang ai	1138
+Chang	1139
+Chang trai	1140
+xan trong	1141
+dong tien	1142
+tien xinh	1143
+xinh, tu	1144
+ghe	1145
+xan, ghe	1146
+can	1147
+can nha	1148
+nha xinh	1149
+biet minh	1150
+canh gi	1151
+dep”.	1152
+that la	1153
+xinh dep”.	1154
+dep Tram	1155
+nu dong	1156
+dong xinh	1157
+nhanh,	1158
+duyen	1159
+nhi nhanh,	1160
+nhanh, xinh	1161
+tuoi, duyen	1162
+nu rat	1163
+tinh	1164
+tinh khong	1165
+deu rat	1166
+bon chung	1167
+chung xinh	1168
+dep:	1169
+“Noi	1170
+xinh dep:	1171
+dep: “Noi	1172
+OULL	1173
+Trinh	1174
+tau	1175
+Trinh tau	1176
+tau xinh	1177
+thanh co	1178
+ve,	1179
+nhu ve,	1180
+khong?	1181
+trung nhan	1182
+dep khong?	1183
+con duoi	1184
+duoi xinh	1185
+xan, trong	1186
+xan nen	1187
+nay moi	1188
+dep, chi	1189
+xuong	1190
+nuoc,	1191
+xuong nuoc,	1192
+nuoc, xinh	1193
+xinh, lau	1194
+lo	1195
+ra,	1196
+lo ra,	1197
+ra, xinh	1198
+dep long	1199
+von	1200
+von di	1201
+di xinh	1202
+khach	1203
+dat	1204
+khach nho	1205
+dep, dat	1206
+trai trang	1207
+trang xinh	1208
+dep nguoi	1209
+trang diem	1210
+diem xinh	1211
+tuoi nhu	1212
+nga trang	1213
+dep, lo	1214
+dep, luc	1215
+xinh…	1216
+trang trang	1217
+xinh xinh…	1218
+xinh… ma	1219
+chu nhan	1220
+ty da	1221
+thong	1222
+tuc	1223
+thong vua	1224
+dep tuc	1225
+thua	1226
+thai	1227
+thua cang	1228
+dep, thai	1229
+day	1230
+dep day	1231
+ay van	1232
+dich	1233
+dich nhan	1234
+ngo	1235
+ngo lai	1236
+xan mau	1237
+gia	1238
+duong gia	1239
+gia xinh	1240
+A	1241
+A cang	1242
+dep, ga	1243
+U	1244
+xan noi	1245
+doan	1246
+dep doan	1247
+ma lai	1248
+xinh.	1249
+xinh xinh.	1250
+Tai	1251
+ha	1252
+kinh	1253
+Tai ha	1254
+ha xinh	1255
+xinh kinh	1256
+kinh can	1257
+nhan co	1258
+chong	1259
+chong da	1260
+canh sac	1261
+dep xung	1262
+nguoi da	1263
+dep cuoi	1264
+"Con	1265
+nhi!".	1266
+"Con nho	1267
+xinh qua	1268
+qua nhi!".	1269
+phu kia	1270
+kia xinh	1271
+Lenh	1272
+gai ta	1273
+dep, Lenh	1274
+ma van	1275
+tinh,	1276
+tinh, vua	1277
+dep, cac	1278
+dep, deu	1279
+Su ty	1280
+gio	1281
+bao!.	1282
+gio kia	1283
+xinh biet	1284
+biet bao!.	1285
+the,	1286
+ay cung	1287
+nhu the,	1288
+dep duong	1289
+dung tuoi	1290
+nguoi rat	1291
+xan dung	1292
+dep!".	1293
+ty that	1294
+xinh dep!".	1295
+lam	1296
+lam tuoi,	1297
+tuoi, xinh	1298
+tham	1299
+duyen dang	1300
+dep, tham	1301
+xuat	1302
+dep xuat	1303
+dep Thanh	1304
+ban	1305
+sinh	1306
+ban xuong	1307
+xuong xinh	1308
+xinh de	1309
+de sinh	1310
+khac	1311
+ve nguoi	1312
+dep khac	1313
+thay nguoi	1314
+cuong	1315
+cuong dich	1316
+dich xinh	1317
+kia.	1318
+dep kia.	1319
+tuc phu	1320
+gom!	1321
+dai coi	1322
+coi xinh	1323
+xinh gom!	1324
+gom! Vi	1325
+dep, chiec	1326
+dep, ngo	1327
+tam	1328
+bang.	1329
+tam nao	1330
+nao xinh	1331
+dep bang.	1332
+tieu ty	1333
+nhan con	1334
+dung la	1335
+dep, lai	1336
+dan	1337
+dan ba	1338
+dep chua	1339
+dep, tai	1340
+nao voi	1341
+Son	1342
+kin	1343
+Hang Son	1344
+Son xinh	1345
+dep kin	1346
+nui	1347
+rung,	1348
+nui rung,	1349
+rung, xinh	1350
+suc	1351
+het suc	1352
+suc xinh	1353
+nay?	1354
+dep nay?	1355
+ban tay	1356
+tay xinh	1357
+duong minh	1358
+tuoi cuoi	1359
+nguoi me	1360
+cam	1361
+chiec cam	1362
+cam xinh	1363
+xan, dang	1364
+Tuyet	1365
+Tuyet cung	1366
+dep, mot	1367
+mot co	1368
+dep dam	1369
+dep lang	1370
+co nang	1371
+du	1372
+co ban	1373
+ban xinh	1374
+xan du	1375
+xua	1376
+dep xua	1377
+tieng	1378
+noi tieng	1379
+tieng xinh	1380
+rang	1381
+rang rat	1382
+nhat."	1383
+day la	1384
+dep nhat."	1385
+LLLLOO	1386
+thich	1387
+thich khach	1388
+khach xinh	1389
+thuyet	1390
+thuyet khach	1391
+dep Su	1392
+Nam,	1393
+Nam, vo	1394
+xinh hau	1395
+hau dep,	1396
+ULLO	1397
+dep hau	1398
+xinh thi	1399
+thi kho	1400
+vuong	1401
+vuong rat	1402
+ba ta	1403
+dep mot	1404
+cha	1405
+nhan that	1406
+dep, cha	1407
+xan ay	1408
+phong khach	1409
+nhan nang	1410
+dep bat	1411
+hoa, xinh	1412
+dep, anh	1413
+dep a	1414
+hai muoi,	1415
+muoi, xinh	1416
+dep, nhin	1417
+lo ve	1418
+xan khong	1419
+thuot	1420
+thuot tha	1421
+tha xinh	1422
+mieu	1423
+my mieu	1424
+mieu xinh	1425
+tanh	1426
+xan, tanh	1427
+quay	1428
+dep quay	1429
+dep mu	1430
+xan, ma	1431
+ta that	1432
+Kha	1433
+Kha chi	1434
+chi xinh	1435
+dep bang	1436
+tinh ma	1437

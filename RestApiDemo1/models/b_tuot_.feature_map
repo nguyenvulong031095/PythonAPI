@@ -1,0 +1,684 @@
+lap	1
+tuc	2
+tuot	3
+ra,	4
+chem	5
+lap tuc	6
+tuc tuot	7
+tuot ra,	8
+ra, chem	9
+LLLL	10
+LLO	11
+LLL	12
+LL	13
+Ta	14
+tha	15
+ca	16
+hai	17
+Ta tha	18
+tha tuot	19
+tuot ca	20
+ca hai	21
+UL	22
+OL	23
+Nguoi	24
+chang	25
+xuong	26
+nam	27
+Nguoi chang	28
+chang tuot	29
+tuot xuong	30
+xuong nam	31
+LLLLL	32
+ULLLL	33
+lung	34
+ngua	35
+bi	36
+lung ngua	37
+ngua tuot	38
+xuong bi	39
+dot	40
+nhien	41
+ra	42
+chup	43
+dot nhien	44
+nhien tuot	45
+tuot ra	46
+ra chup	47
+khi	48
+nang	49
+khoi	50
+tay,	51
+khi nang	52
+nang tuot	53
+tuot khoi	54
+khoi tay,	55
+LLLO	56
+nhan	57
+luc	58
+kiem	59
+duong	60
+nhan luc	61
+luc tuot	62
+tuot kiem	63
+kiem duong	64
+chen	65
+ruou	66
+tay	67
+roi	68
+chen ruou	69
+ruou tuot	70
+tuot tay	71
+tay roi	72
+than	73
+lam	74
+lop	75
+vai	76
+than lam	77
+lam tuot	78
+tuot lop	79
+lop vai	80
+nhe	81
+nhang	82
+thi	83
+nhe nhang	84
+nhang tuot	85
+xuong thi	86
+khong	87
+tay.	88
+kiem khong	89
+khong tuot	90
+khoi tay.	91
+da	92
+roi da	93
+da tuot	94
+khoi tay	95
+dau	96
+tron	97
+nhu	98
+qua	99
+dau tron	100
+tron tuot	101
+tuot nhu	102
+nhu qua	103
+suyt	104
+nua	105
+mat	106
+truong	107
+suyt nua	108
+nua tuot	109
+tuot mat	110
+mat truong	111
+LLLLLL	112
+bay	113
+di.	114
+truong kiem	115
+kiem tuot	116
+tuot bay	117
+bay di.	118
+bung	119
+minh	120
+sau	121
+bung minh	122
+minh tuot	123
+ra sau	124
+thoat	125
+vo,	126
+thoat nhien	127
+tuot vo,	128
+vo, lam	129
+Ky	130
+ben	131
+Thien	132
+Gia	133
+Ky ben	134
+ben tuot	135
+tuot Thien	136
+Thien Gia	137
+ULL	138
+LO	139
+OO	140
+vao	141
+di,	142
+bat	143
+vao tay	144
+tay tuot	145
+tuot di,	146
+di, bat	147
+Bao	148
+Bao roi	149
+roi tuot	150
+xuong ben	151
+binh	152
+binh khi	153
+khi tuot	154
+duoi	155
+tuot ben	156
+ben duoi	157
+ong	158
+loi	159
+giam	160
+doc	161
+ong loi	162
+loi tuot	163
+tuot giam	164
+giam doc	165
+co	166
+khong?	167
+Doanh	168
+co tron	169
+tuot khong?	170
+khong? Doanh	171
+LLLLLO	172
+cam	173
+lung da	174
+ra cam	175
+y	176
+phia	177
+co y	178
+y tuot	179
+ra phia	180
+L	181
+tra	182
+chen tra	183
+tra tuot	184
+han	185
+lien	186
+dam	187
+han lien	188
+lien tuot	189
+kiem dam	190
+lai	191
+ha	192
+chan	193
+nui	194
+lai ha	195
+ha tuot	196
+tuot chan	197
+chan nui	198
+luc,	199
+keo	200
+“Pha	201
+sat”	202
+luc, keo	203
+keo tuot	204
+tuot “Pha	205
+“Pha sat”	206
+OULL	207
+luc bi	208
+bi tuot	209
+tay bay	210
+dung	211
+day	212
+kiem,	213
+con	214
+dung day	215
+day tuot	216
+tuot kiem,	217
+kiem, con	218
+LLLLO	219
+Nhi,	220
+Nhi, tay	221
+kiem ra	222
+ULLO	223
+giai	224
+xuong.	225
+giai lien	226
+tuot xuong.	227
+du,	228
+phai	229
+giay	230
+vo	231
+du, phai	232
+phai tuot	233
+tuot giay	234
+giay vo	235
+Xung	236
+Xung bi	237
+ra, han	238
+ULLL	239
+so	240
+ve	241
+U	242
+so tron	243
+tuot ve	244
+ve U	245
+LU	246
+Ho	247
+vang	248
+Ho Xung	249
+Xung tuot	250
+tay vang	251
+kiem bi	252
+ra bay	253
+he	254
+giuong	255
+khong he	256
+he tuot	257
+kiem giuong	258
+deu	259
+cung	260
+deu kiem	261
+tuot cung	262
+cung duong	263
+dong	264
+la	265
+hon.	266
+ngua dong	267
+dong tuot	268
+tuot la	269
+la hon.	270
+may	271
+trang	272
+may trang	273
+trang tuot	274
+khoi chan	275
+giao	276
+guom,	277
+giao da	278
+tuot guom,	279
+guom, giuong	280
+chuc	281
+ve dung	282
+dung tuot	283
+kiem chuc	284
+Trung	285
+Nguyet	286
+chi	287
+Trung Nguyet	288
+Nguyet tuot	289
+ra, chi	290
+ULLLLL	291
+khoi vai	292
+ma	293
+guom	294
+vien	295
+ca ma	296
+ma tuot	297
+tuot guom	298
+guom vien	299
+lon	300
+trong.	301
+lon keo	302
+tuot vao	303
+vao trong.	304
+do	305
+trong	306
+do sau	307
+sau tuot	308
+ben trong	309
+Tu	310
+hat	311
+Tu bi	312
+tay hat	313
+theo	314
+khuyu	315
+theo do	316
+do tuot	317
+xuong khuyu	318
+o	319
+the	320
+o the	321
+the tuot	322
+Xa	323
+Loi	324
+Xa Loi	325
+Loi tuot	326
+nhuyen	327
+tien	328
+nhuyen tien	329
+tien tuot	330
+Hoa	331
+dang	332
+Hoa dang	333
+dang tuot	334
+kiem cam	335
+cuong	336
+dao	337
+cuong dao	338
+dao tuot	339
+son	340
+son dao	341
+Nam	342
+thang	343
+den	344
+Co	345
+Nam thang	346
+thang tuot	347
+tuot den	348
+den Co	349
+roi lai	350
+lai tuot	351
+tuot di.	352
+noi	353
+khong noi	354
+noi tuot	355
+len	356
+dinh	357
+duong tron	358
+tuot len	359
+len dinh	360
+trung	361
+tu	362
+xa	363
+trung tu	364
+tu tuot	365
+tuot dang	366
+dang xa	367
+co lien	368
+re,	369
+mot	370
+re, bay	371
+bay tuot	372
+ra mot	373
+Khau	374
+Trong	375
+het	376
+Khau Trong	377
+Trong tuot	378
+tuot het	379
+het la	380
+hoang	381
+hoang dong	382
+tuot thi	383
+thi hai	384
+bao	385
+la dong	386
+tuot khong	387
+khong bao	388
+ga	389
+chui	390
+gam	391
+ga chui	392
+chui tuot	393
+vao gam	394
+de	395
+quet	396
+lau	397
+de quet	398
+quet tuot	399
+tuot lau	400
+lau chui	401
+vao quet	402
+kiep	403
+kiep quet	404
+Nhi	405
+chay	406
+bo	407
+Nhi chay	408
+chay tuot	409
+xuong bo	410
+binh ruou	411
+tieu	412
+bieu	413
+day thang	414
+tuot tieu	415
+tieu bieu	416
+Chan	417
+mu	418
+Chan mu	419
+mu tuot	420
+khoi hai	421
+thanh	422
+thanh the	423
+phap	424
+phoi	425
+thai	426
+phap phoi	427
+phoi tuot	428
+ra, thai	429
+tuot chang	430
+chang tha	431
+ke	432
+ke dang	433
+tuot doc	434
+doc nhu	435
+nen	436
+doi	437
+toi	438
+hau	439
+nen doi	440
+doi tuot	441
+tuot toi	442
+toi hau	443
+nhan,	444
+laI	445
+heo	446
+nhan, laI	447
+laI tuot	448
+tuot xa	449
+xa heo	450
+LLU	451
+giuong,	452
+the kiem	453
+cung giuong,	454
+LLLLLLO	455
+Phu	456
+Kien	457
+boi	458
+Phu Kien	459
+Kien tuot	460
+tuot boi	461
+boi kiem,	462
+nhao	463
+khi,	464
+nhao nhao	465
+nhao tuot	466
+tuot binh	467
+binh khi,	468
+tren	469
+tren co	470
+co tuot	471
+xuong mot	472
+quai,	473
+quai, vang	474
+vang tuot	475
+nao	476
+duong,	477
+nao kiem	478
+cung duong,	479
+muoi	480
+muoi bi	481
+Ga	482
+Ga tuot	483
+kiem, xuong	484
+thay	485
+tan	486
+thay ga	487
+ga tuot	488
+kiem tan	489
+si,	490
+si, kiem	491
+cung guom	492
+quay	493
+quay di,	494
+di, tuot	495
+tuot truong	496
+truong kiem,	497
+lan	498
+luot	499
+lan luot	500
+luot tuot	501
+san	502
+yeu	503
+san len	504
+len tuot	505
+tuot thanh	506
+thanh yeu	507
+van	508
+cung khong	509
+kiem, van	510
+Xu	511
+nhay	512
+Xu Co	513
+Co tuot	514
+kiem nhay	515
+lay,	516
+nhan lay,	517
+lay, tuot	518
+doan	519
+doan kiem	520
+ra khoi	521
+ghe	522
+ngoi	523
+tren ghe	524
+ghe tuot	525
+xuong ngoi	526
+rot	527
+tay han	528
+han tuot	529
+ra rot	530
+Dung	531
+xa,	532
+Dung tuot	533
+dang xa,	534
+sung	535
+sung cung	536
+cung tuot	537
+tay rot	538
+cay	539
+gay	540
+cay gay	541
+gay tuot	542
+quan	543
+but	544
+quan but	545
+but tuot	546
+ten	547
+thiet	548
+ten bi	549
+mat thiet	550
+cang	551
+thap,	552
+trang cang	553
+cang tuot	554
+xuong thap,	555
+khe	556
+khang	557
+khe khang	558
+khang tuot	559
+xuong giuong	560
+ngo	561
+bat ngo	562
+ngo tuot	563
+phong,	564
+chang keo	565
+vao phong,	566
+chac	567
+mat.	568
+khong chac	569
+chac tuot	570
+tuot mat.	571
+ga keo	572
+ve sau	573
+loai	574
+loai tron	575
+tuot lai	576
+lai con	577
+de tron	578
+Vuong	579
+Tong	580
+Vuong Tong	581
+Tong tuot	582
+xuyt	583
+xuyt nua	584
+tuot tay,	585
+tay, ga	586
+tranh	587
+phai tranh	588
+tranh tuot	589
+len noi	590
+tay bi	591
+ra vang	592
+choi	593
+di	594
+Nguoi choi	595
+choi tuot	596
+tuot di	597
+di nhu	598
+sap	599
+ham	600
+sap roi	601
+ca ham	602
+dien	603
+duong.	604
+dien kiem	605
+cung duong.	606
+nguoi	607
+bong	608
+nguoi bong	609
+bong tuot	610
+tay ra	611
+chua	612
+chua he	613
+kiem khoi	614
+gio	615
+cach	616
+gio dong	617
+tuot mot	618
+mot cach	619
+duoc	620
+kiem duoc	621
+duoc tuot	622
+tran,	623
+dua	624
+truong dao	625
+tuot tran,	626
+tran, dua	627
+giuong cung	628
+kiem ma	629
+cang tron	630
+xuong cang	631
+lao	632
+thay lao	633
+lao tuot	634
+tuot minh	635
+minh xuong	636
+Kiem	637
+Kiem cung	638
+ngua,	639
+y keo	640
+xuong ngua,	641
+suon	642
+dat,	643
+suon bi	644
+xuong dat,	645
+Trieu	646
+Ton	647
+Ga loi	648
+tuot Trieu	649
+Trieu Ton	650
+hoi,	651
+hoi, tron	652
+nhu loai	653
+Kha	654
+leo	655
+Kha dong	656
+mot leo	657
+binh,	658
+no	659
+cang,	660
+binh, kiem	661
+tuot no	662
+no cang,	663
+truoc	664
+bop	665
+dang truoc	666
+truoc tuot	667
+tuot bop	668
+bop xuong	669
+danh	670
+vo y	671
+tay danh	672
+can	673
+chuc can	674
+can tuot	675
+chung	676
+chung deu	677
+deu tuot	678
+ra.	679
+gio lai	680
+tuot ra.	681
+nuoc	682
+chung tra	683
+tay, nuoc	684

@@ -1,0 +1,2110 @@
+danh	1
+ninh	2
+hot	3
+nay	4
+noi	5
+danh ninh	6
+ninh hot	7
+hot nay	8
+nay noi	9
+LLLL	10
+LLL	11
+LL	12
+Ho	13
+Xung	14
+hoang	15
+xin	16
+Ho Xung	17
+Xung hot	18
+hot hoang	19
+hoang xin	20
+UL	21
+LLLLL	22
+ULLL	23
+OL	24
+OO	25
+duong	26
+oanh	27
+liu	28
+lo	29
+duong oanh	30
+oanh hot	31
+hot liu	32
+liu lo	33
+coi	34
+hoi	35
+nhu	36
+khong	37
+coi hoi	38
+hoi hot	39
+hot nhu	40
+nhu khong	41
+chi	42
+ngoai	43
+mieng	44
+chi hoi	45
+hot ngoai	46
+ngoai mieng	47
+phieu	48
+hot,	49
+bay	50
+phieu phieu	51
+phieu hot	52
+hot hot,	53
+hot, bay	54
+LLLO	55
+mo	56
+rong	57
+rong,	58
+mo hoi	59
+hot rong	60
+rong rong,	61
+LLLLO	62
+Ta	63
+tieu	64
+Hoang	65
+Ta ninh	66
+hot tieu	67
+tieu Hoang	68
+ULLLL	69
+LO	70
+chiu	71
+?	72
+Nhung	73
+chiu ninh	74
+hot ?	75
+? Nhung	76
+O	77
+ga	78
+deu	79
+la	80
+ga ninh	81
+hot deu	82
+deu la	83
+thi	84
+nhat	85
+hot thi	86
+thi nhat	87
+ai.	88
+hot ai.	89
+LLO	90
+ham,	91
+ruou	92
+che,	93
+ham, hoi	94
+hot ruou	95
+ruou che,	96
+che.	97
+ruou che.	98
+Trong	99
+luc	100
+Lenh	101
+Trong luc	102
+luc hot	103
+hoang Lenh	104
+co	105
+lem	106
+lau	107
+co hoi	108
+hot lem	109
+lem lau	110
+cung	111
+hoang.	112
+cung khong	113
+khong hot	114
+hot hoang.	115
+LLLLLO	116
+phai	117
+nhe	118
+nhang	119
+phai hoi	120
+hot nhe	121
+nhe nhang	122
+cuoi	123
+nhien	124
+bien	125
+cuoi cung	126
+cung hot	127
+hot nhien	128
+nhien bien	129
+Dao	130
+hoi:	131
+“Suc	132
+Dao hoang	133
+hoang hot	134
+hot hoi:	135
+hoi: “Suc	136
+OULL	137
+ULL	138
+that,	139
+khon	140
+luong.	141
+that, hoi	142
+hot khon	143
+khon luong.	144
+nong	145
+nay,	146
+chay	147
+nong nay,	148
+nay, hot	149
+hoang chay	150
+hoang hoang	151
+hot hot	152
+thanh	153
+nhu thanh	154
+the	155
+quy	156
+the phieu	157
+nhu quy	158
+van,	159
+van, phieu	160
+tuc	161
+len,	162
+tinh	163
+tuc hoang	164
+hot len,	165
+len, tinh	166
+dam	167
+can.	168
+dam ninh	169
+rong can.	170
+bi	171
+di	172
+luon.	173
+cung bi	174
+bi hot	175
+hot di	176
+di luon.	177
+leo	178
+bua	179
+khong the	180
+the hot	181
+hot leo	182
+leo bua	183
+nao	184
+tay	185
+nua	186
+nao cung	187
+hot tay	188
+tay nua	189
+kiem	190
+nhat kiem	191
+kiem hot	192
+hot bay	193
+bay mieng	194
+ma	195
+dut	196
+kiem ma	197
+ma hot	198
+hot dut	199
+dut bay	200
+nguoi	201
+da	202
+nguoi da	203
+da hot	204
+ben	205
+hai	206
+ben ngoai	207
+ngoai hot	208
+hot hai	209
+hai chay	210
+doi	211
+hoi hoi	212
+nay doi	213
+tieng	214
+chim	215
+dau	216
+tien	217
+tieng chim	218
+chim hot	219
+hot dau	220
+dau tien	221
+an	222
+com	223
+thien	224
+ha	225
+an com	226
+com hot	227
+hot thien	228
+thien ha	229
+ngu	230
+kiem,	231
+o	232
+ngu kiem,	233
+kiem, hot	234
+nhien o	235
+L	236
+cau,	237
+thu	238
+nua cau,	239
+cau, hot	240
+nhien thu	241
+bo,	242
+han	243
+dung	244
+bo, han	245
+han hot	246
+nhien dung	247
+quyet	248
+tu	249
+cat	250
+quyet tu	251
+tu hot	252
+nhien cat	253
+Tuyet	254
+Ky,	255
+buoc	256
+Tuyet Ky,	257
+Ky, hot	258
+nhien buoc	259
+ULO	260
+Ngon	261
+O Ngon	262
+Ngon hot	263
+U	264
+UO	265
+nu	266
+lang	267
+dut,	268
+de	269
+nu lang	270
+lang hot	271
+hot dut,	272
+dut, de	273
+mat	274
+bat	275
+dinh	276
+mat phieu	277
+hot bat	278
+bat dinh	279
+am	280
+do	281
+am hoang	282
+hot do	283
+do co	284
+Tieu	285
+Bach	286
+tam	287
+Tieu Bach	288
+Bach hot	289
+nhien tam	290
+ro	291
+rang,	292
+trong	293
+ro rang,	294
+rang, hot	295
+nhien trong	296
+sot	297
+sot thi	298
+thi hot	299
+nhien tinh	300
+suy	301
+nghi,	302
+cam	303
+suy nghi,	304
+nghi, hot	305
+nhien cam	306
+tuong	307
+dai.	308
+tuong hoang	309
+hot chay	310
+chay dai.	311
+giac	312
+kip	313
+giac hoang	314
+hot khong	315
+khong kip	316
+phia	317
+sau,	318
+noi:“Nguoi	319
+phia sau,	320
+sau, hot	321
+nhien noi:“Nguoi	322
+LLLOOULLLL	323
+hau	324
+do,	325
+nhien,	326
+mot	327
+hau do,	328
+do, hot	329
+hot nhien,	330
+nhien, mot	331
+sac	332
+dien	333
+bao	334
+sac dien	335
+dien hot	336
+nhien bao	337
+thu phieu	338
+tua	339
+am phieu	340
+hot tua	341
+tua nhu	342
+suc	343
+don	344
+gian	345
+suc hoi	346
+hot don	347
+don gian	348
+nen	349
+vo	350
+luc,	351
+nen phieu	352
+hot vo	353
+vo luc,	354
+vao	355
+bao:	356
+tu hoang	357
+hot vao	358
+vao bao:	359
+ve	360
+gi	361
+,	362
+ve hoang	363
+hot gi	364
+gi ,	365
+Thu	366
+tram	367
+Thu Thu	368
+Thu hot	369
+nhien tram	370
+keu	371
+keu chim	372
+hot ,	373
+, da	374
+moi	375
+hien	376
+moi ,	377
+, hot	378
+nhien hien	379
+con	380
+mau.	381
+khong con	382
+con hot	383
+hot mau.	384
+phap	385
+than	386
+phap phieu	387
+nhu than	388
+Dao the	389
+lao	390
+toi.	391
+cung hoang	392
+hot lao	393
+lao toi.	394
+Thien	395
+ve,	396
+Thien hoang	397
+chay ve,	398
+Banh	399
+Banh da	400
+den	401
+ma hoang	402
+hot den	403
+den noi	404
+vang	405
+thoai	406
+hau.	407
+vang hoang	408
+hot thoai	409
+thoai hau.	410
+lai,	411
+noi:	412
+"O	413
+lai, hoang	414
+hot noi:	415
+noi: "O	416
+OU	417
+LU	418
+may	419
+vi	420
+mat may	421
+may hot	422
+hoang vi	423
+kho	424
+mong	425
+lai	426
+duoc	427
+kho mong	428
+mong hot	429
+hot lai	430
+lai duoc	431
+ngoi	432
+day	433
+ngoi day	434
+day hot	435
+hoang la	436
+lien	437
+mat hoang	438
+hot lien	439
+lien hoi	440
+vay	441
+lai phieu	442
+nhu vay	443
+lay	444
+tho	445
+lien lay	446
+lay hot	447
+hot tho	448
+tho lo	449
+ra	450
+nhung	451
+ra nhung	452
+nhung hot	453
+lam	454
+nhieu	455
+hot lam	456
+lam nhieu	457
+ho	458
+luc hoang	459
+tua ho	460
+vong,	461
+giong	462
+dem	463
+vong, hoang	464
+hot giong	465
+giong dem	466
+xa	467
+hot tu	468
+tu xa	469
+voi	470
+nguoc	471
+hot voi	472
+voi nguoc	473
+Lao	474
+cuong	475
+cuong.	476
+Lao hoang	477
+hot cuong	478
+cuong cuong.	479
+rai	480
+noi,	481
+rai noi,	482
+noi, hot	483
+nhien tu	484
+mot luc,	485
+luc, hot	486
+nhien han	487
+truy	488
+truy thu	489
+thu hot	490
+dut mot	491
+dut.	492
+lao bi	493
+hot dut.	494
+luc nay,	495
+nhien co	496
+lo.	497
+liu lo.	498
+buong	499
+loi,	500
+buong loi,	501
+loi, hot	502
+hoang cam	503
+lanh	504
+lung,	505
+lanh lung,	506
+lung, hot	507
+nhien ho	508
+mau,	509
+that	510
+hot mau,	511
+mau, that	512
+han,	513
+nguoi han,	514
+han, hot	515
+nhien hoi:	516
+Binh	517
+Chi	518
+toi	519
+Doanh	520
+Binh Chi	521
+Chi hot	522
+hot toi	523
+toi Doanh	524
+hoang,	525
+trong dau	526
+dau hot	527
+hot hoang,	528
+hoang, tu	529
+yen.	530
+do hoang	531
+khong yen.	532
+xoay	533
+sac den	534
+den hot	535
+nhien xoay	536
+Long	537
+„Neu	538
+Long hoang	539
+hot noi,	540
+noi, „Neu	541
+la han	542
+nhien cuoi	543
+vai	544
+phan;	545
+hot vai	546
+vai phan;	547
+riu	548
+rit,	549
+hot riu	550
+riu rit,	551
+ngan	552
+nga	553
+hot ngan	554
+ngan nga	555
+xuong,	556
+voi hoang	557
+hot quy	558
+quy xuong,	559
+thay	560
+hot thay	561
+thay nhu	562
+thap	563
+thoang	564
+hot thap	565
+thap thoang	566
+LLLLLL	567
+chung	568
+len	569
+chung ninh	570
+hot noi	571
+noi len	572
+ngan nguoi	573
+nguoi hot	574
+hot ho	575
+ho hot	576
+, khong	577
+phung	578
+che	579
+phung hoang	580
+hot de	581
+de che	582
+dai	583
+ta	584
+dai ta	585
+ta hot	586
+rit	587
+riu rit	588
+tha	589
+bac	590
+cua	591
+tha ho	592
+hot bac	593
+bac cua	594
+tin	595
+-Anh	596
+tin hoang	597
+hot -Anh	598
+-Anh ve	599
+khiep	600
+so,	601
+van	602
+khiep so,	603
+so, hot	604
+hoang van	605
+minh	606
+luc minh	607
+minh hot	608
+hoang lai	609
+vai han	610
+nhien keu	611
+gia,	612
+danh gia,	613
+gia, hot	614
+nhien nhu	615
+Nha	616
+„Thieu	617
+Nha hoang	618
+noi, „Thieu	619
+OULLLL	620
+gia	621
+gia tuong	622
+tuong hot	623
+phan	624
+no	625
+phan no	626
+no hot	627
+hoang cua	628
+chan,	629
+„Nguoi	630
+chan, hoang	631
+noi, „Nguoi	632
+nghe,	633
+dan,	634
+nghe, tieng	635
+tieng hot	636
+hot xa	637
+xa dan,	638
+nghe	639
+chim do	640
+do hot	641
+hot nghe	642
+nghe that	643
+the,	644
+hay	645
+that.	646
+the, no	647
+hot hay	648
+hay that.	649
+linh,	650
+linh, tieng	651
+hot cua	652
+cua no	653
+thoi,	654
+ban	655
+toi moi	656
+moi hot	657
+hot thoi,	658
+thoi, ban	659
+ve tieng	660
+cua con	661
+nghe tieng	662
+cua chim	663
+thay tieng	664
+hot moi	665
+moi luc	666
+di toi.	667
+Tieng	668
+ron	669
+Tieng chim	670
+hot that	671
+that ron	672
+linh	673
+thien linh	674
+linh hot	675
+hot mot	676
+mot hoi	677
+vui	678
+cho	679
+vui ve	680
+ve hot	681
+hot cho	682
+cho minh	683
+chang	684
+cho no	685
+nghe chang	686
+bay voi	687
+voi hot	688
+ve lien	689
+lien hot	690
+chi ma	691
+hoang nhu	692
+bo	693
+ton	694
+lan	695
+nhau,	696
+bo ton	697
+ton hot	698
+hot lan	699
+lan nhau,	700
+chong	701
+im	702
+vo chong	703
+chong hot	704
+hoang im	705
+giu	706
+chat	707
+trung	708
+giu chat	709
+chat hot	710
+hot trung	711
+trung ga	712
+lua,	713
+anh	714
+nhin	715
+lua, anh	716
+anh hot	717
+hoang nhin	718
+Be	719
+nam	720
+Be hot	721
+hoang nam	722
+Chay	723
+Bofa	724
+Chay Bofa	725
+Bofa hot	726
+hoang dung	727
+tung	728
+ga hoang	729
+hot tung	730
+tung minh	731
+thai	732
+that thai	733
+thao	734
+chi hoang	735
+hot thao	736
+thao chay	737
+Chau	738
+Chau ninh	739
+truoc	740
+nhien ninh	741
+hot truoc	742
+truoc mat	743
+lo".	744
+buong tieng	745
+liu lo".	746
+LLOO	747
+dap	748
+dai han	749
+hoang dap	750
+cai	751
+keo	752
+mot cai	753
+cai hot	754
+hot keo	755
+keo o	756
+khac	757
+noi hoi	758
+hot chang	759
+chang khac	760
+ngung	761
+day da	762
+khong ngung	763
+Pham	764
+Tieu Pham	765
+Pham hot	766
+hoang, voi	767
+long	768
+trong long	769
+long hot	770
+hot tuong	771
+tuong nhu	772
+dang	773
+giua	774
+dang phieu	775
+hot giua	776
+giua khong	777
+tich	778
+tich hoi	779
+di doi	780
+Tu	781
+Tu da	782
+Ly	783
+Ly Thien	784
+Thien hot	785
+sao,	786
+phat	787
+lam sao,	788
+sao, hot	789
+nhien phat	790
+Lang	791
+chuyen	792
+Tu Lang	793
+Lang hot	794
+nhien chuyen	795
+phi	796
+tan	797
+ra ninh	798
+hot phi	799
+phi tan	800
+lung	801
+tung,	802
+lung tung,	803
+tung, hot	804
+hot ha	805
+ha hot	806
+hoang den	807
+quay	808
+ha xuong,	809
+xuong, hot	810
+nhien quay	811
+hot, ga	812
+co,	813
+cang	814
+co, nhung	815
+nhien cang	816
+day,	817
+day, ho	818
+hoang thu	819
+long,	820
+nghe ninh	821
+hot lay	822
+lay long,	823
+rau	824
+rot	825
+rau bi	826
+dut rot	827
+Hoan	828
+to,	829
+Hoan hoang	830
+hot keu	831
+keu to,	832
+boc	833
+nho,	834
+boc nho,	835
+nho, hot	836
+tren	837
+khong,	838
+tren khong,	839
+khong, hot	840
+nhien tay	841
+lia	842
+lia,	843
+lia lia,	844
+lia, hot	845
+hot han	846
+han khong	847
+nhu chim	848
+nhung noi	849
+noi hot	850
+hoang lo	851
+phay	852
+dinh,	853
+phay phieu	854
+bat dinh,	855
+mau, ma	856
+cua ban	857
+ma khong	858
+giam	859
+giam hoang	860
+keu la	861
+duoi	862
+tu duoi	863
+duoi hot	864
+hot len	865
+len tren	866
+luong	867
+hot luong	868
+luong cuong	869
+qua	870
+qua lai,	871
+lai, hot	872
+nhien dam	873
+„Hang	874
+noi, „Hang	875
+OULLL	876
+Thanh	877
+Thanh hoang	878
+hot buong	879
+buong tay	880
+yen	881
+tai	882
+keu yen	883
+yen hot	884
+hot tai	885
+tai thanh	886
+nhan	887
+nhan hoang	888
+hot nhin	889
+nhin ga	890
+sanh,	891
+sanh, hoang	892
+keu len,	893
+Phuong	894
+Hang	895
+Phuong hoang	896
+nhin Hang	897
+ULLLLL	898
+xa,	899
+mot xa,	900
+xa, hot	901
+nhien truoc	902
+suc,	903
+tim	904
+gia suc,	905
+suc, hot	906
+hai tim	907
+dong	908
+tac	909
+hot dong	910
+dong tac	911
+bon	912
+chon,	913
+hot bon	914
+bon chon,	915
+nhu phieu	916
+thi that	917
+hom	918
+nhu hom	919
+hoang bo	920
+thai do	921
+hai hoi	922
+hot danh	923
+danh ben	924
+Mai	925
+tinh hoi	926
+cua Mai	927
+hoi,	928
+„Ta	929
+hoi, hoang	930
+noi, „Ta	931
+OUL	932
+bia	933
+hot bia	934
+bia ra	935
+via,	936
+bo via,	937
+via, hot	938
+hoang de	939
+luc do	940
+Nang	941
+Nang hot	942
+nhien, nhe	943
+vong	944
+nang	945
+vong nang	946
+nang hot	947
+nhien thoang	948
+dung day	949
+nhien than	950
+kinh	951
+di,	952
+kinh di,	953
+di, hot	954
+hai moi	955
+quai	956
+go,	957
+quai go,	958
+go, hot	959
+nhu khong,	960
+thuc	961
+ve hoi	962
+hot nhung	963
+nhung thuc	964
+Bao	965
+vuon	966
+Tieu Bao	967
+Bao hot	968
+hoang vuon	969
+Da	970
+Da Long	971
+Long hot	972
+goi:	973
+mat han,	974
+hoang goi:	975
+Ba	976
+Quang	977
+Ba Quang	978
+Quang hot	979
+than hoang	980
+chang nay	981
+lo ve	982
+hoang thi	983
+"oi"	984
+roi	985
+"oi" hoang	986
+hot roi	987
+roi khong	988
+OLLO	989
+truong	990
+le	991
+truong kiem	992
+hot le	993
+le mot	994
+di.	995
+lai hoang	996
+hot bo	997
+bo di.	998
+thoi	999
+quen	1000
+thoi hoang	1001
+hot ma	1002
+ma quen	1003
+hoa	1004
+nhang hoi	1005
+ma hoa	1006
+chuyen,	1007
+mot chuyen,	1008
+chuyen, hot	1009
+hoang noi:	1010
+LLLLLLO	1011
+hoang hoi	1012
+tranh,	1013
+thi hoang	1014
+hot vong	1015
+vong tranh,	1016
+han tu	1017
+hoang keu	1018
+phong	1019
+hot phong	1020
+phong nguoi	1021
+Ðong	1022
+chung ton	1023
+hot Ðong	1024
+Ðong Phuong	1025
+loi	1026
+loi ton	1027
+hot cung	1028
+cung lo	1029
+sinh	1030
+tien sinh	1031
+sinh hot	1032
+hoang dong	1033
+Khau	1034
+sang	1035
+Khau Trong	1036
+Trong hot	1037
+nhien sang	1038
+hau,	1039
+hau, phieu	1040
+vo dinh,	1041
+y	1042
+cao	1043
+cua y	1044
+y hot	1045
+nhien cao	1046
+keu hoang	1047
+cua nu	1048
+xi	1049
+ngau	1050
+am cua	1051
+cua hot	1052
+hot xi	1053
+xi ngau	1054
+luon	1055
+tien da	1056
+hot luon	1057
+luon mot	1058
+boi	1059
+boi loi,	1060
+hoang boi	1061
+A	1062
+Kha	1063
+A Kha	1064
+Kha hot	1065
+voi vang	1066
+tay han,	1067
+troi,	1068
+nhin troi,	1069
+troi, hot	1070
+nhien noi:	1071
+ay	1072
+mim	1073
+lanh ay	1074
+ay hot	1075
+nhien mim	1076
+cho Hang	1077
+Nghi	1078
+Lam	1079
+Nghi Lam	1080
+Lam hot	1081
+cau:	1082
+mot cau:	1083
+Long,	1084
+len.	1085
+Long, hoang	1086
+keu len.	1087
+ULLLO	1088
+len:	1089
+the hoang	1090
+keu len:	1091
+gi ma	1092
+hoang qua	1093
+Chang	1094
+lui	1095
+Chang hoang	1096
+hot lui	1097
+lui lai	1098
+ap	1099
+mau, ap	1100
+di dau	1101
+hai noi:	1102
+leo.	1103
+mong moi	1104
+hot leo.	1105
+kiem len	1106
+len hot	1107
+mot nhat	1108
+-	1109
+long hoang	1110
+hoi: -	1111
+ra,	1112
+ra, roi	1113
+roi hot	1114
+Phi	1115
+Thuan	1116
+Phi Thuan	1117
+Thuan hot	1118
+a	1119
+di ninh	1120
+hot a	1121
+a thi	1122
+cat hai	1123
+hai hot	1124
+cua han	1125
+thoc	1126
+hoac	1127
+tim hai	1128
+hot thoc	1129
+thoc hoac	1130
+lua	1131
+xuong	1132
+lua mot	1133
+mot hot	1134
+thoc xuong	1135
+dat	1136
+nhi	1137
+do dat	1138
+dat hot	1139
+hot thu	1140
+thu nhi	1141
+su	1142
+su hoang	1143
+hot qua	1144
+qua di,	1145
+noi la	1146
+la hot	1147
+hot ta	1148
+ta mot	1149
+dau,	1150
+Ta co	1151
+co hot	1152
+hot nguoi	1153
+nguoi dau,	1154
+dia,	1155
+Hac	1156
+thien dia,	1157
+dia, hot	1158
+nhien Hac	1159
+tro	1160
+nhien tro	1161
+Tuan	1162
+Ly Tuan	1163
+Tuan hot	1164
+nhien mo	1165
+binh	1166
+thuong	1167
+hot binh	1168
+binh thuong	1169
+thuc hoang	1170
+lien hoang	1171
+chay ra	1172
+chay,	1173
+la hoang	1174
+bo chay,	1175
+toan,	1176
+tinh toan,	1177
+toan, hot	1178
+than,	1179
+than, hoi	1180
+nhu lao	1181
+Han	1182
+Han hot	1183
+hai noi	1184
+Vo	1185
+Viem	1186
+Vo Viem	1187
+Viem hot	1188
+lai.	1189
+Lang hoang	1190
+lui lai.	1191
+dong tu	1192
+de tu	1193
+Nhu	1194
+pha	1195
+Nhu co	1196
+dong pha	1197
+trong luc	1198
+hoang chi	1199
+niem	1200
+niem han	1201
+nhien may	1202
+nho	1203
+nhien nho	1204
+ay,	1205
+hot ay,	1206
+ay, khong	1207
+lan voi	1208
+Long dang	1209
+dang hot	1210
+hoang thao	1211
+ao	1212
+kien	1213
+chieu	1214
+ao phieu	1215
+hot kien	1216
+kien chieu	1217
+con hoang	1218
+khong yen	1219
+Thuong,	1220
+Thanh Thuong,	1221
+Thuong, hot	1222
+ULLLLLO	1223
+hoang tro	1224
+duoc!	1225
+Co	1226
+duoc! Co	1227
+Co hot	1228
+hot ga	1229
+ga lay	1230
+rat	1231
+hung	1232
+rat hoi	1233
+hot hung	1234
+hung ho	1235
+nham	1236
+canh	1237
+kiem nham	1238
+nham hot	1239
+hot canh	1240
+canh tay	1241
+dua	1242
+hoang dua	1243
+moc	1244
+moc hoi	1245
+khe	1246
+han hoi	1247
+hot khe	1248
+khe day	1249
+y,	1250
+y, roi	1251
+hoang noi,	1252
+:”Duong	1253
+Tuan hoang	1254
+hot :”Duong	1255
+:”Duong nhu	1256
+OOULLLL	1257
+O Thu	1258
+nho, dang	1259
+hoang, Hang	1260
+chang hoi	1261
+phong ra,	1262
+Han hoang	1263
+nhin len	1264
+lai hoi	1265
+hot may	1266
+may chieu	1267
+ao lam	1268
+lam hot	1269
+thieu	1270
+hoang, thieu	1271
+chay vao	1272
+nghi	1273
+thay,	1274
+buot	1275
+nghi thay,	1276
+thay, hot	1277
+nhien buot	1278
+rung	1279
+dong,	1280
+rung dong,	1281
+dong, hot	1282
+hon	1283
+deu hoang	1284
+hot hon	1285
+hon phi	1286
+Bai	1287
+Bai chay	1288
+chay hot	1289
+hoang khong	1290
+nhan lai,	1291
+lieng,	1292
+canh keu	1293
+keu hot	1294
+hot quay	1295
+quay lieng,	1296
+Ga	1297
+Ga hot	1298
+xeo	1299
+xeo len	1300
+vao phia	1301
+Tay	1302
+me	1303
+Tay mat	1304
+mat hot	1305
+qua me	1306
+Nhan	1307
+Ba Nhan	1308
+Nhan hot	1309
+lop	1310
+ha hay	1311
+hay hot	1312
+mot lop	1313
+can	1314
+can phai	1315
+phai hot	1316
+di mot	1317
+rut	1318
+hoang rut	1319
+khoa	1320
+khoa kiem	1321
+lo,	1322
+liu lo,	1323
+lot	1324
+lat,	1325
+lot lat,	1326
+lat, hot	1327
+vung	1328
+han hoang	1329
+hot vung	1330
+vung kiem	1331
+Bat	1332
+Bat Binh	1333
+Binh hot	1334
+cau	1335
+song	1336
+cau hoi	1337
+hot song	1338
+song thuc	1339
+cap	1340
+bao,	1341
+cap bao,	1342
+bao, hot	1343
+hoang len	1344
+cung nu	1345
+nu hot	1346
+lai nghi	1347
+ko	1348
+mot hoi,	1349
+hoi, hot	1350
+nhien ko	1351
+Linh	1352
+Nhi	1353
+tron	1354
+Linh Nhi	1355
+Nhi hot	1356
+hot tron	1357
+tron mat	1358
+Bien	1359
+Bien hot	1360
+quyen	1361
+danh hoi	1362
+mot quyen	1363
+it,	1364
+Pham hoang	1365
+khong it,	1366
+denh	1367
+khoang	1368
+denh phieu	1369
+hot trong	1370
+trong khoang	1371
+toi,	1372
+dang hoang	1373
+chay toi,	1374
+muoi	1375
+ten	1376
+muoi ten	1377
+ten hot	1378
+chua	1379
+chet	1380
+chua chet	1381
+chet hot	1382
+nguoi hoang	1383
+quy xuong	1384
+nhau	1385
+buong nhau	1386
+moi nguoi	1387
+nhien lay	1388
+dieu	1389
+gi,	1390
+dieu gi,	1391
+gi, hot	1392
+nhien tren	1393
+minh han	1394
+nhien cung	1395
+nui	1396
+dan	1397
+nhu nui	1398
+nui hot	1399
+nhien dan	1400
+ha,	1401
+thien ha,	1402
+chon	1403
+hot tren	1404
+tren chon	1405
+trong,	1406
+phia trong,	1407
+trong, hot	1408
+nhien buong	1409
+ra chieu	1410
+chieu hot	1411
+hoang lien	1412
+ngua	1413
+ngua hoang	1414
+chay den	1415
+treo	1416
+trong treo	1417
+"To	1418
+noi: "To	1419
+het	1420
+oanh tac	1421
+tac hot	1422
+hot het	1423
+het hoa	1424
+thuan,	1425
+hit	1426
+thuan, hit	1427
+hit hot	1428
+hot dien	1429
+dien vai	1430
+tha,	1431
+tha, phai	1432
+hot cai	1433
+cai dau	1434
+Nhat	1435
+Tien	1436
+Nhat Tien	1437
+Tien hot	1438
+hoang:	1439
+“Su	1440
+nhin len,	1441
+len, hot	1442
+hot hoang:	1443
+hoang: “Su	1444
+sam	1445
+va	1446
+sam va	1447
+va hot	1448
+ga la	1449
+se	1450
+se khong	1451
+nang cung	1452
+nhien bat	1453
+mot lat,	1454
+nhien hai	1455
+vo cung	1456
+hieu	1457
+chay hieu	1458
+hieu hot	1459
+minh,	1460
+minh, ga	1461
+ga hot	1462
+thanh am	1463
+am hot	1464
+manh,	1465
+vanh	1466
+tho manh,	1467
+manh, hot	1468
+nhien vanh	1469
+thi ve	1470
+vay?	1471
+nhu vay?	1472
+khac da	1473
+Trung	1474
+Nguyet	1475
+Trung Nguyet	1476
+Nguyet hot	1477
+mau	1478
+leo:	1479
+mau mieng	1480
+mieng hot	1481
+hot leo:	1482
+leo: -	1483
+Chi hoang	1484
+Ban	1485
+xuong.	1486
+Ban hoang	1487
+hot ngoi	1488
+ngoi xuong.	1489
+To	1490
+To hoang	1491
+noi: -	1492
+Ca	1493
+gao,	1494
+Ca mot	1495
+hot gao,	1496
+gao, mot	1497
+Dat	1498
+Dat Chi	1499
+nhien hoi	1500
+tieng,	1501
+mot tieng,	1502
+tieng, hot	1503
+nhien mot	1504
+Binh Nhi	1505
+da hoang	1506
+hot nam	1507
+nam ban	1508
+mau, giua	1509
+nguoi phieu	1510
+bay xuong	1511
+hot, co	1512
+nhay	1513
+hot nhay	1514
+nhay xuong	1515
+ma co	1516
+ba	1517
+thu ba	1518
+ba hot	1519
+hoang bat	1520
+loi ninh	1521
+khong ?	1522
+phuong	1523
+nhu phuong	1524
+phuong hot	1525
+cung tieng	1526
+tuyet	1527
+ky	1528
+tuyet ky	1529
+ky hot	1530
+thi co	1531
+nguoi di	1532
+di hot	1533
+leo voi	1534
+ta nhin	1535
+mau, nang	1536
+huynh,	1537
+dam bon	1538
+bon hot	1539
+voi huynh,	1540
+To Nhu	1541
+Nhu hot	1542
+hai keu	1543
+may nguoi	1544
+hoang trong	1545
+tinh,	1546
+tiep	1547
+tinh, hoang	1548
+noi tiep	1549
+tro nen	1550
+nen hot	1551
+Ky	1552
+Tuyet Ky	1553
+Ky hot	1554
+hoang noi	1555
+rung,	1556
+ra may	1557
+qua rung,	1558
+Hu	1559
+Xung Hu	1560
+Hu hot	1561
+Vinh	1562
+duong.	1563
+Vinh ninh	1564
+lam duong.	1565
+khong nang	1566
+quan	1567
+nha,	1568
+loi, ninh	1569
+hot quan	1570
+quan nha,	1571
+vi ninh	1572
+quan tren	1573
+thay a	1574
+a hot	1575
+hoang, cam	1576
+cuoi,	1577
+„Ðung	1578
+cuoi, „Ðung	1579
+„Ðung hot	1580
+nen hoang	1581
+khong dam	1582
+het ninh	1583
+hot ben	1584
+ben nay	1585
+Le	1586
+Le roi	1587
+lau,	1588
+hoi lau,	1589
+lau, hot	1590
+Trong,	1591
+Khau Trong,	1592
+Trong, hot	1593
+hoang: -	1594
+ULLLLO	1595
+chu	1596
+nay se	1597
+se hot	1598
+hot chu	1599
+chu len	1600
+hot, chi	1601
+Phu	1602
+Phu hoang	1603
+hot dung	1604
+dung day,	1605
+dich,	1606
+dich, chi	1607
+chi hot	1608
+dut lan	1609
+hot tuyet	1610
+tuyet nhien	1611
+lot do	1612
+nhien lai	1613
+Tai	1614
+Dat Tai	1615
+Tai hot	1616
+nhien phia	1617
+dap:	1618
+hoang dap:	1619
+la:	1620
+cat giong	1621
+giong hot	1622
+hoang la:	1623
+tat	1624
+ngang	1625
+tat ngang	1626
+ngang hot	1627
+vao lung	1628
+truy tung,	1629
+nhien ga	1630
+ho hoang	1631
+mat,	1632
+mat, hoang	1633
+chom	1634
+dua kiem	1635
+hot chom	1636
+chom rau	1637
+bi chang	1638
+chang hot	1639
+dut nua	1640
+lai cung	1641
+vao cho	1642
+nhom	1643
+minh, hoang	1644
+ngoi nhom	1645
+do!	1646
+do! Han	1647
+hoang that	1648
+kia.	1649
+truoc kia.	1650
+nao,	1651
+nao, phieu	1652
+vo dinh	1653
+cong	1654
+cong ninh	1655
+chu ban	1656
+„Tam	1657
+dau, hoang	1658
+noi, „Tam	1659
+khien	1660
+ai	1661
+hot khien	1662
+khien ai	1663
+Vien,	1664
+„Nhu	1665
+Vien, hoang	1666
+noi, „Nhu	1667
+"Dich	1668
+noi: "Dich	1669
+tinh hoang	1670
+lan dau	1671
+dat,	1672
+duoi dat,	1673
+dat, hot	1674
+:	1675
+tieng ninh	1676
+hot :	1677
+: -	1678
+duoc mot	1679
+hot com	1680
+com nao	1681
+keu,	1682
+„Can	1683
+hot keu,	1684
+keu, „Can	1685
+chot	1686
+khi	1687
+chot hoang	1688
+hot khi	1689
+khi phat	1690
+thuoc	1691
+hot quen	1692
+quen thuoc	1693
+Quy	1694
+Le,	1695
+Quy Le,	1696
+Le, hot	1697
+nhien sac	1698
+han ninh	1699
+cho.Cach	1700
+Vi	1701
+cho.Cach ninh	1702
+cua Vi	1703
+LLLOULLL	1704
+sinh hoang	1705
+voi va	1706
+canh chim	1707
+Quan	1708
+Ngoc	1709
+Quan Ngoc	1710
+Ngoc hot	1711
+khoet	1712
+thoi khoet	1713
+khoet hot	1714
+di roi	1715
+Khang	1716
+Nien	1717
+Khang Nien	1718
+Nien hot	1719
+chay thao	1720
+Nu	1721
+Nu lang	1722
+hoang vung	1723
+hoang buong	1724
+thuat	1725
+ngay	1726
+thuat ninh	1727
+cung ngay	1728
+gia ninh	1729
+qua do	1730
+nua,	1731
+nao nua,	1732
+nua, hot	1733
+hoang ngoi	1734
+sap	1735
+chang sap	1736
+sap hot	1737
+khien chang	1738
+so	1739
+ta so	1740
+so hot	1741
+vao nguoi	1742
+ngua mieng	1743
+leo noi	1744
+ten nao	1745
+nao hot	1746
+leo ta	1747
+minh hoang	1748
+hot chua	1749
+chua day	1750
+Chan	1751
+dap:"	1752
+Chan hoi	1753
+hot dap:"	1754
+dap:" Ta	1755
+LLLOO	1756
+chuong,	1757
+chay.	1758
+chuong, hoang	1759
+thao chay.	1760
+no deu	1761
+deu hot	1762
+ve mat	1763
+hoang, hoi	1764
+truoc,	1765
+khau	1766
+truoc, cam	1767
+cam hot	1768
+hot khau	1769
+khau dau	1770
+bach	1771
+Xung hoang	1772
+hot cap	1773
+cap bach	1774
+bong	1775
+dui	1776
+bong nham	1777
+vao dui	1778
+khoan	1779
+thai.	1780
+ra hoi	1781
+hot khoan	1782
+khoan thai.	1783
+Nhien	1784
+nap	1785
+Nhien hoang	1786
+hot nap	1787
+nap trong	1788
+nu hoang	1789
+quay nguoi	1790
+dao	1791
+mui	1792
+cung dao	1793
+dao hot	1794
+hot mui	1795
+mui hot	1796
+tai minh	1797
+Kiem	1798
+Kiem Binh	1799
+dan, phieu	1800
+Phi Ban	1801
+Ban hot	1802
+hoang lui	1803
+phat co	1804
+trung dau	1805
+chui	1806
+hoang chui	1807
+cui	1808
+hot cui	1809
+cui dau	1810
+No	1811
+No hot	1812
+biet	1813
+chi biet	1814
+biet hot	1815
+hinh	1816
+luot	1817
+than hinh	1818
+hinh hot	1819
+nhien luot	1820
+lot,	1821
+hot lanh	1822
+lanh lot,	1823
+khuyu	1824
+vao khuyu	1825
+chang da	1826
+dut nam	1827
+duoc tin	1828
+tin hot	1829
+da,	1830
+trong da,	1831
+da, hot	1832
+hoang nhay	1833
+sau	1834
+sau lung,	1835
+noi:"	1836
+nhien noi:"	1837
+muoI	1838
+sot nay,	1839
+nhien muoI	1840
+LLLU	1841
+lang,	1842
+im lang,	1843
+lang, hot	1844
+nhien, co	1845
+ba ten	1846
+hot dua	1847
+dua mat	1848
+trang	1849
+trang da	1850
+trung co	1851
+sac,	1852
+"Trong	1853
+sac, hoang	1854
+hoi: "Trong	1855
+phut	1856
+Hoang hot	1857
+trong phut	1858
+dat len,	1859
+chu tieu	1860
+tieu hot	1861
+hai tu	1862
+nhung cung	1863
+giao	1864
+om	1865
+giao hoang	1866
+hot om	1867
+om dau	1868
+Ma	1869
+Ma giao	1870
+giao hot	1871
+to	1872
+to ra	1873
+ra hot	1874
+hoang lung	1875
+xong	1876
+don dao	1877
+hoang xong	1878
+dich	1879
+nhan,	1880
+ne	1881
+dich nhan,	1882
+nhan, hot	1883
+hoang ne	1884
+nhi,	1885
+nu nhi,	1886
+nhi, hot	1887
+hoang cat	1888
+cai,	1889
+mot cai,	1890
+cai, hot	1891
+dut chom	1892
+ca	1893
+ca kinh	1894
+kinh hot	1895
+lac	1896
+dau:	1897
+hot lac	1898
+lac dau:	1899
+doanh	1900
+trai	1901
+doanh trai	1902
+trai hot	1903
+hoang nang	1904
+thua	1905
+thua lien	1906
+Chang hot	1907
+hot lang	1908
+lang lot	1909
+xam:	1910
+xa xam:	1911
+Ðai	1912
+Ðai Nien	1913
+mi	1914
+kiem nay	1915
+nay hot	1916
+mui mi	1917
+mau!	1918
+mau! Lao	1919
+Lao hot	1920
+de lao	1921
+do, lao	1922
+lao hot	1923
+Trieu	1924
+Ton	1925
+Trieu Ton	1926
+Ton hot	1927
+duong,	1928
+duong, phieu	1929
+hot o	1930
+o noi	1931
+ngam	1932
+gi do,	1933
+nhien ngam	1934
+cay	1935
+, cay	1936
+rach,	1937
+rach, chim	1938
+sao	1939
+diem	1940
+cam sao	1941
+sao hot	1942
+hoang diem	1943
+ve,ga	1944
+chay ve,ga	1945
+ve,ga hot	1946
+hoang buoc	1947
+LLOLL	1948
+duoc.	1949
+nhieu moi	1950
+hot duoc.	1951
+vu	1952
+mem	1953
+vu su	1954
+su hot	1955
+nhien mem	1956
+hot giao	1957
+giao lai	1958
+sac hoang	1959
+gion	1960
+hoi gion	1961
+gion hot	1962
+voi nhau,	1963
+la len	1964
+hoang :	1965
+Vuong	1966
+mung	1967
+hoi, Vuong	1968
+Vuong hot	1969
+hot ca	1970
+ca mung	1971
+thang	1972
+thang phieu	1973
+hot kho	1974
+kho do,	1975
+„Nha	1976
+noi, „Nha	1977
+qua dang	1978
+nha	1979
+vua.	1980
+de ninh	1981
+hot nha	1982
+nha vua.	1983
+nay ninh	1984
+cung,	1985
+vo cung,	1986
+theo	1987
+ha hoang	1988
+hot duoi	1989
+duoi theo	1990
+"Nhung	1991
+noi, "Nhung	1992
+Cat	1993
+sang ninh	1994
+hot Cat	1995
+Cat Nhi	1996
+hot vang	1997
+vang len,	1998
+khong hoang	1999
+ma cung	2000
+tieng keu	2001
+cao,	2002
+cao, phieu	2003
+Khi	2004
+Khi hoang	2005
+hot nghi	2006
+nghi ve	2007
+nhe,	2008
+nhe, phieu	2009
+vo luc	2010
+can,	2011
+gang	2012
+guong	2013
+can, hoang	2014
+hot gang	2015
+gang guong	2016
+hon,	2017
+het hon,	2018
+hon, hot	2019
+toan	2020
+hoang toan	2021
+quay dau	2022
+ga,	2023
+nhin ga,	2024
+ga, hot	2025
+linh no	2026
+nhien noi	2027
+kiem, hoang	2028
+nhay sang	2029
+thet	2030
+moi hoang	2031
+keu thet	2032
+cang hoang	2033
+Sam	2034
+Sam dang	2035
+gio,	2036
+nhu gio,	2037
+Nguyet,	2038
+Nguyet, phieu	2039
+hot luot	2040
+luot di	2041
+kiem da	2042
+dut dau	2043
+hot, khong	2044
+ngo	2045
+toi deu	2046
+hoang ngo	2047
+cua than	2048
+u	2049
+an,	2050
+hot u	2051
+u an,	2052
+Man	2053
+Man sang	2054
+sang hot	2055
+hot la	2056
+la mot	2057
+xua	2058
+hot xua	2059
+xua tay	2060
+vao,	2061
+"Tieu	2062
+vao, hoang	2063
+noi: "Tieu	2064
+San	2065
+Linh San	2066
+San hot	2067
+ngoai hoi	2068
+hai do	2069
+hot mat	2070
+mat dau,	2071
+den,	2072
+Vi hoang	2073
+lao den,	2074
+Quy Le	2075
+Le hot	2076
+nhien chot	2077
+Tieu hoi	2078
+nhien rong	2079
+mot khac	2080
+khac hot	2081
+than ,	2082
+nhien ,	2083
+trong tim	2084
+tim hot	2085
+nhien chim	2086
+thot	2087
+do ,	2088
+nhien thot	2089
+khai	2090
+co ,	2091
+nhien khai	2092
+truoc mat,	2093
+mat, hot	2094
+tay phai	2095
+vao canh	2096
+the, nen	2097
+Thai	2098
+Thai hau	2099
+hau hot	2100
+hoang xoay	2101
+vai cau,	2102
+Van	2103
+Van Thanh	2104
+Thanh hot	2105
+nhien mat	2106
+quan ninh	2107
+ga cung	2108
+con mot	2109
+mau, trang	2110

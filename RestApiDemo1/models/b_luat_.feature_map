@@ -1,0 +1,922 @@
+mot	1
+quy	2
+luat	3
+nao	4
+do,	5
+mot quy	6
+quy luat	7
+luat nao	8
+nao do,	9
+LLLL	10
+LLO	11
+LLL	12
+LL	13
+cu	14
+le	15
+moi	16
+la	17
+cu le	18
+le luat	19
+luat moi	20
+moi la	21
+truong	22
+nhat	23
+phai	24
+ve	25
+truong nhat	26
+nhat luat	27
+luat phai	28
+phai ve	29
+LLLLLL	30
+vao	31
+quan	32
+e	33
+rang	34
+vao quan	35
+quan luat	36
+luat e	37
+e rang	38
+L	39
+hieu	40
+chon	41
+hoang	42
+hieu le	43
+luat chon	44
+chon hoang	45
+LLLLL	46
+nhieu	47
+loan	48
+phap,	49
+nen	50
+nhieu loan	51
+loan luat	52
+luat phap,	53
+phap, nen	54
+LLLLO	55
+co	56
+cam	57
+moi co	58
+co luat	59
+luat cam	60
+cam co	61
+Tu	62
+soan	63
+Tu soan	64
+soan luat	65
+UL	66
+OL	67
+thuc	68
+thi	69
+thuc thi	70
+thi luat	71
+hung	72
+khoi,	73
+phap	74
+long	75
+hung khoi,	76
+khoi, luat	77
+luat phap	78
+phap long	79
+leo,	80
+tuy	81
+leo, tuy	82
+tuy luat	83
+LLLO	84
+ngoai	85
+choi	86
+bac	87
+ngoai thi	88
+luat choi	89
+choi bac	90
+khoi	91
+bi	92
+khoi le	93
+luat bi	94
+bi khoi	95
+vi	96
+pham	97
+hoac	98
+khong	99
+vi pham	100
+pham luat	101
+luat hoac	102
+hoac khong	103
+dieu	104
+nghiem	105
+mot dieu	106
+dieu luat	107
+luat nghiem	108
+nghiem cam	109
+Nguyen	110
+gioi	111
+Hang	112
+Nguyen gioi	113
+gioi luat	114
+phai Hang	115
+ULLLLL	116
+ULLL	117
+LO	118
+Mat	119
+khac	120
+cua	121
+Mat khac	122
+khac luat	123
+luat le	124
+le cua	125
+ULL	126
+Theo	127
+nguoi	128
+Theo le	129
+luat thi	130
+thi nguoi	131
+theo	132
+nha	133
+Ðai	134
+theo le	135
+luat nha	136
+nha Ðai	137
+den	138
+tuc	139
+pham den	140
+den luat	141
+cam tuc	142
+dam	143
+nua.	144
+dam pham	145
+luat nua.	146
+ga	147
+biet	148
+trieu	149
+ga biet	150
+biet luat	151
+le trieu	152
+ro	153
+ke	154
+manh	155
+ro quy	156
+luat ke	157
+ke manh	158
+da	159
+ra	160
+su	161
+lam	162
+da ra	163
+ra luat	164
+luat su	165
+su lam	166
+nay	167
+rat	168
+nay gioi	169
+luat rat	170
+rat nghiem	171
+am	172
+nhu	173
+tieu	174
+hieu am	175
+am luat	176
+luat nhu	177
+nhu tieu	178
+Lam	179
+tham	180
+Lam gioi	181
+luat tham	182
+tham nghiem	183
+phu	184
+phu quan	185
+phap cua	186
+phan	187
+dai	188
+phan phap	189
+phap luat	190
+luat cua	191
+cua dai	192
+nam	193
+giu	194
+nhung	195
+nam giu	196
+giu luat	197
+phap, nhung	198
+hon	199
+ve phap	200
+thi hon	201
+phap.	202
+nam ve	203
+ve luat	204
+luat phap.	205
+thong	206
+ca	207
+thong nhat	208
+phap ca	209
+dat	210
+la quy	211
+cua dat	212
+deu	213
+dua	214
+giang	215
+ho	216
+deu dua	217
+dua luat	218
+luat giang	219
+giang ho	220
+tu	221
+phan quy	222
+cua tu	223
+vo	224
+lam.	225
+biet le	226
+luat vo	227
+vo lam.	228
+tat	229
+yeu	230
+khoi quy	231
+luat tat	232
+tat yeu	233
+qui	234
+Troi	235
+la qui	236
+qui luat	237
+cua Troi	238
+Can	239
+ro qui	240
+cua Can	241
+Gioi	242
+Gioi luat	243
+thu	244
+cho	245
+han	246
+thu am	247
+luat cho	248
+cho han	249
+-	250
+Nhac	251
+12	252
+- Nhac	253
+Nhac luat	254
+luat co	255
+co 12	256
+NN	257
+O	258
+LN	259
+OO	260
+ky	261
+Thuong	262
+co ky	263
+ky luat	264
+cua Thuong	265
+hoc,	266
+o	267
+hoc, mot	268
+mot luat	269
+su o	270
+trong	271
+Bach	272
+la le	273
+luat trong	274
+trong Bach	275
+bao:	276
+"Le	277
+Van	278
+bao: "Le	279
+"Le luat	280
+luat Bach	281
+Bach Van	282
+OUL	283
+chang	284
+qua	285
+quy gioi	286
+luat chang	287
+chang qua	288
+trai	289
+la trai	290
+trai luat	291
+- Theo	292
+Theo luat	293
+luat quan	294
+quan truong	295
+va	296
+hanh	297
+ve le	298
+luat va	299
+va hanh	300
+tinh,	301
+tinh, nhat	302
+luat khong	303
+khong bi	304
+chi	305
+het?	306
+luat chi	307
+chi het?	308
+vay	309
+co le	310
+nhu vay	311
+nghiem,	312
+giu gioi	313
+tham nghiem,	314
+LLLLLLO	315
+chua	316
+dinh	317
+bat	318
+bien.	319
+chua dinh	320
+dinh luat	321
+luat bat	322
+bat bien.	323
+ta	324
+cua ta	325
+lay	326
+ma	327
+noi	328
+lay dinh	329
+luat ma	330
+ma noi	331
+nay?	332
+co hieu	333
+hieu luat	334
+le nay?	335
+nghi	336
+hieu quan	337
+luat nhung	338
+nhung nghi	339
+lap	340
+lap ra	341
+luat nay	342
+nay thi	343
+ban	344
+cua ban	345
+dem	346
+Thien	347
+dem le	348
+cua Thien	349
+ULLLL	350
+can	351
+can noi	352
+noi luat	353
+le trong	354
+trong Thien	355
+tren	356
+hien	357
+tren phap	358
+nhung hien	359
+vien	360
+vien gioi	361
+co biet	362
+luat deu	363
+deu cho	364
+phai nay	365
+coi	366
+khong coi	367
+coi luat	368
+le ban	369
+le.	370
+da co	371
+luat le.	372
+gi	373
+luat gi	374
+gi cam	375
+Ðay	376
+Ðay la	377
+la luat	378
+he	379
+he pham	380
+thi deu	381
+- Gioi	382
+trong chua	383
+duong	384
+den quy	385
+luat am	386
+am duong	387
+de	388
+luat de	389
+de moi	390
+truoc	391
+truoc phap	392
+moi nguoi	393
+theo gioi	394
+cua su	395
+mon	396
+pham gioi	397
+su mon	398
+Co	399
+Co dieu	400
+chu	401
+gi,	402
+chu co	403
+le gi,	404
+pham vao	405
+vao luat	406
+phat	407
+chung,	408
+sao	409
+phat chung,	410
+chung, luat	411
+phap sao	412
+LLLLLO	413
+Hoa	414
+phai Hoa	415
+do	416
+so	417
+xu	418
+cho do	419
+do luat	420
+luat so	421
+so xu	422
+giu le	423
+duong,	424
+vien,	425
+Tang	426
+duong, Gioi	427
+luat vien,	428
+vien, Tang	429
+luat duong,	430
+duong, Tang	431
+tinh	432
+bang	433
+anh	434
+tinh ky	435
+luat bang	436
+bang anh	437
+chieu	438
+lao	439
+dong	440
+cu chieu	441
+chieu luat	442
+luat lao	443
+lao dong	444
+khoc,	445
+tham khoc,	446
+khoc, luat	447
+luat nhat	448
+nhat trong	449
+chuyen	450
+ca.	451
+chuyen am	452
+thi ca.	453
+voi	454
+voi am	455
+chi la	456
+Ðam	457
+thong am	458
+nhu Ðam	459
+thanh	460
+nhieu gioi	461
+luat thanh	462
+thanh qui	463
+bat thanh	464
+toa	465
+duong.	466
+toa gioi	467
+luat duong.	468
+dau	469
+luat dau	470
+dau cam	471
+duoc	472
+duong, duoc	473
+chua gioi	474
+luat tinh	475
+tinh nghiem,	476
+trach	477
+luat duong	478
+duong trach	479
+truyen	480
+la gioi	481
+luat truyen	482
+truyen tu	483
+nua?	484
+Moi	485
+la phap	486
+luat nua?	487
+nua? Moi	488
+Thanh	489
+biet theo	490
+theo luat	491
+le Thanh	492
+chiu	493
+chiu gioi	494
+nghiem khac	495
+vi phap	496
+cua Nhac	497
+gap	498
+boi.	499
+vao le	500
+luat gap	501
+gap boi.	502
+Nhung	503
+Nhung gioi	504
+cua phai	505
+mon,	506
+tuan	507
+mon, nhat	508
+phai tuan	509
+quy.	510
+thanh quy.	511
+ve gioi	512
+xet	513
+ho,	514
+xet gioi	515
+luat mon	516
+mon ho,	517
+viec	518
+dung	519
+het	520
+viec dung	521
+dung luat	522
+luat het	523
+het cho	524
+thang	525
+ngoai quy	526
+luat thang	527
+thang lam	528
+lam,	529
+vo lam,	530
+het,	531
+nao het,	532
+nao.	533
+mot gioi	534
+luat nao.	535
+vao gioi	536
+thi o	537
+:	538
+-Le	539
+: -Le	540
+-Le luat	541
+trong hoang	542
+ac	543
+ac theo	544
+thi ta	545
+Chieu	546
+Chieu theo	547
+hoi	548
+trong hoi	549
+sinh	550
+duoc quy	551
+luat sinh	552
+sinh khac	553
+theo quy	554
+luat vi	555
+vi dai	556
+cua Thanh	557
+Trinh	558
+bao	559
+Trinh nhat	560
+luat duoc	561
+duoc bao	562
+chieu theo	563
+theo qui	564
+luat ban	565
+ban mon,	566
+vay,	567
+nhu vay,	568
+vay, luat	569
+phap khong	570
+cung,	571
+trong cung,	572
+thinh,	573
+thinh, ky	574
+trong quan	575
+vong	576
+ngoai vong	577
+vong luat	578
+phap o	579
+Le	580
+nuoc	581
+Le luat	582
+cua nuoc	583
+Trung	584
+Quoc.	585
+phai theo	586
+luat Trung	587
+Trung Quoc.	588
+ULLLO	589
+La	590
+cua La	591
+Quoc	592
+Trung Quoc	593
+cua nguoi	594
+le Trung	595
+Dai	596
+luat nuoc	597
+nuoc Dai	598
+thiep,	599
+thiep, nhat	600
+luat dem	601
+dem ra	602
+co quy	603
+trong su	604
+bai	605
+- Le	606
+cua bai	607
+con	608
+thi con	609
+?	610
+Lao	611
+khong dung	612
+luat ?	613
+? Lao	614
+tuoi	615
+den tuoi	616
+tuoi luat	617
+phap cho	618
+doi,	619
+khoi ky	620
+quan doi,	621
+ho.	622
+trong ky	623
+cua ho.	624
+dung quy	625
+giang ho,	626
+bao theo	627
+quy?	628
+nhung gioi	629
+thanh quy?	630
+the	631
+ve am	632
+luat the	633
+the nao	634
+nhung le	635
+gi o	636
+tiet	637
+va tiet	638
+troi	639
+cua troi	640
+duoc phap	641
+luat bao	642
+bao ve	643
+khong co	644
+le nay	645
+toi	646
+qui.	647
+toi gioi	648
+thanh qui.	649
+naygiu	650
+naygiu gioi	651
+rat tham	652
+chap	653
+chap gioi	654
+cua nha	655
+ha	656
+nhau.	657
+ha nhat	658
+nhu nhau.	659
+noi,	660
+„Theo	661
+noi, „Theo	662
+„Theo luat	663
+OULLL	664
+hay	665
+chu hay	666
+hay luat	667
+nghiem gioi	668
+luat la	669
+la khong	670
+doi	671
+va quy	672
+luat theo	673
+theo doi	674
+van	675
+phong	676
+van phong	677
+phong luat	678
+su hoi	679
+–	680
+Vien	681
+go	682
+– Vien	683
+Vien luat	684
+su go	685
+nhin	686
+su nhin	687
+–Vien	688
+chan	689
+–Vien luat	690
+su chan	691
+on	692
+su!	693
+-Rat	694
+cam on	695
+on luat	696
+luat su!	697
+su! -Rat	698
+OULL	699
+lan	700
+nay–Vien	701
+khe	702
+lan nay–Vien	703
+nay–Vien luat	704
+su khe	705
+LLLOULLL	706
+co,	707
+cua co,	708
+giang ho.	709
+cho biet	710
+le o	711
+day	712
+cuaa	713
+day la	714
+le cuaa	715
+nghi toi	716
+toi luat	717
+thanh quy	718
+lien	719
+chang lien	720
+tung	721
+giet	722
+tung nhat	723
+luat giet	724
+giet het	725
+cai	726
+sua	727
+cai sua	728
+sua luat	729
+tri,	730
+nhuoc	731
+tri, phap	732
+la nhuoc	733
+cuoc	734
+nhung qui	735
+cua cuoc	736
+nghe	737
+nghe ky	738
+Ky	739
+- Ky	740
+Ky luat	741
+dinh,	742
+mot am	743
+nhat dinh,	744
+thien	745
+nhu thien	746
+cong	747
+cao	748
+khoi dinh	749
+luat cong	750
+cong cao	751
+lai	752
+luat lai	753
+lai noi	754
+cung	755
+trong cung	756
+tuan thu	757
+thu luat	758
+phap, lay	759
+trat	760
+tu,	761
+trat tu,	762
+tu, luat	763
+phap, dau	764
+quy cu	765
+cu luat	766
+phap ma	767
+vo lam	768
+thuong	769
+nhung quy	770
+luat thong	771
+thong thuong	772
+dieu quy	773
+bang nay	774
+gi den	775
+tau	776
+luat tau	777
+tau duoc	778
+minh	779
+ma minh	780
+le nha	781
+vao dieu	782
+khong duoc	783
+dai gioi	784
+Trong	785
+Trong gioi	786
+vay.	787
+dieu gioi	788
+nhu vay.	789
+co dieu	790
+nao cam	791
+khi	792
+ra gioi	793
+nay khi	794
+chua,	795
+cua chua,	796
+den gioi	797
+hoai	798
+vien.	799
+hoai le	800
+trong vien.	801
+tu pham	802
+cam ky	803
+Man	804
+cua Man	805
+phai giu	806
+biet giu	807
+la,	808
+luat ky	809
+ky la,	810
+chut	811
+mot chut	812
+chut luat	813
+le nao	814
+gi?	815
+biet nhung	816
+nhung luat	817
+le gi?	818
+ma thien	819
+xuan	820
+luat xuan	821
+xuan ha	822
+quat	823
+quat quy	824
+luat van	825
+van hanh	826
+le phai	827
+Nguyen luat	828
+nao,	829
+cu quy	830
+luat nao,	831
+nao, chi	832
+dat ra	833
+le nghiem	834
+pha	835
+to	836
+pha gioi	837
+cua to	838
+Thach	839
+ky lam	840
+lam luat	841
+su Thach	842
+hom	843
+sau	844
+hom sau	845
+sau luat	846
+ho trong	847
+trong luat	848
+phap nhung	849
+Sac	850
+mat	851
+Sac mat	852
+mat luat	853
+50	854
+tuoi,	855
+50 tuoi,	856
+tuoi, luat	857
+NL	858
+"Khoan	859
+da,"	860
+"Khoan da,"	861
+da," luat	862
+OULLLL	863
+LLOO	864
+cua mot	865
+su nha	866
+trinh	867
+trinh tu,	868
+y	869
+tiep	870
+y tiep	871
+tiep luat	872
+ta moi	873
+moi luat	874
+nhau	875
+khong?,	876
+nhau khong?,	877
+khong?, luat	878
+LLLLLOO	879
+nua	880
+khien	881
+nua khien	882
+khien luat	883
+Khi	884
+Khi luat	885
+leo	886
+leo cua	887
+cua luat	888
+lan gap	889
+gap luat	890
+Thach.	891
+lai cho	892
+cho luat	893
+su Thach.	894
+ULLLLO	895
+?Xin	896
+ong	897
+?Xin ong	898
+ong luat	899
+su cho	900
+ngac	901
+ngac nhin	902
+nhin luat	903
+ke nhin	904
+hai,	905
+thu hai,	906
+hai, luat	907
+tuong,	908
+tuong, nhung	909
+sau,	910
+nam sau,	911
+sau, luat	912
+gi?",	913
+viec gi?",	914
+gi?", luat	915
+LLOOO	916
+nhuc	917
+nhuc vi	918
+vi luat	919
+le ha	920
+Ðo	921
+Ðo la	922

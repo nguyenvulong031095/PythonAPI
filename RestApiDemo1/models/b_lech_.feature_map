@@ -1,0 +1,403 @@
+nghieng	1
+troi	2
+lech	3
+dat,	4
+lat	5
+nghieng troi	6
+troi lech	7
+lech dat,	8
+dat, lat	9
+LLL	10
+LLLL	11
+LLLLLLL	12
+LLLO	13
+LL	14
+ma	15
+con	16
+lac.	17
+ma con	18
+con lech	19
+lech lac.	20
+kin	21
+han	22
+ra	23
+kin ma	24
+ma lech	25
+lech han	26
+han ra	27
+tai	28
+day	29
+kia	30
+cung	31
+tai day	32
+day lech	33
+lech kia	34
+kia cung	35
+dam	36
+buoc	37
+lac	38
+dam buoc	39
+buoc lech	40
+lech lac	41
+lac ra	42
+he	43
+hoi	44
+mot	45
+he hoi	46
+hoi lech	47
+lac mot	48
+quy	49
+dao,	50
+sang	51
+quy dao,	52
+dao, lech	53
+han sang	54
+xieu	55
+ta	56
+huu,	57
+cam	58
+xieu ta	59
+ta lech	60
+lech huu,	61
+huu, cam	62
+dao	63
+dao buoc	64
+lech sang	65
+sang mot	66
+Tinh,	67
+thuong	68
+thech	69
+be	70
+Tinh, thuong	71
+thuong lech	72
+lech thech	73
+thech be	74
+ULLLO	75
+LLLLL	76
+LLLLLL	77
+OL	78
+ben	79
+chenh	80
+ro	81
+rang	82
+ben chenh	83
+chenh lech	84
+lech ro	85
+ro rang	86
+deu	87
+qua	88
+xa,	89
+deu chenh	90
+lech qua	91
+qua xa,	92
+LLO	93
+doi	94
+mu	95
+tu	96
+trong	97
+doi mu	98
+mu lech	99
+lech tu	100
+tu trong	101
+kien	102
+sai	103
+la	104
+chuyen	105
+kien sai	106
+sai lech	107
+lech la	108
+la chuyen	109
+khong	110
+thien	111
+chut	112
+nao.	113
+khong thien	114
+thien lech	115
+lech chut	116
+chut nao.	117
+nhien	118
+ra,	119
+tranh	120
+nhien hoi	121
+lech ra,	122
+ra, tranh	123
+cai,	124
+bay	125
+phia	126
+cai, bay	127
+bay lech	128
+sang phia	129
+thuyen	130
+di	131
+ve	132
+thuyen di	133
+di lech	134
+lech ve	135
+ve phia	136
+chi	137
+nhau	138
+chi chenh	139
+lech nhau	140
+nhau mot	141
+lai	142
+lai nghieng	143
+nghieng lech	144
+lai hoi	145
+lech mot	146
+mot chut	147
+dat	148
+thi	149
+lech dat	150
+dat thi	151
+nho	152
+len	153
+nho hoi	154
+lech len	155
+len phia	156
+nhu	157
+nhu chenh	158
+hao	159
+nguoi	160
+Han	161
+hao thien	162
+lech nguoi	163
+nguoi Han	164
+ULL	165
+LO	166
+bi	167
+bi day	168
+vao	169
+lam	170
+vao lam	171
+lam lech	172
+sang ben	173
+Phong	174
+Phong Han	175
+Han lech	176
+ULLLL	177
+OO	178
+the	179
+duoc.	180
+the thien	181
+lech duoc.	182
+LLLLO	183
+bat	184
+con chenh	185
+lech xa,	186
+xa, bat	187
+nhieu.	188
+lech nhieu.	189
+LLLLLO	190
+chung	191
+dat, chung	192
+Ngoc	193
+xo,	194
+Ngoc khong	195
+khong lech	196
+lech khong	197
+khong xo,	198
+ULLL	199
+cua	200
+ga	201
+nua	202
+cua ga	203
+ga lech	204
+lech di	205
+di nua	206
+phuong	207
+ra.	208
+doi phuong	209
+phuong lech	210
+lech ra.	211
+gio	212
+nhin	213
+bay gio	214
+gio lech	215
+han nhin	216
+nao	217
+bo	218
+vi,	219
+nao la	220
+la lech	221
+lech bo	222
+bo vi,	223
+so	224
+voi	225
+chut chenh	226
+lech so	227
+so voi	228
+tra	229
+me	230
+tra lai	231
+lai lech	232
+sang me	233
+dat cung	234
+ngieng	235
+ha	236
+ngieng troi	237
+dat ha	238
+"nghieng	239
+dat",	240
+'tung	241
+"nghieng troi	242
+lech dat",	243
+dat", 'tung	244
+OLLLLLLL	245
+OLLLL	246
+LLLOO	247
+da	248
+ca	249
+qua da	250
+da lech	251
+di ca	252
+dung	253
+dung day	254
+thech di	255
+cu	256
+tu cu	257
+cu lech	258
+meo	259
+mo	260
+lac,	261
+khe	262
+meo mo	263
+mo lech	264
+lech lac,	265
+lac, khe	266
+vay	267
+lech nhu	268
+nhu vay	269
+chinh	270
+ngay	271
+he sai	272
+lech chinh	273
+chinh ngay	274
+lau	275
+dat, lau	276
+chu	277
+‘Phi’,	278
+chu ‘Phi’,	279
+‘Phi’, lech	280
+OULLOO	281
+se	282
+se chenh	283
+khong con	284
+gi	285
+chu?”.	286
+khong sai	287
+lech gi	288
+gi chu?”.	289
+LLLOOO	290
+ao	291
+dat ao	292
+than	293
+minh,	294
+than minh,	295
+minh, lech	296
+qua mot	297
+kinh	298
+dau	299
+ngua,	300
+kinh day	301
+lech dau	302
+dau ngua,	303
+phong	304
+kiem	305
+cheo	306
+phong kiem	307
+kiem lech	308
+lac cheo	309
+thay	310
+chui	311
+thay han	312
+han lech	313
+thech chui	314
+hinh	315
+hai	316
+thech,	317
+nhung	318
+hinh hai	319
+hai lech	320
+lech thech,	321
+thech, nhung	322
+lon,	323
+qua lon,	324
+luom	325
+luom chenh	326
+nhau xa,	327
+dat.	328
+lech dat.	329
+song	330
+het	331
+song het	332
+het lech	333
+ve me	334
+y	335
+nghi	336
+y nghi	337
+nghi lech	338
+L	339
+ngo	340
+tam	341
+ngo bi	342
+bi lech	343
+lech trong	344
+trong tam	345
+xa	346
+qua xa	347
+qua,	348
+nhau qua,	349
+loi	350
+thoi	351
+rat	352
+loi thoi	353
+thoi lech	354
+thech rat	355
+roi	356
+xuong	357
+muc	358
+tieu	359
+roi xuong	360
+xuong lech	361
+lech muc	362
+muc tieu	363
+dat, dung	364
+nhuoc	365
+nhuoc chenh	366
+nhau khong	367
+lai,	368
+buom	369
+canh	370
+lai, buom	371
+buom lech	372
+sang canh	373
+veo,	374
+chang	375
+xieu veo,	376
+veo, lech	377
+lac chang	378
+ay,	379
+dat ay,	380
+moc	381
+di,	382
+nen	383
+ca moc	384
+moc lech	385
+lech di,	386
+di, nen	387
+tim	388
+tim moc	389
+nhu ca	390
+nhat	391
+da thien	392
+lech thi	393
+thi nhat	394
+tim thien	395
+lech ma	396
+ma ra.	397
+ngu	398
+quan	399
+tuong	400
+ngu quan	401
+quan lech	402
+lac, tuong	403

@@ -1,0 +1,766 @@
+dep	1
+dang	2
+uyen	3
+chuyen	4
+uon	5
+dep dang	6
+dang uyen	7
+uyen chuyen	8
+chuyen uon	9
+LLLL	10
+LLLLLL	11
+LLL	12
+LL	13
+hoc	14
+gia	15
+tham	16
+chang	17
+hoc gia	18
+gia uyen	19
+uyen tham	20
+tham chang	21
+LLLLL	22
+Thuong	23
+Lam	24
+cung	25
+Tu	26
+Thuong Lam	27
+Lam uyen	28
+uyen cung	29
+cung Tu	30
+ULLLLL	31
+ULL	32
+UL	33
+OL	34
+LO	35
+OO	36
+Tieng	37
+ca	38
+chuyen,	39
+phieu	40
+Tieng ca	41
+ca uyen	42
+uyen chuyen,	43
+chuyen, phieu	44
+ULLLL	45
+LLLLLLO	46
+linh	47
+va	48
+Tich	49
+Tu linh	50
+linh uyen	51
+uyen va	52
+va Tich	53
+ULLL	54
+bo	55
+lung	56
+tuyet	57
+bo lung	58
+lung uyen	59
+chuyen tuyet	60
+trang,	61
+cap	62
+uong	63
+than	64
+trang, cap	65
+cap uyen	66
+uyen uong	67
+uong than	68
+LLLLLO	69
+so	70
+vao	71
+mach.	72
+so vao	73
+vao uyen	74
+uyen mach.	75
+LLLLO	76
+la	77
+rat	78
+xinh	79
+la rat	80
+rat uyen	81
+chuyen, xinh	82
+Duong	83
+Du	84
+buoc	85
+Duong Du	86
+Du uyen	87
+chuyen buoc	88
+ta	89
+gion	90
+cung ta	91
+ta uyen	92
+uong gion	93
+Tuyen	94
+co	95
+nguyen	96
+sau	97
+Tuyen co	98
+co uyen	99
+uyen nguyen	100
+nguyen sau	101
+quet	102
+mach	103
+tay	104
+quet vao	105
+uyen mach	106
+mach tay	107
+xanh	108
+len,	109
+xanh len,	110
+len, uyen	111
+LLLO	112
+Tieu	113
+khong	114
+phai	115
+va Tieu	116
+Tieu uyen	117
+uyen khong	118
+khong phai	119
+hinh	120
+hinh dang	121
+chuyen va	122
+nhu	123
+kinh	124
+nhu kinh	125
+kinh uyen	126
+chuyen nhu	127
+nhung	128
+lai	129
+mem	130
+nhung lai	131
+lai uyen	132
+chuyen mem	133
+chu?	134
+Hau	135
+uyen chu?	136
+chu? Hau	137
+tu	138
+the	139
+yeu	140
+tu the	141
+the uyen	142
+chuyen, yeu	143
+nay,	144
+chay	145
+the nay,	146
+nay, uyen	147
+chuyen chay	148
+tron	149
+giac	150
+voi	151
+tron giac	152
+giac uyen	153
+uong voi	154
+thu	155
+Dai	156
+luong	157
+cau	158
+thu Dai	159
+Dai uyen	160
+uyen luong	161
+luong cau	162
+Giong	163
+Giong Dai	164
+ngua	165
+ngua Dai	166
+uyen lai	167
+lai khong	168
+giong	169
+giong Dai	170
+moi	171
+lay	172
+tu linh	173
+uyen moi	174
+moi lay	175
+tieng	176
+chuyen, tieng	177
+dong	178
+menh	179
+ma!”.	180
+dong menh	181
+menh uyen	182
+uong ma!”.	183
+LLOOO	184
+chan	185
+dao,	186
+luu	187
+chan dao,	188
+dao, uyen	189
+nguyen luu	190
+den	191
+thi	192
+den thi	193
+thi uyen	194
+cua	195
+nang	196
+de	197
+nghe	198
+cua nang	199
+nang uyen	200
+uyen de	201
+de nghe	202
+vo	203
+vo cung	204
+cung uyen	205
+nhac	206
+chuyen.	207
+nhac rat	208
+uyen chuyen.	209
+di	210
+thanh	211
+buoc di	212
+di uyen	213
+chuyen thanh	214
+Hoan	215
+Tieu Hoan	216
+Hoan uyen	217
+nguyen khong	218
+tai	219
+tri	220
+tai tri	221
+tri uyen	222
+tham cua	223
+rang,	224
+that	225
+rang, that	226
+that uyen	227
+chuyen, lai	228
+du	229
+duong	230
+du duong	231
+duong uyen	232
+chuyen khong	233
+khong?”	234
+Nang	235
+khong?” Nang	236
+Nang uyen	237
+LLLLLOO	238
+luot	239
+tren	240
+doi	241
+luot tren	242
+tren uyen	243
+mach doi	244
+o	245
+Bac	246
+uyen o	247
+o Bac	248
+L	249
+Luc	250
+va Luc	251
+mong	252
+hay	253
+tron mong	254
+mong uyen	255
+uong hay	256
+thoat	257
+thanh thoat	258
+thoat uyen	259
+kien	260
+thuc	261
+bac,	262
+cho	263
+kien thuc	264
+thuc uyen	265
+uyen bac,	266
+bac, cho	267
+do	268
+du doi	269
+doi uyen	270
+uong do	271
+bac	272
+hiem	273
+hoc thuc	274
+uyen bac	275
+bac hiem	276
+bac cua	277
+vi	278
+ai,	279
+duoi	280
+vi ai,	281
+ai, uyen	282
+uong duoi	283
+LLO	284
+Am	285
+Am thanh	286
+thanh uyen	287
+noi	288
+luc	289
+tham,	290
+neu	291
+noi luc	292
+luc uyen	293
+uyen tham,	294
+tham, neu	295
+van	296
+bac.	297
+van rat	298
+uyen bac.	299
+an	300
+len	301
+an len	302
+len uyen	303
+mach cua	304
+dinh	305
+dinh co	306
+Yen	307
+Nhien	308
+Yen Nhien	309
+Nhien uyen	310
+su	311
+su du	312
+du uyen	313
+bac den	314
+lenh	315
+gia hoc	316
+hoc uyen	317
+tham, lenh	318
+tham thi	319
+Phi	320
+Huyen	321
+quay	322
+Phi Huyen	323
+Huyen uyen	324
+chuyen quay	325
+hai	326
+ben,	327
+hai ben,	328
+ben, uyen	329
+ngoc	330
+nhu ngoc	331
+ngoc uyen	332
+mot	333
+mot doi	334
+uong dang	335
+ban	336
+ban tay	337
+tay uyen	338
+chuyen cua	339
+Long,	340
+Long, nang	341
+ULLLO	342
+chuyen, uon	343
+„	344
+roi	345
+„ roi	346
+roi uyen	347
+O	348
+mai	349
+mem mai	350
+mai uyen	351
+My	352
+nhan	353
+My nhan	354
+nhan uyen	355
+danh	356
+trung	357
+lam	358
+danh trung	359
+trung uyen	360
+mach lam	361
+ga,	362
+ga, roi	363
+tung	364
+tung buoc	365
+buoc uyen	366
+chuyen di	367
+ngai	368
+van hoc	369
+tham, ngai	370
+xem	371
+de xem	372
+nhe	373
+nhang	374
+ma	375
+nhe nhang	376
+nhang uyen	377
+chuyen ma	378
+lua	379
+doi lua	380
+lua uyen	381
+uong ma	382
+Nuong	383
+Dung	384
+Nuong Dung	385
+Dung uyen	386
+chop	387
+chop lay	388
+lay uyen	389
+vua	390
+di rat	391
+chuyen vua	392
+cung co	393
+nguyen cua	394
+Phat	395
+Phat hoc	396
+tham, nhung	397
+dung	398
+nghi	399
+mi,	400
+trang	401
+dung nghi	402
+nghi uyen	403
+uyen mi,	404
+mi, trang	405
+bac nhung	406
+nguyen,	407
+uyen nguyen,	408
+nguyen, than	409
+nam	410
+nam lay	411
+Thanh	412
+lanh	413
+deu	414
+Thanh lanh	415
+lanh uyen	416
+uyen deu	417
+deu la	418
+tram	419
+tram ma	420
+ma uyen	421
+chuyen, du	422
+my	423
+le	424
+my le	425
+le uyen	426
+truyen	427
+gia truyen	428
+truyen uyen	429
+bac, la	430
+Giong ca	431
+chuyen lay	432
+phi	433
+my nhan	434
+chuyen phi	435
+bat	436
+ngo	437
+bat ngo	438
+ngo uyen	439
+hat	440
+me	441
+giong hat	442
+hat uyen	443
+chuyen me	444
+so hoc	445
+khon	446
+kheo	447
+chi	448
+khon kheo	449
+kheo uyen	450
+chuyen, chi	451
+chuyen, ca	452
+diu	453
+thot:	454
+diu dang	455
+chuyen thot:	456
+hoac	457
+"Ðoan	458
+cot"	459
+hoac "Ðoan	460
+"Ðoan uyen	461
+uyen cot"	462
+cot" hoac	463
+OULLL	464
+con	465
+gai	466
+con gai	467
+gai uyen	468
+chuyen xinh	469
+noi nang	470
+chuyen, thanh	471
+ao	472
+hoa	473
+ao hoa	474
+hoa uyen	475
+Mi	476
+Mi Mi	477
+Mi uyen	478
+ly	479
+tham.	480
+ly rat	481
+uyen tham.	482
+chut	483
+co chut	484
+chut uyen	485
+nguyen voi	486
+Ngoc	487
+Tri	488
+Ngoc Tri	489
+Tri uyen	490
+chuyen dung	491
+tham cung	492
+gai do	493
+do uyen	494
+chuyen, nhe	495
+dau	496
+bat dau	497
+dau uyen	498
+chuyen thuc	499
+chua	500
+chua du	501
+tham, moi	502
+em	503
+ai	504
+khien	505
+em ai	506
+ai uyen	507
+chuyen khien	508
+tuong	509
+lai co	510
+uyen luc	511
+luc tuong	512
+ve	513
+lam,	514
+co ve	515
+ve uyen	516
+tham lam,	517
+am	518
+am thanh	519
+ay	520
+luc ay	521
+ay uyen	522
+chieu	523
+"Bich	524
+giao"	525
+chieu "Bich	526
+"Bich uyen	527
+uyen dang	528
+dang giao"	529
+song	530
+su cap	531
+uong song	532
+nho	533
+si	534
+nho si	535
+si uyen	536
+bac, vua	537
+tham, khong	538
+may	539
+boi	540
+may doi	541
+uong boi	542
+sinh	543
+sinh menh	544
+tho:	545
+"Ngoc	546
+thinh	547
+tho: "Ngoc	548
+"Ngoc uyen	549
+uyen thinh	550
+thinh lai	551
+mi	552
+nhu mi	553
+mi uyen	554
+chuyen, an	555
+Tuan	556
+Tu Tuan	557
+Tuan uyen	558
+qua	559
+qua nam	560
+nam uyen	561
+nang,	562
+khuyen	563
+cua nang,	564
+nang, uyen	565
+chuyen khuyen	566
+So	567
+So dang	568
+vao bac	569
+bac uyen	570
+tham, kien	571
+duong tren	572
+mach ta	573
+hoc van	574
+van uyen	575
+bac, khien	576
+tieng ca	577
+chuyen nghe	578
+khuc	579
+khich,	580
+khuc khich,	581
+khich, uyen	582
+cam	583
+thay	584
+te	585
+cam thay	586
+thay uyen	587
+mach te	588
+bac, kien	589
+nguoi	590
+lai,	591
+nguoi lai,	592
+lai, uyen	593
+tham, con	594
+loi	595
+giai	596
+loi le	597
+chuyen giai	598
+trung vao	599
+mach hai	600
+phia	601
+truoc,	602
+mua.	603
+phia truoc,	604
+truoc, uyen	605
+chuyen mua.	606
+hat len	607
+phap	608
+than phap	609
+phap uyen	610
+da	611
+tang	612
+uyen da	613
+da tang	614
+gap	615
+hiem,	616
+uyen gap	617
+gap hiem,	618
+tien	619
+lai tien	620
+day	621
+day ve	622
+chuyen diu	623
+cach	624
+mot cach	625
+cach uyen	626
+chuyen nhe	627
+chup	628
+chup vao	629
+Trieu	630
+Nha	631
+Trieu Nha	632
+Nha uyen	633
+Long	634
+xuat	635
+han	636
+Long xuat	637
+xuat uyen	638
+uyen han	639
+han su	640
+lot	641
+am rat	642
+chuyen lot	643
+canh	644
+ngoi	645
+canh ga,	646
+ga, uyen	647
+chuyen ngoi	648
+thay thi	649
+theu	650
+theu cap	651
+uong qua	652
+nu,	653
+my nu,	654
+nu, uyen	655
+thai	656
+thai lai	657
+chuyen dang	658
+ha	659
+chuyen ha	660
+bong	661
+o tham	662
+tham uyen	663
+uyen bong	664
+bong quay	665
+dang ve	666
+huyen	667
+tham huyen	668
+trong	669
+thanh am	670
+am uyen	671
+chuyen, trong	672
+tay len	673
+on	674
+nhat	675
+on nhu	676
+nhu uyen	677
+chuyen, nhat	678
+am lai	679
+chuyen de	680
+cong	681
+cong rat	682
+tham, dang	683
+quanh	684
+dan	685
+quanh co	686
+chuyen dan	687
+tieu	688
+hoi	689
+Tieng tieu	690
+tieu uyen	691
+chuyen hoi	692
+le roi	693
+Khau	694
+Trong	695
+Khau Trong	696
+Trong uyen	697
+chuyen tu	698
+bac dung	699
+nhon	700
+uong nhon	701
+le va	702
+va uyen	703
+chuyen ban	704
+chuyen nang	705
+?	706
+co rat	707
+tham ?	708
+ni	709
+non	710
+ni non	711
+non uyen	712
+Phuong	713
+Tu Phuong	714
+Phuong uyen	715
+chuyen tram	716
+khoi	717
+tay khoi	718
+khoi uyen	719
+Phat gia	720
+tham nhu	721
+bac, tu	722
+mat	723
+Ly	724
+vu	725
+mat Ly	726
+Ly uyen	727
+da vu	728
+roi.	729
+so canh	730
+canh uyen	731
+uong roi.	732
+mot vi	733
+vi uyen	734
+tham nhat	735
+cuoi,	736
+cuoi, roi	737
+leo,	738
+kheo leo,	739
+leo, uyen	740
+khong tang	741
+tan	742
+vo hoc	743
+tham tan	744
+thay nang	745
+thap	746
+giong,	747
+thap giong,	748
+giong, uyen	749
+chuyen cau	750
+noi chuyen,	751
+chuyen, uyen	752
+chuyen vo	753
+quy	754
+uong.	755
+Te	756
+cap quy	757
+quy uyen	758
+uyen uong.	759
+uong. Te	760
+tac	761
+dong tac	762
+tac uyen	763
+vay!”.	764
+uong vay!”.	765
+LLLOOO	766

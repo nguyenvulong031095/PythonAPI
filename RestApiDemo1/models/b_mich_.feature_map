@@ -1,0 +1,559 @@
+noi	1
+tinh	2
+mich	3
+cho	4
+lao	5
+noi tinh	6
+tinh mich	7
+mich cho	8
+cho lao	9
+LLLL	10
+LLL	11
+LL	12
+man	13
+den	14
+ky	15
+man tinh	16
+mich den	17
+den ky	18
+chuyen	19
+xich	20
+ve	21
+gia	22
+chuyen xich	23
+xich mich	24
+mich ve	25
+ve gia	26
+LLLLLL	27
+voi	28
+Trinh	29
+mich voi	30
+voi Trinh	31
+ULLLL	32
+LO	33
+Quoc	34
+voi Quoc	35
+ULLL	36
+thay	37
+tich	38
+sao,	39
+Thao	40
+thay tich	41
+tich mich	42
+mich sao,	43
+sao, Thao	44
+LLLO	45
+con	46
+nua".	47
+con tinh	48
+mich nua".	49
+LLLOO	50
+lung	51
+nhung	52
+khong	53
+lung tinh	54
+mich nhung	55
+nhung khong	56
+LLLLL	57
+da	58
+lang	59
+khong tich	60
+mich da	61
+da lang	62
+Moc	63
+voi Moc	64
+ULL	65
+vi	66
+voi vi	67
+cua	68
+hang	69
+lang tinh	70
+mich cua	71
+cua hang	72
+phong	73
+go	74
+mo	75
+phong tich	76
+mich go	77
+go mo	78
+rat	79
+quanh	80
+hiu,	81
+rat tich	82
+mich quanh	83
+quanh hiu,	84
+ta	85
+toi	86
+muc	87
+ta tich	88
+mich toi	89
+toi muc	90
+khuya	91
+mot	92
+khuya tinh	93
+mich khong	94
+khong mot	95
+su	96
+di.	97
+su tich	98
+mich ky	99
+ky di.	100
+LLO	101
+don	102
+om	103
+han	104
+don tich	105
+mich om	106
+om han	107
+cung	108
+vang	109
+mich cung	110
+cung vang	111
+lam	112
+lam.	113
+lam tich	114
+cho lam.	115
+trong	116
+diu	117
+dang	118
+trong tinh	119
+mich diu	120
+diu dang	121
+duong	122
+la	123
+duong tich	124
+mich la	125
+la ta	126
+luong	127
+vo	128
+cung.	129
+luong tich	130
+mich vo	131
+vo cung.	132
+LLLLO	133
+nguoi,	134
+noi tich	135
+khong nguoi,	136
+LLLLLO	137
+co	138
+Tao	139
+co xich	140
+voi Tao	141
+moi	142
+ke	143
+ra	144
+moi xich	145
+mich ke	146
+ke ra	147
+leo	148
+nay,	149
+nguoi	150
+leo tinh	151
+mich nay,	152
+nay, nguoi	153
+uat	154
+lai	155
+an	156
+uat tich	157
+mich lai	158
+lai an	159
+nen	160
+bien,	161
+nen tich	162
+vo bien,	163
+von	164
+co,	165
+su tinh	166
+mich von	167
+von co,	168
+lanh	169
+nhu	170
+chet	171
+lanh tich	172
+mich nhu	173
+nhu chet	174
+thanh	175
+chi	176
+thanh tich	177
+mich chi	178
+chi con	179
+dieu	180
+lap	181
+dieu xich	182
+la lap	183
+lieu	184
+dong	185
+lieu tich	186
+cua dong	187
+va	188
+bien	189
+nen xich	190
+mich va	191
+va bien	192
+dai,	193
+hoang	194
+vu,	195
+dai, tinh	196
+mich hoang	197
+hoang vu,	198
+cai	199
+bong	200
+cai tinh	201
+cua bong	202
+khong tinh	203
+mich vang	204
+vang ve	205
+gan	206
+dong tich	207
+nay, gan	208
+nui	209
+nay	210
+nghe	211
+nui tinh	212
+mich nay	213
+nay nghe	214
+khi	215
+chet.	216
+khi tich	217
+nhu chet.	218
+don,	219
+mich co	220
+co don,	221
+ben	222
+tai	223
+mich ben	224
+ben tai	225
+dung	226
+mich dung	227
+dung lam	228
+hom	229
+ma	230
+hom tich	231
+mich nghe	232
+nghe ma	233
+dot	234
+nhien	235
+khi tinh	236
+mich dot	237
+dot nhien	238
+day	239
+chang	240
+day tinh	241
+mich ma	242
+ma chang	243
+thi	244
+su xich	245
+mich thi	246
+thi cung	247
+Ðo	248
+Ngao	249
+Ðo xich	250
+voi Ngao	251
+UL	252
+OL	253
+Dien,	254
+coi	255
+Dien, tich	256
+nhu coi	257
+ULLLO	258
+nua,	259
+con xich	260
+mich nua,	261
+nua, thi	262
+leo,	263
+mich lanh	264
+lanh leo,	265
+nay, lang	266
+giua	267
+chon	268
+mich giua	269
+giua chon	270
+dan	271
+tham	272
+dan tinh	273
+ma tham	274
+roi	275
+ca	276
+mich roi	277
+roi ca	278
+tam	279
+mich,	280
+thuc	281
+tam tam	282
+tam mich	283
+mich mich,	284
+mich, thuc	285
+thi tich	286
+co don	287
+danh	288
+roi danh	289
+ngoai	290
+tu	291
+ngoai tich	292
+nhu tu	293
+canh	294
+the	295
+luong.	296
+canh tich	297
+mich the	298
+the luong.	299
+xay	300
+mich xay	301
+xay ra	302
+lam,	303
+va tich	304
+mich lam,	305
+lam, nhung	306
+do,	307
+mich do,	308
+do, dot	309
+long	310
+Nguy	311
+thi lam	312
+lam mich	313
+mich long	314
+long Nguy	315
+se	316
+gay	317
+se gay	318
+gay mich	319
+long voi	320
+Te	321
+nhau,	322
+Te xich	323
+voi nhau,	324
+cua ke	325
+luc	326
+dem	327
+mich luc	328
+luc dem	329
+cuoc	330
+bo.	331
+cuoc xich	332
+mich noi	333
+noi bo.	334
+di	335
+gay xich	336
+thi di	337
+mat	338
+dat	339
+mich mat	340
+mat dat	341
+hoang luong	342
+dang tich	343
+mich bien	344
+bien thanh	345
+cuc	346
+khac	347
+ngoai cuc	348
+cuc mich	349
+mich chang	350
+chang khac	351
+viec	352
+phai	353
+viec xich	354
+giua phai	355
+lao?	356
+voi lao?	357
+roi khong	358
+to,	359
+quanh tinh	360
+nhu to,	361
+gi	362
+hay	363
+gi xich	364
+la hay	365
+thuong.	366
+la thuong.	367
+LLLLLLO	368
+tran	369
+ap,	370
+mich tran	371
+tran ap,	372
+trang	373
+di tinh	374
+va trang	375
+be	376
+be tich	377
+ua	378
+that	379
+ua tinh	380
+mich that	381
+that thi	382
+nho	383
+mich nho	384
+nho voi	385
+hut	386
+va hut	387
+nhieu	388
+voi nhieu	389
+Tich	390
+bao	391
+Tich mich	392
+lai bao	393
+le,	394
+mich lang	395
+lang le,	396
+do	397
+mich do	398
+do rat	399
+ho.	400
+voi ho.	401
+nay, bien	402
+be tinh	403
+ru	404
+mich lam	405
+lam ru	406
+duoc	407
+O	408
+duoc xich	409
+giua O	410
+U	411
+LU	412
+sao	413
+that tich	414
+lam sao	415
+khong.	416
+do tinh	417
+mich khong.	418
+ma lao	419
+choc	420
+choc tich	421
+nay, lai	422
+trieu	423
+hoan	424
+tuc	425
+trieu tich	426
+mich hoan	427
+hoan tuc	428
+Su	429
+Su tinh	430
+lai mot	431
+Dem	432
+le	433
+Dem tinh	434
+lang le	435
+lai,	436
+lai, tinh	437
+truoc	438
+von tich	439
+mich dang	440
+dang truoc	441
+quy	442
+dang quy	443
+nay.	444
+va tinh	445
+mich nay.	446
+trum.	447
+mich bao	448
+bao trum.	449
+gian	450
+do.	451
+gian tinh	452
+mich do.	453
+giac	454
+chung	455
+giac tich	456
+mich chung	457
+chung quanh	458
+hiu	459
+bay	460
+hiu tich	461
+nhu bay	462
+ban	463
+chi xich	464
+voi ban	465
+Van	466
+voi Van	467
+den do	468
+chang nho	469
+vao	470
+Giua	471
+thinh	472
+vao tich	473
+mich Giua	474
+Giua thinh	475
+ay,	476
+mich ay,	477
+ay, dot	478
+o	479
+phong tinh	480
+mich o	481
+o trong	482
+L	483
+qua	484
+que	485
+qua tinh	486
+quanh que	487
+me	488
+so	489
+me tinh	490
+mich so	491
+so voi	492
+diem	493
+xuyet	494
+lai tinh	495
+mich diem	496
+diem xuyet	497
+Xich	498
+giua Xich	499
+nhau?"	500
+voi nhau?"	501
+LLLLOO	502
+Ðoc	503
+voi Ðoc	504
+doc,	505
+thong	506
+doc, tich	507
+va thong	508
+diem tinh	509
+nay moi	510
+dem tich	511
+chi thay	512
+hon	513
+nhieu,	514
+tham tinh	515
+mich hon	516
+hon nhieu,	517
+kia,	518
+hinh	519
+da tinh	520
+mich kia,	521
+kia, hinh	522
+vo tinh	523
+van	524
+xua,	525
+van cuc	526
+nhu xua,	527
+cac	528
+voi cac	529
+cung Ngao	530
+ao	531
+treo	532
+cao	533
+ao tich	534
+mich treo	535
+treo cao	536
+vay,	537
+nay tinh	538
+nhu vay,	539
+vang tich	540
+that la	541
+,	542
+thanh tinh	543
+mich ,	544
+, tich	545
+Ngu	546
+giua Ngu	547
+dau?	548
+Sao	549
+mich dau?	550
+dau? Sao	551
+lieu,	552
+co lieu,	553
+kho	554
+nen tinh	555
+den kho	556
+the,	557
+truoc tinh	558
+la the,	559

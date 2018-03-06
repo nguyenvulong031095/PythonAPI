@@ -1,0 +1,541 @@
+lac	1
+lu	2
+truot	3
+ve	4
+sau	5
+lac lu	6
+lu truot	7
+truot ve	8
+ve sau	9
+LL	10
+LLLLL	11
+LLL	12
+dung	13
+day	14
+xuong,	15
+loi	16
+dung day	17
+day truot	18
+truot xuong,	19
+xuong, loi	20
+LLLL	21
+LLLLLO	22
+thi	23
+lien	24
+chan	25
+mot	26
+thi lien	27
+lien truot	28
+truot chan	29
+chan mot	30
+luc	31
+ga	32
+nguoi	33
+vao	34
+luc ga	35
+ga truot	36
+truot nguoi	37
+nguoi vao	38
+nang	39
+lam	40
+sang	41
+nang lam	42
+lam truot	43
+truot sang	44
+sang mot	45
+khong,	46
+roi	47
+theo	48
+canh	49
+khong, roi	50
+roi truot	51
+truot theo	52
+theo canh	53
+tay	54
+ao	55
+ra	56
+hai	57
+tay ao	58
+ao truot	59
+truot ra	60
+ra hai	61
+dan	62
+xuong.	63
+dan dan	64
+dan truot	65
+truot xuong.	66
+cu	67
+the	68
+thang	69
+cu the	70
+the truot	71
+truot thang	72
+thang xuong.	73
+da	74
+bao	75
+lau,	76
+ga da	77
+da truot	78
+truot bao	79
+bao lau,	80
+LLLO	81
+nhien	82
+chang	83
+te	84
+nhien chang	85
+chang truot	86
+chan te	87
+Xung	88
+lai	89
+xuong	90
+Xung lai	91
+lai truot	92
+truot xuong	93
+xuong mot	94
+ULLL	95
+OL	96
+co	97
+day co	98
+co truot	99
+bat	100
+qua	101
+nam	102
+bat qua	103
+qua truot	104
+chan nam	105
+chiec	106
+xe	107
+tuyet	108
+don	109
+chiec xe	110
+xe truot	111
+truot tuyet	112
+tuyet don	113
+len	114
+do	115
+len xe	116
+tuyet do	117
+cua	118
+no	119
+di	120
+them	121
+cua no	122
+no truot	123
+truot di	124
+di them	125
+ca	126
+khoi	127
+ca nguoi	128
+nguoi truot	129
+xuong khoi	130
+lap	131
+tuc	132
+de	133
+lap tuc	134
+tuc truot	135
+xuong, de	136
+Tieu	137
+Bao	138
+Tieu Bao	139
+Bao truot	140
+ULL	141
+OO	142
+Khau	143
+Trong	144
+nhu	145
+Khau Trong	146
+Trong truot	147
+nguoi nhu	148
+ULLLL	149
+dao	150
+tu	151
+dao da	152
+ra tu	153
+nhe	154
+nhang	155
+nhe nhang	156
+nhang truot	157
+truot khoi	158
+khoi tay	159
+Ban	160
+khe	161
+Ban khe	162
+khe truot	163
+truot qua	164
+qua mot	165
+Hoi	166
+nga	167
+Tieu Hoi	168
+Hoi truot	169
+chan nga	170
+keo	171
+le	172
+tren	173
+mat	174
+keo le	175
+le truot	176
+truot tren	177
+tren mat	178
+hat	179
+mua	180
+hat mua	181
+mua truot	182
+tren chiec	183
+dam	184
+phia	185
+dam co	186
+ve phia	187
+bi	188
+nuoc,	189
+nang bi	190
+bi truot	191
+xuong nuoc,	192
+LLLLO	193
+thach	194
+thach roi	195
+y	196
+chan y	197
+y truot	198
+di nga	199
+L	200
+tho	201
+dai,	202
+tieu	203
+tho dai,	204
+dai, truot	205
+xuong tieu	206
+duoi.	207
+xuong duoi.	208
+lang	209
+dat,	210
+le lang	211
+lang truot	212
+xuong dat,	213
+tieng	214
+“oanh”	215
+dau,	216
+tieng “oanh”	217
+“oanh” truot	218
+qua dau,	219
+OLLLLO	220
+banh	221
+xe,	222
+lan	223
+banh xe,	224
+xe, truot	225
+tren lan	226
+LLO	227
+dau	228
+truong	229
+dau truong	230
+truong truot	231
+ra khoi	232
+LLLLLL	233
+mau	234
+den	235
+mau den	236
+den truot	237
+bo	238
+nay	239
+bo nay	240
+nay truot	241
+van	242
+nhieu	243
+co van	244
+van truot	245
+tuyet nhieu	246
+can	247
+than	248
+soi	249
+can than	250
+than truot	251
+tren soi	252
+vai	253
+xuong vai	254
+vi	255
+lo	256
+vi lo	257
+lo truot	258
+chan,	259
+truot chan,	260
+chan, khe	261
+tron	262
+nen	263
+muon	264
+tuyet tron	265
+tron truot	266
+truot nen	267
+nen muon	268
+Thu	269
+Doanh	270
+Thu Doanh	271
+Doanh truot	272
+chan, nga	273
+lo da	274
+kiem	275
+bao.	276
+kiem lai	277
+truot vao	278
+vao bao.	279
+ra,	280
+voi	281
+truong kiem	282
+kiem truot	283
+truot ra,	284
+ra, voi	285
+chem	286
+chem ra,	287
+ra, truot	288
+qua,	289
+truot qua,	290
+qua, tu	291
+ma	292
+the,	293
+ma bi	294
+truot mat	295
+mat the,	296
+muoi	297
+muoi bi	298
+su	299
+su muoi	300
+muoi truot	301
+tam	302
+dai	303
+tam van	304
+tuyet dai	305
+thi van	306
+tuyet dau	307
+tuyet thi	308
+tao	309
+gay	310
+tuyet.	311
+tao gay	312
+gay truot	313
+truot tuyet.	314
+mang	315
+va	316
+mang van	317
+tuyet va	318
+va gay	319
+tuyet len	320
+buoc	321
+vao buoc	322
+vao,	323
+tuyet vao,	324
+cong	325
+nay,	326
+cong cu	327
+cu truot	328
+tuyet nay,	329
+giau	330
+giau van	331
+tuyet nam	332
+doi	333
+doi van	334
+vao chan,	335
+cay	336
+tuyet,	337
+cay gay	338
+truot tuyet,	339
+tuyet, truot	340
+dinh	341
+xuong dinh	342
+song	343
+bay	344
+bo song	345
+song truot	346
+truot nhu	347
+nhu bay	348
+thao	349
+nem	350
+thao van	351
+tuyet, nem	352
+chay	353
+ca gay	354
+tuyet, chay	355
+cai,	356
+dai ca	357
+ca truot	358
+truot mot	359
+mot cai,	360
+om	361
+tru	362
+om tru	363
+tru truot	364
+xuong, mot	365
+phan	366
+trau	367
+phan trau	368
+trau truot	369
+di mot	370
+di.	371
+cua nang	372
+nang truot	373
+truot di.	374
+con	375
+dau con	376
+con truot	377
+di nhu	378
+nhu truot	379
+ruot	380
+ruot theo	381
+theo truot	382
+dan da	383
+xuong, dung	384
+eo,	385
+cung	386
+eo, muon	387
+muon truot	388
+xuong cung	389
+nao	390
+nao da	391
+chach	392
+ca chach	393
+chach truot	394
+tuyet, thi	395
+chon	396
+chon van	397
+tuyet, gay	398
+ha	399
+tuyet, ha	400
+tuyet, sau	401
+tuyet, y	402
+la	403
+la da	404
+duoi	405
+duoi dat,	406
+dat, truot	407
+veo	408
+vo	409
+bam	410
+veo vo	411
+vo truot	412
+truot bam	413
+bam di	414
+hai cu	415
+truot dai	416
+dai nhu	417
+dien	418
+vien	419
+bang	420
+nghe	421
+dien vien	422
+vien truot	423
+truot bang	424
+bang nghe	425
+km	426
+km tron	427
+bang tuyet.	428
+o	429
+va van	430
+tuyet o	431
+xuong."	432
+Hang	433
+de de	434
+de truot	435
+truot xuong."	436
+xuong." Hang	437
+LLLLLOO	438
+LO	439
+hi	440
+len,	441
+hi len,	442
+len, truot	443
+xuong tuyet,	444
+nguoi,	445
+chup	446
+khoang	447
+nguoi, chup	448
+chup truot	449
+vao khoang	450
+suyt	451
+lan y	452
+chan suyt	453
+di,	454
+tro	455
+chan ga	456
+truot di,	457
+di, tro	458
+ngua	459
+ngua bi	460
+chan lam	461
+Linh	462
+na	463
+Linh na	464
+na truot	465
+thoang	466
+thoang lai	467
+ra mot	468
+thanh	469
+theo da	470
+xuong thanh	471
+biet	472
+biet da	473
+khoi vai	474
+chi	475
+lam no	476
+di, chi	477
+ma lai	478
+qua, dao	479
+phuong	480
+luoi	481
+doi phuong	482
+phuong truot	483
+vao luoi	484
+khac	485
+tuyet khac	486
+cho	487
+cham	488
+cho nguoi	489
+truot cham	490
+cham lai	491
+luc nay	492
+truot dau	493
+dau xuong	494
+lien do	495
+do truot	496
+xuong Tieu	497
+sat	498
+mai	499
+sat nguoi	500
+tren mai	501
+buc	502
+tuong,	503
+buc tuong,	504
+tuong, truot	505
+dai xuong	506
+me	507
+dao chem	508
+chem truot	509
+ve me	510
+Lang	511
+bung	512
+Lang da	513
+xuong bung	514
+muon luc	515
+luc truot	516
+nguoi di,	517
+lay,	518
+kho	519
+lay, tron	520
+truot kho	521
+kho di	522
+tuot,	523
+manh	524
+tron tuot,	525
+tuot, truot	526
+truot manh	527
+manh ve	528
+thu,	529
+dai thu,	530
+thu, truot	531
+xuong mai	532
+thi lai	533
+neu	534
+neu muon	535
+tuyet ve	536
+Loc	537
+cu dam	538
+dam truot	539
+qua, Loc	540
+vao van	541
