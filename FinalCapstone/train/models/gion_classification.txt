@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       giỡn       0.87      0.99      0.92        78
+       giởn       0.00      0.00      0.00         5
+       giòn       1.00      0.29      0.44         7
+       giớn       0.00      0.00      0.00         1
+       giốn       0.00      0.00      0.00         1
+
+avg / total       0.81      0.86      0.82        92

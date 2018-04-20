@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       quen       0.90      0.86      0.88       548
+       quên       0.86      0.91      0.88       556
+       quèn       0.00      0.00      0.00         1
+       Quên       0.00      0.00      0.00         4
+       quền       0.00      0.00      0.00         1
+
+avg / total       0.87      0.88      0.88      1110

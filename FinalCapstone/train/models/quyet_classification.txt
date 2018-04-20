@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+      quyết       0.99      0.99      0.99      1534
+      Quyết       0.96      0.91      0.93       180
+      quyệt       0.92      0.89      0.91        27
+      quýet       0.00      0.00      0.00         1
+
+avg / total       0.98      0.98      0.98      1742

@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       Kịch       0.00      0.00      0.00         2
+       kích       0.97      1.00      0.98       815
+       kịch       0.98      0.91      0.94       243
+       Kích       1.00      0.75      0.86        12
+
+avg / total       0.97      0.97      0.97      1072

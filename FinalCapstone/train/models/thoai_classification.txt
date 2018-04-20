@@ -1,0 +1,12 @@
+             precision    recall  f1-score   support
+
+      thoại       0.95      0.97      0.96        58
+      thoải       0.97      0.98      0.98       146
+      thoái       0.96      0.99      0.98       215
+      Thoái       0.00      0.00      0.00         1
+      thoai       0.50      0.20      0.29         5
+      thỏai       0.00      0.00      0.00         1
+      thóai       0.00      0.00      0.00         2
+      thọai       0.00      0.00      0.00         1
+
+avg / total       0.95      0.96      0.95       429

@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+      chuộc       0.95      0.97      0.96        59
+      chuốc       0.85      1.00      0.92        17
+      chước       1.00      0.93      0.96        43
+      Chuộc       0.00      0.00      0.00         1
+
+avg / total       0.95      0.95      0.95       120

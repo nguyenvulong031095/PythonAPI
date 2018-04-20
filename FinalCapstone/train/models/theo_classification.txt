@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       theo       0.99      1.00      0.99      3813
+       Theo       0.98      0.63      0.77       100
+       theọ       0.00      0.00      0.00         2
+       thẹo       0.00      0.00      0.00         4
+       thẻo       0.00      0.00      0.00         1
+
+avg / total       0.99      0.99      0.99      3920

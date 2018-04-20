@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        bủn       0.93      0.81      0.87        16
+        bùn       0.91      0.98      0.94        49
+        Bun       1.00      0.50      0.67         2
+        bún       0.00      0.00      0.00         1
+
+avg / total       0.90      0.91      0.90        68

@@ -1,0 +1,10 @@
+             precision    recall  f1-score   support
+
+      chiến       0.98      0.99      0.99      1544
+      Chiến       0.93      0.87      0.90       117
+      chiên       1.00      0.43      0.60         7
+      chiền       1.00      0.67      0.80         6
+      Chiên       0.00      0.00      0.00         1
+      CHIẾN       0.00      0.00      0.00         2
+
+avg / total       0.98      0.98      0.98      1677

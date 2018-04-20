@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       trâu       0.91      0.96      0.93        51
+       Trâu       0.97      0.97      0.97        78
+       trấu       0.00      0.00      0.00         1
+       trầu       0.00      0.00      0.00         1
+       tràu       0.00      0.00      0.00         1
+
+avg / total       0.93      0.95      0.94       132

@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+      chánh       0.87      0.92      0.90       113
+      Chánh       0.84      0.87      0.86        55
+      Chanh       0.00      0.00      0.00         1
+      chạnh       0.00      0.00      0.00         3
+      chanh       1.00      0.33      0.50         6
+
+avg / total       0.85      0.87      0.85       178

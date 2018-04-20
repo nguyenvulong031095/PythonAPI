@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+      thiết       0.91      0.98      0.94       639
+      thiệt       0.83      0.65      0.73       107
+      Thiết       0.96      0.90      0.93       203
+      Thiệt       0.71      0.22      0.33        23
+
+avg / total       0.90      0.91      0.90       972

@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        vác       0.88      0.96      0.92        53
+        vặc       0.75      0.75      0.75         4
+        vạc       0.92      0.79      0.85        14
+        Vác       0.00      0.00      0.00         3
+
+avg / total       0.84      0.88      0.86        74

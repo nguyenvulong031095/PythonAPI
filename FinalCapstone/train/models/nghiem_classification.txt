@@ -1,0 +1,10 @@
+             precision    recall  f1-score   support
+
+     nghiêm       0.98      1.00      0.99       665
+     nghiệm       0.98      0.96      0.97       137
+     Nghiêm       1.00      0.89      0.94        81
+     nghiễm       0.00      0.00      0.00         3
+     Nghiễm       0.80      0.80      0.80         5
+     Nghiệm       0.00      0.00      0.00         0
+
+avg / total       0.97      0.98      0.97       892

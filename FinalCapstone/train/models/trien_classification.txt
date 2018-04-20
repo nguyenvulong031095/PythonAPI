@@ -1,0 +1,10 @@
+             precision    recall  f1-score   support
+
+      triển       0.99      1.00      0.99       424
+      triền       0.89      0.96      0.92        25
+      triễn       0.00      0.00      0.00         1
+      triện       1.00      0.20      0.33         5
+      TRIỀN       0.00      0.00      0.00         1
+      Triện       0.00      0.00      0.00         1
+
+avg / total       0.98      0.98      0.98       457

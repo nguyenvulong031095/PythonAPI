@@ -1,0 +1,10 @@
+             precision    recall  f1-score   support
+
+       sinh       0.96      0.98      0.97      2782
+       Sinh       0.86      0.79      0.82       371
+       sính       0.75      0.14      0.24        21
+       sình       0.00      0.00      0.00         2
+       Sính       0.00      0.00      0.00         2
+       SINH       0.00      0.00      0.00         1
+
+avg / total       0.95      0.95      0.95      3179

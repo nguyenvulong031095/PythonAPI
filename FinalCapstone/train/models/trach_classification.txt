@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+      trách       0.96      0.99      0.98       919
+      trạch       0.97      0.61      0.75        46
+      Trạch       0.87      0.78      0.83       106
+      Trách       0.00      0.00      0.00         5
+      trach       0.00      0.00      0.00         1
+
+avg / total       0.95      0.95      0.95      1077

@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       tiếc       0.97      0.98      0.98       316
+       tiệc       0.96      0.97      0.97       189
+       Tiếc       0.00      0.00      0.00         1
+       tiéc       0.00      0.00      0.00         1
+       Tiệc       0.00      0.00      0.00         2
+
+avg / total       0.96      0.97      0.97       509

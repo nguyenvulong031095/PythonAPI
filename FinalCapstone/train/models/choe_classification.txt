@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       chóe       0.00      0.00      0.00         3
+       choé       0.25      0.33      0.29         3
+       chọe       0.00      0.00      0.00         1
+       choe       1.00      0.50      0.67         2
+
+avg / total       0.31      0.22      0.24         9

@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        tia       0.96      1.00      0.98       343
+        tía       1.00      0.69      0.82        26
+        tỉa       1.00      0.70      0.82        10
+        Tia       0.00      0.00      0.00         3
+
+avg / total       0.96      0.96      0.96       382

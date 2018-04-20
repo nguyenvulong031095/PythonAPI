@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        tốp       0.79      1.00      0.88        30
+        tợp       1.00      0.50      0.67        12
+        tóp       1.00      0.75      0.86         4
+        tọp       0.00      0.00      0.00         1
+
+avg / total       0.84      0.83      0.81        47

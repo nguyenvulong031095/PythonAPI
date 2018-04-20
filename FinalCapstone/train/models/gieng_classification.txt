@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+      giếng       0.95      1.00      0.98        60
+      giềng       1.00      0.83      0.91         6
+      giêng       1.00      1.00      1.00         2
+      Giếng       0.00      0.00      0.00         2
+
+avg / total       0.93      0.96      0.94        70

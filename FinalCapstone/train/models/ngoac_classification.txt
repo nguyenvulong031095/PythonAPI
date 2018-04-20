@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+      ngoác       0.81      1.00      0.89        34
+      ngoắc       0.75      0.30      0.43        10
+      ngoặc       0.00      0.00      0.00         3
+      ngoạc       1.00      0.50      0.67         2
+
+avg / total       0.76      0.78      0.74        49

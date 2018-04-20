@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        tùm       1.00      0.70      0.82        10
+        túm       0.86      0.98      0.92        61
+        tủm       1.00      0.98      0.99        95
+        tụm       0.50      0.17      0.25         6
+
+avg / total       0.93      0.94      0.93       172

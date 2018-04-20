@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+        nép       0.87      1.00      0.93        39
+        nếp       1.00      0.83      0.91        30
+        Nép       0.00      0.00      0.00         1
+
+avg / total       0.91      0.91      0.91        70

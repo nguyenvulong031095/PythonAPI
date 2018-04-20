@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       sách       0.94      0.98      0.96       639
+       Sách       0.98      0.96      0.97       300
+       sạch       0.96      0.87      0.91       247
+       Sạch       0.00      0.00      0.00         1
+
+avg / total       0.95      0.95      0.95      1187

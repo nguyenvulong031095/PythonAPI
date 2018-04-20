@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       thấu       0.89      0.99      0.94       179
+       thâu       0.92      0.61      0.73        38
+       thau       1.00      0.50      0.67         6
+       Thâu       0.00      0.00      0.00         2
+       thầu       0.00      0.00      0.00         2
+
+avg / total       0.89      0.90      0.88       227

@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+        sen       0.77      1.00      0.87        17
+        Sen       0.00      0.00      0.00         2
+        sẻn       0.00      0.00      0.00         1
+        sên       0.00      0.00      0.00         1
+        SEN       0.00      0.00      0.00         1
+
+avg / total       0.60      0.77      0.67        22

@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+       loạt       0.94      1.00      0.97        80
+       loát       0.67      0.40      0.50         5
+       loắt       0.00      0.00      0.00         3
+
+avg / total       0.89      0.93      0.91        88

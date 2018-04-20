@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       ngực       0.97      1.00      0.98       584
+       ngục       1.00      0.76      0.86        66
+       ngúc       0.00      0.00      0.00         1
+       ngức       0.00      0.00      0.00         1
+       Ngục       0.00      0.00      0.00         2
+
+avg / total       0.96      0.97      0.96       654

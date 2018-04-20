@@ -1,0 +1,13 @@
+             precision    recall  f1-score   support
+
+      ngang       0.96      0.99      0.97       674
+      ngẩng       0.95      0.94      0.95       281
+      ngáng       0.00      0.00      0.00         3
+      Ngang       1.00      0.67      0.80         6
+      ngàng       1.00      0.75      0.86        12
+      ngầng       0.00      0.00      0.00         1
+      ngẫng       0.00      0.00      0.00         5
+      ngẳng       0.00      0.00      0.00         1
+      NGANG       0.00      0.00      0.00         1
+
+avg / total       0.95      0.96      0.95       984

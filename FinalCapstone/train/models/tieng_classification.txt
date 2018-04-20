@@ -1,0 +1,10 @@
+             precision    recall  f1-score   support
+
+      tiếng       0.98      1.00      0.99      6315
+      Tiếng       0.97      0.25      0.39       138
+      tiéng       0.00      0.00      0.00         3
+      tiêng       0.00      0.00      0.00         1
+      tiểng       0.00      0.00      0.00         2
+      TIẾNG       0.00      0.00      0.00         1
+
+avg / total       0.98      0.98      0.98      6460

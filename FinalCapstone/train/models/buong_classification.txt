@@ -1,0 +1,11 @@
+             precision    recall  f1-score   support
+
+      buông       0.97      1.00      0.98       518
+      Buông       1.00      0.83      0.91        18
+      bướng       0.95      0.87      0.91        23
+      bương       0.00      0.00      0.00         3
+      buồng       0.00      0.00      0.00         5
+      buống       0.00      0.00      0.00         1
+      buong       0.00      0.00      0.00         1
+
+avg / total       0.95      0.97      0.96       569

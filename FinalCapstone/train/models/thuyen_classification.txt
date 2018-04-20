@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+     thuyên       1.00      0.81      0.90        16
+     thuyền       0.99      1.00      0.99      1245
+     Thuyên       1.00      0.95      0.98        44
+     Thuyền       1.00      0.08      0.15        12
+     thuyển       0.00      0.00      0.00         2
+
+avg / total       0.99      0.99      0.98      1319

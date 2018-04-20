@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       phao       1.00      0.87      0.93        23
+       phào       1.00      0.99      1.00       133
+       pháo       0.93      1.00      0.96        92
+       Pháo       0.00      0.00      0.00         3
+
+avg / total       0.96      0.97      0.97       251

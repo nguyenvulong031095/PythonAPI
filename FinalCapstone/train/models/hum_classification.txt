@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+        hùm       0.62      1.00      0.76         8
+        hừm       1.00      0.78      0.88        18
+        HÙM       0.00      0.00      0.00         1
+
+avg / total       0.85      0.81      0.81        27

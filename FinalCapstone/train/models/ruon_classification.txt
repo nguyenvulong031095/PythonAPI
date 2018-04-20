@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       rượn       0.55      1.00      0.71         6
+       rườn       0.00      0.00      0.00         1
+       rướn       1.00      0.40      0.57         5
+       Rượn       0.00      0.00      0.00         1
+
+avg / total       0.64      0.62      0.55        13

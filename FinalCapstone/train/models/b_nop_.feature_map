@@ -1,0 +1,258 @@
+dau	1
+nay	2
+nop	3
+van	4
+thu	5
+dau nay	6
+nay nop	7
+nop van	8
+van thu	9
+LLL	10
+LL	11
+nguoi	12
+di	13
+mang	14
+truoc	15
+nguoi di	16
+di nop	17
+nop mang	18
+mang truoc	19
+LLLL	20
+LLLLL	21
+ngay	22
+nom	23
+lo	24
+au,	25
+ngay nom	26
+nom nop	27
+nop lo	28
+lo au,	29
+LLO	30
+b'sau	31
+khi	32
+may	33
+dinh	34
+b'sau khi	35
+khi nop	36
+nop may	37
+may dinh	38
+LOLLL	39
+son	40
+thanh	41
+sao?	42
+son thanh	43
+thanh nop	44
+mang sao?	45
+LLLO	46
+cung	47
+au	48
+cung nom	49
+lo au	50
+den	51
+day	52
+minh.'	53
+den day	54
+day nop	55
+nop minh.'	56
+LLLLOO	57
+la	58
+dong	59
+vao	60
+ngan	61
+la dong	62
+dong nop	63
+nop vao	64
+vao ngan	65
+dem	66
+dang	67
+cho	68
+han	69
+dem dang	70
+dang nop	71
+nop cho	72
+cho han	73
+bat	74
+thue	75
+them,	76
+nay bat	77
+bat nop	78
+nop thue	79
+thue them,	80
+LLLLO	81
+bon	82
+du	83
+tien	84
+bon nguoi	85
+nguoi nop	86
+nop du	87
+du tien	88
+thue vao	89
+sau	90
+dung	91
+sau khi	92
+thue dung	93
+luon	94
+so,	95
+luon nom	96
+lo so,	97
+long	98
+kinh	99
+hai.'	100
+long nom	101
+nop kinh	102
+kinh hai.'	103
+LLLOO	104
+so	105
+lo so	106
+ban,	107
+lac	108
+len	109
+nong	110
+ban, lac	111
+lac nop	112
+nop len	113
+len nong	114
+thi	115
+phai	116
+bai,	117
+khong	118
+thi phai	119
+phai nop	120
+nop bai,	121
+bai, khong	122
+,	123
+so.'	124
+, nom	125
+lo so.'	126
+O	127
+LLOO	128
+OL	129
+ve	130
+ve nom	131
+b'nguoi	132
+hay	133
+b'nguoi hay	134
+hay nop	135
+nop tien	136
+tien vao	137
+LOLLLLL	138
+ngai	139
+van nom	140
+lo ngai	141
+giao	142
+phai giao	143
+giao nop	144
+tien thue	145
+mai	146
+cung phai	147
+tien mai	148
+de	149
+dat.'	150
+nop de	151
+de dat.'	152
+bung	153
+hai	154
+bung nom	155
+nop so	156
+so hai	157
+quan	158
+thanh phai	159
+nop quan	160
+quan thue	161
+nien	162
+theo	163
+sau.'	164
+nien nom	165
+nop theo	166
+theo sau.'	167
+thay	168
+thay nom	169
+sap	170
+duoi	171
+sap phai	172
+mang duoi	173
+buoc	174
+mang.'	175
+buoc den	176
+den nop	177
+nop mang.'	178
+sach	179
+len.'	180
+kinh sach	181
+sach nop	182
+nop len.'	183
+nao	184
+mang."	185
+nao di	186
+nop mang."	187
+mang." la	188
+phong,	189
+phai nom	190
+de phong,	191
+LLLLLO	192
+su	193
+cong	194
+tu	195
+nhung	196
+su cong	197
+cong nop	198
+nop tu	199
+tu nhung	200
+can	201
+bao	202
+nhieu	203
+can giao	204
+nop bao	205
+bao nhieu	206
+nhin	207
+ga.'	208
+nop nhin	209
+nhin ga.'	210
+dem giao	211
+cho quan	212
+don	213
+tu tien	214
+tien nop	215
+nop don	216
+don di	217
+ngoan	218
+ngoan ngoan	219
+ngoan nop	220
+ma	221
+chu.'	222
+dau ma	223
+ma nop	224
+thue chu.'	225
+mang?	226
+tran	227
+kinh de	228
+de nop	229
+nop mang?	230
+mang? tran	231
+dua	232
+dua den	233
+cho ngan	234
+bo	235
+binh	236
+phu	237
+bo binh	238
+binh nop	239
+nop binh	240
+binh phu	241
+nhu	242
+minh	243
+toi	244
+nhu tu	245
+tu nop	246
+nop minh	247
+minh toi	248
+chi	249
+chi la	250
+la nop	251
+vay?"	252
+mang vay?"	253
+ky	254
+vi	255
+dung ky	256
+ky nop	257
+cho vi	258

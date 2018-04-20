@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        nét       0.96      1.00      0.98       537
+        nết       0.93      0.68      0.78        40
+        Nét       0.00      0.00      0.00         8
+        nẹt       0.00      0.00      0.00         1
+
+avg / total       0.94      0.96      0.95       586

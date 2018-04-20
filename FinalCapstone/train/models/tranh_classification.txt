@@ -1,0 +1,11 @@
+             precision    recall  f1-score   support
+
+      tránh       0.95      0.96      0.95       982
+      tranh       0.93      0.95      0.94       795
+      Tránh       1.00      0.60      0.75        10
+      Tranh       0.00      0.00      0.00         5
+      trành       0.00      0.00      0.00         6
+      trạnh       0.00      0.00      0.00         2
+      TRANH       0.00      0.00      0.00         1
+
+avg / total       0.94      0.94      0.94      1801

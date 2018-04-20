@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       sườn       0.97      1.00      0.98       145
+       Sườn       0.00      0.00      0.00         1
+       sươn       0.00      0.00      0.00         1
+       suôn       0.00      0.00      0.00         3
+
+avg / total       0.93      0.97      0.95       150

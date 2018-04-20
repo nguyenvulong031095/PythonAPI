@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        lùn       0.86      0.99      0.92       119
+        lún       0.90      0.36      0.51        25
+        lụn       0.00      0.00      0.00         1
+        lủn       1.00      0.50      0.67         6
+
+avg / total       0.86      0.86      0.84       151

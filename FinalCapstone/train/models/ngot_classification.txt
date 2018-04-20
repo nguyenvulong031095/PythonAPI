@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       ngọt       0.92      1.00      0.96       102
+       ngớt       1.00      0.98      0.99       141
+       ngột       1.00      0.99      0.99       144
+       Ngột       0.00      0.00      0.00         1
+       ngót       0.00      0.00      0.00         3
+
+avg / total       0.97      0.98      0.97       391

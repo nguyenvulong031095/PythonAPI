@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       riễu       0.50      1.00      0.67         2
+       riêu       0.00      0.00      0.00         1
+       riếu       1.00      1.00      1.00         1
+       riểu       0.00      0.00      0.00         1
+
+avg / total       0.40      0.60      0.47         5

@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+      nghèo       0.90      1.00      0.95        44
+      nghẹo       1.00      0.79      0.88        14
+      nghẽo       0.50      0.50      0.50         2
+      nghéo       0.50      0.25      0.33         4
+
+avg / total       0.88      0.89      0.88        64

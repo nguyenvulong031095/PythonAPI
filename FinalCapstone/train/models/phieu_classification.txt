@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+      phiêu       0.90      1.00      0.95       131
+      Phiêu       1.00      0.54      0.70        13
+      phiếu       1.00      0.85      0.92        52
+      Phiếu       1.00      0.90      0.95        10
+
+avg / total       0.93      0.93      0.92       206

@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+       thép       0.93      1.00      0.96        37
+       thếp       1.00      0.33      0.50         3
+       thểp       0.00      0.00      0.00         1
+
+avg / total       0.91      0.93      0.90        41

@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       vươn       0.98      0.97      0.98       226
+       vườn       0.95      0.99      0.97       146
+       vuơn       0.00      0.00      0.00         1
+       vượn       1.00      0.60      0.75        10
+
+avg / total       0.96      0.97      0.96       383

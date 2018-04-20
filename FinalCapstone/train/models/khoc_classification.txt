@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       khóc       0.98      0.99      0.98       425
+       khốc       0.94      0.91      0.92        85
+       Khóc       0.00      0.00      0.00         2
+       KHÓC       0.00      0.00      0.00         0
+
+avg / total       0.96      0.97      0.97       513

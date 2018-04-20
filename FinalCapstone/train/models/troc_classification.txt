@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       tróc       0.95      0.68      0.79        28
+       trọc       0.87      1.00      0.93        75
+       Tróc       0.00      0.00      0.00         1
+       Trọc       0.00      0.00      0.00         1
+       trốc       0.00      0.00      0.00         1
+
+avg / total       0.87      0.89      0.87       106

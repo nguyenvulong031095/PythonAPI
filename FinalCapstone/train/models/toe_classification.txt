@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+        toe       1.00      0.64      0.78        14
+        toé       0.38      0.43      0.40        14
+        tóe       0.52      0.60      0.56        20
+
+avg / total       0.62      0.56      0.58        48

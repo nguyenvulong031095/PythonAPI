@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+       quéo       0.00      0.00      0.00         1
+       quẹo       0.80      1.00      0.89        12
+       queo       1.00      0.60      0.75         5
+
+avg / total       0.81      0.83      0.80        18

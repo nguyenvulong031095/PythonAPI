@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+        vun       0.64      0.39      0.48        18
+        vụn       0.94      0.99      0.96        94
+        vùn       0.64      0.75      0.69        12
+
+avg / total       0.87      0.88      0.87       124

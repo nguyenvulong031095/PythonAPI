@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       chim       0.93      0.97      0.95       198
+       chím       1.00      1.00      1.00         9
+       chìm       0.96      0.95      0.96       231
+       Chim       0.00      0.00      0.00         4
+       CHÌM       0.00      0.00      0.00         1
+
+avg / total       0.94      0.95      0.94       443

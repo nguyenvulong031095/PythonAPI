@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+      nhiệm       0.93      1.00      0.96       227
+      nhiễm       0.92      0.50      0.65        22
+      Nhiệm       0.00      0.00      0.00         4
+      nhiêm       1.00      0.33      0.50         3
+      nhiểm       0.00      0.00      0.00         1
+
+avg / total       0.91      0.93      0.91       257

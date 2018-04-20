@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        rắc       0.88      0.98      0.93       109
+        rác       0.93      0.76      0.84        34
+        rạc       1.00      0.25      0.40         8
+        râc       0.00      0.00      0.00         1
+
+avg / total       0.89      0.89      0.87       152

@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       gánh       0.96      1.00      0.98       178
+       Gánh       0.00      0.00      0.00         1
+       ganh       1.00      0.17      0.29         6
+       gành       0.00      0.00      0.00         1
+
+avg / total       0.95      0.96      0.95       186

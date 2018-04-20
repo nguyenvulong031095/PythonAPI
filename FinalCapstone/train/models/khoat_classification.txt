@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+      khoát       0.96      1.00      0.98        51
+      khoắt       1.00      0.80      0.89         5
+      Khoát       0.00      0.00      0.00         1
+
+avg / total       0.95      0.96      0.96        57

@@ -1,0 +1,12 @@
+             precision    recall  f1-score   support
+
+      khùng       0.92      0.74      0.82        31
+      khủng       0.89      0.99      0.93       159
+      khựng       1.00      0.93      0.97        30
+      khung       0.94      0.89      0.91        83
+      Khung       0.00      0.00      0.00         1
+      khũng       0.00      0.00      0.00         2
+      Khủng       0.00      0.00      0.00         2
+      khừng       0.00      0.00      0.00         1
+
+avg / total       0.90      0.91      0.90       309

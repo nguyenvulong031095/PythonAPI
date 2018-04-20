@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+       phác       0.76      1.00      0.86        16
+       Phác       0.00      0.00      0.00         3
+       phắc       1.00      0.71      0.83         7
+
+avg / total       0.74      0.81      0.76        26

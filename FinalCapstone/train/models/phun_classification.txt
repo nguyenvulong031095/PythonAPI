@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+       phún       0.67      0.19      0.30        21
+       phun       0.86      0.98      0.91       115
+       phùn       0.00      0.00      0.00         2
+
+avg / total       0.81      0.85      0.81       138

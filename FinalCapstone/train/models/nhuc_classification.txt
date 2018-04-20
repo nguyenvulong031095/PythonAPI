@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       nhức       0.98      0.87      0.92        75
+       nhục       0.93      0.99      0.96       205
+       nhúc       1.00      0.99      0.99       136
+       Nhục       0.00      0.00      0.00         3
+
+avg / total       0.96      0.96      0.96       419

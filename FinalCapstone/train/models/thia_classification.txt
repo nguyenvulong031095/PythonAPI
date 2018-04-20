@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+       thìa       0.60      1.00      0.75         3
+       thía       1.00      1.00      1.00         6
+       thia       0.00      0.00      0.00         2
+
+avg / total       0.71      0.82      0.75        11

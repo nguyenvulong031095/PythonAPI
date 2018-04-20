@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       rảnh       0.82      0.95      0.88        84
+       rành       0.83      0.95      0.88        40
+       ranh       0.95      0.61      0.75        31
+       rãnh       0.50      0.18      0.27        11
+       Ranh       0.00      0.00      0.00         1
+
+avg / total       0.82      0.83      0.81       167

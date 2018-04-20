@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        nát       0.99      1.00      0.99       254
+        nạt       1.00      0.87      0.93        15
+        nat       1.00      1.00      1.00         1
+        nặt       0.00      0.00      0.00         1
+
+avg / total       0.99      0.99      0.99       271

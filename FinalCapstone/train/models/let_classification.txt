@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+        lẹt       1.00      1.00      1.00         1
+        lét       0.80      1.00      0.89        16
+        lết       1.00      0.50      0.67         8
+
+avg / total       0.87      0.84      0.82        25

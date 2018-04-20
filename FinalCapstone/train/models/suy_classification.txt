@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        suy       0.99      1.00      0.99       693
+        Suy       1.00      0.17      0.29         6
+        suý       0.00      0.00      0.00         1
+        súy       0.00      0.00      0.00         1
+
+avg / total       0.99      0.99      0.99       701

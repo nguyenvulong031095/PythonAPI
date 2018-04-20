@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       phía       0.99      1.00      1.00      4744
+       Phía       1.00      0.18      0.31        22
+       phia       0.00      0.00      0.00         5
+       phỉa       0.00      0.00      0.00         2
+
+avg / total       0.99      0.99      0.99      4773

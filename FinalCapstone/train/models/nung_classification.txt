@@ -1,0 +1,10 @@
+             precision    recall  f1-score   support
+
+       nũng       1.00      0.91      0.95        22
+       nung       0.65      1.00      0.79        13
+       núng       0.67      0.40      0.50         5
+       nùng       0.00      0.00      0.00         1
+       nưng       0.00      0.00      0.00         1
+       nựng       0.00      0.00      0.00         1
+
+avg / total       0.79      0.81      0.78        43

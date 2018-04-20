@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       tiệm       0.88      0.97      0.92       113
+       tiềm       0.93      0.81      0.87        53
+       tiêm       1.00      0.33      0.50         3
+       tiếm       0.00      0.00      0.00         2
+       Tiềm       0.00      0.00      0.00         1
+
+avg / total       0.88      0.90      0.88       172

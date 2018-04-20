@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+        vía       1.00      1.00      1.00        68
+        viã       0.00      0.00      0.00         1
+        vỉa       0.50      1.00      0.67         1
+
+avg / total       0.98      0.99      0.98        70

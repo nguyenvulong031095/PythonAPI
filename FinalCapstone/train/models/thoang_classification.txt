@@ -1,0 +1,13 @@
+             precision    recall  f1-score   support
+
+     thoảng       0.87      0.88      0.87       186
+     thoáng       0.95      0.99      0.97       538
+     thoang       0.66      0.53      0.58        40
+     Thoáng       0.00      0.00      0.00         2
+     Thoảng       0.00      0.00      0.00         1
+     thóang       0.00      0.00      0.00        10
+     thoắng       1.00      0.50      0.67         2
+     thỏang       0.00      0.00      0.00         1
+     thoàng       0.00      0.00      0.00         1
+
+avg / total       0.90      0.92      0.91       781

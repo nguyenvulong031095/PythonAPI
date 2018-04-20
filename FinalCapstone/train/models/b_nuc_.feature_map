@@ -1,0 +1,587 @@
+luong	1
+dong	2
+nuc	3
+long	4
+hoi	5
+luong dong	6
+dong nuc	7
+nuc long	8
+long hoi	9
+LLL	10
+LLLL	11
+LLLLL	12
+LL	13
+ky	14
+nu	15
+danh	16
+do	17
+ky nu	18
+nu nuc	19
+nuc danh	20
+danh do	21
+quoc	22
+no	23
+chay	24
+ra	25
+quoc no	26
+no nuc	27
+nuc chay	28
+chay ra	29
+vo	30
+ban	31
+ca	32
+vo ban	33
+ban nuc	34
+nuc no	35
+no ca	36
+lai	37
+khen	38
+ca lai	39
+lai nuc	40
+no khen	41
+thom	42
+den	43
+mui	44
+dot	45
+thom den	46
+den nuc	47
+nuc mui	48
+mui dot	49
+than	50
+khoc	51
+cua	52
+than khoc	53
+khoc nuc	54
+no cua	55
+"that	56
+la	57
+cuoi,	58
+nguoi	59
+"that la	60
+la nuc	61
+nuc cuoi,	62
+cuoi, nguoi	63
+LLLLO	64
+OLLLL	65
+OL	66
+tieng	67
+tieng khoc	68
+ga	69
+cung	70
+ga cung	71
+cung nuc	72
+long no	73
+cho	74
+ngua,	75
+cho ngua,	76
+ngua, nuc	77
+ha!	78
+thiet	79
+cuoi?	80
+con	81
+ha! thiet	82
+thiet nuc	83
+nuc cuoi?	84
+cuoi? con	85
+LLO	86
+xe,	87
+han	88
+khen:	89
+xe, han	90
+han nuc	91
+no khen:	92
+dang	93
+no.'	94
+dang khoc	95
+nuc no.'	96
+LLOO	97
+ve	98
+ve dang	99
+dang nuc	100
+b'tieng	101
+b'tieng nuc	102
+LOLLLLL	103
+le	104
+le khoc	105
+an	106
+xoc	107
+an thom	108
+thom nuc	109
+mui xoc	110
+loc	111
+bi	112
+khoc loc	113
+loc nuc	114
+no bi	115
+om	116
+om khoc	117
+cua khoc	118
+no,	119
+ga khoc	120
+nuc no,	121
+no, ban	122
+canh	123
+canh cua	124
+cua nuc	125
+no khoc	126
+khoi	127
+thay	128
+lien	129
+khoi thay	130
+thay nuc	131
+cuoi, lien	132
+ninh	133
+ninh dang	134
+lao	135
+nung	136
+thit	137
+nen	138
+lao nung	139
+nung nuc	140
+nuc thit	141
+thit nen	142
+chi	143
+chi khoc	144
+day,	145
+roi	146
+day, khoc	147
+no roi	148
+LLLO	149
+phong	150
+luu	151
+da	152
+phong luu	153
+luu nuc	154
+nuc tieng	155
+tieng da	156
+giuong	157
+mieng	158
+giuong khoc	159
+no, mieng	160
+LLLLLL	161
+cu,	162
+bep	163
+khong	164
+cu, bep	165
+bep nuc	166
+nuc cung	167
+cung khong	168
+gio	169
+nhu	170
+nghen	171
+gio nhu	172
+nhu nuc	173
+no nghen	174
+tieu	175
+bao	176
+tieu bao	177
+bao nuc	178
+nao	179
+voi	180
+hai	181
+lai nao	182
+nao nuc	183
+nuc voi	184
+voi hai	185
+san	186
+van	187
+khoc.'	188
+san van	189
+van nuc	190
+no khoc.'	191
+LLLLOO	192
+the	193
+moi	194
+cuoi.'	195
+the moi	196
+moi nuc	197
+nuc cuoi.'	198
+no.vi	199
+roi khoc	200
+nuc no.vi	201
+no.vi tieu	202
+LLOLL	203
+co	204
+chut	205
+co chut	206
+chut nuc	207
+am	208
+am da	209
+da nuc	210
+cau	211
+,	212
+cau ,	213
+, nuc	214
+O	215
+LO	216
+mat	217
+ho	218
+mat ,	219
+long ho	220
+phai	221
+nay	222
+phai nay	223
+nay nuc	224
+ke!	225
+ke! ga	226
+ga nuc	227
+hay	228
+thi	229
+hay thi	230
+thi nuc	231
+deu	232
+muon	233
+giet	234
+deu nao	235
+nuc muon	236
+muon giet	237
+van khoc	238
+no khong	239
+b'roi	240
+nang	241
+b'roi nang	242
+nang nuc	243
+LOLLL	244
+bong	245
+ma	246
+nam	247
+bong thom	248
+nuc ma	249
+ma nam	250
+chang	251
+chang da	252
+b'huong	253
+nguoi.'	254
+b'huong nuc	255
+long nguoi.'	256
+LLLLLOO	257
+nac	258
+len	259
+nac len	260
+len nuc	261
+no, than	262
+vua	263
+vua khoc	264
+no vua	265
+b'that	266
+b'that nuc	267
+cuoi, nuc	268
+LOLLLL	269
+cuoi!	270
+ha	271
+nuc cuoi!	272
+cuoi! ha	273
+tin	274
+tin nay	275
+mot	276
+chuyen	277
+cuoi	278
+nhat	279
+mot chuyen	280
+chuyen nuc	281
+nuc cuoi	282
+cuoi nhat	283
+mui.'	284
+len thom	285
+nuc mui.'	286
+LLLOO	287
+b'ong	288
+len,	289
+b'ong khoc	290
+nuc len,	291
+len, tieng	292
+gan	293
+tieng,	294
+gan deu	295
+deu nuc	296
+nuc tieng,	297
+tieng, cung	298
+LLLLLO	299
+that	300
+that la	301
+cuoi den	302
+nay lai	303
+rat	304
+vua rat	305
+rat nuc	306
+cuoi vua	307
+b'ga	308
+b'ga nuc	309
+LOLL	310
+b'nha	311
+b'nha vua	312
+vua nuc	313
+suc	314
+u	315
+mui suc	316
+suc nuc	317
+mui u	318
+L	319
+day	320
+day lai	321
+no len	322
+huong	323
+bat	324
+giac	325
+huong suc	326
+nuc bat	327
+bat giac	328
+mung,	329
+ca mung,	330
+mung, nuc	331
+mui,	332
+xe	333
+huong thom	334
+nuc mui,	335
+mui, xe	336
+chan	337
+nan	338
+chan nan	339
+nan nuc	340
+khap	341
+quan	342
+thom suc	343
+nuc khap	344
+khap quan	345
+thot	346
+no thot	347
+long.'	348
+cho ho	349
+ho nuc	350
+nuc long.'	351
+tam	352
+nuong	353
+khoc,	354
+tam nuong	355
+nuong nuc	356
+no khoc,	357
+bich	358
+dao	359
+:	360
+bich dao	361
+dao nuc	362
+no :	363
+toa	364
+mui thom	365
+mui, toa	366
+lam	367
+nhu tieng	368
+tieng nuc	369
+no, lam	370
+ha deu	371
+ai	372
+ai cung	373
+long,	374
+chu	375
+hai deu	376
+nuc long,	377
+long, chu	378
+biet	379
+cung biet	380
+phong canh	381
+canh nuc	382
+boi	383
+tiep	384
+tan	385
+boi tiep	386
+tiep nuc	387
+no tan	388
+ngoa	389
+quy	390
+nghen ngoa	391
+ngoa nuc	392
+no, quy	393
+thanh	394
+thanh am	395
+am nuc	396
+tim	397
+tim nang	398
+no, nang	399
+nang,	400
+nang, khoc	401
+len, mieng	402
+thi"	403
+a?	404
+\xc3\xb0ung	405
+thi" a?	406
+a? nuc	407
+cuoi! \xc3\xb0ung	408
+OLLNOLLNLLL	409
+\xc3\xb0ung la	410
+cuoi! nhu	411
+tran	412
+moi,	413
+va	414
+con tran	415
+tran nuc	416
+nuc moi,	417
+moi, va	418
+tay	419
+cha,	420
+tay cha,	421
+cha, nuc	422
+b'chuyen	423
+viet	424
+sach:	425
+b'chuyen bep	426
+nuc viet	427
+viet sach:	428
+LOLLLLLL	429
+bon	430
+la lam	431
+lam nuc	432
+long bon	433
+b'vet	434
+dao,	435
+b'vet nuc	436
+nuc nhu	437
+nhu dao,	438
+ma khoc	439
+trong	440
+ke	441
+trao	442
+trong ke	443
+ke nuc	444
+nuc co	445
+co trao	446
+b'tieu	447
+hoan	448
+noi:	449
+b'tieu hoan	450
+hoan nuc	451
+no noi:	452
+thiet,	453
+thiet, lai	454
+nhi	455
+dan	456
+nhi dan	457
+dan nuc	458
+viec	459
+giao	460
+viec bep	461
+nuc giao	462
+giao cho	463
+dung	464
+nang bep	465
+nuc thi	466
+thi dung	467
+may,	468
+may, va	469
+va nuc	470
+nuoc	471
+b'ga khoc	472
+no, nuoc	473
+noi	474
+noi vua	475
+minh,	476
+minh, cung	477
+len.'	478
+bat khoc	479
+nuc len.'	480
+\xc3\xb0ong	481
+khuong	482
+\xc3\xb0ong khuong	483
+khuong nuc	484
+danh mot	485
+cang	486
+lai cang	487
+cang nuc	488
+giac ga	489
+doan,	490
+nhung	491
+doan, lam	492
+long nhung	493
+que	494
+tam que	495
+que nuc	496
+tien	497
+sinh	498
+tien sinh	499
+sinh nuc	500
+tieng van	501
+duoc	502
+duoc tieng	503
+de	504
+nen,	505
+de nen,	506
+nen, nuc	507
+long ha	508
+troi	509
+nong	510
+khong?	511
+troi nong	512
+nong nuc	513
+nuc lam	514
+lam khong?	515
+lam.'	516
+lam nong	517
+nuc lam.'	518
+han khoc	519
+dua	520
+dua ra	521
+ra nuc	522
+tai	523
+nghe	524
+thien	525
+tai nghe	526
+nghe nuc	527
+danh thien	528
+noi cung	529
+b'han	530
+se	531
+b'han nuc	532
+long se	533
+toi	534
+toi cho	535
+cho nuc	536
+thoi	537
+hoi thoi	538
+thoi nuc	539
+mui ca	540
+dau	541
+dau khoc	542
+no va	543
+nu thi	544
+ngao	545
+hoai.'	546
+nghen ngao	547
+ngao nuc	548
+no hoai.'	549
+chang lai	550
+muon dan	551
+no:	552
+-	553
+nuc no:	554
+no: -	555
+do nuc	556
+tieng thien	557
+am thanh	558
+thanh nuc	559
+no day	560
+no\xe2\x80\xa6.'	561
+mat khoc	562
+nuc no\xe2\x80\xa6.'	563
+LLOLLNOLNNOLLNOO	564
+nhan	565
+nhan khoc	566
+no chay	567
+chuyen lam	568
+bao khoc	569
+hoe,	570
+hoe, tieng	571
+bay	572
+nuc bay	573
+bay ra	574
+deu khoc	575
+gia	576
+giau	577
+gia giau	578
+giau nuc	579
+muoi	580
+muoi khoc	581
+no, ma	582
+tho	583
+giang	584
+van tho	585
+tho nuc	586
+tieng giang	587

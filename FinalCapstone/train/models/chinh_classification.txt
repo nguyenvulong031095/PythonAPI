@@ -1,0 +1,10 @@
+             precision    recall  f1-score   support
+
+      Chính       0.92      0.82      0.87       423
+      chính       0.97      0.99      0.98      3377
+      chỉnh       0.94      0.82      0.87       125
+      chinh       0.95      0.84      0.89        95
+      Chinh       0.50      0.14      0.22         7
+      chình       0.00      0.00      0.00         2
+
+avg / total       0.96      0.96      0.96      4029

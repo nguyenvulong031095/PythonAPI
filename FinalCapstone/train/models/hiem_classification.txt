@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       hiếm       0.94      0.96      0.95       234
+       hiểm       0.97      0.98      0.98       582
+       hiềm       1.00      0.74      0.85        43
+       hiễm       0.00      0.00      0.00         1
+       Hiếm       0.00      0.00      0.00         2
+
+avg / total       0.96      0.96      0.96       862

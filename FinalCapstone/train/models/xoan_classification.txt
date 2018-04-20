@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       xoan       1.00      1.00      1.00         4
+       xoắn       0.88      1.00      0.94        15
+       xoăn       0.00      0.00      0.00         1
+       xoán       0.00      0.00      0.00         1
+
+avg / total       0.82      0.90      0.86        21

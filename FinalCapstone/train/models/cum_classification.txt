@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+        cụm       0.83      1.00      0.91        10
+        cùm       1.00      0.50      0.67         2
+        cúm       0.00      0.00      0.00         1
+
+avg / total       0.79      0.85      0.80        13

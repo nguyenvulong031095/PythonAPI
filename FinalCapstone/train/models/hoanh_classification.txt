@@ -1,0 +1,11 @@
+             precision    recall  f1-score   support
+
+      hoành       0.93      0.98      0.95       179
+      Hoành       0.78      0.78      0.78        23
+      hoạnh       0.00      0.00      0.00         5
+      Hòanh       0.00      0.00      0.00         1
+      hoãnh       0.00      0.00      0.00         1
+      HOÀNH       0.00      0.00      0.00         1
+      hòanh       0.00      0.00      0.00         1
+
+avg / total       0.87      0.91      0.89       211

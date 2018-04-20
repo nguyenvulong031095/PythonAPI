@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       Quốc       0.93      0.92      0.93       482
+       quốc       0.90      0.91      0.90       385
+       QUốC       0.00      0.00      0.00         1
+       QUỐC       1.00      0.50      0.67         2
+
+avg / total       0.92      0.91      0.91       870

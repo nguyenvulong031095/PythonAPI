@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       thín       1.00      1.00      1.00         2
+       thin       0.80      1.00      0.89         4
+       thìn       1.00      1.00      1.00         2
+       Thìn       0.00      0.00      0.00         1
+
+avg / total       0.80      0.89      0.84         9

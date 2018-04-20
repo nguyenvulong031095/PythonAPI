@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        gấu       0.75      0.92      0.83        13
+        gẩu       0.00      0.00      0.00         1
+        gẫu       1.00      0.40      0.57         5
+        gâu       0.86      1.00      0.92         6
+
+avg / total       0.80      0.80      0.77        25

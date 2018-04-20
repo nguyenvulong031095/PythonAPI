@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       hình       0.99      1.00      0.99      2247
+       Hình       1.00      0.55      0.71        53
+       hinh       0.50      0.50      0.50         2
+       Hinh       0.00      0.00      0.00         1
+       hỉnh       0.00      0.00      0.00         3
+
+avg / total       0.99      0.99      0.98      2306

@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       khom       0.95      1.00      0.97       156
+       khóm       1.00      0.33      0.50         9
+       khòm       0.00      0.00      0.00         1
+       khọm       1.00      0.50      0.67         2
+
+avg / total       0.95      0.95      0.94       168

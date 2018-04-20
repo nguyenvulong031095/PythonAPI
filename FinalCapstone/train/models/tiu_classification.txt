@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        tíu       1.00      1.00      1.00         5
+        tiu       0.84      1.00      0.91        16
+        tìu       0.00      0.00      0.00         1
+        tĩu       0.00      0.00      0.00         2
+
+avg / total       0.77      0.88      0.82        24

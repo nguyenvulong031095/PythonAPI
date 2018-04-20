@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       chớp       0.95      1.00      0.98       437
+       chộp       0.97      0.78      0.87        46
+       chợp       1.00      0.25      0.40         8
+       Chớp       0.00      0.00      0.00         1
+       chóp       1.00      0.40      0.57        10
+
+avg / total       0.95      0.95      0.95       502

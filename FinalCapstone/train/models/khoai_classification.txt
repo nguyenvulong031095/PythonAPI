@@ -1,0 +1,11 @@
+             precision    recall  f1-score   support
+
+      khoái       0.97      1.00      0.98       253
+      khoải       0.83      0.83      0.83         6
+      khoai       1.00      0.20      0.33         5
+      khoáị       0.00      0.00      0.00         1
+      Khoái       1.00      0.33      0.50         3
+      khỏai       0.00      0.00      0.00         1
+      khóai       0.00      0.00      0.00         1
+
+avg / total       0.95      0.96      0.95       270

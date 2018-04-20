@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+      nghĩa       0.97      1.00      0.98       762
+      Nghĩa       0.93      0.60      0.73        65
+      nghía       0.97      1.00      0.98        30
+      nghìa       0.00      0.00      0.00         1
+      nghíạ       0.00      0.00      0.00         1
+
+avg / total       0.96      0.96      0.96       859

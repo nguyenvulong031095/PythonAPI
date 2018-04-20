@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        tuệ       0.86      1.00      0.93        57
+        tuế       0.94      0.83      0.88        18
+        Tuệ       1.00      0.75      0.86        24
+        Tuế       1.00      0.50      0.67         2
+
+avg / total       0.91      0.90      0.90       101

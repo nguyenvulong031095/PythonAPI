@@ -1,0 +1,10 @@
+             precision    recall  f1-score   support
+
+       trèo       0.74      0.70      0.72        96
+       treo       0.87      0.89      0.88       239
+       trẻo       0.93      1.00      0.96        53
+       trẹo       1.00      0.82      0.90        11
+       tréo       0.00      0.00      0.00         1
+       Treo       0.00      0.00      0.00         1
+
+avg / total       0.85      0.85      0.85       401

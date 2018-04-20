@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       nanh       0.98      0.98      0.98        60
+       nánh       0.89      1.00      0.94         8
+       nành       0.00      0.00      0.00         1
+       nạnh       1.00      1.00      1.00         3
+
+avg / total       0.96      0.97      0.97        72

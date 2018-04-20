@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        mến       0.87      0.93      0.90        42
+        men       0.91      0.95      0.93        41
+        mền       0.60      0.33      0.43         9
+        mèn       0.00      0.00      0.00         1
+
+avg / total       0.85      0.87      0.86        93

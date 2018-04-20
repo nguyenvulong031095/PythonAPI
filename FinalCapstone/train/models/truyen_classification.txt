@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+     Truyện       1.00      0.96      0.98       129
+     truyền       0.97      1.00      0.98      1237
+     truyện       0.80      0.49      0.61        49
+     Truyền       1.00      0.08      0.15        12
+     truyến       0.00      0.00      0.00         0
+
+avg / total       0.96      0.97      0.96      1428

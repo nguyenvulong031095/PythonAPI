@@ -1,0 +1,723 @@
+lan	1
+luot	2
+guc	3
+xuong	4
+bo	5
+lan luot	6
+luot guc	7
+guc xuong	8
+xuong bo	9
+LLL	10
+LL	11
+LLLLL	12
+LLLL	13
+chut	14
+da	15
+xuong,	16
+lap	17
+chut da	18
+da guc	19
+guc xuong,	20
+xuong, lap	21
+LLLLLO	22
+tuc	23
+do	24
+xuong.'	25
+tuc do	26
+do guc	27
+guc xuong.'	28
+LLLLLOO	29
+tho	30
+huyet	31
+khong	32
+tho huyet	33
+huyet guc	34
+xuong khong	35
+nhun	36
+quy	37
+nhun quy	38
+quy guc	39
+ngoi	40
+ngu	41
+ban.'	42
+ngoi ngu	43
+ngu guc	44
+xuong ban.'	45
+LLLOO	46
+nguoi	47
+tren	48
+mat	49
+nguoi ngu	50
+guc tren	51
+tren mat	52
+o	53
+mui,	54
+dau	55
+vao	56
+o mui,	57
+mui, guc	58
+guc dau	59
+dau vao	60
+L	61
+LLLO	62
+han	63
+thu,	64
+han thu,	65
+thu, guc	66
+dau xuong	67
+canh	68
+cong	69
+nga	70
+giua	71
+canh cong	72
+cong guc	73
+guc nga	74
+nga giua	75
+ho	76
+ha	77
+noi	78
+day	79
+ho ha	80
+ha guc	81
+guc noi	82
+noi day	83
+cung	84
+luc	85
+cung luc	86
+luc guc	87
+cho	88
+khoi	89
+cho khoi	90
+khoi guc	91
+roi	92
+cuoi	93
+run	94
+roi cuoi	95
+cuoi guc	96
+xuong run	97
+van	98
+con	99
+khoe	100
+van con	101
+con guc	102
+xuong, khoe	103
+ra	104
+cuoi,	105
+gac	106
+dau,	107
+ra cuoi,	108
+cuoi, guc	109
+guc gac	110
+gac dau,	111
+LLLLO	112
+nhat	113
+tien	114
+nhat tien	115
+tien guc	116
+gac dau	117
+tu	118
+mot	119
+tu tu	120
+tu guc	121
+xuong, mot	122
+co	123
+quy.'	124
+co nguoi	125
+nguoi guc	126
+guc quy.'	127
+tieu	128
+pham,	129
+tieu pham,	130
+pham, guc	131
+guc mat	132
+mat vao	133
+bi	134
+danh	135
+boi	136
+cai	137
+bi danh	138
+danh guc	139
+guc boi	140
+boi cai	141
+bong	142
+ngoi bong	143
+bong guc	144
+ghe,	145
+len	146
+xuong ghe,	147
+ghe, guc	148
+dau len	149
+chet	150
+duoi	151
+dat	152
+da chet	153
+chet guc	154
+guc duoi	155
+duoi dat	156
+viet	157
+xong	158
+viet xong	159
+xong guc	160
+gac cai	161
+b'khau	162
+trong	163
+b'khau trong	164
+trong guc	165
+LOLLLL	166
+ai	167
+quy,	168
+la	169
+ai da	170
+guc quy,	171
+quy, la	172
+dat,	173
+nga xuong,	174
+xuong, guc	175
+duoi dat,	176
+mang,	177
+mang, roi	178
+roi guc	179
+xuong giua	180
+nam	181
+lung	182
+tu nam	183
+nam guc	184
+tren lung	185
+lao	186
+bat	187
+cho lao	188
+lao guc	189
+xuong bat	190
+xuong, nam	191
+ma,	192
+ma, nam	193
+guc vao	194
+vao trong	195
+LLO	196
+mem,	197
+yen	198
+mem, nam	199
+tren yen	200
+sau	201
+van tu	202
+dau sau	203
+giam	204
+ban	205
+giam ngoi	206
+ngoi guc	207
+xuong ban	208
+met	209
+ngat	210
+met la	211
+la guc	212
+xuong ngat	213
+dong	214
+dong quy	215
+xuong mat	216
+khang	217
+hy	218
+khang hy	219
+hy guc	220
+mem	221
+mai	222
+chim	223
+mem mai	224
+mai guc	225
+xuong, chim	226
+trung	227
+dao	228
+nga.'	229
+trung dao	230
+dao guc	231
+guc nga.'	232
+dan	233
+dan dan	234
+dan guc	235
+nga trong	236
+chan	237
+nan	238
+chan nan	239
+nan guc	240
+guc nguoi	241
+nguoi xuong,	242
+cung quy	243
+xuong dat,	244
+danh nga	245
+nga guc	246
+duoi dao	247
+hong,	248
+cui	249
+hong, cui	250
+cui guc	251
+dau xuong,	252
+lang	253
+ma	254
+lang ma	255
+ma guc	256
+the	257
+luong	258
+the luong	259
+luong guc	260
+cau	261
+da cau	262
+cau guc	263
+guc dau,	264
+dau, mat	265
+thi	266
+thi do	267
+xuong trong	268
+lap tuc	269
+tuc guc	270
+nguoi xuong	271
+dot	272
+nhien	273
+long	274
+dot nhien	275
+nhien guc	276
+vao long	277
+nguc,	278
+cui xuong,	279
+vao nguc,	280
+rung	281
+len,	282
+rung len,	283
+len, guc	284
+toan	285
+than	286
+ben	287
+xac	288
+toan than	289
+than guc	290
+guc ben	291
+ben xac	292
+b'quy	293
+le	294
+b'quy le	295
+le guc	296
+LOLLL	297
+bun	298
+le nam	299
+guc trong	300
+trong bun	301
+ngot	302
+khong ngot	303
+ngot guc	304
+pham	305
+nhin	306
+tieu pham	307
+pham guc	308
+dau, nhin	309
+nham	310
+mat,	311
+nham mat,	312
+mat, guc	313
+.co	314
+nhu	315
+.co ngoi	316
+xuong nhu	317
+OLL	318
+OL	319
+mui	320
+mui roi	321
+guc len	322
+len lung	323
+dat.'	324
+da nga	325
+xuong dat.'	326
+roi nga	327
+nhan\xe2\x80\x9d	328
+ke	329
+do.'	330
+nhan\xe2\x80\x9d danh	331
+guc ke	332
+ke do.'	333
+LLOO	334
+LLLLOLLNOLNNOLNL	335
+thuong	336
+quan	337
+da ha	338
+guc thuong	339
+thuong quan	340
+LLLLLL	341
+gan	342
+va	343
+gan va	344
+va guc	345
+vao dau	346
+ban,	347
+han do	348
+xuong ban,	349
+va ngu	350
+tren ban,	351
+ong	352
+dang	353
+ong dang	354
+dang guc	355
+the ha	356
+guc tu	357
+tu lang	358
+thoi	359
+phai	360
+thoi phai	361
+phai guc	362
+bay,	363
+bay, ngoi	364
+xuong, lung	365
+b'han	366
+b'han guc	367
+nhoi	368
+nhoi roi	369
+long ngoi	370
+bao	371
+bao ngoi	372
+cach	373
+uy	374
+phong	375
+cach ha	376
+guc uy	377
+uy phong	378
+\xc3\xb0inh	379
+nga,	380
+keu	381
+\xc3\xb0inh uy	382
+uy guc	383
+guc nga,	384
+nga, keu	385
+OLLNOLLNLLL	386
+bo bong	387
+long dang	388
+go	389
+go dang	390
+kia	391
+kia van	392
+van guc	393
+nua	394
+khoc	395
+nua thi	396
+thi guc	397
+mat khoc	398
+huynh	399
+luc huynh	400
+huynh guc	401
+ly	402
+tuan	403
+gat,	404
+ly tuan	405
+tuan guc	406
+guc gat,	407
+gat, do	408
+moi	409
+moi khong	410
+khong guc	411
+mem roi	412
+tinh	413
+duong,	414
+tinh duong,	415
+duong, guc	416
+that	417
+duong, cui	418
+dau that	419
+ba	420
+ba da	421
+tren ban	422
+dung	423
+dung noi	424
+noi guc	425
+mat xuong	426
+nguoi quy	427
+xuong, tho	428
+xui	429
+hieu	430
+thanh	431
+dang xui	432
+xui guc	433
+guc hieu	434
+hieu thanh	435
+cu	436
+cu ha	437
+guc ly	438
+ly tieu	439
+khung	440
+phai nam	441
+xuong khung	442
+nen	443
+lai	444
+sac	445
+nen lai	446
+lai guc	447
+xuong, sac	448
+im	449
+im lang	450
+lang guc	451
+nan ngoi	452
+xuong, ben	453
+lun	454
+map	455
+lun map	456
+map guc	457
+tinh,	458
+ghe.'	459
+tinh, nga	460
+xuong ghe.'	461
+moi,	462
+moi, dang	463
+tieu bao	464
+bao guc	465
+sach	466
+sach len	467
+len guc	468
+vo	469
+nat,	470
+vo nat,	471
+nat, guc	472
+cam	473
+luc nga	474
+xuong, cam	475
+truoc,	476
+truoc, lai	477
+dau khoc	478
+bung	479
+bung quy	480
+duoc	481
+\xe2\x80\x9cthien	482
+guc duoc	483
+duoc \xe2\x80\x9cthien	484
+OLLNOLNNOLNLLLLLL	485
+LO	486
+nao	487
+truoc	488
+ke nao	489
+nao guc	490
+xuong truoc	491
+xuong, giua	492
+phu	493
+phu moi	494
+moi guc	495
+guc han	496
+han xuong,	497
+hai	498
+ten	499
+hai ten	500
+ten guc	501
+minh	502
+minh do	503
+co the	504
+the guc	505
+nga truoc	506
+nhu lai	507
+sang,	508
+sang, dau	509
+dau guc	510
+nay	511
+suyt	512
+nay suyt	513
+suyt guc	514
+nga duoi	515
+len roi	516
+xuong:	517
+dau xuong:	518
+bat quan	519
+quan guc	520
+hoan	521
+nhay	522
+hoan toan	523
+toan guc	524
+nga, nhay	525
+sap	526
+dang sap	527
+sap guc	528
+nghi	529
+nghi roi	530
+la\xe2\x80\xa6\xe2\x80\x9d,	531
+la\xe2\x80\xa6\xe2\x80\x9d, ong	532
+ong guc	533
+LLOLLNOLNNOLLNOLLNOLNNOLNLO	534
+kinh	535
+hoang,	536
+kinh hoang,	537
+hoang, guc	538
+dang nam	539
+thu	540
+chem	541
+thu do	542
+guc nhu	543
+nhu chem	544
+bat luc	545
+no	546
+no da	547
+thang	548
+be	549
+thang be	550
+be guc	551
+dau do	552
+vao bo	553
+lai duoc	554
+duoc guc	555
+tam	556
+hoi	557
+tam do	558
+xuong, hoi	559
+b'tomek	560
+b'tomek guc	561
+LOLLLLL	562
+ngay	563
+lai nga	564
+guc ngay	565
+ngay xuong.'	566
+do nga	567
+xuong, chet	568
+ca	569
+dang thuong	570
+thuong guc	571
+xuong, ca	572
+nua do	573
+xuong, khong	574
+eo	575
+ga,	576
+eo ga,	577
+ga, guc	578
+vao lung	579
+vung	580
+mau,	581
+chet,	582
+vung mau,	583
+mau, guc	584
+dau chet,	585
+chi	586
+tu cui	587
+xuong, chi	588
+nang	589
+khong cui	590
+xuong, nang	591
+kha	592
+kha ngoi	593
+say	594
+say mem,	595
+mem, guc	596
+dong dang	597
+don,	598
+don, nga	599
+xuong duoi	600
+dau, lao	601
+cat	602
+cat len	603
+ban len,	604
+thong	605
+kho	606
+lam	607
+thong kho	608
+kho guc	609
+dau lam	610
+can	611
+run cuoi	612
+dau, can	613
+truoc ngoi	614
+la ha	615
+duoc dong	616
+trong nga	617
+hinh	618
+cua	619
+hinh do	620
+xuong cua	621
+tuyen	622
+tuyen da	623
+b'mot	624
+b'mot nguoi	625
+ga	626
+nguc	627
+hai ga	628
+ga guc	629
+len nguc	630
+tham	631
+toi	632
+keu tham	633
+tham guc	634
+xuong toi	635
+met moi	636
+vua	637
+muon	638
+lac	639
+vua muon	640
+muon guc	641
+gac lac	642
+muoi	643
+luong danh	644
+duoc muoi	645
+da ngoi	646
+khac	647
+khac nga	648
+hon	649
+dat, guc	650
+dau hon	651
+le dang	652
+dau ngu	653
+ruot,	654
+gac,	655
+ruot, dau	656
+guc gac,	657
+gac, khong	658
+than nam	659
+b'lao	660
+b'lao guc	661
+cham	662
+cham cham	663
+cham guc	664
+van cu	665
+cu guc	666
+cuoi cung	667
+cung guc	668
+xuong nguc,	669
+may	670
+buoc,	671
+may buoc,	672
+buoc, guc	673
+roi.'	674
+guc roi.'	675
+ngung	676
+khong ngung	677
+ngung guc	678
+gac, lam	679
+su	680
+tu,	681
+khong ha	682
+guc su	683
+su tu,	684
+luc nang	685
+nang guc	686
+ngua,	687
+xe.'	688
+ngua, ngu	689
+tren xe.'	690
+lai,	691
+lap lai,	692
+lai, guc	693
+xong,	694
+xong, con	695
+quyen	696
+quyen nga	697
+thach	698
+luot nga	699
+xuong thach	700
+bon	701
+ta	702
+hay	703
+bon ta	704
+ta guc	705
+nga, hay	706
+ao	707
+khoi do	708
+trong ao	709
+dang nga	710
+guc truoc	711
+truoc nam	712
+b'dao	713
+huyen	714
+b'dao huyen	715
+huyen guc	716
+ten,	717
+ten, nga	718
+b'ong	719
+b'ong trung	720
+trung guc	721
+guong	722
+guong cuoi,	723

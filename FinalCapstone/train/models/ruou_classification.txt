@@ -1,0 +1,7 @@
+             precision    recall  f1-score   support
+
+       rượu       0.99      1.00      0.99       982
+       Rượu       1.00      0.57      0.73        21
+       rượú       0.00      0.00      0.00         1
+
+avg / total       0.99      0.99      0.99      1004

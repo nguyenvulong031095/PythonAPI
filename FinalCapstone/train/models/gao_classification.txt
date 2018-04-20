@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        gạo       0.89      0.69      0.78        36
+        gào       0.92      1.00      0.96       135
+        gáo       1.00      0.56      0.71         9
+        gao       1.00      1.00      1.00         2
+
+avg / total       0.92      0.92      0.91       182

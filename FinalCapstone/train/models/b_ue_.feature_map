@@ -1,0 +1,379 @@
+nui	1
+roi	2
+ue	3
+oai	4
+dat	5
+nui roi	6
+roi ue	7
+ue oai	8
+oai dat	9
+LLL	10
+LL	11
+di,	12
+cung	13
+bo	14
+di, cung	15
+cung ue	16
+oai bo	17
+LLO	18
+LLLL	19
+chuyen	20
+o	21
+doi	22
+phong	23
+chuyen o	24
+o ue	25
+ue doi	26
+doi phong	27
+L	28
+LLLLL	29
+LLLLLL	30
+luoi	31
+bieng	32
+nam	33
+luoi bieng	34
+bieng ue	35
+oai nam	36
+dang	37
+tren	38
+dang nam	39
+nam ue	40
+oai tren	41
+ve	42
+rat	43
+trong	44
+ve rat	45
+rat ue	46
+oai trong	47
+giay	48
+da	49
+buoc	50
+giay da	51
+da ue	52
+oai buoc	53
+danh	54
+suot,	55
+noi,	56
+danh suot,	57
+suot, ue	58
+oai noi,	59
+LLLLO	60
+LLLO	61
+nuoc	62
+voi	63
+\xc3\xb0ien	64
+nuoc o	65
+ue voi	66
+voi \xc3\xb0ien	67
+OLLNOLLNLLL	68
+LO	69
+loi	70
+thi	71
+tai	72
+loi o	73
+ue thi	74
+thi tai	75
+tinh	76
+than,	77
+ngoi	78
+tinh than,	79
+than, ue	80
+oai ngoi	81
+lam	82
+noi	83
+ton	84
+lam o	85
+ue noi	86
+noi ton	87
+b'\xc3\xb0oan	88
+lao	89
+b'\xc3\xb0oan lao	90
+lao ue	91
+LOOLLNOLLNLLL	92
+vat	93
+cuc	94
+lau,	95
+vat o	96
+ue cuc	97
+cuc lau,	98
+giu	99
+dinh	100
+giu bo	101
+bo ue	102
+ue vat	103
+vat dinh	104
+am	105
+hut	106
+duoc	107
+noi am	108
+am ue	109
+ue hut	110
+hut duoc	111
+giau,	112
+van	113
+gui	114
+giau, van	115
+van ue	116
+oai gui	117
+tram	118
+lang	119
+oai,	120
+tram lang	121
+lang ue	122
+ue oai,	123
+oai, lang	124
+nguoi	125
+o,	126
+hon	127
+nguoi o,	128
+o, ue	129
+oai hon	130
+minh,	131
+van minh,	132
+minh, ue	133
+oai noi	134
+de	135
+phach	136
+tap.'	137
+de phach	138
+phach ue	139
+ue tap.'	140
+LLLOO	141
+canh	142
+ghe,	143
+canh ghe,	144
+ghe, ue	145
+ho	146
+xung	147
+tu	148
+ho xung	149
+xung ue	150
+oai tu	151
+bin	152
+rin,	153
+lac	154
+bin rin,	155
+rin, ue	156
+oai lac	157
+dai	158
+dai roi	159
+cham	160
+chap,	161
+nhu	162
+cham chap,	163
+chap, ue	164
+oai nhu	165
+nha	166
+lai	167
+vay.'	168
+nha lai	169
+lai ue	170
+oai vay.'	171
+b'-	172
+the	173
+b'- ue	174
+oai the	175
+LOO	176
+mot	177
+voi mot	178
+cuoi	179
+lua	180
+treo	181
+cuoi lua	182
+lua ue	183
+oai treo	184
+ca	185
+giuong	186
+ue ca	187
+ca giuong	188
+mau	189
+nho	190
+nhop	191
+mau o	192
+ue nho	193
+nho nhop	194
+mui	195
+ma	196
+dam	197
+mui o	198
+ue ma	199
+ma dam	200
+ngai	201
+dang ve	202
+ve ue	203
+oai ngai	204
+ban	205
+som	206
+tia	207
+ban som	208
+som ue	209
+oai tia	210
+co	211
+ue co	212
+co cung	213
+xu	214
+xong	215
+len	216
+mui xu	217
+xu ue	218
+ue xong	219
+xong len	220
+vao	221
+xong vao	222
+vi	223
+vi xu	224
+ma da	225
+nhien,	226
+nang	227
+dua	228
+nhien, nang	229
+nang ue	230
+oai dua	231
+LLLLLO	232
+tieng,	233
+dap:	234
+mot tieng,	235
+tieng, ue	236
+oai dap:	237
+to	238
+ra	239
+lo	240
+to ra	241
+ra ue	242
+oai, lo	243
+ngap	244
+dai,	245
+nga	246
+ngap dai,	247
+dai, ue	248
+oai nga	249
+no	250
+duoi	251
+no da	252
+oai, duoi	253
+chay	254
+len roi	255
+oai chay	256
+nhan	257
+gat	258
+nhan lai	259
+oai gat	260
+chieu	261
+chan	262
+ra chieu	263
+chieu ue	264
+oai chan	265
+den	266
+ue den	267
+den dat	268
+buon	269
+buc	270
+vay?\xe2\x80\x9d.'	271
+buon buc	272
+buc ue	273
+oai vay?\xe2\x80\x9d.'	274
+LLLOOLLNOLNNOLNLOO	275
+gio	276
+day	277
+gio day	278
+day ue	279
+dau	280
+cua	281
+dau o	282
+ue cua	283
+cua nguoi	284
+nong	285
+nac,	286
+ue nong	287
+nong nac,	288
+b'mui	289
+nac	290
+b'mui xu	291
+nong nac	292
+LOLLL	293
+thu	294
+trong,	295
+thu xu	296
+ue vao	297
+vao trong,	298
+noi cua	299
+dieu	300
+bo dieu	301
+dieu ue	302
+oai cua	303
+vo	304
+dao,	305
+loan	306
+vo dao,	307
+dao, ue	308
+ue loan	309
+loan cung	310
+tran	311
+tran nha	312
+nha ue	313
+oai lang	314
+rau	315
+bac	316
+nhin	317
+rau bac	318
+bac ue	319
+oai nhin	320
+dung	321
+co ve	322
+oai dung	323
+guong	324
+tren guong	325
+guong ue	326
+oai phong	327
+ay	328
+tua	329
+ay lai	330
+oai tua	331
+vay	332
+vay roi	333
+vao ghe,	334
+chan nhan	335
+nhan ue	336
+tam	337
+than	338
+ue tam	339
+tam than	340
+nay	341
+xoay	342
+tu nay	343
+nay ue	344
+oai xoay	345
+loang	346
+thoang	347
+noi:	348
+loang thoang	349
+thoang ue	350
+oai noi:	351
+toan	352
+bat	353
+toan than	354
+than ue	355
+oai, bat	356
+le	357
+chot	358
+noi.'	359
+le chot	360
+chot ue	361
+oai noi.'	362
+phan	363
+ue nhu	364
+nhu phan	365
+linh	366
+linh thu	367
+thu ue	368
+oai vo	369
+tay	370
+the.'	371
+de tay	372
+tay ue	373
+ue than	374
+than the.'	375
+bao	376
+kiem	377
+ue bao	378
+bao kiem	379

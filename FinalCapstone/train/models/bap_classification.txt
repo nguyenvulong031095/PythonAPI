@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        bập       1.00      0.77      0.87        26
+        bắp       0.87      1.00      0.93        60
+        bấp       0.00      0.00      0.00         2
+        Bắp       0.00      0.00      0.00         1
+
+avg / total       0.88      0.90      0.88        89

@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       suýt       0.97      1.00      0.98       193
+       Suýt       0.00      0.00      0.00         4
+       suỵt       0.00      0.00      0.00         1
+       súyt       0.00      0.00      0.00         1
+
+avg / total       0.94      0.97      0.96       199

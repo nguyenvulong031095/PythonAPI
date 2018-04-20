@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        gọt       0.00      0.00      0.00         4
+        gót       0.94      1.00      0.97       134
+        gột       1.00      0.60      0.75        10
+        Gót       0.00      0.00      0.00         1
+
+avg / total       0.91      0.94      0.92       149

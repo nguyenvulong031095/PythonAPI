@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       bách       0.95      0.90      0.93       306
+       Bạch       0.95      0.96      0.95      1439
+       bạch       0.87      0.87      0.87       395
+       Bách       0.92      0.90      0.91       172
+       Bach       0.00      0.00      0.00         1
+
+avg / total       0.93      0.93      0.93      2313

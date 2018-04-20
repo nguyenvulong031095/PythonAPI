@@ -1,0 +1,10 @@
+             precision    recall  f1-score   support
+
+      ngoằn       0.95      0.86      0.90        21
+      ngoan       0.69      0.70      0.70       157
+      ngoãn       0.52      0.52      0.52        90
+      ngoạn       0.95      0.97      0.96        58
+      Ngoan       0.00      0.00      0.00         1
+      ngoàn       0.00      0.00      0.00         1
+
+avg / total       0.70      0.70      0.70       328

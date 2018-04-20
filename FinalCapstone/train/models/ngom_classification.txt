@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       ngòm       1.00      1.00      1.00         8
+       ngợm       0.85      1.00      0.92        11
+       ngổm       0.50      1.00      0.67         1
+       ngóm       1.00      0.33      0.50         3
+       ngồm       0.00      0.00      0.00         1
+
+avg / total       0.87      0.88      0.84        24

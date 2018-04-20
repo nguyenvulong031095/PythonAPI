@@ -1,0 +1,10 @@
+             precision    recall  f1-score   support
+
+       nhói       0.94      1.00      0.97        60
+       nhõi       0.40      0.67      0.50         3
+       nhồi       0.88      0.70      0.78        10
+       nhoi       1.00      1.00      1.00        14
+       nhỏi       1.00      0.40      0.57         5
+       nhời       0.00      0.00      0.00         1
+
+avg / total       0.92      0.91      0.91        93

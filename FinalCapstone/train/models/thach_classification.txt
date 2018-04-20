@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+      Thạch       0.94      0.91      0.92       715
+      thách       1.00      0.65      0.79        34
+      thạch       0.85      0.93      0.89       442
+      THÁCH       0.50      1.00      0.67         1
+      THẠCH       0.00      0.00      0.00         1
+
+avg / total       0.91      0.91      0.91      1193

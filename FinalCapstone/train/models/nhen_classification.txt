@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       nhẹn       1.00      1.00      1.00        40
+       nhện       1.00      0.50      0.67         2
+       nhen       0.80      1.00      0.89         4
+       nhẻn       0.00      0.00      0.00         0
+
+avg / total       0.96      0.96      0.96        47

@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+       tuôn       0.97      1.00      0.99       108
+       tướn       0.00      0.00      0.00         1
+       tuồn       0.00      0.00      0.00         1
+       Tướn       0.00      0.00      0.00         1
+
+avg / total       0.95      0.97      0.96       111

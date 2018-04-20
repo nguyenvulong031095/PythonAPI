@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       khôn       0.91      0.97      0.94       298
+       khốn       0.93      0.87      0.90       132
+       Khôn       0.94      0.86      0.90        70
+       khổn       0.00      0.00      0.00         1
+       Khốn       1.00      0.33      0.50         6
+
+avg / total       0.92      0.92      0.92       507

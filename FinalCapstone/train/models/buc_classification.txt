@@ -1,0 +1,8 @@
+             precision    recall  f1-score   support
+
+        bức       0.95      0.99      0.97       741
+        bực       0.97      0.87      0.92       208
+        Bức       0.91      0.71      0.80        28
+        bục       1.00      0.17      0.29         6
+
+avg / total       0.95      0.95      0.95       983

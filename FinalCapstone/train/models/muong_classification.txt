@@ -1,0 +1,10 @@
+             precision    recall  f1-score   support
+
+      muống       0.29      0.50      0.36         4
+      mương       1.00      0.30      0.46        10
+      muông       0.60      0.86      0.71         7
+      mường       0.67      1.00      0.80         4
+      muỗng       1.00      1.00      1.00         1
+      Muống       0.00      0.00      0.00         1
+
+avg / total       0.70      0.59      0.56        27

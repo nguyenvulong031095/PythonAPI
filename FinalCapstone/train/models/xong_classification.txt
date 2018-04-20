@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       xong       0.97      0.98      0.97       856
+       xông       0.97      0.96      0.96       673
+       xồng       1.00      0.33      0.50         3
+       Xông       1.00      0.50      0.67         2
+       Xong       0.00      0.00      0.00         1
+
+avg / total       0.97      0.97      0.97      1535

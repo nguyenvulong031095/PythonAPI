@@ -1,0 +1,10 @@
+             precision    recall  f1-score   support
+
+       chùy       0.69      0.97      0.81        32
+       chủy       0.80      0.40      0.53        10
+       Chuy       0.00      0.00      0.00         1
+       chuỷ       0.33      0.33      0.33         3
+       chuỳ       0.00      0.00      0.00         9
+       Chủy       1.00      1.00      1.00         2
+
+avg / total       0.58      0.67      0.60        57

@@ -1,0 +1,571 @@
+thuc	1
+ni	2
+chum	3
+chim	4
+cuoi	5
+thuc ni	6
+ni chum	7
+chum chim	8
+chim cuoi	9
+LL	10
+LLLL	11
+mieng	12
+chim,	13
+chang	14
+mieng cuoi	15
+cuoi chum	16
+chum chim,	17
+chim, chang	18
+LLLLO	19
+LLLLL	20
+noi	21
+roi	22
+dua	23
+noi roi	24
+roi chum	25
+chum mieng	26
+mieng dua	27
+LLL	28
+dong	29
+thoi	30
+lai	31
+gap	32
+dong thoi	33
+thoi chum	34
+chum lai	35
+lai gap	36
+ngon	37
+tay	38
+lai,	39
+nam	40
+ngon tay	41
+tay chum	42
+chum lai,	43
+lai, nam	44
+LLLO	45
+hai	46
+nguoi	47
+dau	48
+hai nguoi	49
+nguoi chum	50
+chum dau	51
+dau lai	52
+thuong,	53
+doan	54
+thuong, doan	55
+doan chum	56
+mieng thoi	57
+LLLLLLO	58
+deu	59
+dum	60
+ra	61
+nguoi deu	62
+deu chum	63
+chum dum	64
+dum ra	65
+b'moi	66
+vao	67
+b'moi nguoi	68
+dum vao	69
+LOLLL	70
+mot	71
+lai mot	72
+nang	73
+lien	74
+chiec	75
+nang lien	76
+lien chum	77
+chim chiec	78
+trong	79
+sao.'	80
+trong mot	81
+mot chum	82
+chum sao.'	83
+LLLOO	84
+thanh	85
+sao	86
+voi	87
+thanh mot	88
+chum sao	89
+sao voi	90
+nao	91
+sao nao	92
+bi	93
+sao trong	94
+trong chum	95
+sao bi	96
+b'-	97
+ban	98
+b'- chum	99
+sao ban	100
+LOO	101
+sao:.'	102
+chum sao:.'	103
+LLLOOO	104
+chia	105
+cac	106
+chia cac	107
+cac chum	108
+sao ra	109
+loai:	110
+mo	111
+hai loai:	112
+loai: chum	113
+sao mo	114
+hay	115
+ngan	116
+mo hay	117
+hay chum	118
+sao ngan	119
+ha	120
+va	121
+hinh	122
+ha va	123
+va chum	124
+sao hinh	125
+la	126
+praesepe,	127
+hinh la	128
+la chum	129
+sao praesepe,	130
+LLLLLLLLO	131
+goi	132
+beehive	133
+goi la	134
+sao beehive	135
+LLLLLLL	136
+b'\xc3\xb0ay	137
+lan	138
+b'\xc3\xb0ay la	139
+sao lan	140
+LOOLLNOLLNLL	141
+b'trai	142
+b'trai lai,	143
+lai, chum	144
+LOLLLL	145
+gia,	146
+nhung	147
+nay	148
+gia, nhung	149
+nhung chum	150
+sao nay	151
+thuoc	152
+nhom	153
+thuoc nhom	154
+nhom chum	155
+mo.'	156
+mot nhom	157
+sao mo.'	158
+LLOO	159
+ca	160
+ca cac	161
+sao deu	162
+pha	163
+r136	164
+pha ra	165
+ra chum	166
+sao r136	167
+LNNN	168
+gom	169
+la mot	170
+sao gom	171
+nhu	172
+nhu mot	173
+do	174
+nhieu	175
+tuong	176
+do nhieu	177
+nhieu chum	178
+sao tuong	179
+tu	180
+r136.'	181
+tu nhu	182
+nhu chum	183
+sao r136.'	184
+LNNNOO	185
+b'nhung	186
+b'nhung chum	187
+LOLLLLL	188
+hoa	189
+hoa thanh	190
+thanh chum	191
+b'moi chum	192
+sao nhu	193
+la:	194
+co	195
+la: cac	196
+sao co	197
+LLO	198
+nho	199
+lai cac	200
+sao nho	201
+nho,	202
+sao nho,	203
+hieu	204
+xem	205
+cua	206
+hieu xem	207
+xem chum	208
+sao cua	209
+ra cac	210
+vuc	211
+hai tay	212
+lai, vuc	213
+bich	214
+dao	215
+cuoi,	216
+bich dao	217
+dao chum	218
+mieng cuoi,	219
+khoa	220
+ra mot	221
+chum chia	222
+chia khoa	223
+tieu	224
+hoan	225
+tieu hoan	226
+hoan chum	227
+chim cuoi,	228
+vua	229
+moi	230
+noi vua	231
+vua chum	232
+chum moi	233
+moi thoi	234
+nu	235
+tu,	236
+noi:	237
+nu tu,	238
+tu, chum	239
+mieng noi:	240
+len,	241
+lai.'	242
+len, moi	243
+moi chum	244
+chum lai.'	245
+nhi	246
+doi	247
+thanh nhi	248
+nhi chum	249
+chim doi	250
+chan	251
+may	252
+chan may	253
+may chum	254
+tuan	255
+dang	256
+tuan dang	257
+dang chum	258
+ga	259
+nghien	260
+ga lai	261
+lai chum	262
+dau nghien	263
+LLLLLL	264
+doc	265
+cham	266
+chum doc	267
+doc cham	268
+buot,	269
+bao	270
+lay	271
+toan	272
+buot, bao	273
+bao chum	274
+chum lay	275
+lay toan	276
+bon	277
+ca bon	278
+bon chum	279
+chim.'	280
+nu cuoi	281
+chum chim.'	282
+LLLLOO	283
+duong	284
+chim, duong	285
+nhieu,	286
+ngoi	287
+nhieu, lien	288
+moi ngoi	289
+LLLLLO	290
+de	291
+toa	292
+hai de	293
+de chum	294
+chum nam	295
+nam toa	296
+pham	297
+mieng,	298
+nghieng	299
+tieu pham	300
+pham chum	301
+chum mieng,	302
+mieng, nghieng	303
+dung	304
+dung lai	305
+dau noi	306
+song	307
+song nhi	308
+moi ra	309
+tieu bao	310
+moi duong	311
+tua	312
+lua	313
+co hai	314
+hai chum	315
+chum tua	316
+tua lua	317
+hon	318
+trong dang	319
+moi hon	320
+chim, hai	321
+ket	322
+qua	323
+ket mot	324
+chum qua	325
+qua moi	326
+dao,	327
+dao, mot	328
+hao	329
+quang.'	330
+chum hao	331
+hao quang.'	332
+LLLLLOO	333
+khe	334
+mim	335
+dao khe	336
+khe chum	337
+lai, mim	338
+mot,	339
+tung	340
+lap	341
+lanh	342
+mot, tung	343
+tung chum	344
+chum lap	345
+lap lanh	346
+ngoc	347
+tri	348
+ngoc tri	349
+tri chum	350
+chim nhu	351
+den	352
+den lien	353
+dau vao	354
+chi	355
+muon	356
+ngu	357
+chi muon	358
+muon chum	359
+chum chan	360
+chan ngu	361
+lao	362
+tro	363
+lao ban	364
+ban chum	365
+moi tro	366
+tham	367
+tham khe	368
+lai trong	369
+keo	370
+kin	371
+keo chan	372
+chan chum	373
+chum kin	374
+kin ca	375
+bay	376
+bay nguoi	377
+dum voi	378
+minh	379
+minh lay	380
+lay chum	381
+lai, thoi	382
+se	383
+chet	384
+y.'	385
+se chet	386
+chet chum	387
+chum voi	388
+voi y.'	389
+roi lai	390
+nang,	391
+nhin	392
+phang	393
+nang, nhin	394
+nhin chum	395
+chim, phang	396
+mau,	397
+duoc	398
+hup	399
+boi	400
+mau, duoc	401
+duoc chum	402
+chum hup	403
+hup boi	404
+song,	405
+cuon	406
+bien	407
+song, cuon	408
+cuon chum	409
+lai, bien	410
+tho,	411
+ban tho,	412
+tho, chum	413
+chum lua	414
+lua tu	415
+chum hoa	416
+hoa nang	417
+cam	418
+rau	419
+bac	420
+cam mot	421
+chum rau	422
+rau bac	423
+ot	424
+nhu nhung	425
+chum ot	426
+ot do	427
+mai,	428
+mai, mieng	429
+mieng chum	430
+cuoi.'	431
+mieng lai	432
+chim cuoi.'	433
+tuyet	434
+nhu tuyet	435
+tuyet chum	436
+chim hai	437
+\xc3\xb0ao	438
+nhat	439
+\xc3\xb0ao nhat	440
+nhat chum	441
+chum hai	442
+hai chan	443
+OLLNOLLNLL	444
+OL	445
+b'y	446
+b'y chum	447
+LOL	448
+b'ba	449
+b'ba nguoi	450
+LOLL	451
+b'dot	452
+loi	453
+b'dot loi	454
+loi chum	455
+moi cuoi	456
+mat	457
+truyen	458
+do mat	459
+mat chum	460
+dau truyen	461
+tien	462
+sinh	463
+tien sinh	464
+sinh chum	465
+lai nhu	466
+ben	467
+treu:	468
+mot ben	469
+ben chum	470
+chim treu:	471
+huyt	472
+trong bon	473
+moi huyt	474
+cai	475
+thuong	476
+cai dau	477
+dau chum	478
+lai thuong	479
+liet	480
+long	481
+liet nhung	482
+chum den	483
+den long	484
+ngheo	485
+ngheo dau	486
+moi tu	487
+binh	488
+binh nhi	489
+giam,	490
+bao nhieu	491
+chum giam,	492
+giam, binh	493
+khan	494
+che	495
+chiec khan	496
+khan chum	497
+chum tham	498
+tham che	499
+khuon	500
+day	501
+nuoc.'	502
+khuon mieng	503
+chum day	504
+day nuoc.'	505
+anh	506
+anh dao	507
+chim cua	508
+thi	509
+long thi	510
+thi chum	511
+b'the	512
+chuong	513
+b'the la	514
+chum chuong	515
+chuong bac	516
+gan	517
+to	518
+gan mot	519
+chum long	520
+long to	521
+ngoai,	522
+nhau,	523
+ngoai, chan	524
+chum vao	525
+vao nhau,	526
+b'a	527
+ky	528
+b'a ky	529
+ky chum	530
+moi lai	531
+cat	532
+da	533
+xuong,	534
+cat da	535
+da chum	536
+dau xuong,	537
+thien	538
+mui,	539
+nhan	540
+thien nhu	541
+chum mui,	542
+mui, nhan	543
+to nhu	544
+nuoc	545
+lon.'	546
+co mot	547
+chum nuoc	548
+nuoc lon.'	549
+nay vao	550
+vao chum	551
+nuoc roi	552
+rua	553
+nuoc trong	554
+chum ra	555
+ra rua	556
+hung,	557
+di	558
+hung, cuoi	559
+chim di	560
+chuyen	561
+chuyen dong	562
+dong chum	563
+lai, thi	564
+dinh	565
+nui	566
+linh	567
+dinh nui	568
+nui chum	569
+lai, linh	570
+chim nhin	571

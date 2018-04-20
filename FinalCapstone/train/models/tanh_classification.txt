@@ -1,0 +1,9 @@
+             precision    recall  f1-score   support
+
+       tánh       0.92      0.98      0.95        56
+       tanh       0.90      0.98      0.93        81
+       tạnh       0.83      0.36      0.50        14
+       tành       0.89      0.89      0.89         9
+       Tánh       0.00      0.00      0.00         3
+
+avg / total       0.88      0.90      0.88       163
