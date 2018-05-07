@@ -1,7 +1,7 @@
              precision    recall  f1-score   support
 
-        lút       0.95      1.00      0.98        60
-        lụt       1.00      0.33      0.50         3
+        lút       0.94      1.00      0.97        60
+        lụt       0.00      0.00      0.00         3
         Lụt       0.00      0.00      0.00         1
 
-avg / total       0.94      0.95      0.94        64
+avg / total       0.88      0.94      0.91        64

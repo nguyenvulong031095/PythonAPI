@@ -1,0 +1,973 @@
+cua	1
+tong	2
+phiet	3
+o	4
+linh	5
+cua tong	6
+tong phiet	7
+phiet o	8
+o linh	9
+L	10
+LLLL	11
+LLLLL	12
+LLL	13
+LL	14
+got	15
+quy	16
+phuc	17
+got tong	18
+phiet quy	19
+quy phuc	20
+doc	21
+co	22
+va	23
+vuong	24
+doc co	25
+co phiet	26
+phiet va	27
+va vuong	28
+lac	29
+o lac	30
+dung	31
+gac,	32
+phiet dung	33
+dung gac,	34
+LLLO	35
+de	36
+mon	37
+moi	38
+xuat	39
+de mon	40
+mon phiet	41
+phiet moi	42
+moi xuat	43
+sau	44
+dung sau	45
+b'doc	46
+dang	47
+choi	48
+b'doc co	49
+phiet dang	50
+dang choi	51
+LOLLL	52
+phong	53
+toa	54
+phiet phong	55
+phong toa	56
+se	57
+lien	58
+phiet se	59
+se lien	60
+ly	61
+da	62
+ngoi	63
+cua ly	64
+ly phiet	65
+phiet da	66
+da ngoi	67
+dai	68
+phai	69
+ma	70
+dai phai	71
+phai phiet	72
+phiet cua	73
+cua ma	74
+duong	75
+kim	76
+chu	77
+vu	78
+duong kim	79
+kim phiet	80
+phiet chu	81
+chu vu	82
+duoi	83
+phiet ngoi	84
+ngoi duoi	85
+la	86
+phiet la	87
+la tong	88
+dong	89
+phiet co	90
+co dong	91
+tu	92
+tren	93
+phiet tu	94
+tu tren	95
+dau	96
+can	97
+phiet dau	98
+dau can	99
+trong	100
+khi	101
+phiet trong	102
+trong khi	103
+van	104
+rat	105
+phiet van	106
+van rat	107
+nha	108
+han	109
+phiet nha	110
+nha han	111
+ngay:	112
+\xe2\x80\x9ctong	113
+ta	114
+ngay: \xe2\x80\x9ctong	115
+\xe2\x80\x9ctong phiet	116
+cua ta	117
+LLLLO	118
+OLLNOLNNOLNLLLLL	119
+LO	120
+OL	121
+gi,	122
+la gi,	123
+gi, phiet	124
+chu co	125
+LLO	126
+nao	127
+nghi	128
+muon	129
+nao nghi	130
+nghi phiet	131
+chu muon	132
+tinh	133
+chu?	134
+noi	135
+tinh chu?	136
+chu? phiet	137
+chu noi	138
+noi:	139
+-	140
+noi: -	141
+- phiet	142
+chu van	143
+O	144
+deu	145
+do	146
+ngai	147
+deu do	148
+do phiet	149
+chu ngai	150
+khong	151
+tin	152
+khong tin	153
+tin phiet	154
+sot	155
+gi	156
+cung	157
+sot gi	158
+gi phiet	159
+chu cung	160
+chi	161
+chi do	162
+b'neu	163
+b'neu phiet	164
+coi	165
+chu coi	166
+toan	167
+xem	168
+toan xem	169
+xem phiet	170
+chu da	171
+xin	172
+phien	173
+chuyen	174
+xin phien	175
+phien phiet	176
+chu chuyen	177
+LLLLLL	178
+chua	179
+chinh	180
+va ly	181
+phiet chua	182
+chua chinh	183
+do,	184
+quan	185
+do, ly	186
+o quan	187
+buc	188
+khon	189
+thu	190
+buc ly	191
+phiet khon	192
+khon thu	193
+noi ly	194
+phiet cung	195
+cung co	196
+nhieu	197
+doi	198
+vu van	199
+van phiet	200
+phiet nhieu	201
+nhieu doi	202
+the	203
+uc	204
+hiep,	205
+nha the	206
+the phiet	207
+phiet uc	208
+uc hiep,	209
+dich	210
+thuc	211
+mon the	212
+phiet dich	213
+dich thuc	214
+ram	215
+ro	216
+phiet ram	217
+ram ro	218
+danh	219
+dai mon	220
+phiet deu	221
+deu danh	222
+ho	223
+tong.'	224
+la mon	225
+phiet ho	226
+ho tong.'	227
+LLLLOO	228
+phuong	229
+nam,	230
+thien	231
+phuong nam,	232
+nam, phiet	233
+chu thien	234
+noi,	235
+noi, tong	236
+moi thuc	237
+gia	238
+thi	239
+phiet gia	240
+gia thi	241
+thanh,	242
+kho	243
+thanh, ly	244
+se kho	245
+LLLLLO	246
+dot	247
+va dot	248
+hay	249
+khong?"	250
+phiet hay	251
+hay khong?"	252
+LLLLLOO	253
+dua	254
+nguoi	255
+muon tong	256
+phiet dua	257
+dua nguoi	258
+hinh	259
+hinh ly	260
+phiet the	261
+the nao	262
+e	263
+rang	264
+phiet e	265
+e rang	266
+khau	267
+phiet khong?"	268
+khong?" khau	269
+vay!	270
+hai	271
+phiet vay!	272
+vay! hai	273
+voi	274
+hoang	275
+phiet voi	276
+voi hoang	277
+khong?	278
+hay khong?	279
+chu.'	280
+tu dai	281
+dai phiet	282
+phiet chu.'	283
+LLLOO	284
+ca	285
+ca tong	286
+bi	287
+khac	288
+che,	289
+bi tong	290
+phiet khac	291
+khac che,	292
+khac,	293
+tuyet	294
+khac, tong	295
+phiet tuyet	296
+tuyet doi	297
+ra,	298
+te	299
+nhien	300
+ra, ly	301
+phiet te	302
+te nhien	303
+se khong	304
+giao	305
+cho	306
+ma ly	307
+phiet giao	308
+giao cho	309
+khien	310
+tram	311
+khien tong	312
+cung tram	313
+ha?\xe2\x80\x9d	314
+phiet ha?\xe2\x80\x9d	315
+ha?\xe2\x80\x9d khau	316
+LLOOLLNOLNNOLNL	317
+phiet ta	318
+ta cung	319
+phiet phiet	320
+nam	321
+phiet nam	322
+nam o	323
+nhat	324
+chu,	325
+la nhat	326
+nhat phiet	327
+phiet chi	328
+chi chu,	329
+"doc	330
+"doc co	331
+dang nam	332
+OLLL	333
+deu co	334
+tranh	335
+phiet tranh	336
+tranh dau	337
+phiet khong	338
+khong nhieu	339
+vua	340
+phiet vua	341
+vua quy	342
+voi ly	343
+truoc	344
+tiet	345
+phiet truoc	346
+truoc tiet	347
+den	348
+ban	349
+phiet den	350
+den ban	351
+voi tong	352
+la ly	353
+cua mon	354
+deu da	355
+"neu	356
+"neu ly	357
+phiet do	358
+do ly	359
+chet	360
+va tong	361
+phiet chet	362
+chet tu	363
+roi,	364
+phiet roi,	365
+roi, dai	366
+deu cho	367
+cho ly	368
+truoc sau	369
+tai	370
+thanh	371
+tai ly	372
+phiet thanh	373
+thanh the	374
+vi	375
+vi ly	376
+den dua	377
+hanh	378
+den hanh	379
+tuy	380
+- ly	381
+phiet tuy	382
+tuy khong	383
+di	384
+di ly	385
+cua hoang	386
+giup	387
+lay	388
+duoc	389
+giup ly	390
+phiet lay	391
+lay duoc	392
+so	393
+phiet vu	394
+vu so	395
+ca.'	396
+phiet ca.'	397
+LLOO	398
+chong	399
+lung	400
+phiet chong	401
+chong lung	402
+xa	403
+phiet di	404
+di xa	405
+phi	406
+nhi	407
+phu	408
+ta.'	409
+phi nhi	410
+nhi phiet	411
+phiet phu	412
+phu ta.'	413
+nhung	414
+nhung ly	415
+phiet can	416
+can co	417
+nhu	418
+mon dai	419
+phiet nhu	420
+nhu tong	421
+va tuy	422
+lam	423
+phiet lam	424
+lam noi	425
+va duong	426
+biet	427
+phiet biet	428
+biet duoc	429
+nay	430
+phiet nay	431
+nay co	432
+lan	433
+nay.'	434
+phiet lan	435
+lan nay.'	436
+con	437
+phiet con	438
+con phong	439
+co bi	440
+hon	441
+phiet bi	442
+bi hon	443
+khoi	444
+binh	445
+duoc ly	446
+phiet khoi	447
+khoi binh	448
+nu	449
+nu cua	450
+cua phiet	451
+mat	452
+nang,	453
+mat tong	454
+cua nang,	455
+dap	456
+ung	457
+phiet dap	458
+dap ung	459
+ho,	460
+co tong	461
+phiet ung	462
+ung ho,	463
+vao	464
+nang	465
+vao tong	466
+cua nang	467
+y	468
+cua y	469
+trong tu	470
+kim,	471
+dai the	472
+phiet duong	473
+duong kim,	474
+gia la	475
+la phiet	476
+dien	477
+doan	478
+dien mon	479
+phiet lung	480
+lung doan	481
+van chua	482
+chan	483
+phiet danh	484
+danh chan	485
+thuoc	486
+thi mon	487
+la thuoc	488
+nua	489
+hung	490
+cu	491
+nua tu	492
+tu phiet	493
+phiet hung	494
+hung cu	495
+phiet tong	496
+tong thi	497
+b'tong	498
+hien	499
+b'tong phiet	500
+phiet hien	501
+hien dang	502
+LOLLLL	503
+la doc	504
+bon	505
+thu tu	506
+va bon	507
+gap	508
+se gap	509
+gap phiet	510
+chu ly	511
+uyen	512
+phiet ly	513
+ly uyen	514
+dat	515
+cung dat	516
+thuong	517
+van thuong	518
+thuong phiet	519
+chu cua	520
+huynh	521
+co mon	522
+nhu huynh	523
+nham	524
+phiet nham	525
+nham doi	526
+hoac	527
+phiet hoac	528
+hoac vu	529
+phai,	530
+song	531
+phiet phai,	532
+phai, song	533
+nao ly	534
+co co	535
+"ly	536
+ba	537
+noi: "ly	538
+"ly phiet	539
+co ba	540
+OLL	541
+mon,	542
+la the	543
+danh mon,	544
+phiet de	545
+de nhat	546
+mot:	547
+gio	548
+mot: "ly	549
+hien gio	550
+neu	551
+neu ly	552
+con chua	553
+luc	554
+tan	555
+cong	556
+luc ly	557
+phiet tan	558
+tan cong	559
+trong ly	560
+phiet chinh	561
+chinh la	562
+von	563
+phiet von	564
+von la	565
+thoi	566
+don	567
+thoi ly	568
+dang don	569
+ha	570
+bon ly	571
+phiet thuoc	572
+thuoc ha	573
+phiet tai	574
+tai nam	575
+bat	576
+nghi la	577
+chu bat	578
+bai	579
+kien	580
+chu!	581
+mot	582
+bai kien	583
+kien phiet	584
+phiet chu!	585
+chu! mot	586
+con ly	587
+phiet thi	588
+thi luc	589
+tang	590
+se tang	591
+ha,	592
+ha, ly	593
+cung phai	594
+hung,	595
+thai	596
+hung, ly	597
+o thai	598
+dung la	599
+nay,	600
+phiet sau	601
+sau nay,	602
+khong biet	603
+than	604
+phiet ban	605
+ban than	606
+tiem	607
+bi tiem	608
+chiem	609
+phiet chiem	610
+chiem duoc	611
+may,	612
+lai	613
+may, ly	614
+phiet lai	615
+lai nhieu	616
+tieng	617
+dang tieng	618
+khong phai	619
+dao,	620
+chinh dao,	621
+hoi:	622
+-vay	623
+lao	624
+hoi: -vay	625
+-vay phiet	626
+chu lao	627
+phiet nay.'	628
+lat	629
+phiet vi	630
+vi lat	631
+phiet ma	632
+ma da	633
+nha nguoi	634
+ho la	635
+bai,	636
+tro	637
+bai, ly	638
+se tro	639
+phia	640
+choi ly	641
+o phia	642
+phiet toan	643
+toan luc	644
+cuu	645
+cua cuu	646
+roi	647
+phiet roi	648
+roi khong?"	649
+cua han	650
+dang nhu	651
+nhu phiet	652
+chu tu	653
+kia,	654
+luc phai	655
+phiet kia,	656
+kia, neu	657
+cac	658
+nho	659
+truong	660
+cac phai	661
+phiet nho	662
+nho truong	663
+ngoc	664
+kia, ngoc	665
+khac trong	666
+nhap	667
+tuy,	668
+nhap ly	669
+thi tuy,	670
+chi co	671
+phiet khong?	672
+khong? co	673
+deu dung	674
+chi sau	675
+sau phiet	676
+chu tong	677
+ga	678
+la quy	679
+quy phiet	680
+chu ga	681
+thu tong	682
+tu dau	683
+bo	684
+qua	685
+neu tong	686
+phiet bo	687
+bo qua	688
+phia tong	689
+deu dong	690
+vo	691
+lai vo	692
+b'luong	693
+tuong	694
+tranh.'	695
+b'luong phiet	696
+phiet tuong	697
+tuong tranh.'	698
+LOLLLLL	699
+va vu	700
+lai dau	701
+la nguoi	702
+dung,	703
+moi dung,	704
+chiem the	705
+biet ro	706
+de khong	707
+co nhung	708
+nhi tu	709
+chu doc	710
+thi co	711
+am	712
+sat	713
+phiet am	714
+am sat	715
+va doc	716
+thong	717
+han,	718
+phiet thong	719
+thong han,	720
+moi la	721
+tot	722
+khong tot	723
+du	724
+roi, du	725
+chu!.'	726
+cua nhat	727
+chi chu!.'	728
+LLLOOO	729
+sinh	730
+sinh nhat	731
+chi chu.'	732
+the nhat	733
+dan,	734
+dan, ly	735
+lai khong	736
+yeu	737
+cung yeu	738
+bon tong	739
+lai tro	740
+li	741
+bay	742
+cua li	743
+li phiet	744
+phiet bay	745
+bay gio	746
+co duoc	747
+dang o	748
+ngoai	749
+tru	750
+phiet ngoai	751
+ngoai tru	752
+tru phiet	753
+rong	754
+len	755
+phiet rong	756
+rong len	757
+nen	758
+luc quan	759
+quan phiet	760
+phiet nen	761
+nen nho	762
+tuong quan	763
+trung,	764
+lap	765
+trung, ly	766
+se lap	767
+chung	768
+chung ly	769
+cang	770
+lai cang	771
+tron	772
+da tron	773
+co quan	774
+truoc mat	775
+ha, xin	776
+xin phiet	777
+chu chi	778
+chu qua	779
+ki	780
+ki cua	781
+phiet chu,	782
+chu, moi	783
+doi voi	784
+voi phiet	785
+chu thi	786
+the cua	787
+chu, nhung	788
+ngay	789
+the ly	790
+moi ngay	791
+thieu	792
+phiet chu?	793
+chu? thieu	794
+phiet lien	795
+lien thu	796
+co the	797
+ma co	798
+lung,	799
+chong lung,	800
+kiem	801
+kiem ly	802
+chi chu	803
+phia ly	804
+va dong	805
+thi con	806
+tu ly	807
+nghe	808
+da nghe	809
+la vu	810
+tra	811
+phiet tra	812
+tra tron	813
+vay?	814
+den vay?	815
+kip	816
+kip ca	817
+ca phiet	818
+da dong	819
+va song	820
+phiet luc	821
+luc nay	822
+,	823
+doi the	824
+phiet ,	825
+, noi	826
+chu, doc	827
+nay thi	828
+phiet han	829
+han khong	830
+phiet muon	831
+muon tan	832
+dau,	833
+dau, ly	834
+dua cac	835
+duoc,	836
+phiet duoc,	837
+duoc, noi	838
+cung ly	839
+cung la	840
+phai, phai	841
+co thuc	842
+biet,	843
+manh	844
+biet, mon	845
+hung manh	846
+ba dai	847
+phiet phai	848
+phai lan	849
+phai lai	850
+cho quy	851
+co mot	852
+se co	853
+thi cung	854
+va nguoi	855
+biet chan	856
+chap	857
+phiet bat	858
+bat chap	859
+nen moi	860
+hop	861
+tac	862
+phiet hop	863
+hop tac	864
+nao?"	865
+hoi: "ly	866
+the nao?"	867
+luan	868
+chu, luan	869
+tiep:	870
+"tam	871
+tiep: "tam	872
+"tam phiet	873
+con lai	874
+ve	875
+luc tong	876
+phiet thien	877
+thien ve	878
+va hoang	879
+nhan	880
+phiet nhan	881
+nhan tai	882
+tuc	883
+phiet lap	884
+lap tuc	885
+hom	886
+phiet hom	887
+hom nay	888
+giang	889
+o giang	890
+chong do	891
+cuoi	892
+phiet cuoi	893
+cuoi cung	894
+thay	895
+thay ly	896
+khong xem	897
+duong ly	898
+se cung	899
+lon	900
+ba mon	901
+phiet lon	902
+lon cua	903
+tri	904
+chu tri	905
+chau	906
+chau tu	907
+phiet ra,	908
+ra, cac	909
+mot phai	910
+cua thanh	911
+nay moi	912
+chang	913
+nen chang	914
+vayj,	915
+nhu vayj,	916
+tien	917
+nhu ly	918
+phiet tien	919
+tien co	920
+trong ma	921
+ngo	922
+vuc	923
+chuyen tong	924
+phiet ngo	925
+ngo vuc	926
+hon.'	927
+phiet hon.'	928
+to	929
+phiet chung	930
+chung to	931
+o truong	932
+se mat	933
+van con	934
+lai co	935
+sao	936
+lam sao	937
+tam	938
+cung tam	939
+tam phiet	940
+phiet qua	941
+qua nhien	942
+da du	943
+co lien	944
+vong,	945
+het	946
+vong, ly	947
+chiem het	948
+ket	949
+tien ly	950
+lien ket	951
+dau\xe2\x80\x9d.'	952
+phiet dau\xe2\x80\x9d.'	953
+LLLOLLNOLNNOLNLOO	954
+phiet tang	955
+tang len	956
+ra, con	957
+phiet so	958
+so rang	959
+nghi nhi	960
+ma khong	961
+roi con	962
+chua?	963
+phiet chua?	964
+chua? phiet	965
+phiet duoc	966
+duoc duong	967
+nay vua	968
+lai,	969
+ba the	970
+con lai,	971
+thi ly	972
+la dang	973

@@ -1,0 +1,839 @@
+tren	1
+vung	2
+heo	3
+lanh	4
+van	5
+tren vung	6
+vung heo	7
+heo lanh	8
+lanh van	9
+LLLL	10
+LLL	11
+LL	12
+hoang	13
+luong	14
+lanh.'	15
+hoang luong	16
+luong heo	17
+heo lanh.'	18
+LLLLL	19
+LLLLOO	20
+hai	21
+con	22
+chet	23
+den	24
+hai con	25
+con heo	26
+heo chet	27
+chet den	28
+do	29
+khong	30
+heo do	31
+do khong	32
+vao	33
+bung	34
+la	35
+vao bung	36
+bung heo	37
+heo con	38
+con la	39
+mau	40
+cho	41
+la mau	42
+mau heo	43
+heo mau	44
+mau cho	45
+can	46
+phong	47
+hat	48
+anh	49
+can phong	50
+phong heo	51
+heo hat	52
+hat anh	53
+sang	54
+nhu	55
+anh sang	56
+sang heo	57
+hat nhu	58
+mot	59
+den.'	60
+mot con	61
+heo den.'	62
+LLLOO	63
+b'con	64
+bua	65
+nay	66
+b'con heo	67
+heo bua	68
+bua nay	69
+LOLLL	70
+cong	71
+dac	72
+biet	73
+cong con	74
+heo dac	75
+dac biet	76
+song,	77
+con song,	78
+LLLLO	79
+an	80
+thit	81
+"hoa	82
+dieu	83
+an thit	84
+thit heo	85
+heo "hoa	86
+"hoa dieu	87
+OLLL	88
+LO	89
+OL	90
+nang	91
+thuong	92
+duoc.'	93
+nang nhu	94
+nhu heo	95
+heo thuong	96
+thuong duoc.'	97
+LLLLLL	98
+dung	99
+de	100
+dung con	101
+chet de	102
+dem	103
+mo	104
+roi	105
+dem con	106
+heo mo	107
+mo roi	108
+song	109
+heo song	110
+song cho	111
+cua	112
+cua con	113
+vu	114
+ha	115
+hoang vu	116
+vu heo	117
+lanh ha	118
+vot	119
+kho	120
+vot kho	121
+kho heo	122
+heo nay	123
+nay cua	124
+than	125
+xac	126
+mon	127
+than xac	128
+xac heo	129
+heo mon	130
+mon cua	131
+gi	132
+chuong	133
+bo	134
+gi chuong	135
+chuong heo	136
+heo chuong	137
+chuong bo	138
+ngu	139
+luon,	140
+ai	141
+ngu nhu	142
+heo luon,	143
+luon, ai	144
+goc	145
+mot goc	146
+goc heo	147
+lanh cua	148
+lang	149
+nho	150
+lanh,	151
+noi	152
+lang nho	153
+nho heo	154
+heo lanh,	155
+lanh, noi	156
+moi	157
+lanh moi	158
+co	159
+mot noi	160
+noi heo	161
+lanh, co	162
+nay?"	163
+den noi	164
+lanh nay?"	165
+tay	166
+xoa	167
+tay kho	168
+heo xoa	169
+xoa xoa	170
+dat	171
+troi	172
+hat,	173
+trong	174
+dat troi	175
+troi heo	176
+heo hat,	177
+hat, trong	178
+LLLO	179
+mim	180
+cuoi	181
+noi:	182
+mim cuoi	183
+cuoi heo	184
+hat, noi:	185
+nau	186
+voi	187
+rau.'	188
+nau thit	189
+heo voi	190
+voi rau.'	191
+nhieu	192
+,	193
+tieu	194
+nhieu thit	195
+heo ,	196
+, tieu	197
+O	198
+bao,	199
+giua	200
+rung	201
+va	202
+bao, giua	203
+giua heo	204
+heo rung	205
+rung va	206
+thu	207
+dau	208
+gau	209
+thu than	210
+than heo	211
+heo dau	212
+dau gau	213
+danh,	214
+so	215
+map;	216
+noi danh,	217
+danh, heo	218
+heo so	219
+so map;	220
+xom	221
+nui	222
+hut	223
+yen	224
+xom nui	225
+nui heo	226
+heo hut	227
+hut yen	228
+tru,	229
+trao	230
+ra,	231
+tru, mo	232
+mo heo	233
+heo trao	234
+trao ra,	235
+LLO	236
+cai	237
+map,	238
+nhung	239
+cai dau	240
+dau heo	241
+heo map,	242
+map, nhung	243
+doi	244
+doi moi	245
+moi heo	246
+hat cua	247
+o	248
+xa	249
+o noi	250
+lanh xa	251
+L	252
+toi	253
+toi cho	254
+cho heo	255
+lanh an	256
+rat	257
+noi rat	258
+rat heo	259
+lanh de	260
+keu	261
+bi	262
+choc	263
+keu nhu	264
+heo bi	265
+bi choc	266
+he	267
+ua.'	268
+khong he	269
+he heo	270
+heo ua.'	271
+LLOO	272
+thay	273
+map	274
+ve	275
+thay con	276
+heo map	277
+map ve	278
+cap	279
+"gio	280
+"	281
+cap "gio	282
+"gio heo	283
+heo "	284
+" nay	285
+chet!"	286
+heo chet!"	287
+chet!" noi	288
+gia	289
+di.'	290
+moi gia	291
+gia heo	292
+heo di.'	293
+nhanh	294
+chong	295
+quat	296
+lai,	297
+nhanh chong	298
+chong heo	299
+heo quat	300
+quat lai,	301
+, mot	302
+nguoi	303
+gay	304
+nguoi mot	305
+mot heo	306
+hat gay	307
+rung ,	308
+to	309
+voi thu	310
+thu heo	311
+rung to	312
+rung,neu	313
+la con	314
+heo rung,neu	315
+rung,neu den	316
+LLLLOLLL	317
+le	318
+loi,	319
+phat	320
+le loi,	321
+loi, heo	322
+hat phat	323
+ngua	324
+bo,	325
+ca.'	326
+ngua bo,	327
+bo, heo	328
+heo gi	329
+gi ca.'	330
+que	331
+vung que	332
+que heo	333
+lanh, mot	334
+son	335
+coc	336
+lanh."	337
+\xc3\xb0ao	338
+son coc	339
+coc heo	340
+heo lanh."	341
+lanh." \xc3\xb0ao	342
+OLLNOLLNLL	343
+lung	344
+cai.'	345
+lung con	346
+heo mot	347
+mot cai.'	348
+cat	349
+thit cat	350
+cat heo	351
+heo nhu	352
+nhu cat	353
+truoc	354
+truoc con	355
+heo roi	356
+roi noi:	357
+lau	358
+bung con	359
+heo va	360
+va lau	361
+khac	362
+vua	363
+khac con	364
+heo vua	365
+vua map	366
+quay	367
+la thit	368
+heo quay	369
+quay con	370
+chuyen	371
+lay	372
+lam	373
+vo,	374
+chuyen lay	375
+lay heo	376
+heo lam	377
+lam vo,	378
+dua	379
+trong bung	380
+heo de	381
+de dua	382
+b'ngon	383
+gio	384
+vi	385
+vut	386
+b'ngon gio	387
+gio heo	388
+heo vi	389
+vi vut	390
+LOLLLL	391
+be	392
+nho be	393
+be heo	394
+lanh nhu	395
+cho de	396
+de heo	397
+heo den	398
+den vi	399
+thoi	400
+tha",	401
+heo thoi	402
+thoi tha",	403
+mat	404
+nuong	405
+da	406
+mat con	407
+heo nuong	408
+nuong da	409
+nam	410
+con nam	411
+het	412
+nuong.'	413
+het con	414
+heo nuong.'	415
+LLLLLOO	416
+nua	417
+cach	418
+nua con	419
+mot cach	420
+phan	421
+phan thit	422
+heo to	423
+to da	424
+ngon	425
+deo	426
+hat.'	427
+ngon deo	428
+deo heo	429
+heo hat.'	430
+te	431
+giet	432
+te giet	433
+giet heo	434
+mo bo,	435
+hoang son	436
+son heo	437
+hay	438
+la mo	439
+heo hay	440
+hay mo	441
+cho,	442
+ong	443
+ngua bo	444
+bo heo	445
+heo cho,	446
+cho, ong	447
+cung	448
+roi.'	449
+cung kho	450
+rung roi.'	451
+can thit	452
+heo kho	453
+kho co	454
+heo la	455
+la nguoi	456
+kho cung	457
+thach	458
+that	459
+thach that	460
+that heo	461
+lanh khong	462
+phai	463
+tich	464
+phai rat	465
+lanh tich	466
+nhin	467
+ua	468
+vang,	469
+nhin kho	470
+heo ua	471
+ua vang,	472
+dot	473
+nhien	474
+ru	475
+xuong	476
+dot nhien	477
+nhien heo	478
+heo ru	479
+ru xuong	480
+thet	481
+de thet	482
+nay,	483
+lanh nay,	484
+ba	485
+ba son	486
+lanh tren	487
+khieng	488
+di	489
+heo khieng	490
+khieng di	491
+vang	492
+lanh vang	493
+hon,	494
+tren dau	495
+heo hon,	496
+hon, than	497
+xoi	498
+xa xoi	499
+xoi heo	500
+tung	501
+tung nhin	502
+nhin heo	503
+de ,	504
+thon	505
+ngheo	506
+thon que	507
+lanh ngheo	508
+-	509
+tha	510
+- con	511
+thoi tha	512
+thay kho	513
+nhu nguoi	514
+tuot	515
+tuot xa	516
+xa heo	517
+lanh, khong	518
+thanh	519
+van,	520
+_mapyeu,	521
+haklynjp,	522
+thanh van,	523
+van, heo	524
+heo _mapyeu,	525
+_mapyeu, haklynjp,	526
+LLLLLLLLO	527
+OLLLLLLO	528
+vo	529
+do kho	530
+heo vo	531
+vo vang	532
+lanh!	533
+heo lanh!	534
+lanh! hai	535
+may	536
+may con	537
+heo thit	538
+thit dua	539
+nhien thit	540
+heo cua	541
+cua tieu	542
+cap thit	543
+heo vao	544
+vao cung	545
+xin	546
+nua mo	547
+roi xin	548
+giong	549
+tot,	550
+mot giong	551
+giong heo	552
+heo that	553
+that tot,	554
+nuoi	555
+vay?	556
+cach nuoi	557
+nuoi heo	558
+nhu vay?	559
+duoc	560
+duoc con	561
+map ha	562
+!	563
+ky	564
+! con	565
+heo ky	566
+ky di	567
+thu thit	568
+nay nuoi	569
+beo	570
+that beo	571
+vao trong	572
+nhan	573
+nhui	574
+heo nhan	575
+nhan nhui	576
+khieng con	577
+vao phong	578
+tu	579
+tru	580
+tu khieng	581
+khieng heo	582
+den tru	583
+lat	584
+len	585
+thi	586
+lat con	587
+heo len	588
+len thi	589
+tat	590
+heo nay,	591
+nay, tat	592
+mieng	593
+ra.'	594
+mieng da	595
+da heo	596
+heo ra.'	597
+o bung	598
+heo dua	599
+dua toi	600
+tanh	601
+hoi	602
+bo, mau	603
+heo tanh	604
+tanh hoi	605
+cay	606
+kinh	607
+cay kho	608
+heo da	609
+da kinh	610
+rut	611
+tan	612
+co rut	613
+rut heo	614
+heo tan	615
+tan khong	616
+dut	617
+lo,	618
+dut lo,	619
+lo, heo	620
+quay de	621
+den con	622
+heo ngon	623
+ngon lanh,	624
+lai	625
+cai,	626
+lai dem	627
+dem heo	628
+heo cai,	629
+cai, vua	630
+lon	631
+nhung con	632
+vua lon	633
+uon	634
+heo uon	635
+uon nay	636
+ve lay	637
+heo khac	638
+khac ngon	639
+ta	640
+se	641
+ta can	642
+can heo	643
+heo se	644
+se cho	645
+lanh, nhung	646
+mong	647
+hoac	648
+mong co	649
+co heo	650
+rung hoac	651
+gan	652
+tim	653
+heo,	654
+giong gan	655
+gan heo	656
+heo tim	657
+tim heo,	658
+hieu	659
+hieu con	660
+map nay	661
+dinh	662
+dinh con	663
+heo cai	664
+cai nay	665
+map thu	666
+ru nhu	667
+hut,	668
+bang	669
+hoang vang	670
+vang heo	671
+heo hut,	672
+hut, bang	673
+hon	674
+heo lon	675
+lon hon	676
+ra	677
+khoi	678
+- dem	679
+heo ra	680
+ra khoi	681
+quanh	682
+lanh quanh	683
+duong	684
+quat,	685
+han	686
+duong da	687
+heo quat,	688
+quat, han	689
+tan noi	690
+hut nay	691
+dang	692
+tiet	693
+may\xe2\x80\xa6	694
+tomek	695
+dang tiet	696
+tiet heo	697
+heo may\xe2\x80\xa6	698
+may\xe2\x80\xa6 tomek	699
+LLLOLLNOLNNOLLN	700
+b'nhin	701
+long	702
+b'nhin con	703
+hat, long	704
+cuc	705
+cuc ky	706
+ky heo	707
+lanh thi	708
+ma	709
+duong nho	710
+lanh ma	711
+thit than	712
+heo lai	713
+lai nhu	714
+vi gan	715
+voi gan	716
+chon	717
+den chon	718
+chon heo	719
+dia	720
+dia gio	721
+heo lay	722
+lay tay	723
+an gio	724
+heo roi.'	725
+tien	726
+heo tien	727
+tien vao	728
+b'\xe2\x80\x9ccon	729
+dien!	730
+danh	731
+b'\xe2\x80\x9ccon heo	732
+heo dien!	733
+dien! danh	734
+LOOLLNOLNNOLNLLLL	735
+nai	736
+hon con	737
+heo nai	738
+nai do	739
+map lang	740
+b'\xe2\x80\x9cdo	741
+giam!	742
+b'\xe2\x80\x9cdo con	743
+chet giam!	744
+LOOLLNOLNNOLNLLL	745
+ua,	746
+bo bi	747
+bi heo	748
+heo ua,	749
+ua, duong	750
+vu,	751
+hoang vu,	752
+vu, heo	753
+lanh thanh	754
+dao	755
+dao mo	756
+heo cung	757
+cung khong	758
+muc,	759
+nhu muc,	760
+muc, heo	761
+hat lanh	762
+ngoai	763
+du	764
+ngoai dao	765
+dao heo	766
+lanh du	767
+day	768
+o day	769
+day heo	770
+oc	771
+tieu oc	772
+oc heo	773
+lanh dung	774
+bien	775
+cuong	776
+kien	777
+bien cuong	778
+cuong heo	779
+lanh, kien	780
+chau	781
+huyen	782
+mien	783
+chau huyen	784
+huyen heo	785
+lanh mien	786
+phuong	787
+dia phuong	788
+phuong heo	789
+lanh o	790
+phai cung	791
+cung heo	792
+heo ta	793
+ta troi	794
+tram	795
+hoa	796
+tram hoa	797
+hoa heo	798
+tan nhan	799
+minh	800
+rung,	801
+nhu minh	802
+minh heo	803
+heo rung,	804
+rung, dau	805
+sanh	806
+sanh duong	807
+duong heo	808
+map nhu	809
+quay !	810
+nao	811
+noi nao	812
+nao heo	813
+lanh lang	814
+buon	815
+sao?"	816
+khau	817
+ma buon	818
+buon heo	819
+heo sao?"	820
+sao?" khau	821
+la chuong	822
+chuong bo,	823
+nhay	824
+phoc,	825
+nhay phoc,	826
+phoc, heo	827
+vao mat	828
+mua	829
+thon lang	830
+lang heo	831
+lanh, mua	832
+dong	833
+lanh, dong	834
+khong nguoi	835
+nguoi heo	836
+vung nui	837
+lanh gan	838
+nhung duong	839

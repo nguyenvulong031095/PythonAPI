@@ -1,0 +1,726 @@
+con	1
+khong	2
+xeo	3
+len	4
+day	5
+con khong	6
+khong xeo	7
+xeo len	8
+len day	9
+LLLLL	10
+LLL	11
+LL	12
+ta	13
+se	14
+tai	15
+nguoi	16
+ta se	17
+se xeo	18
+xeo tai	19
+tai nguoi	20
+soai	21
+xui	22
+roi.'	23
+soai xui	24
+xui xeo	25
+xeo roi.'	26
+LLLL	27
+LLLOO	28
+thien	29
+tung	30
+u?	31
+lenh	32
+thien tung	33
+tung xeo	34
+xeo u?	35
+u? lenh	36
+LO	37
+tien	38
+ban	39
+khong.'	40
+tien ban	41
+ban xeo	42
+len khong.'	43
+LLLLLOO	44
+vat	45
+mem	46
+la	47
+tam	48
+vat mem	49
+mem xeo	50
+xeo la	51
+la tam	52
+chan	53
+chang	54
+phai	55
+hon	56
+chan chang	57
+chang xeo	58
+xeo phai	59
+phai hon	60
+minh	61
+buoc	62
+toi,	63
+song	64
+minh buoc	65
+buoc xeo	66
+xeo toi,	67
+toi, song	68
+LLLO	69
+do,	70
+chem	71
+vao	72
+thanh	73
+do, chem	74
+chem xeo	75
+xeo vao	76
+vao thanh	77
+LLO	78
+nhiet	79
+xeo,	80
+roi	81
+song nhiet	82
+nhiet xeo	83
+xeo xeo,	84
+xeo, roi	85
+mo,	86
+huong	87
+tren,	88
+mo, huong	89
+huong xeo	90
+len tren,	91
+LLLLO	92
+ca	93
+cut	94
+ra	95
+cho	96
+ca cut	97
+cut xeo	98
+xeo ra	99
+ra cho	100
+trai	101
+dam	102
+len,	103
+nham	104
+trai dam	105
+dam xeo	106
+xeo len,	107
+len, nham	108
+hoan	109
+liec	110
+lao,	111
+nguyt	112
+hoan liec	113
+liec xeo	114
+xeo lao,	115
+lao, nguyt	116
+ma	117
+giay	118
+nhau	119
+ma giay	120
+giay xeo	121
+len nhau	122
+nguoi.'	123
+phai tung	124
+xeo nguoi.'	125
+di	126
+ben	127
+trung	128
+di ben	129
+ben xeo	130
+xeo trung	131
+trung len	132
+chay	133
+tat	134
+qua	135
+roi chay	136
+chay xeo	137
+xeo tat	138
+tat qua	139
+chat	140
+nghieng	141
+ve	142
+truoc,	143
+chat nghieng	144
+nghieng xeo	145
+xeo ve	146
+ve truoc,	147
+LLLLLO	148
+LLLLLLL	149
+xuong	150
+nho	151
+xuong chay	152
+xeo, nho	153
+lam.'	154
+se xui	155
+xeo lam.'	156
+lieu	157
+danh	158
+lai	159
+nhanh	160
+lieu danh	161
+danh xeo	162
+xeo lai	163
+lai nhanh	164
+cua	165
+nang	166
+mieng	167
+cua nang	168
+nang xeo	169
+xeo tung	170
+tung mieng	171
+chua	172
+thit	173
+nuong	174
+do, chua	175
+chua xeo	176
+xeo thit	177
+thit nuong	178
+ra chem	179
+xeo xuong	180
+xuong thanh	181
+bi	182
+hay	183
+sao?	184
+bi xui	185
+xeo hay	186
+hay sao?	187
+chuyen	188
+do	189
+nua!	190
+chuyen xui	191
+xeo do	192
+do nua!	193
+LLLLLL	194
+lan	195
+nhau.'	196
+lan day	197
+day xeo	198
+len nhau.'	199
+LLLLOO	200
+cung	201
+tay	202
+cung chem	203
+xuong tay	204
+xien	205
+xien xien	206
+xien xeo	207
+xeo xeo	208
+xeo di	209
+di toi,	210
+\xc3\xb0at	211
+thi	212
+yen	213
+\xc3\xb0at day	214
+xeo thi	215
+thi yen	216
+OLLNOLLNLL	217
+OL	218
+mot	219
+nhat	220
+giay ra	221
+ra xeo	222
+xeo mot	223
+mot nhat	224
+kiem	225
+toi	226
+de	227
+kiem dam	228
+xeo toi	229
+toi de	230
+nhu	231
+dap:	232
+nhu liec	233
+lao, dap:	234
+mat	235
+lao, mat	236
+chu	237
+cho mem	238
+xeo chu	239
+chu khong	240
+doc,	241
+quet	242
+gat	243
+nghieng,	244
+doc, quet	245
+quet xeo	246
+xeo gat	247
+gat nghieng,	248
+LLLLLLLO	249
+rang	250
+va	251
+luoi	252
+ga	253
+rang va	254
+va xeo	255
+xeo luoi	256
+luoi ga	257
+than	258
+than mem	259
+xeo nhu	260
+nhu nguoi	261
+an	262
+thong	263
+bi day	264
+xeo an	265
+an thong	266
+vien	267
+nam	268
+voi	269
+phu	270
+vien nam	271
+nam xeo	272
+xeo voi	273
+voi phu	274
+ba	275
+len chem	276
+vao ba	277
+b'ta	278
+mi	279
+b'ta phai	280
+phai xeo	281
+xeo mi	282
+mi mot	283
+LOLL	284
+chung	285
+du	286
+chung ga	287
+ga xeo	288
+xeo du	289
+du mot	290
+b'y	291
+muon	292
+b'y muon	293
+muon xeo	294
+xeo ta	295
+ta mot	296
+LOL	297
+ha	298
+tat phai	299
+tai ha	300
+lau	301
+bon	302
+lau xui	303
+xeo cua	304
+cua bon	305
+dich	306
+hay xui	307
+xeo dich	308
+dich thi	309
+da	310
+khet	311
+da chay	312
+xeo, khet	313
+hat	314
+ra,	315
+thanh hat	316
+hat xeo	317
+xeo ra,	318
+ra, chem	319
+lam	320
+chang xui	321
+xeo lam	322
+lam u?	323
+ngay	324
+ngay xui	325
+cua chung	326
+the	327
+lui	328
+cham	329
+the lui	330
+lui xeo	331
+xeo qua	332
+qua cham	333
+phi	334
+phi than	335
+than xeo	336
+xeo huong	337
+huong ve	338
+cao	339
+buoc cao	340
+cao xeo	341
+xeo ca	342
+ca vao	343
+nat	344
+roi,	345
+phi ban	346
+xeo nat	347
+nat roi,	348
+ta!	349
+nguoi cut	350
+xeo cho	351
+cho ta!	352
+hoi	353
+doc	354
+duoi,	355
+hoi doc	356
+doc xeo	357
+xuong duoi,	358
+gio	359
+truoc	360
+kiem gio	361
+gio xeo	362
+ra truoc	363
+long	364
+nhin	365
+sang	366
+long nhin	367
+nhin xeo	368
+xeo sang	369
+sang cho	370
+lien	371
+lien qua	372
+qua xeo	373
+cat	374
+sao?"	375
+ta cat	376
+cat xeo	377
+hay sao?"	378
+han	379
+cai.'	380
+mieng han	381
+han xeo	382
+mot cai.'	383
+bay	384
+nguoi bay	385
+bay xeo	386
+len nhu	387
+ung	388
+thuong,	389
+ung thuong,	390
+thuong, xeo	391
+xeo phi	392
+LLLLLLO	393
+day,	394
+gap	395
+day, cut	396
+di gap	397
+nhung	398
+gao	399
+than xui	400
+xeo nhung	401
+nhung gao	402
+nguc	403
+xeo truoc	404
+truoc nguc	405
+ngoi	406
+chan buoc	407
+lai ngoi	408
+xuong.'	409
+trai chem	410
+xeo xuong.'	411
+hot	412
+len hot	413
+sau,	414
+qua,	415
+chi	416
+sau, nhin	417
+xeo qua,	418
+qua, chi	419
+nen	420
+nen liec	421
+xeo ma	422
+ma khong	423
+cai	424
+ta da	425
+da xeo	426
+xeo cai	427
+cai do	428
+xiu,	429
+xiu, roi	430
+roi xeo	431
+cai vat	432
+-	433
+dap: -	434
+- xeo	435
+O	436
+deu	437
+deu bi	438
+bi xeo	439
+cai do,	440
+den	441
+dut	442
+den cho	443
+cho xeo	444
+xeo dut	445
+dut ha	446
+cat,	447
+cat, lai	448
+lai xeo	449
+trung cho	450
+thu	451
+thu da	452
+dut tam	453
+nay	454
+nguoi xui	455
+xeo nay	456
+nay thi	457
+toi, du	458
+sat:	459
+sat: -	460
+thit bon	461
+lua	462
+xeo.'	463
+lua chay	464
+xeo xeo.'	465
+hang	466
+hang bi	467
+thit la	468
+ni	469
+khac"	470
+muoi	471
+ni khac"	472
+khac" xeo	473
+thit muoi	474
+,	475
+quan	476
+\xc3\xb0at ,	477
+, xeo	478
+len quan	479
+OO	480
+nach	481
+vao nach	482
+dau	483
+xuong dau	484
+nhan	485
+gia	486
+nhan gia	487
+gia xeo	488
+moi	489
+moi nguoi	490
+nguoi xeo	491
+lai ,	492
+mau	493
+mau bay	494
+ve huong	495
+uyen	496
+chia	497
+truong	498
+uyen chia	499
+chia xeo	500
+xeo truong	501
+truong mau	502
+phach	503
+tay chem	504
+len, phach	505
+truy	506
+truy thu	507
+thu xeo	508
+xeo dau	509
+dau luoi	510
+dat,	511
+phong	512
+phia	513
+dat, phong	514
+phong xeo	515
+ve phia	516
+doan,	517
+nhay	518
+len.'	519
+doan, nhay	520
+nhay xeo	521
+xeo len.'	522
+tren	523
+the bay	524
+xeo tren	525
+tren xuong	526
+nam,	527
+nha	528
+phia nam,	529
+nam, xeo	530
+voi nha	531
+co	532
+cam	533
+cay	534
+co cam	535
+cam xeo	536
+mot cay	537
+ngam	538
+tau	539
+thuoc	540
+mieng ngam	541
+ngam xeo	542
+xeo tau	543
+tau thuoc	544
+xuong,	545
+sau	546
+xeo xuong,	547
+xuong, sau	548
+nu,	549
+nhat,	550
+nu, chem	551
+mot nhat,	552
+ngot	553
+ngot dam	554
+toi mot	555
+menh	556
+kiem chem	557
+vao menh	558
+tai,	559
+tai, nhay	560
+len, kiem	561
+ngua	562
+chet	563
+phong ngua	564
+ngua xeo	565
+xeo chet	566
+chet ta	567
+sang phia	568
+bao	569
+bao chay	570
+duoi	571
+theo	572
+duoi theo	573
+theo xeo	574
+y	575
+chan y	576
+y xeo	577
+len trai	578
+L	579
+tuy	580
+duoc	581
+tuy mem	582
+nhung duoc	583
+chet,	584
+xac	585
+bi ngua	586
+xeo chet,	587
+chet, xac	588
+ngan	589
+dao	590
+ngan dao	591
+dao xeo	592
+xeo cat	593
+cat ma	594
+vo	595
+chan giay	596
+cua vo	597
+di."	598
+khau	599
+khong mau	600
+mau xeo	601
+xeo di."	602
+di." khau	603
+LLOO	604
+gia khong	605
+luoi mi	606
+nhat la	607
+la xeo	608
+cai dau	609
+sinh	610
+be,	611
+sinh liec	612
+xeo con	613
+con be,	614
+lac	615
+mat liec	616
+qua lac	617
+phat	618
+toi nhin	619
+qua, phat	620
+lai.'	621
+mat danh	622
+xeo lai.'	623
+ta chem	624
+the chem	625
+xuong, mieng	626
+di.'	627
+di chay	628
+xeo di.'	629
+mui	630
+mui va	631
+rach	632
+kiem ben	633
+xeo rach	634
+rach vao	635
+nguoi se	636
+chet cung	637
+ra.'	638
+kiem phong	639
+xeo ra.'	640
+dui	641
+den roi	642
+thit dui	643
+dang	644
+trong	645
+dang chay	646
+xeo trong	647
+chao,	648
+trong chao,	649
+lot	650
+khong the	651
+the xeo	652
+thit lot	653
+van	654
+ngoc	655
+trong liec	656
+xeo van	657
+van ngoc	658
+dut dau	659
+chung day	660
+xeo ha	661
+ha chang	662
+xoet	663
+cam dao	664
+xeo danh	665
+danh xoet	666
+ha dao	667
+vao nhung	668
+cat mui	669
+mui xeo	670
+tai truoc	671
+b'ho	672
+mui...'	673
+b'ho lai	674
+xeo mui...'	675
+LLLOOOO	676
+noi:	677
+"nguoi	678
+noi: "nguoi	679
+"nguoi xeo	680
+di cho	681
+OLLLLL	682
+tuc	683
+ngoai,	684
+tuc nghieng	685
+ra ngoai,	686
+dai	687
+su,	688
+vong	689
+dai su,	690
+su, xeo	691
+xeo vong	692
+vong ve	693
+lap	694
+ngay,	695
+lap tuc	696
+tuc xeo	697
+xeo ngay,	698
+ngay, nhung	699
+nhau,	700
+nhau, day	701
+keu	702
+nghien	703
+keu xui	704
+xeo roi	705
+roi nghien	706
+xeo ngay	707
+ngay cho	708
+do cam	709
+xeo thanh	710
+thanh truong	711
+do, dam	712
+xuong cay	713
+lien dam	714
+di mot	715
+cuon	716
+!.'	717
+khong cuon	718
+cuon xeo	719
+di !.'	720
+OOO	721
+tay,	722
+hay tay,	723
+tay, xeo	724
+xeo tai,	725
+tai, cat	726

@@ -17,7 +17,7 @@
       <file leaf-file-name="training_Data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/train/training_Data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
+            <state relative-caret-position="1500">
               <caret line="114" column="96" lean-forward="false" selection-start-line="114" selection-start-column="96" selection-end-line="114" selection-end-column="96" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -26,8 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yeu_matrix.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/train/models/yeu_matrix.txt">
+      <file leaf-file-name="api.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="245" column="19" lean-forward="false" selection-start-line="245" selection-start-column="19" selection-end-line="245" selection-end-column="19" />
+              <folding>
+                <element signature="e#93#135#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doi_classification.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train/models/doi_classification.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -36,18 +48,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="b_ngoi_.class_map" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/train/models/b_ngoi_.class_map">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b_a_.class_map" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/train/models/b_a_.class_map">
+      <file leaf-file-name="a_classification.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train/models/a_classification.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -56,51 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="b_aaaaaaa_.class_map" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/train/models/b_aaaaaaa_.class_map">
+      <file leaf-file-name="b'doi'.class_map" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train/models/b'doi'.class_map">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ang_matrix.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/train/models/ang_matrix.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b_ach_.class_map" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/train/models/b_ach_.class_map">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b_toi_.class_map" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/train/models/b_toi_.class_map">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b_toi_.feature_map" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/train/models/b_toi_.feature_map">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12615">
-              <caret line="841" column="14" lean-forward="false" selection-start-line="841" selection-start-column="14" selection-end-line="841" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -112,8 +74,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/config.ini" />
-        <option value="$PROJECT_DIR$/api.py" />
         <option value="$PROJECT_DIR$/train/training_Data.py" />
+        <option value="$PROJECT_DIR$/api.py" />
       </list>
     </option>
   </component>
@@ -123,10 +85,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="222" />
     <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="967" />
+    <option name="width" value="1440" />
+    <option name="height" value="817" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -163,12 +126,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="FinalCapstone" type="b2602c69:ProjectViewProjectNode" />
               <item name="FinalCapstone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalCapstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalCapstone" type="462c0819:PsiDirectoryNode" />
+              <item name="predict" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FinalCapstone" type="b2602c69:ProjectViewProjectNode" />
@@ -181,18 +150,11 @@
               <item name="train" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FinalCapstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FinalCapstone" type="462c0819:PsiDirectoryNode" />
-              <item name="train" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,7 +241,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="824" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -317,41 +279,8 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_aaaaaaa_.feature_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_abkhazia_.class_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_abkhazia_.feature_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_aayan_.class_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/train/models/b_abkhazia_.feature_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_aayan_.class_map" />
     <entry file="file://$USER_HOME$/Downloads/models-2/b'yani'.feature_map">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -366,13 +295,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_aaaaaaa_.class_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/train/models/b_aaaaaaa_.class_map" />
     <entry file="file://$PROJECT_DIR$/train/models/a_classification.txt" />
     <entry file="file://$PROJECT_DIR$/train/training_Data.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -448,42 +371,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/train/models/a_matrix.txt" />
-    <entry file="file://$PROJECT_DIR$/train/models/b_a_.feature_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/a_classification.txt" />
-    <entry file="file://$PROJECT_DIR$/train/models/b_aaaaaaa_.feature_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_abkhazia_.class_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_abkhazia_.feature_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_aayan_.class_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/train/models/b_a_.feature_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_aaaaaaa_.feature_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_abkhazia_.class_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_abkhazia_.feature_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_aayan_.class_map" />
     <entry file="file://$USER_HOME$/Downloads/models-2/b'yani'.feature_map">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -506,13 +398,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="90" column="45" lean-forward="false" selection-start-line="90" selection-start-column="45" selection-end-line="90" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/train/resource/data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8680">
@@ -524,7 +409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -533,96 +417,28 @@
     <entry file="file://$PROJECT_DIR$/train/models 11.17.20 AM/b'banh'.class_map" />
     <entry file="file://$PROJECT_DIR$/train/models 11.17.20 AM/b'a'.class_map" />
     <entry file="file://$PROJECT_DIR$/train/models/am_classification.txt" />
-    <entry file="file://$PROJECT_DIR$/train/models/b_ngoi_.class_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_a_.class_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_aaaaaaa_.class_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/ang_matrix.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_ach_.class_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_toi_.class_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_toi_.pkl">
+    <entry file="file://$PROJECT_DIR$/train/models/b_ngoi_.class_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_a_.class_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_aaaaaaa_.class_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/ang_matrix.txt" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_ach_.class_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_toi_.class_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_toi_.pkl" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_toi_.feature_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_aleksey_.pkl" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_aleksey_.class_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/b_aleksey_.feature_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/yeu_classification.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_toi_.feature_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12615">
-          <caret line="841" column="14" lean-forward="false" selection-start-line="841" selection-start-column="14" selection-end-line="841" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_aleksey_.pkl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_aleksey_.class_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/b_aleksey_.feature_map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/train/models/yeu_matrix.txt" />
     <entry file="file://$PROJECT_DIR$/train/training_Data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
+        <state relative-caret-position="1500">
           <caret line="114" column="96" lean-forward="false" selection-start-line="114" selection-start-column="96" selection-end-line="114" selection-end-column="96" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -630,7 +446,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/yeu_classification.txt">
+    <entry file="file://$PROJECT_DIR$/train/models/b_di_.feature_map" />
+    <entry file="file://$PROJECT_DIR$/train/models/b'doi'.class_map">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -638,11 +455,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train/models/yeu_matrix.txt">
+    <entry file="file://$PROJECT_DIR$/train/models/a_classification.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train/models/doi_classification.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="245" column="19" lean-forward="false" selection-start-line="245" selection-start-column="19" selection-end-line="245" selection-end-column="19" />
+          <folding>
+            <element signature="e#93#135#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

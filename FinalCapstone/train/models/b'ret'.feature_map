@@ -1,0 +1,600 @@
+bo	1
+ro	2
+ret	3
+nhat	4
+cua	5
+bo ro	6
+ro ret	7
+ret nhat	8
+nhat cua	9
+LLLL	10
+LLL	11
+LL	12
+tram	13
+tro	14
+tinh	15
+vi.'	16
+tram tro	17
+tro ret	18
+ret tinh	19
+tinh vi.'	20
+LLOO	21
+khong	22
+lai	23
+hoan	24
+khong ro	25
+ret lai	26
+lai hoan	27
+LLLLL	28
+thi	29
+la	30
+no	31
+thi ro	32
+ret la	33
+la no	34
+cap	35
+,	36
+cac	37
+loai	38
+cap ,	39
+, ret	40
+ret cac	41
+cac loai	42
+O	43
+LO	44
+OL	45
+ta	46
+ma	47
+run:	48
+ta khong	49
+khong ret	50
+ret ma	51
+ma run:	52
+LLLO	53
+trong	54
+gio	55
+co	56
+the	57
+trong gio	58
+gio ret	59
+ret co	60
+co the	61
+doi,	62
+chet	63
+o	64
+noi	65
+doi, chet	66
+chet ret	67
+ret o	68
+o noi	69
+L	70
+hoang	71
+vang	72
+lanh,	73
+nhung	74
+hoang vang	75
+vang ret	76
+ret lanh,	77
+lanh, nhung	78
+LLLLO	79
+khoi	80
+run	81
+khong khoi	82
+khoi ret	83
+ret run	84
+run ,	85
+nhan	86
+doi	87
+thu	88
+nhan ro	89
+ret doi	90
+doi thu	91
+lam,	92
+ret lam,	93
+lam, nhung	94
+long	95
+bong	96
+run.'	97
+long bong	98
+bong ret	99
+ret run.'	100
+LLLOO	101
+bay	102
+chang	103
+con	104
+bay ro	105
+ret chang	106
+chang con	107
+ma run.'	108
+ke	109
+boi	110
+cai	111
+ke chet	112
+ret boi	113
+boi cai	114
+lanh	115
+leo	116
+buot.'	117
+lanh leo	118
+leo ret	119
+ret buot.'	120
+LLLLOO	121
+vao	122
+than,	123
+buot	124
+vao than,	125
+than, ret	126
+ret buot	127
+buot khong	128
+man	129
+gia	130
+ay,	131
+man gia	132
+gia ret	133
+ret ay,	134
+ay, lai	135
+LLO	136
+phai	137
+phai khong	138
+da	139
+buon	140
+da ro	141
+chang buon	142
+cang	143
+khi	144
+cang ro	145
+ret trong	146
+trong khi	147
+mot	148
+quai	149
+di	150
+mot con	151
+con ret	152
+ret quai	153
+quai di	154
+di,	155
+noi con	156
+quai di,	157
+qua	158
+nhien	159
+duoi	160
+qua nhien	161
+nhien ret	162
+ret bay	163
+bay duoi	164
+trung	165
+trung con	166
+chiu	167
+kho	168
+muot	169
+den	170
+chiu kho	171
+kho ret	172
+ret muot	173
+muot den	174
+ta,	175
+\xe2\x80\x9cret	176
+ret\xe2\x80\x9d	177
+nhu	178
+ta, \xe2\x80\x9cret	179
+\xe2\x80\x9cret ret	180
+ret ret\xe2\x80\x9d	181
+ret\xe2\x80\x9d nhu	182
+OLLNOLNNOLNLLLL	183
+LLLOLLNOLNNOLNL	184
+long khong	185
+quan	186
+yeu	187
+co quan	188
+quan ret	189
+trong yeu	190
+bi	191
+cong,	192
+la bi	193
+bi ret	194
+ret cong,	195
+cong, khong	196
+lao	197
+lao co	198
+co ret	199
+run khong	200
+dieu	201
+ai	202
+cung	203
+dieu ro	204
+ret ai	205
+ai cung	206
+hap	207
+ban	208
+hap khi	209
+khi ret	210
+run ban	211
+run,	212
+ma run,	213
+men	214
+chong	215
+that	216
+day,	217
+men chong	218
+chong ret	219
+ret that	220
+that day,	221
+toan	222
+than	223
+len.'	224
+toan than	225
+than ret	226
+run len.'	227
+nang	228
+cong	229
+roi!	230
+nang bi	231
+ret cong	232
+cong roi!	233
+voi	234
+chut	235
+dai	236
+voi chut	237
+chut ret	238
+ret dai	239
+dai ret	240
+loc	241
+tu	242
+ret loc	243
+loc tu	244
+ran	245
+be	246
+loai ran	247
+ran ret	248
+co be	249
+tra	250
+roi	251
+ve	252
+tra ro	253
+ret roi	254
+roi ve	255
+ngay	256
+hon.'	257
+ngay mot	258
+mot ret	259
+ret hon.'	260
+trung,	261
+trung, ran	262
+ret cung	263
+cung khong	264
+LLLLLO	265
+du	266
+troi	267
+dau	268
+du troi	269
+troi ret	270
+ret den	271
+den dau	272
+len:	273
+-	274
+nay	275
+len: -	276
+- ret	277
+ret the	278
+the nay	279
+muon	280
+- ta	281
+ta ret	282
+cong muon	283
+tieu	284
+bao	285
+tieu bao	286
+bao ret	287
+cong co	288
+qua,	289
+nguoi	290
+ret qua,	291
+qua, nguoi	292
+giac	293
+len,	294
+giac chang	295
+chang ret	296
+run len,	297
+de	298
+de ro	299
+ma nguoi	300
+toi	301
+toi khong	302
+dang,	303
+giay	304
+vo,	305
+dang, doi	306
+doi ret	307
+ret giay	308
+giay vo,	309
+len	310
+len ro	311
+trong dau	312
+ao	313
+hang	314
+cai ao	315
+ao ret	316
+ret hang	317
+hang da	318
+b'-	319
+b'- troi	320
+LOO	321
+ay	322
+sot	323
+luon	324
+ay sot	325
+sot ret	326
+ret luon	327
+luon the	328
+ac	329
+day, sot	330
+ret ac	331
+ac tinh	332
+goi,	333
+mua	334
+goi, mua	335
+mua ret	336
+ret thi	337
+thi da	338
+vi	339
+ngai	340
+tam	341
+vi troi	342
+ret ngai	343
+ngai tam	344
+phan	345
+nua	346
+bi chet	347
+ret phan	348
+phan nua	349
+luc	350
+dam,	351
+luc troi	352
+ret dam,	353
+dam, bay	354
+doi ro	355
+ret nhung	356
+nhung the	357
+ngan	358
+kien	359
+ngan con	360
+ret con	361
+con kien	362
+lang	363
+lang bong	364
+lang khong	365
+suc	366
+dinh	367
+manh	368
+nen	369
+suc dinh	370
+dinh ret	371
+ret manh	372
+manh nen	373
+linh	374
+san	375
+cam	376
+linh san	377
+san ret	378
+run cam	379
+cam,	380
+noi len	381
+len ret	382
+ret cam	383
+cam cam,	384
+nua,	385
+thiet	386
+ret nua,	387
+nua, thiet	388
+lieu	389
+dong	390
+cat	391
+lieu dong	392
+dong ret	393
+ret nhu	394
+nhu cat	395
+kinh	396
+khung,	397
+la troi	398
+ret kinh	399
+kinh khung,	400
+hai	401
+ma troi	402
+ret qua	403
+qua hai	404
+het	405
+day	406
+bo,	407
+het ran	408
+ret day	409
+day bo,	410
+cu	411
+do	412
+, cai	413
+cai ret	414
+ret cu	415
+cu do	416
+thi lai	417
+lai ret	418
+qua, lanh	419
+nay bi	420
+cong, toan	421
+nguoi bi	422
+cong khong	423
+cuc	424
+ky	425
+cuc ky	426
+ky ret	427
+lanh, nen	428
+binh	429
+nhu ran	430
+ret cua	431
+cua binh	432
+hau	433
+muot,	434
+dan	435
+khi hau	436
+hau ret	437
+ret muot,	438
+muot, dan	439
+phan ro	440
+la o	441
+khi,	442
+chat	443
+doc.'	444
+khi, ran	445
+ret chat	446
+chat doc.'	447
+ret nen	448
+nen cung	449
+nhu cung	450
+cung ret	451
+mau	452
+sac	453
+ret mau	454
+mau sac	455
+duoi con	456
+ret nay	457
+nay co	458
+thay	459
+nay,	460
+thay con	461
+ret nay,	462
+nay, nhat	463
+rung,	464
+sau	465
+rung, ran	466
+ret sau	467
+sau bo	468
+lan	469
+dang	470
+lan gio	471
+muot, dang	472
+phat	473
+cung phat	474
+phat ret	475
+ret run,	476
+run, ngay	477
+met	478
+ret ve	479
+ve met	480
+nua.'	481
+khong thay	482
+thay ret	483
+ret nua.'	484
+ra	485
+chu	486
+ra ro	487
+ret hai	488
+hai chu	489
+chua	490
+chua ra	491
+ra ret	492
+ret ,	493
+, tam	494
+- troi	495
+ret lanh	496
+lanh den	497
+rat	498
+tung	499
+canh	500
+rat ro	501
+ret tung	502
+tung canh	503
+-nguoi	504
+u	505
+?	506
+-nguoi phat	507
+ret u	508
+u ?	509
+OLLLLL	510
+lanh phat	511
+, nhung	512
+ve ro	513
+sau bao	514
+tiet	515
+tiet gia	516
+nhu the	517
+may	518
+chui	519
+may con	520
+ret chui	521
+chui vao	522
+thay khong	523
+nhieu	524
+chan	525
+nhu con	526
+ret nhieu	527
+nhieu chan	528
+nau	529
+nau khong	530
+theu	531
+hoac	532
+theu con	533
+ret hoac	534
+hoac con	535
+gi	536
+khong.'	537
+co ran	538
+ret gi	539
+gi khong.'	540
+LLLLLOO	541
+da khong	542
+so,	543
+ret sac	544
+sac so,	545
+duoc	546
+duoi,	547
+duoc cua	548
+cua ret	549
+bay duoi,	550
+ray,	551
+ray, con	552
+b'con	553
+b'con ret	554
+LOLLL	555
+doc	556
+doc cua	557
+vao con	558
+gio ta	559
+cam cam	560
+qua.'	561
+khi troi	562
+ret qua.'	563
+y	564
+y hoang	565
+hoang ret	566
+run ma	567
+phong	568
+lon,	569
+phong ro	570
+ret mot	571
+mot lon,	572
+dam	573
+trong luc	574
+luc ret	575
+ret dam	576
+dam the	577
+chiu duoc	578
+duoc ret	579
+xa,	580
+nhung ran	581
+ret doc	582
+doc xa,	583
+khoi,	584
+trien	585
+mien,	586
+khoi, doi	587
+ret trien	588
+trien mien,	589
+so	590
+vua	591
+so vua	592
+vua ret	593
+biet	594
+!	595
+song	596
+khong biet	597
+biet ret	598
+ret !	599
+! song	600

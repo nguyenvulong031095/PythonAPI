@@ -1,11 +1,11 @@
              precision    recall  f1-score   support
 
-      nhanh       0.97      1.00      0.98       841
-      Nhanh       1.00      0.50      0.67         4
-      nhánh       0.93      0.69      0.79        55
+      nhanh       0.96      1.00      0.98       841
+      Nhanh       1.00      0.25      0.40         4
+      nhánh       0.92      0.65      0.77        55
       nhành       0.00      0.00      0.00         6
       nhạnh       1.00      0.67      0.80         3
       Nhánh       0.00      0.00      0.00         1
       nhảnh       0.00      0.00      0.00         4
 
-avg / total       0.95      0.96      0.96       914
+avg / total       0.95      0.96      0.95       914

@@ -1,0 +1,522 @@
+nhu	1
+ngon	2
+chuy	3
+quat	4
+vao	5
+nhu ngon	6
+ngon chuy	7
+chuy quat	8
+quat vao	9
+LLLL	10
+LLL	11
+LL	12
+"ly	13
+nhan	14
+von	15
+la	16
+"ly nhan	17
+nhan chuy	18
+chuy von	19
+von la	20
+OLL	21
+OL	22
+bat	23
+giac	24
+co	25
+quai	26
+bat giac	27
+giac chuy	28
+chuy co	29
+co quai	30
+phai	31
+ha	32
+chuy phai	33
+phai ha	34
+"luu	35
+tinh	36
+cua	37
+han	38
+"luu tinh	39
+tinh chuy	40
+chuy cua	41
+cua han	42
+OLLL	43
+mot	44
+cay	45
+thu	46
+toa	47
+mot cay	48
+cay chuy	49
+chuy thu	50
+thu toa	51
+ra	52
+nay	53
+ra cay	54
+thu nay	55
+tu	56
+than	57
+do	58
+"	59
+tu than	60
+than chuy	61
+chuy do	62
+do "	63
+O	64
+LO	65
+tay	66
+anh	67
+tay phai	68
+phai chuy	69
+thu anh	70
+phat	71
+xuat	72
+chuy phat	73
+phat xuat	74
+thanh	75
+chuy toa	76
+toa thanh	77
+LLLLL	78
+luu	79
+xem	80
+luu tinh	81
+chuy xem	82
+xem ra	83
+chiec	84
+thiet	85
+vo	86
+hinh	87
+chiec thiet	88
+thiet chuy	89
+chuy vo	90
+vo hinh	91
+kia	92
+giau	93
+chuy kia	94
+kia giau	95
+lang	96
+nha	97
+len	98
+danh	99
+lang nha	100
+nha chuy	101
+chuy len	102
+len danh	103
+tren	104
+qua	105
+vua	106
+nhon	107
+tren qua	108
+qua chuy	109
+chuy vua	110
+vua nhon	111
+dai	112
+huyet	113
+phia	114
+tren dai	115
+dai chuy	116
+chuy huyet	117
+huyet phia	118
+trung	119
+van	120
+can,	121
+trung mot	122
+mot chuy	123
+chuy van	124
+van can,	125
+LLLO	126
+doi	127
+thu,	128
+mot doi	129
+doi chuy	130
+chuy thu,	131
+thu, mot	132
+can	133
+mot thanh	134
+thanh chuy	135
+thu can	136
+con	137
+con thanh	138
+nang	139
+ngan	140
+mot qua	141
+chuy nang	142
+nang ngan	143
+hai	144
+dui	145
+hai thanh	146
+thu, dui	147
+sat	148
+sat thanh	149
+thu tren	150
+dau	151
+cam	152
+tung	153
+vao dau	154
+dau chuy	155
+chuy cam	156
+cam tung	157
+lon	158
+vua lon	159
+hoa	160
+chuy hoa	161
+hoa thanh	162
+tram	163
+trong	164
+chuy tram	165
+tram trong	166
+giua	167
+lan	168
+anh.'	169
+giua lan	170
+lan chuy	171
+chuy anh.'	172
+LLLOO	173
+man	174
+anh,	175
+giua man	176
+man chuy	177
+chuy anh,	178
+anh, mot	179
+lai	180
+bay	181
+chuy lai	182
+lai bay	183
+b'song	184
+y	185
+b'song chuy	186
+cua y	187
+L	188
+LOLLLL	189
+song	190
+ho	191
+phia song	192
+song chuy	193
+cua ho	194
+chuy tu	195
+tu hai	196
+da	197
+chuy da	198
+da hoa	199
+quang	200
+lap	201
+cua man	202
+chuy quang	203
+quang lap	204
+ben	205
+chuy ben	206
+ben phai	207
+dung	208
+nhanh	209
+chuy dung	210
+dung nhanh	211
+cang	212
+luc	213
+chuy cang	214
+cang luc	215
+thuong	216
+loang	217
+thuong anh	218
+anh chuy	219
+chuy anh	220
+anh loang	221
+LLLLLL	222
+cham	223
+den	224
+chuy cham	225
+cham den	226
+cho	227
+tuong	228
+chung	229
+cho mot	230
+chuy tuong	231
+tuong chung	232
+tan,	233
+hat	234
+tan, song	235
+chuy hat	236
+hat len	237
+lon,	238
+manh	239
+mot dau	240
+chuy lon,	241
+lon, manh	242
+thay	243
+dong	244
+thay dong	245
+dong chuy	246
+chuy trong	247
+trong luc	248
+gi	249
+dong.'	250
+gi cay	251
+chuy dong.'	252
+LLLLOO	253
+b'mot	254
+vot	255
+ve	256
+b'mot ngon	257
+chuy vot	258
+vot ve	259
+LOLLL	260
+b'ngon	261
+phi	262
+di	263
+rat	264
+b'ngon phi	265
+phi chuy	266
+chuy di	267
+di rat	268
+b'ngon chuy	269
+tu tu	270
+toi	271
+ket	272
+chuy toi	273
+toi ket	274
+tuy	275
+toc	276
+chuy tuy	277
+tuy toc	278
+ngay.'	279
+ngon thiet	280
+chuy ngay.'	281
+chuy bay	282
+bay den	283
+the	284
+sap	285
+the ngon	286
+di sap	287
+truoc	288
+dung ngon	289
+chuy den	290
+den truoc	291
+don	292
+ma	293
+de	294
+don phi	295
+chuy ma	296
+ma de	297
+phong	298
+te	299
+phong ngon	300
+chuy te	301
+te ra	302
+roi	303
+ngon phi	304
+vua roi	305
+bi	306
+nen	307
+bi cay	308
+chuy sat	309
+sat nen	310
+sang	311
+dieu	312
+cach	313
+sang dieu	314
+dieu chuy	315
+chuy mot	316
+mot cach	317
+mui	318
+cuong	319
+,	320
+mui cuong	321
+cuong chuy	322
+chuy ,	323
+, tay	324
+gio	325
+dam	326
+, gio	327
+gio chuy	328
+len dam	329
+vai	330
+vao mui	331
+mui chuy	332
+, vai	333
+ne	334
+nang ne	335
+mot ngon	336
+thu trong	337
+mo	338
+mo ngon	339
+rut	340
+rut ngon	341
+thu ra	342
+luc,	343
+cung	344
+luc, ngon	345
+thu cung	346
+cho ngon	347
+khua	348
+cam ngon	349
+thu khua	350
+lay	351
+lay ngon	352
+thu cua	353
+ly	354
+ngoai	355
+ly nhan	356
+chuy ra	357
+ra ngoai	358
+mau	359
+lay thiet	360
+chuy mau	361
+mau do	362
+tran	363
+oai	364
+noi:	365
+-	366
+tran oai	367
+oai chuy	368
+chuy noi:	369
+noi: -	370
+b'tran	371
+cuoi	372
+hoi:	373
+b'tran oai	374
+chuy cuoi	375
+cuoi hoi:	376
+len:	377
+chuy la	378
+la len:	379
+vung	380
+giac dong	381
+chuy vung	382
+vung len	383
+v.v...'	384
+chuy v.v...'	385
+LOLOOOO	386
+lin	387
+lin tu	388
+tu chuy	389
+chuy ve	390
+ve phia	391
+dap	392
+ngon cuong	393
+chuy dap	394
+dap vao	395
+lien	396
+tiep	397
+bi thiet	398
+chuy lien	399
+lien tiep	400
+si	401
+nem	402
+xe	403
+si nem	404
+nem chuy	405
+chuy vao	406
+vao xe	407
+ke	408
+hay	409
+ke nem	410
+chuy hay	411
+hay da	412
+hoac	413
+dung thiet	414
+chuy hoac	415
+hoac da	416
+nhay	417
+xuong.'	418
+cam song	419
+chuy nhay	420
+nhay xuong.'	421
+LLLLLOO	422
+ca	423
+qua thiet	424
+nang ca	425
+buc	426
+cua song	427
+chuy buc	428
+buc tu	429
+mang	430
+mang song	431
+thay qua	432
+chuy lon	433
+lon bay	434
+b'"am!"	435
+b'"am!" thiet	436
+dap manh	437
+LOOLLOO	438
+luot	439
+ra,	440
+luot rut	441
+rut chuy	442
+thu ra,	443
+LLO	444
+giang	445
+nguc,	446
+giang mot	447
+vao nguc,	448
+LLLLO	449
+nua	450
+tiep mot	451
+chuy nua	452
+nua cua	453
+kinh	454
+chuy nay	455
+nay kinh	456
+vun	457
+vut	458
+chuy vun	459
+vun vut	460
+thoi	461
+chuy dong	462
+dong thoi	463
+b'nhung	464
+nghe	465
+tieng	466
+b'nhung phi	467
+chuy nghe	468
+nghe tieng	469
+LOLLLLL	470
+roi!	471
+huong	472
+trung phi	473
+chuy roi!	474
+roi! huong	475
+roi! trong	476
+mui phi	477
+cam trong	478
+vo trung	479
+trung chuy	480
+chuy bi	481
+bi thuong	482
+khong?"	483
+co can	484
+can chuy	485
+hay khong?"	486
+cap	487
+luon	488
+va	489
+duc,	490
+cap luon	491
+luon chuy	492
+chuy va	493
+va duc,	494
+nhung	495
+lon, nhung	496
+dang	497
+bien	498
+doi thiet	499
+chuy dang	500
+dang bien	501
+ho,	502
+ho, thiet	503
+chuy nhu	504
+nhu bi	505
+tao	506
+tao thanh	507
+anh trung	508
+nhu thiet	509
+vao giua	510
+kich	511
+trung,	512
+bi dai	513
+chuy kich	514
+kich trung,	515
+LLLLLO	516
+len.'	517
+vua gio	518
+thu len.'	519
+nang.'	520
+danh mot	521
+chuy nang.'	522

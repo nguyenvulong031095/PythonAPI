@@ -1,0 +1,819 @@
+xua	1
+thanh	2
+diep	3
+to	4
+su	5
+xua thanh	6
+thanh diep	7
+diep to	8
+to su	9
+LLLL	10
+LLLLL	11
+LLL	12
+LL	13
+non	14
+trung	15
+o	16
+sau	17
+non trung	18
+trung diep	19
+diep o	20
+o sau	21
+L	22
+truoc	23
+truoc thanh	24
+doi	25
+su,	26
+doi thanh	27
+to su,	28
+LLO	29
+toi	30
+toi thanh	31
+dan	32
+ho	33
+tu	34
+trong	35
+dan ho	36
+ho diep	37
+diep tu	38
+tu trong	39
+song	40
+luc,	41
+hi,	42
+song luc,	43
+luc, diep	44
+tu hi,	45
+LLLO	46
+bi	47
+thien	48
+thu	49
+,	50
+bi thien	51
+thien diep	52
+diep thu	53
+thu ,	54
+O	55
+LO	56
+diep.'	57
+trung trung	58
+diep diep.'	59
+LLLLOO	60
+nhu	61
+diep diep	62
+diep nhu	63
+nhung	64
+nhu nhung	65
+lieu	66
+dao	67
+cua	68
+thanh lieu	69
+lieu diep	70
+diep dao	71
+dao cua	72
+cam	73
+dung	74
+cam lieu	75
+dao dung	76
+diep,	77
+noi	78
+diep diep,	79
+diep, noi	80
+LLLLO	81
+do	82
+do thanh	83
+lay	84
+diep, lay	85
+ten	86
+la	87
+binh	88
+than	89
+ten la	90
+la diep	91
+diep binh	92
+binh than	93
+lai	94
+cai	95
+khuc	96
+hai	97
+lai cai	98
+cai diep	99
+diep khuc	100
+khuc hai	101
+don	102
+ngoc	103
+tham	104
+kien	105
+don ngoc	106
+ngoc diep	107
+diep tham	108
+tham kien	109
+b'don	110
+giong	111
+b'don ngoc	112
+diep lai	113
+lai giong	114
+LOLLL	115
+tung	116
+minh	117
+diep tung	118
+tung minh	119
+cung	120
+luc	121
+diep cung	122
+cung luc	123
+diep don	124
+tinh	125
+don tinh	126
+va	127
+van	128
+deu	129
+va van	130
+van diep	131
+diep deu	132
+deu bi	133
+so	134
+so thanh	135
+sau thanh	136
+moi	137
+moi thanh	138
+mot	139
+tam	140
+bao,	141
+de	142
+mot tam	143
+tam diep	144
+diep bao,	145
+bao, de	146
+khi	147
+khi thanh	148
+tay	149
+tay thanh	150
+duoc	151
+duoc thanh	152
+nhin	153
+diep, nhin	154
+che	155
+khuat,	156
+diep che	157
+che khuat,	158
+LLLLLO	159
+chua	160
+gia	161
+tren	162
+nui	163
+chua gia	164
+gia diep	165
+diep tren	166
+tren nui	167
+giao	168
+xung	169
+quanh,	170
+giao trung	171
+diep xung	172
+xung quanh,	173
+luoi	174
+len	175
+luoi lieu	176
+dao len	177
+dao bi	178
+b'thanh	179
+nay	180
+b'thanh lieu	181
+dao nay	182
+LOLLLLL	183
+b'\xc3\xb0ao	184
+tien	185
+hoi:	186
+b'\xc3\xb0ao diep	187
+diep tien	188
+tien hoi:	189
+LOOLLNOLLNLL	190
+cho	191
+tien cho	192
+noi:	193
+tien noi:	194
+diep cua	195
+vu	196
+cua vu	197
+vien	198
+da	199
+la mot	200
+mot diep	201
+diep vien	202
+vien da	203
+tien va	204
+sao?	205
+\xc3\xb0ao	206
+cai:	207
+sao? \xc3\xb0ao	208
+\xc3\xb0ao diep	209
+tien cai:	210
+OLLNOLLNLL	211
+OL	212
+tien,	213
+tien, \xc3\xb0ao	214
+diep tien,	215
+nghe	216
+ru	217
+nghe \xc3\xb0ao	218
+tien ru	219
+chua?	220
+chua? \xc3\xb0ao	221
+tien noi	222
+giang	223
+lang"	224
+gi	225
+giang tam	226
+diep lang"	227
+lang" gi	228
+lang" nay	229
+it	230
+diep, it	231
+xinh	232
+dep	233
+doi ho	234
+diep xinh	235
+xinh dep	236
+gian	237
+co	238
+the	239
+tinh gian	240
+gian diep	241
+diep co	242
+co the	243
+dap:	244
+tien dap:	245
+mang	246
+giac	247
+bong	248
+mang giac	249
+giac diep	250
+diep bong	251
+bong nghe	252
+khong	253
+diep, khong	254
+phia	255
+o phia	256
+ngan	257
+diep, ngan	258
+tai	259
+chan	260
+nhan	261
+tai thanh	262
+diep chan	263
+chan nhan	264
+ra	265
+khoi	266
+diep ra	267
+ra khoi	268
+ay	269
+ay thanh	270
+diep, nhung	271
+buoc	272
+den,	273
+nhu ho	274
+diep buoc	275
+buoc den,	276
+say	277
+khien	278
+say giac	279
+diep khien	280
+khien cho	281
+thong	282
+ho,	283
+la thong	284
+thong diep	285
+diep ho,	286
+ho, duoc	287
+duoc thong	288
+diep ho	289
+ho nhan	290
+kia	291
+kia \xc3\xb0ao	292
+tien lai	293
+nong	294
+tien nong	295
+thi	296
+va \xc3\xb0ao	297
+tien thi	298
+mon	299
+mon thien	300
+thu moi	301
+phong	302
+phi	303
+vu,	304
+tran	305
+phong phi	306
+phi diep	307
+diep vu,	308
+vu, tran	309
+quet	310
+dao quet	311
+ton	312
+minh da	313
+da diep	314
+diep ton	315
+ton gia	316
+b'da	317
+b'da diep	318
+diep la	319
+LOLL	320
+hoa,	321
+mim	322
+cuoi	323
+hoa, da	324
+diep mim	325
+mim cuoi	326
+thu"	327
+ma	328
+diep thu"	329
+thu" ma	330
+tang,	331
+lam	332
+vo	333
+phap	334
+tang, lam	335
+lam diep	336
+diep vo	337
+vo phap	338
+diep nhung	339
+nhung khong	340
+keo	341
+dai	342
+diep keo	343
+keo dai	344
+nguoi	345
+la gian	346
+diep nguoi	347
+nguoi so	348
+son	349
+dai son	350
+son diep	351
+diep trung	352
+trung,	353
+trung trung,	354
+hong	355
+la hong	356
+hong diep	357
+diep thien	358
+thien su,	359
+cua hong	360
+thien su	361
+nen	362
+nen hong	363
+hang	364
+diep, hang	365
+dang	366
+cat	367
+diep dang	368
+dang cat	369
+-	370
+mi!	371
+- lieu	372
+tu mi!	373
+chieu	374
+"lieu	375
+mi".'	376
+chieu "lieu	377
+"lieu diep	378
+tu mi".'	379
+LLOOO	380
+OLLLL	381
+vay?	382
+vay? \xc3\xb0ao	383
+tien cung	384
+bon	385
+tien bon	386
+thai	387
+nhu thai	388
+thai diep	389
+tu thai	390
+phieu	391
+lang	392
+diep phieu	393
+phieu lang	394
+ho trung	395
+diep thi	396
+thi co	397
+phan	398
+phan gian	399
+diep hai	400
+hai mang	401
+ban	402
+dao ban	403
+tien.'	404
+la \xc3\xb0ao	405
+diep tien.'	406
+ho truoc	407
+vay	408
+vay thong	409
+ho cua	410
+thanh,	411
+thanh, thong	412
+ho cung	413
+giao van	414
+diep cho	415
+cho ho	416
+truc	417
+binh truc	418
+truc diep	419
+diep thanh	420
+thanh cat	421
+cua thanh	422
+mau!	423
+mau! \xc3\xb0ao	424
+tien cuoi	425
+tien chua	426
+thi \xc3\xb0ao	427
+lac	428
+tien lac	429
+khac,	430
+ni	431
+tu khac,	432
+khac, diep	433
+diep ni	434
+ni tai	435
+phu	436
+diep phu	437
+kin	438
+phu kin	439
+hien	440
+la ho	441
+diep hien	442
+hien than	443
+co thanh	444
+mao	445
+tieu,	446
+mao tieu,	447
+tieu, diep	448
+vien do	449
+nhan.'	450
+- thanh	451
+dao nhan.'	452
+tuc	453
+b'thanh diep	454
+diep tuc	455
+tuc gia	456
+nhap	457
+mon,	458
+diep nhap	459
+nhap mon,	460
+cho thanh	461
+tu tham	462
+ben	463
+be	464
+diep ben	465
+ben be	466
+to,	467
+rau	468
+toc	469
+to, thanh	470
+diep rau	471
+rau toc	472
+do,	473
+chinh	474
+thuc	475
+do, thanh	476
+diep chinh	477
+chinh thuc	478
+minh,	479
+lay ho	480
+cua minh,	481
+chong	482
+kiem	483
+diep chong	484
+chong kiem	485
+dao nhan	486
+chap	487
+chuong	488
+diep chap	489
+chap chuong	490
+LLLLLL	491
+dao,	492
+qui	493
+dao, lieu	494
+diep dao,	495
+dao, qui	496
+ten gian	497
+diep ay	498
+ay mot	499
+dao.'	500
+diep dao.'	501
+LLLOO	502
+tien len	503
+hoang	504
+tu do	505
+do diep	506
+cua hoang	507
+vao	508
+roi	509
+vao trong	510
+trong diep	511
+diep roi	512
+roi dan	513
+tien tu	514
+choang	515
+diep choang	516
+choang tinh	517
+ngo	518
+du	519
+ngo trung	520
+thi du	521
+cao,	522
+si,	523
+thien cao,	524
+cao, diep	525
+diep si,	526
+si, lieu	527
+hong,	528
+diep ngan	529
+ngan hong,	530
+vung	531
+dao vung	532
+giup	533
+giup thanh	534
+duoc hong	535
+dau	536
+dau hong	537
+lau,	538
+lau, hong	539
+giua	540
+giua hong	541
+lau	542
+lau hong	543
+chang	544
+diep ma	545
+ma chang	546
+ai?	547
+ai? \xc3\xb0ao	548
+than!	549
+than! \xc3\xb0ao	550
+mo	551
+dang giac	552
+diep mo	553
+mo mang	554
+:	555
+-kho	556
+truong	557
+: -kho	558
+-kho diep	559
+dao truong	560
+OLLL	561
+OO	562
+kho	563
+la kho	564
+kho diep	565
+?	566
+? kho	567
+thi kho	568
+diep nay	569
+nay la	570
+nghe kho	571
+b'kho	572
+b'kho diep	573
+ma kho	574
+van kho	575
+voi	576
+voi kho	577
+muon	578
+, kho	579
+cung muon	580
+ky	581
+ky kho	582
+sach	583
+z.28	584
+may	585
+sach gian	586
+diep z.28	587
+z.28 may	588
+LONN	589
+doan	590
+z.28 doan	591
+cuba,	592
+z.28 cuba,	593
+ba	594
+z.28 ba	595
+bao	596
+z.28 bao	597
+z.28 nguoi	598
+theo	599
+tien theo	600
+tua	601
+xuyen	602
+tua ho	603
+diep xuyen	604
+xuyen hoa,	605
+cuu	606
+kgb	607
+mot cuu	608
+cuu diep	609
+vien kgb	610
+tron	611
+lam gian	612
+diep va	613
+va tron	614
+hoa	615
+xuyen hoa	616
+duoc?	617
+duoc? \xc3\xb0ao	618
+danh	619
+dao danh	620
+dao o	621
+dao da	622
+phong*	623
+bam	624
+theo.'	625
+phong* lang	626
+lang diep	627
+diep bam	628
+bam theo.'	629
+duoc,	630
+duoc, thong	631
+dinh	632
+lao	633
+han	634
+gia dinh	635
+dinh diep	636
+diep lao	637
+lao han	638
+qua	639
+thay	640
+qua thay	641
+thay diep	642
+diep tam	643
+tam thu	644
+b'nhung	645
+b'nhung diep	646
+lang,	647
+vao dau	648
+dau diep	649
+tu lang,	650
+mung,	651
+dua	652
+mung, dua	653
+dua diep	654
+b'khong	655
+b'khong ngo	656
+ngo diep	657
+nhan?\xe2\x80\x9d	658
+nhan?\xe2\x80\x9d thi	659
+thi diep	660
+LLLLOOLLNOLNNOLNL	661
+truyen	662
+la truyen	663
+truyen diep	664
+ke	665
+chuyen	666
+ke chuyen	667
+chuyen diep	668
+thoi	669
+den	670
+thoi thanh	671
+cho den	672
+nang	673
+cua nang	674
+cao	675
+diep cao	676
+lon	677
+cao lon	678
+"thien	679
+trong "thien	680
+"thien diep	681
+thu" da	682
+OLLLLL	683
+hai?	684
+xen	685
+hai? \xc3\xb0ao	686
+tien xen	687
+b'thanh truc	688
+dao trong	689
+den thanh	690
+tieu	691
+thi tieu	692
+ngua	693
+tan	694
+ngua gian	695
+nguoi tan	696
+nuoc	697
+diep do	698
+do nuoc	699
+mat	700
+diep mat	701
+mat vo	702
+tiep	703
+loi:	704
+diep tiep	705
+tiep loi:	706
+dich	707
+thi dich	708
+gio	709
+diep, gio	710
+tien vo	711
+tien la	712
+ke gian	713
+thu.'	714
+diep thu.'	715
+thu la	716
+thu" ten	717
+bien	718
+thu bien	719
+nua.'	720
+chieu thien	721
+thu nua.'	722
+thu cua	723
+thuc thien	724
+-mon	725
+-mon thien	726
+va thanh	727
+nham	728
+diep nham	729
+nguc	730
+nham nguc	731
+vao thanh	732
+mot thanh	733
+tranh	734
+diep tranh	735
+tranh tai	736
+con	737
+con \xc3\xb0ao	738
+tien cam	739
+tien tay	740
+tri?	741
+tri? \xc3\xb0ao	742
+vua	743
+ma \xc3\xb0ao	744
+tien vua	745
+soai?	746
+soai? \xc3\xb0ao	747
+nguoi?	748
+nguoi? \xc3\xb0ao	749
+ve	750
+ve gian	751
+va thu	752
+hon	753
+y	754
+tieu hon	755
+hon diep	756
+diep y	757
+y cua	758
+da cat	759
+cat diep	760
+diep trung,	761
+trung, gio	762
+vay trung	763
+o xung	764
+dao dua	765
+chinh thanh	766
+diem	767
+diem thanh	768
+vot	769
+dao vot	770
+sao	771
+liu	772
+sao liu	773
+liu diep	774
+diep kiem	775
+kiem giang	776
+no	777
+dang no	778
+can	779
+thanh.'	780
+can truc	781
+diep thanh.'	782
+LLLLLOO	783
+thanh de	784
+voi thanh	785
+thu" gi	786
+dao, nhung	787
+dao ve	788
+roi!	789
+xoay	790
+roi! \xc3\xb0ao	791
+tien xoay	792
+cuop	793
+tien cuop	794
+va gia	795
+thu noi	796
+thu deu	797
+la thanh	798
+theo truc	799
+diep dich	800
+dich thanh	801
+dao"	802
+dieu	803
+la "lieu	804
+diep dao"	805
+dao" dieu	806
+tien lon	807
+rong,	808
+huynh	809
+mi	810
+rong, \xc3\xb0ao	811
+diep huynh	812
+huynh mi	813
+dau?	814
+dau? \xc3\xb0ao	815
+tu thanh	816
+b'\xe2\x80\x9ctu	817
+b'\xe2\x80\x9ctu thanh	818
+LOOLLNOLNNOLNLLL	819

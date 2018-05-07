@@ -1,0 +1,582 @@
+toan	1
+than	2
+bun	3
+run,	4
+co	5
+toan than	6
+than bun	7
+bun run,	8
+run, co	9
+LLLL	10
+LLLO	11
+LLL	12
+LL	13
+nhu	14
+cat	15
+va	16
+ga	17
+nhu cat	18
+cat bun	19
+bun va	20
+va ga	21
+bi	22
+dinh	23
+dat	24
+la	25
+bi dinh	26
+dinh bun	27
+bun dat	28
+dat la	29
+song	30
+nay	31
+it	32
+ma	33
+song nay	34
+nay bun	35
+bun it	36
+it ma	37
+ruong	38
+lay	39
+nho	40
+ruong nay	41
+bun lay	42
+lay nho	43
+LLLLL	44
+den	45
+run, den	46
+keo	47
+kiet	48
+xin,	49
+tuyet	50
+keo kiet	51
+kiet bun	52
+bun xin,	53
+xin, tuyet	54
+day	55
+dat,	56
+ngua	57
+dinh day	58
+day bun	59
+bun dat,	60
+dat, ngua	61
+mot	62
+dong	63
+trong	64
+mot dong	65
+dong bun	66
+dat trong	67
+tren	68
+mat	69
+ben	70
+tren mat	71
+mat bun	72
+dat ben	73
+van	74
+dong dat	75
+dat bun	76
+bun trong	77
+trong van	78
+chat	79
+,	80
+sao	81
+nhu chat	82
+chat bun	83
+bun ,	84
+, sao	85
+O	86
+LO	87
+OL	88
+nguoi	89
+ta	90
+run	91
+ca	92
+nguoi ta	93
+ta bun	94
+bun run	95
+run ca	96
+tay	97
+no	98
+khong	99
+tay no	100
+no bun	101
+run, khong	102
+vao	103
+vung	104
+that	105
+vao vung	106
+vung bun	107
+bun nay	108
+nay that	109
+chan	110
+han	111
+run...,	112
+nhung	113
+chan han	114
+han bun	115
+bun run...,	116
+run..., nhung	117
+LLLOOOO	118
+lam	119
+y	120
+lam y	121
+y bun	122
+run tay	123
+L	124
+b'bat	125
+ngo,	126
+thum,mot	127
+can	128
+b'bat ngo,	129
+ngo, bun	130
+bun thum,mot	131
+thum,mot can	132
+LOLLL	133
+LLLLOLLL	134
+sau	135
+thum	136
+sau la	137
+la bun	138
+bun thum	139
+thum va	140
+len	141
+nhin	142
+len nhin	143
+nhin bun	144
+thum nhu	145
+nhan.mot	146
+lat,	147
+quay	148
+nhan.mot lat,	149
+lat, bun	150
+thum quay	151
+truu	152
+tuong!	153
+cung	154
+truu tuong!	155
+tuong! bun	156
+thum cung	157
+LLLLLO	158
+bun ma	159
+ma nguoi	160
+nhan	161
+the,	162
+bun nhan	163
+nhan the,	164
+\xc3\xb0inh	165
+phuong	166
+\xc3\xb0inh phuong	167
+phuong bun	168
+OLLNOLLNLLL	169
+LLLLLL	170
+chiec	171
+giay	172
+be	173
+chiec giay	174
+giay bun	175
+bun lam	176
+lam be	177
+khac	178
+nao	179
+vi	180
+voi	181
+khac nao	182
+nao bun	183
+bun vi	184
+vi voi	185
+song day	186
+dat, khong	187
+dam	188
+tung	189
+dam len	190
+len bun	191
+dat, tung	192
+ap	193
+xuong,	194
+ban	195
+ap xuong,	196
+xuong, bun	197
+dat ban	198
+thanh	199
+do	200
+ban.'	201
+thanh vung	202
+bun do	203
+do ban.'	204
+LLLOO	205
+da	206
+vay	207
+da bi	208
+bi bun	209
+dat vay	210
+guc	211
+dat.'	212
+guc trong	213
+trong bun	214
+bun dat.'	215
+roi	216
+xuong	217
+roi xuong	218
+xuong bun	219
+dat, sau	220
+uot	221
+sung,	222
+uot sung,	223
+sung, bun	224
+LLLLO	225
+may	226
+vet	227
+may vet	228
+vet bun	229
+mua	230
+mua va	231
+va bun	232
+dat tren	233
+duoi	234
+noi	235
+lay?	236
+su	237
+duoi noi	238
+noi bun	239
+bun lay?	240
+lay? su	241
+de	242
+song noi	243
+lay de	244
+song trong	245
+o	246
+nuoc	247
+o noi	248
+lay nuoc	249
+kinh	250
+hai	251
+dau	252
+kinh hai	253
+hai bun	254
+run dau	255
+lai	256
+boc	257
+xoa	258
+lai boc	259
+boc bun	260
+bun xoa	261
+xoa len	262
+ngap	263
+mua mua	264
+mua bun	265
+bun ngap	266
+ngap den	267
+hai chan	268
+chan bun	269
+run khong	270
+nat	271
+vua	272
+nat dinh	273
+bun vua	274
+vua kinh	275
+deu	276
+tham	277
+tay deu	278
+deu bun	279
+run, tham	280
+lay.'	281
+vao dong	282
+bun lay.'	283
+lay,	284
+lien	285
+trong dam	286
+dam bun	287
+bun lay,	288
+lay, lien	289
+rong	290
+rieu	291
+cua,	292
+rong nao	293
+bun rieu	294
+rieu cua,	295
+tu	296
+lop	297
+hoi	298
+tu lop	299
+lop bun	300
+dat hoi	301
+nhet	302
+va lay	303
+lay bun	304
+bun nhet	305
+nhet vao	306
+rua	307
+sach	308
+tret	309
+rua sach	310
+sach bun	311
+dat tret	312
+con	313
+bun khong	314
+khong con	315
+danh	316
+cho	317
+danh nhu	318
+nhu bun	319
+dat, cho	320
+net	321
+moi.'	322
+net la	323
+bun moi.'	324
+nhien	325
+thay	326
+tran	327
+nhien thay	328
+thay bun	329
+lay tran	330
+chui	331
+trong dong	332
+bun chui	333
+chui len	334
+the	335
+sau xuong	336
+khong the	337
+lau	338
+bam	339
+lau vet	340
+dat bam	341
+luc	342
+cua	343
+sinh	344
+u	345
+luc cua	346
+cua bun	347
+bun sinh	348
+sinh u	349
+tich	350
+dau tich	351
+tich bun	352
+dat lam	353
+qua	354
+ranh	355
+duong	356
+qua ranh	357
+ranh bun	358
+bun ben	359
+ben duong	360
+chon	361
+voi dat	362
+trong chon	363
+thieu	364
+nien	365
+thieu nien	366
+nien bun	367
+dat day	368
+chan tay	369
+tay bun	370
+bun dinh	371
+dinh nho	372
+lop dat	373
+do mua	374
+dat bi	375
+giua	376
+nam	377
+giua dam	378
+lay, nam	379
+thi	380
+dich	381
+bun thi	382
+thi dich	383
+duoi lop	384
+di	385
+lay, di	386
+chan.'	387
+nhin xuong	388
+bun duoi	389
+duoi chan.'	390
+LLLLOO	391
+phu	392
+sinh.'	393
+phu day	394
+bun sinh.'	395
+qua vung	396
+lay, den	397
+dac,	398
+mot lop	399
+bun day	400
+day dac,	401
+long	402
+thieu long	403
+long bun	404
+nhieu	405
+vua nhieu	406
+nhieu bun	407
+dat, la	408
+run.'	409
+bun run.'	410
+ca nguoi	411
+nguoi bun	412
+run, nhu	413
+ke	414
+khong ke	415
+ke bun	416
+b'\xc3\xb0au	417
+goi	418
+b'\xc3\xb0au goi	419
+goi bun	420
+run co	421
+LOOLLNOLLNLL	422
+con duong	423
+duong bun	424
+chi	425
+dat, chi	426
+roi.'	427
+trong vung	428
+bun roi.'	429
+vay,	430
+ngay	431
+bun vay,	432
+vay, ngay	433
+vit	434
+nat cho	435
+cho bun	436
+bun vit	437
+vit tren	438
+nen	439
+bun nen	440
+nen chat	441
+cay	442
+cay va	443
+dat de	444
+bai	445
+moi	446
+xuong bai	447
+bai bun	448
+bun moi	449
+moi kiet	450
+mui	451
+dang	452
+mui day	453
+dat, dang	454
+xuong vung	455
+mop	456
+mop trong	457
+lay co	458
+phia	459
+cuon	460
+phia lam	461
+lam bun	462
+dat cuon	463
+nhun	464
+long co	465
+co bun	466
+bun nhun	467
+nhun de	468
+dat sau	469
+lem	470
+lam lem	471
+lem bun	472
+lay nhu	473
+tim	474
+xuong dam	475
+bun tim	476
+tim nhung	477
+cau	478
+ta day	479
+dat cau	480
+den nuoc	481
+nuoc bun	482
+do da	483
+nham	484
+thach	485
+nham thach	486
+thach bun	487
+cho han	488
+vung nuoc	489
+ra	490
+tu dam	491
+bun di	492
+di ra	493
+ten	494
+quy	495
+xin	496
+ten quy	497
+quy bun	498
+bun xin	499
+xin do	500
+hop,	501
+hoi hop,	502
+hop, bun	503
+khon	504
+long ta	505
+run khon	506
+loi	507
+so	508
+loi nhu	509
+dat, so	510
+trang,	511
+trang, lop	512
+dat va	513
+sung	514
+suong	515
+sung suong	516
+suong bun	517
+tieu	518
+bao	519
+tieu bao	520
+bao bun	521
+boc nam	522
+nam bun	523
+duoi day	524
+dap	525
+lai lay	526
+bun dap	527
+dap cho	528
+b'lao	529
+b'lao bun	530
+nguoi day	531
+tron	532
+duong day	533
+lay, tron	534
+thi cua	535
+gan	536
+cot	537
+gan cot	538
+cot bun	539
+giac	540
+giac ga	541
+ga bun	542
+dat ma	543
+khoi	544
+khoi dinh	545
+dat ,	546
+da so	547
+so bun	548
+bun da	549
+da dam	550
+nay."	551
+bun nay."	552
+nay." hai	553
+trung	554
+trung mui	555
+mui bun	556
+gio,	557
+mua gio,	558
+gio, bun	559
+dat cung	560
+xung	561
+quanh	562
+lon	563
+xung quanh	564
+quanh bun	565
+dat lon	566
+nhao	567
+nhoet	568
+nhao nhoet	569
+nhoet bun	570
+dat do	571
+quan	572
+y day	573
+dat, quan	574
+lieng	575
+boc dat	576
+ma lieng	577
+banh	578
+an	579
+banh dat	580
+bun cung	581
+cung an	582

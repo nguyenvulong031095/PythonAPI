@@ -1,0 +1,818 @@
+ro	1
+viec	2
+troc	3
+na	4
+giang	5
+ro viec	6
+viec troc	7
+troc na	8
+na giang	9
+LLLL	10
+LLLLL	11
+LL	12
+giai	13
+thuong	14
+lao	15
+giai thuong	16
+thuong troc	17
+na lao	18
+LLL	19
+LLLLLL	20
+-	21
+thang	22
+chet	23
+dam	24
+- thang	25
+thang troc	26
+troc chet	27
+chet dam	28
+O	29
+OL	30
+kia	31
+chi	32
+troc kia	33
+kia chi	34
+quan	35
+den	36
+thi	37
+quan den	38
+den troc	39
+na thi	40
+xao	41
+tim	42
+du	43
+xao tim	44
+tim troc	45
+na du	46
+quy	47
+treu	48
+hai	49
+nguoi.'	50
+quy treu	51
+treu troc	52
+troc hai	53
+hai nguoi.'	54
+LLLLLOO	55
+han	56
+dau	57
+lanh	58
+lung	59
+han dau	60
+dau troc	61
+troc lanh	62
+lanh lung	63
+"ung	64
+trung	65
+niet"	66
+(bat	67
+"ung trung	68
+trung troc	69
+troc niet"	70
+niet" (bat	71
+LLLLO	72
+OLLL	73
+LO	74
+voi	75
+de	76
+hen	77
+voi thang	78
+troc de	79
+de hen	80
+cai	81
+loc.'	82
+cai dau	83
+troc loc.'	84
+LLLOO	85
+la	86
+bon	87
+la de	88
+de troc	89
+na bon	90
+lai	91
+long	92
+loc,	93
+dau lai	94
+lai troc	95
+troc long	96
+long loc,	97
+LLLO	98
+dinh	99
+khong	100
+dinh la	101
+la troc	102
+troc dau	103
+dau khong	104
+phi	105
+ung	106
+tho.'	107
+phi ung	108
+ung troc	109
+troc tho.'	110
+binh	111
+di	112
+na,	113
+chac	114
+binh di	115
+di troc	116
+troc na,	117
+na, chac	118
+LLO	119
+doi	120
+ta	121
+doi den	122
+na, ta	123
+da	124
+cu	125
+xuong	126
+nhu	127
+da cu	128
+cu troc	129
+troc xuong	130
+xuong nhu	131
+ten	132
+lua	133
+lieu	134
+ten lua	135
+lua troc	136
+troc lieu	137
+lieu khong	138
+hay	139
+ninh	140
+khong dau	141
+troc hay	142
+hay ninh	143
+teu,	144
+con	145
+lao dau	146
+troc teu,	147
+teu, con	148
+b'lao	149
+vung	150
+b'lao troc	151
+dau vung	152
+LOLLL	153
+hoi:	154
+dau hoi:	155
+b'lao dau	156
+troc hoi:	157
+hoi: -	158
+hap	159
+dau hap	160
+di!	161
+mung	162
+di! lao	163
+lao troc	164
+dau mung	165
+duoi	166
+phai	167
+duoi den	168
+na phai	169
+chung	170
+chung ta	171
+ta troc	172
+na hai	173
+gian	174
+o	175
+nay.'	176
+gian o	177
+o troc	178
+troc nay.'	179
+L	180
+truyen	181
+lenh	182
+truyen lenh	183
+lenh troc	184
+dang	185
+lam	186
+cho	187
+dang treu	188
+troc lam	189
+lam cho	190
+cua	191
+troc cua	192
+cua dam	193
+cao	194
+loc	195
+trong	196
+dau cao	197
+cao troc	198
+troc loc	199
+loc trong	200
+teu	201
+may	202
+troc teu	203
+teu may	204
+mat	205
+tran	206
+troi	207
+mat tran	208
+tran troc	209
+troc den	210
+den troi	211
+xuyen	212
+co	213
+gai	214
+xuyen treu	215
+troc co	216
+co gai	217
+va	218
+giet	219
+tram	220
+ho	221
+va giet	222
+giet troc	223
+troc tram	224
+tram ho	225
+kiep!	226
+nay	227
+nap	228
+kiep! thang	229
+troc nay	230
+nay nap	231
+son	232
+mot	233
+son de	234
+na mot	235
+thich	236
+huynh	237
+hon!	238
+thich treu	239
+troc huynh	240
+huynh hon!	241
+ngu	242
+cu tran	243
+troc ngu	244
+ngu khong	245
+nhin	246
+chong	247
+vao	248
+nguoi	249
+nhin chong	250
+chong troc	251
+troc vao	252
+vao nguoi	253
+buc	254
+nhin trong	255
+trong troc	256
+vao buc	257
+nen	258
+nen cao	259
+dau di	260
+9	261
+co 9	262
+N	263
+LN	264
+ni	265
+ni co	266
+co troc	267
+dau o	268
+tieu	269
+tang	270
+day	271
+tieu tang	272
+tang troc	273
+dau day	274
+gia	275
+mom	276
+- lao	277
+troc gia	278
+gia mom	279
+con.'	280
+con thang	281
+troc con.'	282
+b'.thang	283
+b'.thang troc	284
+troc con	285
+con dam	286
+LOOLLLLL	287
+khong,	288
+cho lao	289
+lieu khong,	290
+LLLLLO	291
+y	292
+huynh.'	293
+y treu	294
+troc huynh.'	295
+cap	296
+an	297
+cap lai	298
+na an	299
+nui	300
+nui nay	301
+nay troc	302
+loc khong	303
+hieu	304
+tai	305
+hieu ten	306
+ten troc	307
+nay tai	308
+lan	309
+khe	310
+lan trong	311
+xuong khe	312
+\xc3\xb0inh	313
+dau \xc3\xb0inh	314
+OLLNOLLNLLL	315
+chiu	316
+phan	317
+chiu di	318
+na phan	319
+muon	320
+sa	321
+thanh	322
+muon treu	323
+troc sa	324
+sa thanh	325
+nhan	326
+na.'	327
+gian nhan	328
+nhan troc	329
+troc na.'	330
+LLOO	331
+dinh,	332
+ra	333
+tung	334
+dinh, khong	335
+khong troc	336
+troc ra	337
+ra tung	338
+den day	339
+day troc	340
+na ten	341
+loc thi	342
+bon lao	343
+troc chung	344
+nhung	345
+nhung dau	346
+teu khong	347
+suon	348
+xuong suon	349
+minh	350
+troc loc,	351
+loc, minh	352
+nhi	353
+nhi cao	354
+dau lam	355
+toi	356
+thuong toi	357
+toi troc	358
+na chung	359
+dinh nui	360
+nui troc	361
+troc bon	362
+bon mat	363
+cang	364
+nay cang	365
+ma	366
+ma di	367
+ke	368
+nha	369
+ke den	370
+na nha	371
+khac	372
+bi	373
+tuom	374
+mu.'	375
+khac bi	376
+bi troc	377
+troc tuom	378
+tuom mu.'	379
+dai	380
+phu,	381
+ngoai	382
+ten dai	383
+dai troc	384
+troc phu,	385
+phu, ngoai	386
+teu.'	387
+troc teu.'	388
+cung	389
+cua cung	390
+dau cung	391
+truoc	392
+nguoi dau	393
+troc o	394
+o truoc	395
+luc	396
+den lao	397
+dau luc	398
+mot lao	399
+dau thi	400
+dau...'	401
+va lao	402
+troc dau...'	403
+LLLOOOO	404
+cam	405
+yeu	406
+cam long	407
+long troc	408
+troc yeu	409
+yeu ma	410
+y,	411
+vao y,	412
+nay xao	413
+thieu	414
+vao thieu	415
+loi	416
+that	417
+loi dau	418
+nay that	419
+heu.'	420
+troc heu.'	421
+con lua	422
+treo,	423
+dau,	424
+treo, quy	425
+quy troc	426
+troc dau,	427
+dau, quy	428
+ngoc	429
+troc ngoc	430
+ngoc lam	431
+biet	432
+doi lao	433
+troc khong	434
+khong biet	435
+thua	436
+bat	437
+gioi?	438
+thua lao	439
+troc bat	440
+bat gioi?	441
+yeu.'	442
+ma lao	443
+troc yeu.'	444
+het.'	445
+cho da	446
+da troc	447
+troc het.'	448
+ky	449
+son,	450
+tren	451
+cu ky	452
+ky troc	453
+troc son,	454
+son, tren	455
+b'nguoi	456
+do	457
+dau.'	458
+b'nguoi do	459
+do troc	460
+troc dau.'	461
+LOLLLLL	462
+- ten	463
+dau gia	464
+kia,	465
+danh	466
+troc kia,	467
+kia, danh	468
+phi\xe2\x80\xa6con	469
+nay,	470
+cac	471
+phi\xe2\x80\xa6con lua	472
+troc nay,	473
+nay, cac	474
+LLLOLLNOLNNOLLNLLL	475
+ga	476
+ga cao	477
+la cao	478
+dau, con	479
+ba	480
+ba lao	481
+loc kia	482
+xem	483
+xem lao	484
+kia chong	485
+con thi	486
+noi	487
+hinh	488
+cac noi	489
+noi troc	490
+na hinh	491
+bac	492
+bac de	493
+na lenh	494
+noi:	495
+noi: -	496
+- troc	497
+b'be	498
+pham	499
+viet	500
+b'be troc	501
+troc pham	502
+pham viet	503
+LOLL	504
+nay den	505
+nam,	506
+tro	507
+minh,	508
+nam, tran	509
+troc tro	510
+tro minh,	511
+troc that	512
+that la	513
+dau?	514
+lat	515
+khong cao	516
+troc dau?	517
+dau? lat	518
+tau,	519
+mot nguoi	520
+nguoi troc	521
+troc tau,	522
+tau, tren	523
+gay	524
+kia gay	525
+sut	526
+troc sut	527
+sut dau	528
+cuoi?	529
+cuoi	530
+dap:	531
+cuoi? nguoi	532
+troc cuoi	533
+cuoi dap:	534
+qua!	535
+qua! lao	536
+troc do	537
+do that	538
+tho,	539
+tu	540
+thuong ung	541
+troc tho,	542
+tho, tu	543
+cung bon	544
+bon troc	545
+ma den	546
+phu	547
+phu cao	548
+dau tai	549
+sang	550
+loc sang	551
+khong\xe2\x80\x9d.'	552
+cua lua	553
+lieu khong\xe2\x80\x9d.'	554
+LLLLLOLLNOLNNOLNLOO	555
+anh	556
+nao	557
+anh dau	558
+troc nao	559
+nao la	560
+nua	561
+co nguoi	562
+dau nua	563
+u?	564
+co khong	565
+dau u?	566
+ma cung	567
+cung troc	568
+b'bon	569
+chua	570
+b'bon dau	571
+troc chua	572
+chua thieu	573
+\xc3\xb0ong	574
+ra lenh	575
+na \xc3\xb0ong	576
+ha	577
+ha lenh	578
+de di	579
+ba cao	580
+dau lenh	581
+suc	582
+ra suc	583
+suc troc	584
+na pham	585
+dang muon	586
+muon troc	587
+na dai	588
+ta.'	589
+na ta.'	590
+be	591
+,	592
+de be	593
+be troc	594
+na ,	595
+chut	596
+chut treu	597
+troc nhung	598
+nhung lai	599
+trong,	600
+trong, dau	601
+loc, cam	602
+\xe2\x80\x9ccon	603
+\xe2\x80\x9ccon lua	604
+dau kia,	605
+OLLNOLNNOLNLLLL	606
+ruot	607
+theo	608
+ruot theo	609
+theo troc	610
+len	611
+dong	612
+chan.'	613
+len tren	614
+tren troc	615
+troc dong	616
+dong chan.'	617
+LLLLOO	618
+nguoi den	619
+na ta	620
+dau, ma	621
+lao treu	622
+con gai	623
+loai	624
+kho	625
+voi loai	626
+loai troc	627
+dau kho	628
+lu	629
+se	630
+lu dau	631
+do se	632
+la dam	633
+dam troc	634
+nay muon	635
+thay	636
+thay chua	637
+chua troc	638
+dau nay	639
+"thuy	640
+nguyet"	641
+"thuy trung	642
+troc nguyet"	643
+nguyet" ,	644
+LLLLLLO	645
+OLLLL	646
+bien	647
+bien thanh	648
+thanh troc	649
+dam,	650
+chet dam,	651
+ta,	652
+nguoi cao	653
+dau ta,	654
+nay dam	655
+nho?	656
+dot	657
+cua thang	658
+troc nho?	659
+nho? dot	660
+tinh	661
+ngao	662
+tinh hinh	663
+hinh troc	664
+na ngao	665
+sao	666
+han tran	667
+khong sao	668
+duoc,	669
+lo	670
+au,	671
+duoc, tran	672
+troc lo	673
+lo au,	674
+beo	675
+beo y	676
+y troc	677
+teu va	678
+do de	679
+bong.'	680
+troc nhan	681
+nhan bong.'	682
+oc.'	683
+troc oc.'	684
+khoi	685
+nhieu	686
+b'lao lua	687
+troc khoi	688
+khoi nhieu	689
+tac	690
+lao tac	691
+tac troc	692
+dau, nguoi	693
+b'"lao	694
+b'"lao tac	695
+dau, chet	696
+LOOLLL	697
+pho	698
+tri	699
+troc pho	700
+pho tri	701
+b'neu	702
+khi	703
+lot	704
+b'neu de	705
+troc khi	706
+khi lot	707
+da cao	708
+dau nguoi	709
+mu	710
+mu cao	711
+gi	712
+chang	713
+gi nguoi	714
+dau? chang	715
+buoc	716
+he	717
+deu	718
+buoc he	719
+he troc	720
+dau deu	721
+su,	722
+su, nhung	723
+nhung troc	724
+hu	725
+gioi	726
+hu lao	727
+bat gioi	728
+teu cua	729
+ma:	730
+"thang	731
+thoi	732
+tha	733
+ma: "thang	734
+"thang troc	735
+troc thoi	736
+thoi tha	737
+OLLLLL	738
+cho lenh	739
+lon,	740
+bong	741
+loang,	742
+lon, dau	743
+troc bong	744
+bong loang,	745
+khong con	746
+nam	747
+mai	748
+nam tran	749
+troc mai	750
+mai khong	751
+tho	752
+bo	753
+troc tho	754
+tho bo	755
+khong ngu	756
+bien,	757
+nai	758
+tran.'	759
+bien, thanh	760
+troc nai	761
+nai tran.'	762
+tre,	763
+tre, dau	764
+khi o	765
+cua ke	766
+ve	767
+ve dang	768
+dang troc	769
+vi	770
+ha treu	771
+troc vi	772
+vi tieu	773
+"lao	774
+kia!	775
+ma: "lao	776
+"lao troc	777
+troc kia!	778
+kia! nguoi	779
+toet	780
+dau toet	781
+phat	782
+troc phat	783
+phat ra	784
+giat	785
+dau giat	786
+tay	787
+chat	788
+tay lao	789
+troc bi	790
+bi chat	791
+dau bat	792
+dau noi:	793
+boc	794
+ra.'	795
+boc lao	796
+dau ra.'	797
+thien	798
+am	799
+bon lua	800
+troc thien	801
+thien am	802
+hoang	803
+hoang de	804
+loc, nhan	805
+lien	806
+tung dau	807
+loc lien	808
+noi dau	809
+teu nhung	810
+ngon	811
+ngon nui	812
+bao	813
+bao di	814
+dau ba	815
+dau tieu	816
+nho	817
+loc nho	818

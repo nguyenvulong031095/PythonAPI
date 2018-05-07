@@ -1,0 +1,559 @@
+ma	1
+dam	2
+khua	3
+tay	4
+mua	5
+ma dam	6
+dam khua	7
+khua tay	8
+tay mua	9
+LLLL	10
+LLL	11
+LL	12
+mai	13
+cheo	14
+nuoc,	15
+mot	16
+mai cheo	17
+cheo khua	18
+khua nuoc,	19
+nuoc, mot	20
+LLLLO	21
+nhung	22
+khach	23
+khac	24
+deu	25
+nhung khach	26
+khach khua	27
+khua khac	28
+khac deu	29
+LLLLL	30
+cay	31
+choi	32
+khoang,	33
+bui	34
+cay choi	35
+choi khua	36
+khua khoang,	37
+khoang, bui	38
+LLLLLLO	39
+cheo,	40
+mot tay	41
+tay khua	42
+khua mai	43
+mai cheo,	44
+nhe	45
+nhang	46
+dong	47
+nhe nhang	48
+nhang khua	49
+khua dong	50
+dong mai	51
+lang	52
+da	53
+cho	54
+lang da	55
+da khua	56
+khua cheo	57
+cheo cho	58
+giao	59
+chuong	60
+go	61
+giao da	62
+khua chuong	63
+chuong go	64
+LLLLLL	65
+choang	66
+vang.'	67
+choang choang	68
+choang khua	69
+khua vang.'	70
+LLLLOO	71
+thiep	72
+du	73
+tan	74
+mo	75
+thiep du	76
+du khua	77
+khua tan	78
+tan mo	79
+nu	80
+nhan,	81
+moi	82
+nu nhan,	83
+nhan, khua	84
+khua moi	85
+moi mua	86
+tieng	87
+nuoc	88
+,	89
+tieng nuoc	90
+nuoc khua	91
+dong ,	92
+O	93
+LO	94
+gi,	95
+len,	96
+anh	97
+gi, tay	98
+khua len,	99
+len, anh	100
+LLLO	101
+LLO	102
+gian	103
+du,	104
+khoang	105
+dau	106
+gian du,	107
+du, khua	108
+khua khoang	109
+khoang dau	110
+ben	111
+dong ben	112
+de	113
+dem	114
+toi	115
+sung	116
+de dem	117
+dem khua	118
+khua toi	119
+toi sung	120
+cua	121
+han	122
+nao	123
+lam	124
+cua han	125
+han khua	126
+khua nao	127
+nao lam	128
+co	129
+nguoi	130
+neo	131
+am	132
+co nguoi	133
+nguoi khua	134
+khua neo	135
+neo am	136
+luot	137
+nang	138
+chen,	139
+luot khach	140
+khua nang	141
+nang chen,	142
+sau	143
+khi	144
+dao	145
+dinh	146
+sau khi	147
+khi khua	148
+khua dao	149
+dao dinh	150
+ke	151
+dich,	152
+chem	153
+ke dich,	154
+dich, khua	155
+dao chem	156
+tran	157
+tran dich,	158
+them	159
+nhin,	160
+ve	161
+them nhin,	162
+nhin, khua	163
+dao ve	164
+"minh	165
+su"	166
+"minh su"	167
+su" khua	168
+OLLLL	169
+OL	170
+trong	171
+chieng	172
+go trong	173
+trong khua	174
+khua chieng	175
+chieng co	176
+tinh	177
+tai	178
+len	179
+tinh tai	180
+tai khua	181
+khoang len	182
+luc	183
+thi	184
+danh	185
+luc thi	186
+thi khua	187
+chuong danh	188
+giong	189
+cho nguoi	190
+chieng giong	191
+nhanh	192
+chong	193
+tay,tung	194
+minh	195
+nhanh chong	196
+chong khua	197
+khua tay,tung	198
+tay,tung minh	199
+LLLOLLLL	200
+dai	201
+sanh	202
+dai sanh	203
+sanh khua	204
+voi	205
+roi	206
+yeu	207
+voi khach	208
+khua roi	209
+roi yeu	210
+ngoanh	211
+ngoanh dau	212
+dau khua	213
+tay voi	214
+kia	215
+dang	216
+bat	217
+kia dang	218
+dang khua	219
+chieng bat	220
+hoa	221
+duong	222
+hoa duong	223
+duong khua	224
+chieng mua	225
+ai	226
+cung	227
+ai cung	228
+cung khua	229
+chuong giong	230
+buu	231
+lien	232
+buu lien	233
+lien khua	234
+tham	235
+thi tham	236
+tham khua	237
+vay	238
+phai	239
+san	240
+vay khach	241
+khua phai	242
+phai san	243
+vao	244
+dien,	245
+khi khach	246
+khua vao	247
+vao dien,	248
+vuong,	249
+ra	250
+vuong, khach	251
+khua ra	252
+ra vao	253
+LLLLLO	254
+day	255
+nha	256
+dem khach	257
+khua day	258
+day nha	259
+chieng,	260
+sam	261
+danh trong	262
+khua chieng,	263
+chieng, sam	264
+b'khach	265
+dan	266
+b'khach khua	267
+khua dan	268
+dan dan	269
+LOLLLLL	270
+tuy	271
+nhieu	272
+tuy khach	273
+khua nhieu	274
+nhieu nhung	275
+noi,	276
+van	277
+chua	278
+noi, khach	279
+khua van	280
+van chua	281
+nay	282
+nay khach	283
+khua bat	284
+bat dau	285
+gi	286
+la	287
+gi ma	288
+ma khua	289
+dong la	290
+han dang	291
+chieng danh	292
+qua	293
+cac	294
+trai,	295
+qua cac	296
+cac khua	297
+khua trai,	298
+trai, day	299
+doi	300
+phuong	301
+ho	302
+doi phuong	303
+phuong khua	304
+khua trong	305
+trong ho	306
+xuong	307
+khua xuong	308
+xuong dong	309
+ga	310
+chan	311
+buoc	312
+roi ga	313
+ga khua	314
+khua chan	315
+chan buoc	316
+truc	317
+gio	318
+cay truc	319
+truc khua	320
+trong gio	321
+quay	322
+cung khach	323
+khua thi	324
+thi quay	325
+may	326
+cau	327
+moi khach	328
+khua may	329
+may cau	330
+hat	331
+thoi	332
+hat thoi	333
+thoi khua	334
+khua cay	335
+cay la	336
+hoang	337
+loan	338
+hoang loan	339
+loan khua	340
+chan mua	341
+chung	342
+lan	343
+chung de	344
+de khua	345
+tan lan	346
+loi	347
+thu	348
+loi lien	349
+chieng thu	350
+ha	351
+lenh	352
+ha lenh	353
+lenh khua	354
+le	355
+dam khach	356
+khua le	357
+le ra	358
+chung dang	359
+toi,	360
+toi, han	361
+khua mua	362
+mua cay	363
+khong	364
+lo	365
+nhu	366
+khong lo	367
+lo khua	368
+khua len	369
+len nhu	370
+ram	371
+khan	372
+:	373
+-	374
+ram khan	375
+khan khua	376
+khua :	377
+: -	378
+OO	379
+khe	380
+dong,	381
+huong	382
+khe khe	383
+khe khua	384
+khua dong,	385
+dong, huong	386
+tu	387
+tu tu	388
+tu khua	389
+khua nhe	390
+nhe trong	391
+ra sau	392
+sau khua	393
+ngung	394
+khong ngung	395
+ngung khua	396
+nghe	397
+y	398
+hai	399
+mieng	400
+nghe y	401
+y khua	402
+khua hai	403
+hai mieng	404
+L	405
+phach	406
+lac	407
+phach go	408
+go khua	409
+khua lac	410
+lac cac	411
+khua loan	412
+loan len	413
+hai tay	414
+loan len,	415
+chuy	416
+chuy thu	417
+thu khua	418
+chi	419
+khoang, chi	420
+le,	421
+le, tay	422
+tieng gio	423
+gio khua	424
+an	425
+bao	426
+an la	427
+la khua	428
+chuong bao	429
+goi	430
+roi moi	431
+moi khua	432
+chuong goi	433
+trong sanh	434
+truoc	435
+loan,	436
+chan truoc	437
+truoc khua	438
+khua loan,	439
+loan, ve	440
+len.'	441
+dong thoi	442
+khua len.'	443
+LLLOO	444
+b'quan	445
+hao	446
+hoi	447
+b'quan hao	448
+hao khua	449
+trong hoi	450
+LOLLLL	451
+nen	452
+khong nen	453
+nen khua	454
+tho	455
+khoang\xe2\x80\xa6	456
+lat	457
+tho vao	458
+vao khua	459
+khua khoang\xe2\x80\xa6	460
+khoang\xe2\x80\xa6 lat	461
+LLLLLLOLLNOLNNOLLN	462
+nam	463
+nam dam	464
+khoang lac	465
+giam	466
+moi.'	467
+khong giam	468
+giam khua	469
+khua moi.'	470
+vo	471
+khua vo	472
+vo tay	473
+phiet,	474
+van phiet,	475
+phiet, khua	476
+xau	477
+xi	478
+di	479
+xau xi	480
+xi khua	481
+chan di	482
+loat	483
+phia	484
+dong loat	485
+loat khua	486
+khua ve	487
+ve phia	488
+mat	489
+dat,	490
+lung	491
+mat dat,	492
+dat, khua	493
+khoang lung	494
+va	495
+ngang.'	496
+va khach	497
+khua di	498
+di ngang.'	499
+LLLLLOO	500
+b'dem	501
+gia	502
+lanh,	503
+b'dem khua	504
+khua gia	505
+gia lanh,	506
+LOLLL	507
+que	508
+que dang	509
+la nguoi	510
+khua co	511
+co giong	512
+chuong,	513
+dong trong	514
+khua chuong,	515
+chuong, mo	516
+keo	517
+khua da	518
+da keo	519
+dot	520
+ngot	521
+manh	522
+dot ngot	523
+ngot khua	524
+khua manh	525
+manh vao	526
+phong	527
+khoan	528
+trong phong	529
+phong khua	530
+khua khoan	531
+khoan mot	532
+ngan	533
+vua	534
+dung	535
+ngan khach	536
+khua vua	537
+vua dung	538
+thanh	539
+quyen,	540
+thanh quyen,	541
+quyen, khua	542
+khoang khong	543
+sot	544
+ruot	545
+tay:	546
+"duoc	547
+sot ruot	548
+ruot khua	549
+khua tay:	550
+tay: "duoc	551
+b'tieng	552
+keng	553
+gat	554
+gong,	555
+b'tieng keng	556
+keng khua	557
+khua gat	558
+gat gong,	559

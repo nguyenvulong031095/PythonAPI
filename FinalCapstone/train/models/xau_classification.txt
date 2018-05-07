@@ -1,8 +1,8 @@
              precision    recall  f1-score   support
 
         xấu       0.94      1.00      0.97       281
-        xâu       1.00      0.20      0.33        15
+        xâu       1.00      0.13      0.24        15
         xẩu       0.00      0.00      0.00         5
         xau       0.00      0.00      0.00         1
 
-avg / total       0.92      0.94      0.92       302
+avg / total       0.92      0.94      0.91       302

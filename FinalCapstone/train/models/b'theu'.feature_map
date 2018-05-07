@@ -1,0 +1,718 @@
+ao	1
+ngan	2
+theu	3
+hoa	4
+mau	5
+ao ngan	6
+ngan theu	7
+theu hoa	8
+hoa mau	9
+LLLL	10
+LLL	11
+LL	12
+hai	13
+dau	14
+chim	15
+choc	16
+hai dau	17
+dau theu	18
+theu chim	19
+chim choc	20
+moi	21
+ghe	22
+mot	23
+trai	24
+moi ghe	25
+ghe theu	26
+theu mot	27
+mot trai	28
+sac	29
+den	30
+ngon	31
+kien	32
+sac den	33
+den theu	34
+theu ngon	35
+ngon kien	36
+b'\xc3\xb0uong	37
+rat	38
+tinh	39
+b'\xc3\xb0uong theu	40
+theu rat	41
+rat tinh	42
+LOOLLNOLLNLLLL	43
+cach	44
+nay	45
+cung	46
+mot cach	47
+cach theu	48
+theu nay	49
+nay cung	50
+ta	51
+khe	52
+lay	53
+ta ao	54
+ao theu	55
+theu khe	56
+khe lay	57
+lon	58
+co	59
+chu	60
+te,	61
+lon co	62
+co theu	63
+theu chu	64
+chu te,	65
+LLO	66
+b'canh	67
+truc	68
+tren	69
+b'canh truc	70
+truc theu	71
+theu tren	72
+tren ao	73
+LOLLLL	74
+b'bang	75
+muoi	76
+canh,	77
+b'bang chu	78
+chu theu	79
+theu muoi	80
+muoi canh,	81
+LLLLO	82
+thuong	83
+that	84
+buoc	85
+qua	86
+thuong that	87
+that theu	88
+theu buoc	89
+buoc qua	90
+LLLLLL	91
+y	92
+phuc	93
+y phuc	94
+phuc theu	95
+L	96
+ha,	97
+da	98
+det	99
+nen	100
+ha, da	101
+da theu	102
+theu det	103
+det nen	104
+bo	105
+cua	106
+ga,	107
+bo that	108
+theu cua	109
+cua ga,	110
+luc	111
+vang,	112
+luc sac	113
+sac theu	114
+hoa vang,	115
+khan	116
+tay	117
+buc	118
+khan tay	119
+tay theu	120
+mot buc	121
+nao	122
+tu	123
+the	124
+nao cung	125
+cung theu	126
+theu tu	127
+tu the	128
+xuan	129
+theu xuan	130
+xuan cung	131
+deu	132
+hinh	133
+nay deu	134
+deu theu	135
+theu hinh	136
+hinh dau	137
+b'ong	138
+thao	139
+noi:	140
+b'ong theu	141
+theu thao	142
+thao noi:	143
+LLLO	144
+LOLLL	145
+voi	146
+vien	147
+gu,	148
+voi vien	149
+vien theu	150
+theu mau	151
+mau gu,	152
+goi,	153
+kim	154
+tuyen	155
+goi, ao	156
+theu kim	157
+kim tuyen	158
+LLLLL	159
+cho	160
+nang,	161
+hoi,	162
+cho nang,	163
+nang, theu	164
+thao hoi,	165
+thue	166
+may	167
+gap	168
+de	169
+thue may	170
+may theu	171
+theu gap	172
+gap de	173
+khac	174
+nhau	175
+bang	176
+khac nhau	177
+nhau theu	178
+theu bang	179
+bang kim	180
+nghe	181
+ren	182
+ma	183
+co nghe	184
+nghe theu	185
+theu ren	186
+ren ma	187
+xuong	188
+ba	189
+mot xuong	190
+xuong theu	191
+theu cho	192
+cho ba	193
+lap	194
+va	195
+tim	196
+lap xuong	197
+theu va	198
+va tim	199
+em	200
+hinh xuong	201
+cua em	202
+tac	203
+xa	204
+tac xa	205
+xa theu	206
+bi	207
+dinh	208
+cua xuong	209
+theu bi	210
+bi dinh	211
+sau,	212
+sau, xuong	213
+den xuong	214
+theu tim	215
+tim gap	216
+truoc	217
+rong,	218
+truoc co	219
+hinh rong,	220
+tam	221
+tham	222
+dai	223
+tam tham	224
+tham theu	225
+mot dai	226
+mot tam	227
+tam theu	228
+hinh mot	229
+a	230
+man	231
+a man	232
+man theu	233
+tren tam	234
+ngoai	235
+tui	236
+bon	237
+ngoai tui	238
+tui theu	239
+theu bon	240
+bon chu	241
+doi	242
+hong	243
+doi hai	244
+hai theu	245
+mau hong	246
+day	247
+hoa.'	248
+bang day	249
+day theu	250
+theu hoa.'	251
+LLLOO	252
+men	253
+thua	254
+loe	255
+men co	256
+theu thua	257
+thua loe	258
+leu	259
+duoc	260
+doa	261
+leu duoc	262
+duoc theu	263
+mot doa	264
+tay,	265
+hoa hong	266
+hong theu	267
+bang tay,	268
+la	269
+con	270
+su	271
+la co	272
+theu con	273
+con su	274
+b'goc	275
+b'goc khan	276
+khan theu	277
+phu	278
+gam	279
+phu gam	280
+gam theu	281
+mui	282
+mui kim	283
+kim theu	284
+theu de	285
+de doi	286
+han	287
+noi	288
+tho	289
+han noi	290
+noi theu	291
+thao tho	292
+cau	293
+quay	294
+di,nao	295
+cau that	296
+theu quay	297
+quay di,nao	298
+LLOLLL	299
+lac	300
+dau,	301
+lac dau,	302
+dau, theu	303
+quan	304
+ket	305
+quan khan	306
+theu ket	307
+ket cau	308
+ay	309
+ay co	310
+mot doi	311
+van	312
+hoa van	313
+van theu	314
+toi	315
+lien	316
+dap:	317
+toi lien	318
+lien theu	319
+thao dap:	320
+giay	321
+hong.'	322
+doi giay	323
+giay theu	324
+mau hong.'	325
+LLLLOO	326
+chiec	327
+vao	328
+mieng,	329
+chiec man	330
+theu vao	331
+vao mieng,	332
+LLLLLO	333
+sat	334
+sat co	335
+cay	336
+nham	337
+dam	338
+cay kim	339
+theu nham	340
+nham dam	341
+bay	342
+vut	343
+theu bay	344
+bay vut	345
+\xc3\xb0ong	346
+cua \xc3\xb0ong	347
+OLLNOLLNLLL	348
+LO	349
+khung	350
+lay khung	351
+khung theu	352
+theu ma	353
+ma \xc3\xb0ong	354
+hoa,	355
+chan	356
+ao co	357
+theu hoa,	358
+hoa, chan	359
+mang	360
+mang hai	361
+hoa, dau	362
+tha	363
+le	364
+tha that	365
+theu le	366
+le buoc	367
+got	368
+di	369
+ra	370
+got that	371
+theu di	372
+di ra	373
+me	374
+me ta	375
+ta theu	376
+mot con	377
+huu	378
+me huu	379
+huu theu	380
+xanh	381
+\xe2\x80\x9cngoc	382
+xanh co	383
+chu \xe2\x80\x9cngoc	384
+OLLNOLNNOLNLLLLL	385
+cai	386
+dep	387
+qua,	388
+cai khan	389
+theu dep	390
+dep qua,	391
+anh,	392
+anh, tho	393
+tho theu	394
+theu ao	395
+ao dai	396
+chi	397
+do	398
+chi tho	399
+theu do	400
+do em	401
+anh	402
+lam	403
+ky	404
+anh khan	405
+theu lam	406
+lam ky	407
+doan	408
+chin	409
+gam doan	410
+doan theu	411
+theu chin	412
+chin con	413
+b'ben	414
+b'ben trai	415
+trai theu	416
+theu tam	417
+tam chu	418
+ben	419
+phai	420
+chu:	421
+ben phai	422
+phai theu	423
+tam chu:	424
+sau	425
+sau chu	426
+bang chi	427
+rong	428
+von	429
+co ghe	430
+theu rong	431
+rong von	432
+troi	433
+lai	434
+nhung	435
+troi lai	436
+lai theu	437
+theu nhung	438
+nhung chu	439
+biet	440
+biet va	441
+va theu	442
+dan:	443
+lai va	444
+thao dan:	445
+ve	446
+thao.'	447
+co ve	448
+ve theu	449
+theu thao.'	450
+tan	451
+co lon	452
+lon theu	453
+chu tan	454
+b'giong	455
+to	456
+b'giong noi	457
+thao to	458
+LOLLLLL	459
+han.'	460
+cua han.'	461
+dung	462
+cam	463
+dung kim	464
+theu cam	465
+cam muoi	466
+dem	467
+dem gam	468
+rong ve	469
+tieu	470
+bao	471
+dap	472
+tieu bao	473
+bao theu	474
+thao dap	475
+tam khan	476
+mau luc	477
+trong	478
+theu trong	479
+trong tay	480
+nho	481
+rat nho	482
+khong	483
+theu dai	484
+dai khong	485
+gio	486
+len	487
+theu gio	488
+gio len	489
+cua doi	490
+xuyen	491
+theu xuyen	492
+xuyen qua	493
+tieu dau	494
+vai	495
+vai gam	496
+hoa, mau	497
+b'nang	498
+b'nang theu	499
+thua.'	500
+cam kim	501
+theu thua.'	502
+"do"	503
+dai ky	504
+ky theu	505
+chu "do"	506
+OLLO	507
+nguoi	508
+nguoi that	509
+di trong	510
+thanh	511
+kiem	512
+den hinh	513
+hinh theu	514
+theu thanh	515
+thanh kiem	516
+roi	517
+hien	518
+roi that	519
+theu hien	520
+hien ra	521
+ma bon	522
+tay deu	523
+trang	524
+van,	525
+mau trang	526
+trang theu	527
+hoa van,	528
+phong	529
+phong han	530
+han theu	531
+rong.'	532
+theu rong.'	533
+nom	534
+du	535
+nom co	536
+hoa du	537
+than	538
+nhung than	539
+don	540
+chi la	541
+la theu	542
+hoa don	543
+nua	544
+la nua	545
+nua theu	546
+\xe2\x80\x98yen\xe2\x80\x99,	547
+ky khac	548
+khac theu	549
+chu \xe2\x80\x98yen\xe2\x80\x99,	550
+OLLNOLNNOLNNLLLOLLNOLNNOLNNO	551
+khuoc	552
+chinh	553
+khuoc chinh	554
+chinh theu	555
+thao mot	556
+"luong"	557
+chu "luong"	558
+OLLLLLO	559
+canh	560
+bang gam	561
+theu canh	562
+canh mau	563
+viec	564
+thi	565
+lam viec	566
+viec theu	567
+thua thi	568
+coi	569
+ao gam	570
+hoa coi	571
+thai	572
+su thai	573
+thai theu	574
+duoi	575
+nhat	576
+duoi co	577
+hinh nhat	578
+lam,	579
+lam, that	580
+quay ve	581
+bach	582
+thao:	583
+-	584
+bach tu	585
+tu theu	586
+theu thao:	587
+thao: -	588
+O	589
+lung	590
+giay lung	591
+lung theu	592
+phuong	593
+hinh phuong	594
+linh	595
+san	596
+linh san	597
+san theu	598
+am	599
+cap	600
+uyen	601
+chan am	602
+am theu	603
+theu cap	604
+cap uyen	605
+ga	606
+hieu	607
+ga co	608
+theu ky	609
+ky hieu	610
+mu	611
+mu con	612
+con theu	613
+theu ba	614
+ba la	615
+bieu	616
+tuong	617
+phuc co	618
+theu bieu	619
+bieu tuong	620
+deu co	621
+nhung doa	622
+qua cau	623
+cau theu	624
+them	625
+det.'	626
+them ve	627
+theu det.'	628
+ran	629
+la thi	630
+thi theu	631
+con ran	632
+xanh,	633
+ret	634
+xanh, la	635
+con ret	636
+b'hinh	637
+tuoi	638
+sang	639
+b'hinh theu	640
+theu tuoi	641
+tuoi sang	642
+soai	643
+"vi"	644
+co soai	645
+soai theu	646
+chu "vi"	647
+co co	648
+theu sau	649
+chan gam	650
+hoa de	651
+tim,	652
+tim, co	653
+theu them	654
+them mau	655
+bo ao	656
+cua noi	657
+hoa bang	658
+mau vang,	659
+vang, theu	660
+dang	661
+ngoi	662
+dang ngoi	663
+ngoi theu	664
+giau	665
+phia	666
+theu giau	667
+giau phia	668
+pho	669
+gi	670
+the?"	671
+pho dang	672
+dang theu	673
+theu gi	674
+gi the?"	675
+do co	676
+vao trong	677
+nhan	678
+nghi	679
+nhan luc	680
+luc theu	681
+hoa nghi	682
+chuyen,	683
+vua	684
+det,	685
+thay	686
+chuyen, vua	687
+vua theu	688
+theu det,	689
+det, thay	690
+LLLLLLO	691
+lot	692
+binh	693
+lot co	694
+chu binh	695
+vang.'	696
+hoa vang.'	697
+ho	698
+ho ma	699
+ma theu	700
+det, han	701
+loi	702
+nhung loi	703
+loi theu	704
+det va	705
+lua	706
+vang	707
+lua vang	708
+vang theu	709
+nu	710
+cho hai	711
+theu nu	712
+nu roi	713
+dai co	714
+ten	715
+ten nay	716
+nay theu	717
+mot chiec	718

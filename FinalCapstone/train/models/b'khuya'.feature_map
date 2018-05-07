@@ -1,0 +1,531 @@
+luc	1
+dem	2
+khuya	3
+sao	4
+con	5
+luc dem	6
+dem khuya	7
+khuya sao	8
+sao con	9
+LLLLL	10
+LLL	11
+LL	12
+b'\xc3\xb0em	13
+da	14
+,	15
+duoi	16
+b'\xc3\xb0em da	17
+da khuya	18
+khuya ,	19
+, duoi	20
+O	21
+LLLL	22
+LOOLLNOLLNLL	23
+LO	24
+OL	25
+b'trong	26
+quy	27
+di	28
+b'trong dem	29
+khuya quy	30
+quy di	31
+LOLLLLL	32
+toi	33
+moi	34
+thay	35
+toi dem	36
+khuya moi	37
+moi thay	38
+canh	39
+co	40
+cho	41
+luc canh	42
+canh khuya	43
+khuya co	44
+co cho	45
+dung	46
+day	47
+dem da	48
+khuya dung	49
+dung day	50
+dot	51
+nhien	52
+khuya dot	53
+dot nhien	54
+lam	55
+la,	56
+khoat	57
+the	58
+lam la,	59
+la, khuya	60
+khuya khoat	61
+khoat the	62
+LLO	63
+b'dem,	64
+nhu	65
+b'dem, khuya	66
+khuya nhu	67
+nhu the	68
+LOLLLO	69
+ron,	70
+mai	71
+chiu	72
+ron, mai	73
+mai khuya	74
+moi chiu	75
+LLLO	76
+tu,	77
+chang	78
+bao	79
+tu, dem	80
+khuya chang	81
+chang bao	82
+roi.'	83
+khuya roi.'	84
+LLLOO	85
+:	86
+-\xc3\xb0em	87
+cung	88
+khong	89
+: -\xc3\xb0em	90
+-\xc3\xb0em khuya	91
+khuya cung	92
+cung khong	93
+OOLLNOLLNLL	94
+OO	95
+\xc3\xb0em	96
+cong	97
+\xc3\xb0em da	98
+, cong	99
+OLLNOLLNLL	100
+thi	101
+khuya thi	102
+thi co	103
+ve	104
+roi,	105
+da ve	106
+ve khuya	107
+khuya roi,	108
+roi, con	109
+b'giua	110
+vang	111
+lang	112
+b'giua dem	113
+khuya vang	114
+vang lang	115
+LOLLLL	116
+lai	117
+gap	118
+khuya lai	119
+lai gap	120
+thanh	121
+b'\xc3\xb0em khuya	122
+khuya thanh	123
+thanh vang	124
+thich,	125
+thich, canh	126
+moi di	127
+LLLLLO	128
+cang	129
+, cang	130
+la	131
+khuya la	132
+la co	133
+o	134
+trong	135
+khuya o	136
+o trong	137
+L	138
+-	139
+\xc3\xb0a	140
+nay	141
+- \xc3\xb0a	142
+\xc3\xb0a khuya	143
+khuya the	144
+the nay	145
+OLLNOLLNL	146
+noi,	147
+\xe2\x80\x9edu	148
+den	149
+muc	150
+noi, \xe2\x80\x9edu	151
+\xe2\x80\x9edu khuya	152
+khuya den	153
+den muc	154
+OLLNOLNNOLNLLL	155
+tinh	156
+mich	157
+trong dem	158
+khuya tinh	159
+tinh mich	160
+giua	161
+giua dem	162
+lai dung	163
+nguoi	164
+khuya nguoi	165
+nguoi toi	166
+troi	167
+dem canh	168
+khuya troi	169
+troi toi	170
+vang.'	171
+nguoi vang.'	172
+LLLLOO	173
+roi?	174
+khuya roi?	175
+roi? nguoi	176
+truoc	177
+som	178
+tung	179
+niem.'	180
+truoc som	181
+som khuya	182
+khuya tung	183
+tung niem.'	184
+khoat,	185
+khu	186
+khuya khoat,	187
+khoat, khu	188
+thanh vang.'	189
+nhung	190
+nhung dem	191
+khuya khong	192
+khong co	193
+b'-	194
+b'- khuya	195
+khoat nhu	196
+LOO	197
+khoat.'	198
+khuya khoat.'	199
+LLLLLOO	200
+deu	201
+lay	202
+khuya deu	203
+deu lay	204
+noi:	205
+\xe2\x80\x9cdem	206
+nay,	207
+noi: \xe2\x80\x9cdem	208
+\xe2\x80\x9cdem khuya	209
+the nay,	210
+OLLNOLNNOLNLLLL	211
+\xc3\xb0ang	212
+\xc3\xb0ang dem	213
+sao lai	214
+OLLNOLLNLLL	215
+khac	216
+yen	217
+ang	218
+khac dem	219
+khuya yen	220
+yen ang	221
+sao dem	222
+hay	223
+dong	224
+den dem	225
+khuya hay	226
+hay dong	227
+mich,	228
+lai dem	229
+tinh mich,	230
+LLLLO	231
+thi con	232
+hat	233
+suong	234
+bam	235
+hat suong	236
+suong khuya	237
+khuya bam	238
+bam dong	239
+b'giua canh	240
+hanh	241
+dong.'	242
+cho dem	243
+khuya hanh	244
+hanh dong.'	245
+buon	246
+chan	247
+khuya buon	248
+buon chan	249
+tuy	250
+vang,	251
+tuy dem	252
+nguoi vang,	253
+b'moi	254
+nghe	255
+tieng	256
+b'moi dem	257
+khuya nghe	258
+nghe tieng	259
+LOLLL	260
+kho	261
+ngu,	262
+khuya kho	263
+kho ngu,	264
+b'dem	265
+lang,	266
+b'dem khuya	267
+yen lang,	268
+qua	269
+rat	270
+ngu	271
+qua rat	272
+rat khuya	273
+moi ngu	274
+ta	275
+giu,	276
+roi!	277
+chung	278
+ta giu,	279
+giu, khuya	280
+khuya roi!	281
+roi! chung	282
+huynh	283
+len	284
+chay	285
+huynh dem	286
+khuya len	287
+len chay	288
+len,	289
+\xe2\x80\x9e\xc3\xb0a	290
+len, \xe2\x80\x9e\xc3\xb0a	291
+\xe2\x80\x9e\xc3\xb0a khuya	292
+roi! moi	293
+OLLNOLNNOLNLOLLNOLLNL	294
+tro	295
+tinh giua	296
+giua khuya	297
+khuya mai	298
+mai tro	299
+.cung	300
+khuya .cung	301
+.cung co	302
+OLLLL	303
+thanh vang,	304
+trieu,	305
+dam	306
+trieu, dem	307
+khong dam	308
+loi,	309
+sang	310
+loi, \xe2\x80\x9e\xc3\xb0a	311
+roi, sang	312
+nang	313
+khuya nang	314
+nang cho	315
+khi	316
+thuc	317
+giac,	318
+khi canh	319
+khuya thuc	320
+thuc giac,	321
+vi	322
+vi dem	323
+moi ve	324
+b'-nua	325
+anh	326
+b'-nua dem	327
+khoat anh	328
+LOOLLL	329
+go	330
+nay dem	331
+den go	332
+tai	333
+ha	334
+khuya tai	335
+tai ha	336
+lanh	337
+tinh,	338
+lanh canh	339
+thanh tinh,	340
+khien	341
+khuya con	342
+con khien	343
+b'den	344
+y	345
+b'den dem	346
+khuya y	347
+y len	348
+nguoi vang	349
+chon	350
+o chon	351
+xong	352
+hay xong	353
+ao	354
+khuya trong	355
+trong ao	356
+thau	357
+xuong	358
+lanh dem	359
+khuya thau	360
+thau xuong	361
+khuya ta	362
+ta khong	363
+cung con	364
+hom	365
+dem hom	366
+hom khuya	367
+khoat nay	368
+vay,	369
+nhu vay,	370
+mim:	371
+"dem	372
+mim: "dem	373
+"dem khuya	374
+OLLL	375
+duoi dem	376
+khuya lanh	377
+lanh vang	378
+b'\xc3\xb0en	379
+ga	380
+b'\xc3\xb0en dem	381
+khuya ga	382
+ga moi	383
+tan	384
+bo,	385
+khuya tan	386
+tan bo,	387
+\xc3\xb0em hom	388
+khoat con	389
+long	390
+gio	391
+khuya long	392
+long gio	393
+cac	394
+khoat, cac	395
+\xe2\x80\x9e\xc3\xb0em	396
+\xe2\x80\x9e\xc3\xb0em da	397
+OLLNOLNNOLNLOLLNOLLNLL	398
+hoi	399
+tu	400
+hoi dem	401
+con tu	402
+trang	403
+cho den	404
+den khuya	405
+khuya trang	406
+trang len	407
+b'canh	408
+b'canh khuya	409
+xa,	410
+vang xa,	411
+tru	412
+ra,	413
+hien	414
+tru dem	415
+khuya ra,	416
+ra, hien	417
+nam	418
+cuong,	419
+khuya nam	420
+nam cuong,	421
+la dem	422
+thanh tinh	423
+dip	424
+danh	425
+len.'	426
+dip dem	427
+khuya danh	428
+danh len.'	429
+roi, tai	430
+tich	431
+khuya tich	432
+tich mich,	433
+day,	434
+vay	435
+day, dem	436
+nhu vay	437
+thi tu	438
+do!"	439
+noi	440
+di qua	441
+qua khuya	442
+khuya do!"	443
+do!" noi	444
+LLOO	445
+tron	446
+khuya tron	447
+tron di	448
+ai?	449
+chong	450
+kiem	451
+ai? \xc3\xb0em	452
+\xc3\xb0em khuya	453
+khuya chong	454
+chong kiem	455
+vang:	456
+vang: "dem	457
+khuya tro	458
+tro ve	459
+den canh	460
+moi cung	461
+toan	462
+coi	463
+lot	464
+toan coi	465
+coi khuya	466
+khuya ao	467
+ao lot	468
+lut	469
+len lut	470
+noi: -	471
+- khuya	472
+roi, chung	473
+uy	474
+den uy	475
+b'luc	476
+vao	477
+mot	478
+b'luc canh	479
+khuya vao	480
+vao mot	481
+b'-\xc3\xb0em	482
+roi	483
+b'-\xc3\xb0em da	484
+khuya roi	485
+roi chung	486
+LOOOLLNOLLNLL	487
+mau	488
+do	489
+canh dem	490
+khuya mau	491
+mau do	492
+may,	493
+may, \xe2\x80\x9e\xc3\xb0a	494
+khuya hom	495
+hom do	496
+bai	497
+den bai	498
+toa	499
+trong toa	500
+lap	501
+nghiep!	502
+lap nghiep!	503
+nghiep! khuya	504
+LLLLLLO	505
+van	506
+thoi	507
+b'dem van	508
+van khuya	509
+khuya gio	510
+gio thoi	511
+lam,	512
+lam, da	513
+la lai	514
+them	515
+khuya cang	516
+cang them	517
+hiu	518
+quanh,	519
+khuya hiu	520
+hiu quanh,	521
+bon	522
+bon ta	523
+ta khuya	524
+chi,	525
+doi	526
+voi	527
+chi, thuc	528
+thuc khuya	529
+khuya doi	530
+doi voi	531

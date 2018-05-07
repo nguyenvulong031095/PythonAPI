@@ -1,6 +1,6 @@
              precision    recall  f1-score   support
 
-       trệt       1.00      0.50      0.67         2
-       trét       0.50      1.00      0.67         1
+       trệt       0.67      1.00      0.80         2
+       trét       0.00      0.00      0.00         1
 
-avg / total       0.83      0.67      0.67         3
+avg / total       0.44      0.67      0.53         3

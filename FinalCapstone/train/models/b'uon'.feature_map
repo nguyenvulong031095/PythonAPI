@@ -1,0 +1,755 @@
+uyen	1
+chuyen	2
+uon	3
+eo,	4
+vo	5
+uyen chuyen	6
+chuyen uon	7
+uon eo,	8
+eo, vo	9
+LLL	10
+LLO	11
+LLLL	12
+LLLLLL	13
+LL	14
+cui	15
+dau	16
+goi	17
+quy	18
+cui dau	19
+dau uon	20
+uon goi	21
+goi quy	22
+co	23
+nam	24
+ra	25
+day	26
+co nam	27
+nam uon	28
+uon ra	29
+ra day	30
+ngoan	31
+nghoeo	32
+khuc,	33
+ban	34
+ngoan nghoeo	35
+nghoeo uon	36
+uon khuc,	37
+khuc, ban	38
+LLLLO	39
+LLLLL	40
+ruou	41
+eo	42
+tien	43
+ban ruou	44
+ruou uon	45
+uon eo	46
+eo tien	47
+cua	48
+no	49
+khuc	50
+cua no	51
+no uon	52
+uon khuc	53
+khuc tien	54
+vua	55
+than	56
+co vua	57
+vua uon	58
+eo than	59
+duong	60
+nhu	61
+duoi	62
+duong nhu	63
+nhu uon	64
+eo duoi	65
+khom	66
+lung	67
+khom lung	68
+lung uon	69
+goi nhu	70
+b'khau	71
+trong	72
+ngoi	73
+b'khau trong	74
+trong uon	75
+uon lung	76
+lung ngoi	77
+LOLLLL	78
+dot	79
+nhien	80
+thang	81
+nguc,	82
+dot nhien	83
+nhien uon	84
+uon thang	85
+thang nguc,	86
+no,	87
+hay	88
+nguc	89
+vuon	90
+no, hay	91
+hay uon	92
+uon nguc	93
+nguc vuon	94
+ky	95
+di	96
+nguoi	97
+ky di	98
+di uon	99
+uon nguoi	100
+nguoi ra	101
+khau	102
+khau trong	103
+thang nguoi	104
+dat	105
+vai	106
+dat no	107
+eo vai	108
+mo	109
+uot	110
+mo mo	111
+mo uon	112
+uon uot	113
+uot ban	114
+b'linh	115
+the	116
+b'linh co	117
+co uon	118
+uon than	119
+than the	120
+my	121
+nu	122
+deo	123
+va	124
+my nu	125
+nu uon	126
+uon deo	127
+deo va	128
+dien	129
+tro	130
+dien tro	131
+tro uon	132
+deo trong	133
+vanh	134
+moi	135
+hoi	136
+vanh moi	137
+moi uon	138
+uot hoi	139
+ga,	140
+lai	141
+ba	142
+tac	143
+ga, lai	144
+lai uon	145
+uon ba	146
+ba tac	147
+bat	148
+lac	149
+bat dau	150
+eo lac	151
+mi	152
+khe	153
+len	154
+phia	155
+mi khe	156
+khe uon	157
+uon len	158
+len phia	159
+luc	160
+thi	161
+cong	162
+vao	163
+luc thi	164
+thi uon	165
+uon cong	166
+cong vao	167
+dang	168
+nguc dang	169
+noi	170
+nguc noi	171
+tu	172
+tuan	173
+len,	174
+tu tuan	175
+tuan uon	176
+nguc len,	177
+LLLO	178
+lao	179
+nhan	180
+lao nhan	181
+nhan uon	182
+thang lung	183
+lua	184
+roi	185
+luoi	186
+lua roi	187
+roi uon	188
+cong luoi	189
+hon,	190
+thang hon,	191
+hon, uon	192
+nguc ra	193
+hanh	194
+lang	195
+hanh lang	196
+lang uon	197
+khuc thi	198
+chiem	199
+dao	200
+chiem dao	201
+dao uon	202
+nguc tu	203
+luon,	204
+duong di	205
+uon luon,	206
+luon, lai	207
+thuc	208
+trinh	209
+noi,	210
+thuc trinh	211
+trinh uon	212
+eo noi,	213
+b'tra	214
+hoa	215
+b'tra hoa	216
+hoa uon	217
+LOLLL	218
+cung	219
+nguc cung	220
+cung uon	221
+len thang	222
+vo nguc,	223
+nguc, uon	224
+vung	225
+vay	226
+eo.'	227
+vung vay	228
+vay uon	229
+uon eo.'	230
+LLOO	231
+khong	232
+ngung	233
+bien	234
+khong ngung	235
+ngung uon	236
+eo bien	237
+den,	238
+trang	239
+luon	240
+theo	241
+den, trang	242
+trang uon	243
+uon luon	244
+luon theo	245
+truong	246
+xa	247
+tren	248
+truong xa	249
+xa uon	250
+luon tren	251
+ay	252
+qua	253
+ay cung	254
+eo qua	255
+chay	256
+bofa	257
+nhip	258
+chay bofa	259
+bofa uon	260
+luon nhip	261
+rong	262
+anh	263
+nhu rong	264
+rong uon	265
+khuc, anh	266
+uong	267
+nganh	268
+cam	269
+uong nganh	270
+nganh uon	271
+nguc cam	272
+dong	273
+deo.'	274
+dong tac	275
+tac uon	276
+uon deo.'	277
+LLLOO	278
+nhung	279
+van	280
+\xe2\x80\x9eai	281
+nhung van	282
+van uon	283
+uon len,	284
+len, \xe2\x80\x9eai	285
+OLLNOLNNOLNLLL	286
+LO	287
+lap	288
+lanh	289
+dan	290
+lap lanh	291
+lanh uon	292
+luon, dan	293
+kiem	294
+ma	295
+truong kiem	296
+kiem uon	297
+khuc ma	298
+thom	299
+ay.'	300
+moi thom	301
+thom uon	302
+uot ay.'	303
+buoc	304
+trong moi	305
+nguc buoc	306
+b'dong	307
+nuoc	308
+b'dong nuoc	309
+nuoc uon	310
+khuc dang	311
+tuc	312
+lap tuc	313
+tuc uon	314
+nguoi buoc	315
+voi	316
+vang	317
+voi vang	318
+vang uon	319
+nguc len	320
+vu	321
+vi	322
+vu vi	323
+vi uon	324
+song	325
+dong song	326
+song uon	327
+khuc, nuoc	328
+ho	329
+ve,	330
+ho ve,	331
+ve, uon	332
+eo buoc	333
+nho	334
+hep,	335
+trai	336
+nho hep,	337
+hep, uon	338
+khuc trai	339
+nguoi,	340
+nguoi, thang	341
+thang uon	342
+LLLLLO	343
+chuyen,	344
+neu	345
+uyen chuyen,	346
+chuyen, uon	347
+eo, neu	348
+LLLLLLO	349
+la	350
+tinh	351
+gan?	352
+nhac	353
+la tinh	354
+tinh uon	355
+uon gan?	356
+gan? nhac	357
+cau	358
+vong	359
+cau vong	360
+vong uon	361
+long,	362
+ra,	363
+lam	364
+long, nguoi	365
+nguoi uon	366
+uon ra,	367
+ra, lam	368
+quanh	369
+khuc.'	370
+quanh co	371
+uon khuc.'	372
+LLLLOO	373
+dong long,	374
+long, uon	375
+minh	376
+xong	377
+minh co	378
+nguc xong	379
+kim	380
+kim xa	381
+khuc tren	382
+lai nhu	383
+cong ky	384
+luon di	385
+nguc ba	386
+mot	387
+tieng,	388
+mot tieng,	389
+tieng, uon	390
+thang minh	391
+ro	392
+lien	393
+tam	394
+ro lien	395
+lien uon	396
+cong tam	397
+chua	398
+cong chua	399
+chua uon	400
+eo tam	401
+tay	402
+chan,	403
+gam	404
+tay chan,	405
+chan, uon	406
+nguc gam	407
+lang,	408
+ga	409
+lang, ga	410
+ga uon	411
+chong	412
+do,	413
+chong do,	414
+do, uon	415
+uon minh	416
+minh mot	417
+nuoc dang	418
+dang uon	419
+khuc chay	420
+tieu	421
+bao	422
+nhay	423
+tieu bao	424
+bao uon	425
+minh nhay	426
+eo, nhay	427
+cuoi	428
+cung,	429
+cuoi cung,	430
+cung, uon	431
+than minh	432
+dao,	433
+thang,	434
+cap	435
+dao, nguc	436
+nguc uon	437
+uon thang,	438
+thang, cap	439
+ngang	440
+phong	441
+ngang dau	442
+nguc phong	443
+te	444
+hao	445
+minh,	446
+toan	447
+te hao	448
+hao uon	449
+uon minh,	450
+minh, toan	451
+quai	452
+khe khe	453
+luon, quai	454
+thuong,	455
+dung	456
+khoanh	457
+thuong, dung	458
+dung uon	459
+nguc khoanh	460
+hien	461
+lang dung	462
+nguc hien	463
+song nho	464
+nho uon	465
+quan	466
+nen	467
+quan nen	468
+nen uon	469
+uon luoi	470
+luoi cong	471
+linh	472
+do	473
+linh xa	474
+khuc, do	475
+lung thang	476
+bi	477
+than bi	478
+bi uon	479
+luon, va	480
+cong cong	481
+cong uon	482
+khuc, dan	483
+khuc, nhung	484
+han	485
+mua	486
+cua han	487
+han uon	488
+eo mua	489
+dai	490
+ca	491
+dai ca	492
+ca uon	493
+su	494
+su kiem	495
+eo thi	496
+su ca	497
+eo su	498
+nguong	499
+eo nguong	500
+dieu	501
+bo	502
+dieu bo	503
+bo uon	504
+eo cua	505
+deo hanh	506
+tu the	507
+the uon	508
+uon nguc,	509
+nguc, chong	510
+dung day	511
+day uon	512
+nguc, ngang	513
+uot,	514
+uon uot,	515
+uot, han	516
+quanh,	517
+hai	518
+dang chay	519
+chay uon	520
+uon quanh,	521
+quanh, hai	522
+coi	523
+kieu	524
+coi thuong,	525
+thuong, uon	526
+nguc kieu	527
+bac	528
+tay bac	529
+bac uon	530
+eo, than	531
+nguy	532
+mau	533
+giong	534
+nguy mau	535
+mau uon	536
+nguc, giong	537
+thieu	538
+long	539
+dap,	540
+thieu long	541
+long uon	542
+nguc dap,	543
+got	544
+theo got	545
+got uon	546
+hinh	547
+manh,	548
+than hinh	549
+hinh uon	550
+uon manh,	551
+manh, van	552
+da	553
+bay	554
+han da	555
+da uon	556
+cong bay	557
+ung	558
+co the	559
+nguc ung	560
+son	561
+son dao	562
+luon quanh	563
+khuc tu	564
+khuc, noi	565
+khuc hinh	566
+nen co	567
+nguoi di	568
+danh	569
+phai	570
+danh phai	571
+phai uon	572
+nguc di	573
+thien	574
+thien nhu	575
+nguc, buoc	576
+thoi	577
+la do	578
+do uon	579
+uon thoi	580
+thoi cung	581
+con	582
+heo	583
+nay	584
+con heo	585
+heo uon	586
+uon nay	587
+nay con	588
+phu	589
+phu moi	590
+thang than	591
+song dang	592
+uon quanh	593
+quanh roi	594
+noi:	595
+nguc noi:	596
+hien ngang	597
+ngang uon	598
+nguc dao	599
+tue,	600
+lay	601
+van tue,	602
+tue, uon	603
+minh lay	604
+tang	605
+da,	606
+tang da,	607
+da, uon	608
+nguoi nhu	609
+suoi	610
+suoi khe	611
+thu,	612
+mua thu,	613
+thu, uon	614
+minh trong	615
+quan ra,	616
+ra, uon	617
+lau	618
+mieng,	619
+lau mieng,	620
+mieng, uon	621
+uon dau	622
+dau luoi	623
+tim	624
+y	625
+la tam	626
+tam uon	627
+uon tim	628
+tim y	629
+L	630
+lon	631
+song lon	632
+lon uon	633
+khuc co	634
+sau	635
+sau do	636
+quyen	637
+khoan	638
+khoai	639
+quyen nam	640
+uon khoan	641
+khoan khoai	642
+tinh,	643
+tua	644
+linh tinh,	645
+tinh, uon	646
+minh tua	647
+uot.'	648
+bo nhu	649
+uon uot.'	650
+nhe,	651
+doi	652
+rong bien	653
+bien uon	654
+uon nhe,	655
+nhe, doi	656
+chua lien	657
+luoi bat	658
+cham	659
+di chuyen	660
+luon cham	661
+sang	662
+sang dang	663
+khuc tro	664
+binh,	665
+binh, moi	666
+nang	667
+cua nang	668
+nang uon	669
+len, trong	670
+luon vo	671
+b'tieu	672
+b'tieu quyen	673
+quyen uon	674
+venh	675
+mat,	676
+venh mat,	677
+mat, uon	678
+han dang	679
+minh dung	680
+con rong	681
+eo, hien	682
+lung,	683
+don	684
+quan khe	685
+uon lung,	686
+lung, don	687
+eo nhu	688
+ma di	689
+ca nguoi	690
+eo, chuyen	691
+phai co	692
+eo vi	693
+lan	694
+mi nhan	695
+deo lan	696
+lai,	697
+chay lai,	698
+lai, uon	699
+khuc quanh	700
+rat	701
+tam than	702
+than uon	703
+cong rat	704
+ngoc	705
+treo	706
+ngoc long	707
+khuc treo	708
+pho,	709
+ung pho,	710
+pho, uon	711
+nguoi dan	712
+ran	713
+ran dai	714
+dai uon	715
+nguc, lam	716
+dong,	717
+bach	718
+cham cham	719
+cham uon	720
+uon dong,	721
+dong, bach	722
+ong	723
+mom	724
+dieu ong	725
+ong uon	726
+luon mom	727
+b'mai	728
+toc	729
+om	730
+b'mai toc	731
+toc uon	732
+uon quan	733
+quan om	734
+dai lai	735
+cong lai,	736
+keo	737
+co dao,	738
+dao, uon	739
+luon keo	740
+toi,	741
+toi, nguoi	742
+thang, van	743
+nan	744
+nhan luc	745
+luc uon	746
+uon nan	747
+nan tu	748
+dong nuoc	749
+luon lai	750
+nhat	751
+dua	752
+nhat tien	753
+tien uon	754
+nguc, dua	755
